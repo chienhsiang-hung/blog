@@ -94,7 +94,7 @@ googleAnalytics = "G-EB1W4TXEV1"
   # Search config
   [params.search]
     enable = true
-    type = "algolia"
+    
     [params.search.algolia]
       index = "index"
       appID = "PASDMWALPK"
