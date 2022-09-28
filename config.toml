@@ -14,6 +14,9 @@ googleAnalytics = "G-EB1W4TXEV1"
   email = "iworkhard@hsiang.eu.org"
   link = "https://chienhsiang-hung.github.io/"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 # Menu config
 [menu]
   [[menu.main]]
