@@ -1,4 +1,4 @@
-baseURL = 'https://chienhsiang-hung.github.io/'
+baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en-us'
 title = 'Hung, Chien-Hsiang | Blog'
 theme = "loveit" 
