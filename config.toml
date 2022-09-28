@@ -94,3 +94,27 @@ googleAnalytics = "G-EB1W4TXEV1"
       index = ""
       appID = ""
       searchKey = ""
+
+  # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+
+  # Site SEO config
+  [params.seo]
+    # image URL
+    image = ""
+    # thumbnail URL
+    thumbnailUrl = ""
+
+  # Analytics config
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-EB1W4TXEV1"
+      # whether to anonymize IP
+      anonymizeIP = true
