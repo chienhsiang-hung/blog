@@ -9,7 +9,7 @@ description: "Thanks to technology. Nowadays, we can literally go out carrying j
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["Taiwan", "Culture", "Asia", "Language", "Travel"]
+tags: ["Google Maps", "Privacy Protection", "Divorce", "Technology", "Apps"]
 toc:
   enable: true
 ---
