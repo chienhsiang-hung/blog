@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "It is the most used word in Taiwan. When you were walking through the people to find your seat in the theatre, making a public speech but…"
 resources:
-- name: "featured-image-abs"
+- name: "featured-image"
   src: "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
 tags: ["實習", "Internships", "The Philippines", "Marketing", "Careers"]
 toc:
