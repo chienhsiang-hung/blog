@@ -56,7 +56,7 @@ theme = "loveit"
   [params.home]
     [params.home.profile]
       avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
-      subtitle = "I think, therefore I am."
+      subtitle = "Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
