@@ -1,0 +1,4 @@
+baseURL = 'https://chienhsiang-hung.github.io/'
+languageCode = 'en-us'
+title = 'Hung, Chien-Hsiang | Blog'
+theme = "loveit" 
