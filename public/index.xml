@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hung, Chien-Hsiang | Blog</title>
-        <link>https://chienhsiang-hung.github.io/</link>
+        <link>https://chienhsiang-hung.github.io/blog/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 18:34:11 &#43;0800</lastBuildDate>
-            <atom:link href="https://chienhsiang-hung.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://chienhsiang-hung.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My First Post</title>
-    <link>https://chienhsiang-hung.github.io/posts/my-first-post/</link>
+    <link>https://chienhsiang-hung.github.io/blog/posts/my-first-post/</link>
     <pubDate>Wed, 28 Sep 2022 18:34:11 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://chienhsiang-hung.github.io/posts/my-first-post/</guid>
+    <guid>https://chienhsiang-hung.github.io/blog/posts/my-first-post/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
