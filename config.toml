@@ -76,24 +76,6 @@ googleAnalytics = "G-EB1W4TXEV1"
   # Search config
   [params.search]
     enable = true
-    # type of search engine ["lunr", "algolia"]
-    type = "algolia"
-    # max index length of the chunked content
-    contentLength = 4000
-    # placeholder of the search bar
-    placeholder = ""
-    # max number of results length
-    maxResultLength = 10
-    # snippet length of the result
-    snippetLength = 30
-    # HTML tag name of the highlight part in results
-    highlightTag = "em"
-    # whether to use the absolute URL based on the baseURL in search index
-    absoluteURL = false
-    [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
