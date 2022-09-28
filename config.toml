@@ -79,7 +79,7 @@ googleAnalytics = "G-EB1W4TXEV1"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "SyEY88jadkmY5tP6AMEBi5rqu2hNV4P81pJ6uTusYFM"
     bing = ""
     yandex = ""
     pinterest = ""
