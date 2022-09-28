@@ -92,6 +92,10 @@ googleAnalytics = "G-EB1W4TXEV1"
   [params.search]
     enable = true
     type = "algolia"
+    [params.search.algolia]
+      index = "index"
+      appID = "PASDMWALPK"
+      searchKey = "b42948e51daaa93df92381c8e2ac0f93"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
