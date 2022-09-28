@@ -1,6 +1,6 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en-us'
-title = 'Hung, Chien-Hsiang | Blog'
+title = 'Hung, Chien-Hsiang 洪健翔 | Blog'
 theme = "loveit" 
 
 # Author config
@@ -10,10 +10,28 @@ theme = "loveit"
   link = "https://chienhsiang-hung.github.io/"
 
 [params]
+  # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    [params.header.title]
+      # URL of the LOGO
+      # LOGO 的 URL
+      logo = ""
+      # title name
+      name = "Hsiang's Blog"
+
   [params.home]
     [params.home.profile]
       avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
       subtitle = "I think, therefore I am."
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      # 主页每页显示文章数量
+      paginate = 6
 
   [params.footer]
     hugo = false
@@ -36,7 +54,7 @@ theme = "loveit"
     # HTML tag name of the highlight part in results
     highlightTag = "em"
     # whether to use the absolute URL based on the baseURL in search index
-    absoluteURL = true
+    absoluteURL = false
     [params.search.algolia]
       index = ""
       appID = ""
