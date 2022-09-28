@@ -46,7 +46,7 @@ Photo by  [rawpixel](https://unsplash.com/@rawpixel?utm_source=medium&utm_medium
 
 Actually, this habit isn’t that good in some circumstances. For instance, when you are negotiating with your business competitors, just by saying buhaoyisi as an opening could make yourself in an unfavourable position.
 
-You can connect with me on [Facebook](https://www.facebook.com/kevinhungchienhsiang), [LinkedIn](https://www.linkedin.com/in/chien-hsiang-hung/), and [Instagram](https://www.instagram.com/kevinhung_/).
+You can connect with me on [Facebook](https://www.facebook.com/iamchienhsianghung/), [LinkedIn](https://www.linkedin.com/in/chien-hsiang-hung/), and [Instagram](https://www.instagram.com/hung_chienhsiang/).
 
 ## References:
 
