@@ -1,7 +1,88 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Hung, Chien-Hsiang | Blog</title>
+        <title>Tags - Tag - Hung, Chien-Hsiang 洪健翔 | Blog</title>
         <link>https://chienhsiang-hung.github.io/blog/tags/</link>
-        <description>Tags - Tag - Hung, Chien-Hsiang | Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://chienhsiang-hung.github.io/blog/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - Hung, Chien-Hsiang 洪健翔 | Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>iworkhard@hsiang.eu.org (Hung, Chien-Hsiang 洪健翔)</managingEditor>
+            <webMaster>iworkhard@hsiang.eu.org (Hung, Chien-Hsiang 洪健翔)</webMaster><lastBuildDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://chienhsiang-hung.github.io/blog/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Asia</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/asia/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/asia/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Careers</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/careers/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/careers/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Culture</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/culture/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/culture/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Internships</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/internships/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/internships/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Language</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/language/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/language/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Marketing</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/marketing/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/marketing/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Taiwan</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/taiwan/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/taiwan/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>The Philippines</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/the-philippines/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/the-philippines/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Travel</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/travel/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/travel/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>實習</title>
+    <link>https://chienhsiang-hung.github.io/blog/tags/%E5%AF%A6%E7%BF%92/</link>
+    <pubDate>Tue, 12 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Hung, Chien-Hsiang 洪健翔</author>
+    <guid>https://chienhsiang-hung.github.io/blog/tags/%E5%AF%A6%E7%BF%92/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

@@ -1,7 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Hung, Chien-Hsiang | Blog</title>
+        <title>Categories - Category - Hung, Chien-Hsiang 洪健翔 | Blog</title>
         <link>https://chienhsiang-hung.github.io/blog/categories/</link>
-        <description>Categories - Category - Hung, Chien-Hsiang | Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://chienhsiang-hung.github.io/blog/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Category - Hung, Chien-Hsiang 洪健翔 | Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>iworkhard@hsiang.eu.org (Hung, Chien-Hsiang 洪健翔)</managingEditor>
+            <webMaster>iworkhard@hsiang.eu.org (Hung, Chien-Hsiang 洪健翔)</webMaster><atom:link href="https://chienhsiang-hung.github.io/blog/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
