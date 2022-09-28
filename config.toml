@@ -76,6 +76,7 @@ googleAnalytics = "G-EB1W4TXEV1"
   # Search config
   [params.search]
     enable = true
+    type = "algolia"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
