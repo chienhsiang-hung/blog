@@ -10,7 +10,9 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
-tags: [""]
+tags: ["Internships", "Marketing", "富邦實習", "富邦人壽", "金融實習"]
+toc:
+  enable: false
 ---
 碩一下碩二上，歷經完一場激烈的實習爭奪戰，並在8/31(五)才剛結束**台灣期貨交易所(TAIFEX)**暑期實習，馬上在隔週9/3(一)，無縫接軌來到**富邦人壽-職安管理部**展開新的實習歷程。
 
