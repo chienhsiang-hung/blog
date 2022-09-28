@@ -14,8 +14,30 @@ theme = "LoveIt"
     [params.home.profile]
       avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
       subtitle = "I think, therefore I am."
-      
+
   [params.footer]
     hugo = false
     author = true
     since = 2022
+
+  # Search config
+  [params.search]
+    enable = true
+    # type of search engine ["lunr", "algolia"]
+    type = "algolia"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # max number of results length
+    maxResultLength = 10
+    # snippet length of the result
+    snippetLength = 30
+    # HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
