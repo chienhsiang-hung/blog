@@ -1,7 +1,12 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en-us'
 title = 'Hung, Chien-Hsiang 洪健翔 | Blog'
-theme = "loveit" 
+theme = "loveit"
+
+# default amount of posts in each pages
+paginate = 12
+# google analytics code [UA-XXXXXXXX-X]
+googleAnalytics = "G-EB1W4TXEV1"
 
 # Author config
 [author]
