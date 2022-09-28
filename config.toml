@@ -114,3 +114,15 @@ googleAnalytics = "G-EB1W4TXEV1"
       id = "G-EB1W4TXEV1"
       # whether to anonymize IP
       anonymizeIP = true
+  
+  [params.page]
+    # Comment config
+    [params.page.comment]
+      enable = true
+      [params.page.comment.facebook]
+        enable = true
+        width = "100%"
+        numPosts = 10
+        appId = "OEGJfSbl"
+        # automatically adapt the current theme i18n configuration when empty
+        languageCode = ""
