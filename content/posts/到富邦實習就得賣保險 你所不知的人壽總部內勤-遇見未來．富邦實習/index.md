@@ -9,7 +9,6 @@ description: "碩一下碩二上，歷經完一場激烈的實習爭奪戰，並
 resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
-
 tags: ["Internships", "Marketing", "富邦實習", "富邦人壽", "金融實習"]
 toc:
   enable: false

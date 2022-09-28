@@ -3,8 +3,19 @@ languageCode = 'en-us'
 title = 'Hung, Chien-Hsiang | Blog'
 theme = "LoveIt" 
 
+# Author config
+[author]
+  name = "Hung, Chien-Hsiang 洪健翔"
+  email = "iworkhard@hsiang.eu.org"
+  link = "https://chienhsiang-hung.github.io/"
+
 [params]
   [params.home]
     [params.home.profile]
       avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
       subtitle = "I think, therefore I am."
+      
+  [params.footer]
+    hugo = false
+    author = true
+    since = 2022
