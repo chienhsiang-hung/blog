@@ -1,7 +1,7 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en-us'
 title = 'Hung, Chien-Hsiang | Blog'
-theme = "LoveIt" 
+theme = "loveit" 
 
 # Author config
 [author]
