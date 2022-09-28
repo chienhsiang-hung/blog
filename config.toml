@@ -1,9 +1,10 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en-us'
 title = 'Hung, Chien-Hsiang | Blog'
-theme = "loveit" 
+theme = "LoveIt" 
 
 [params]
   [params.home]
     [params.home.profile]
       avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
+      subtitle = "I think, therefore I am."
