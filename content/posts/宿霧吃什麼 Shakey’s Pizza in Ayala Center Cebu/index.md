@@ -12,6 +12,7 @@ resources:
 tags: ["菲律賓", "宿霧", "交換遊學", "語言", "The Philippines"]
 toc:
   enable: false
+zhtw: true
 ---
 ![](https://miro.medium.com/max/1400/1*F3WXN33HJ5h36G17kHMYwA.jpeg)
 

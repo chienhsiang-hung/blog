@@ -12,6 +12,7 @@ resources:
 tags: ["實習", "Internships", "The Philippines", "Marketing", "Careers"]
 toc:
   enable: false
+zhtw: true
 ---
 【實習公告】新南向國家見實習申請 — 新飛菲律賓遊學行銷企劃；一封來自系上的Email，讓我對東南亞國家有了全新的認識跟不一樣的見解。
 

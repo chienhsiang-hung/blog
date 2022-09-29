@@ -1,5 +1,5 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Hung, Chien-Hsiang 洪健翔 | Blog'
 theme = "loveit"
 
@@ -118,6 +118,9 @@ hasCJKLanguage = true
       anonymizeIP = true
   
   [params.page]
+    # Custom config for zh-tw
+    zhtw = false
+
     # Comment config
     [params.page.comment]
       enable = true
