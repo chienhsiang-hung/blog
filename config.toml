@@ -8,6 +8,9 @@ paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = "G-EB1W4TXEV1"
 
+# If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage = true
+
 # Author config
 [author]
   name = "Hung, Chien-Hsiang 洪健翔"
