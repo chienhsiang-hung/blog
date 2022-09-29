@@ -11,10 +11,9 @@ resources:
   src: "featured-image.jpeg"
 tags: ["深潛", "水肺潛水", "夜潛", "Aow", "Ow"]
 toc:
-  enable: true
+  enable: false
 zhtw: true
 ---
-
 ![](https://miro.medium.com/max/1400/1*3NN_gHWO5BBEbrlf17GyeQ.jpeg)
 
 It has been a year without any diving since I’ve got the OW certificates…
