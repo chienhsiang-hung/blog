@@ -68,7 +68,6 @@ googleAnalytics = "G-EB1W4TXEV1"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      # 主页每页显示文章数量
       paginate = 6
 
   [params.footer]
