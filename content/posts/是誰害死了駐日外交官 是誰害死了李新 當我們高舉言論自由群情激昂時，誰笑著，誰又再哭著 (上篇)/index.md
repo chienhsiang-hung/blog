@@ -14,7 +14,6 @@ toc:
   enable: true
 zhtw: true
 ---
-
 ![](https://miro.medium.com/max/1400/0*uIBtDzx1UeRrMQdA)
 
 Photo by  [rawpixel](https://unsplash.com/@rawpixel?utm_source=medium&utm_medium=referral)  on  [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
