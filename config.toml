@@ -147,6 +147,10 @@ disqusShortname = 'hsiangsblog'
     # Custom config for zh-tw
     zhtw = false
 
+    [params.page.share]
+    Linkedin = true
+    Evernote = true
+
     # Comment config
     [params.page.comment]
       enable = true
