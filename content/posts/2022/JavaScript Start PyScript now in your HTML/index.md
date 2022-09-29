@@ -1,7 +1,7 @@
 ---
 title: "JavaScript? Start PyScript now in your HTML"
-date: 2022-07-22
-lastmod: 2022-07-22
+date: 2022-07-22T04:00:00+08:00
+lastmod: 2022-07-22T04:00:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
