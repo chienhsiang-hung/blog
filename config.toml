@@ -66,6 +66,16 @@ disqusShortname = 'hsiangsblog'
       logo = ""
       # title name
       name = "Hsiang's Blog"
+  
+  [params.social]
+    GitHub = "chienhsiang-hung"
+    Linkedin = "chien-hsiang-hung"
+    Instagram = "hung_chienhsiang"
+    Facebook = "iamchienhsianghung"
+    Medium = "hungchienhsiang"
+    Paypal = "chienhsianghung"
+    Kaggle = "chienhsianghung"
+    Email = "iworkhard@hsiang.eu.org"
 
   [params.home]
     [params.home.profile]
