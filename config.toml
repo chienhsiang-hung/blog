@@ -176,3 +176,9 @@ disqusShortname = 'hsiangsblog'
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
+
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
