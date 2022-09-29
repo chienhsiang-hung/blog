@@ -9,7 +9,7 @@ description: "台灣一年要對上百篇針對政府攻擊的假新聞進行澄
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["Google Maps", "Privacy Protection", "Divorce", "Technology", "Apps"]
+tags: ["假新聞", "駐日外交官蘇啟誠", "誰摔死了李新", "媒體識讀", "Ncc"]
 toc:
   enable: true
 zhtw: true
