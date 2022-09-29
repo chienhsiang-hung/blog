@@ -150,6 +150,7 @@ disqusShortname = 'hsiangsblog'
     [params.page.share]
     Linkedin = true
     Evernote = true
+    Skype = true
 
     # Comment config
     [params.page.comment]
