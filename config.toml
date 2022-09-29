@@ -127,5 +127,6 @@ disqusShortname = 'hsiangsblog'
     # Comment config
     [params.page.comment]
       enable = true
-      [params.page.comment.disqus]
+      [params.page.comment.facebook]
         enable = true
+        appId = "830514227971718"
