@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk Wants Recruits to Build a Brain-Computer Interface"
-date: 2019-09-24
-lastmod: 2019-09-24
+date: 2020-09-24
+lastmod: 2020-09-24
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
