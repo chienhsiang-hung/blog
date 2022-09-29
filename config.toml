@@ -52,6 +52,14 @@ disqusShortname = 'hsiangsblog'
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "https://chienhsiang-hung.github.io/"
+    title = ""
 
 [params]
   # Header config
