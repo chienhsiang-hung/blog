@@ -12,8 +12,6 @@ resources:
 tags: ["Google Maps", "Privacy Protection", "Divorce", "Technology", "Apps"]
 toc:
   enable: true
-comment:
-  enable: true
 ---
 Thanks to technology. Nowadays, we can literally go out carrying just one smartphone with Google Maps without getting lost. Besides the direction, navigation, recent motorway function, or upcoming speed camera feature. The maps get you everywhere you want to go, even your heart-broken past.
 
