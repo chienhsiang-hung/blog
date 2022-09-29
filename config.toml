@@ -20,8 +20,13 @@ disqusShortname = 'hsiangsblog'
   email = "iworkhard@hsiang.eu.org"
   link = "https://chienhsiang-hung.github.io/"
 
+# Options to make hugo output files
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
 
 # Menu config
 [menu]
