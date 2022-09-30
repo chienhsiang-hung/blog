@@ -149,6 +149,7 @@ disqusShortname = 'hsiangsblog'
 
     [params.page.share]
     Linkedin = true
+    Whatsapp = true
     Evernote = true
     Skype = true
 
