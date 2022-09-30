@@ -10,6 +10,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 tags: ["SEO", "Github", "Github Pages", "Google Search Console", "Google Search"]
+categories: ["SEO"]
 toc:
   enable: false
 zhtw: false
