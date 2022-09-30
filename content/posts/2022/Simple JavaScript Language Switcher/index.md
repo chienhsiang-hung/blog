@@ -1,15 +1,15 @@
 ---
-title: "python read excel Worksheet index 0 is invalid, 0 worksheets found"
-date: 2022-07-26T10:00:00+08:00
-lastmod: 2022-07-26T10:00:00+08:00
+title: "Simple JavaScript Language Switcher"
+date: 2022-07-26T04:00:00+08:00
+lastmod: 2022-07-26T04:00:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "javascript-language-switcher"
+description: "A simple solution to python — Pandas: ValueError: Worksheet index 0 is invalid, 0 worksheets found — Stack Overflow"
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
-tags: ["Python", "Pandas", "Excel", "Worksheet", "Read Excel File"]
+  src: "featured-image.jpg"
+tags: ["JavaScript", "Language Switcher", "Website", "Worksheet", "Read Excel File"]
 toc:
   enable: false
 zhtw: false
