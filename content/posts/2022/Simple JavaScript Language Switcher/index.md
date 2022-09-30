@@ -14,23 +14,29 @@ toc:
   enable: false
 zhtw: false
 ---
-![](https://miro.medium.com/max/1400/1*FAGWIm_mhdqVz-CXtEWhHg.png)
+![](https://miro.medium.com/max/1400/0*GH3zuK_2sRtvh66b)
 
-A simple solution to  [python — Pandas: ValueError: Worksheet index 0 is invalid, 0 worksheets found — Stack Overflow](https://stackoverflow.com/questions/69948897/pandas-valueerror-worksheet-index-0-is-invalid-0-worksheets-found)
+Photo by  [KOBU Agency](https://unsplash.com/@kobuagency?utm_source=medium&utm_medium=referral)  on  [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
-1.  Check your target file
-2.  find the sheet’s name
+# javascript-language-switcher
 
-![](https://miro.medium.com/max/726/1*LVZ0ZWG2UxYfXUbeAq8OeA.png)
+after quite a bit of searching, I decided to create a naive one
 
-3. launch a new blank excel
+you can just fork it to use it
 
-4. find the sheet’s name
+simple  [demo](https://chienhsiang-hung.github.io/javascript-language-switcher/)
 
-![](https://miro.medium.com/max/738/1*_87mu4KBYmV9bRIfIc4t_A.png)
-
-If they have a different default worksheet name, close all Excels, and regenerate the target excel. (The default worksheet name would be switched back to normal)
-
-Now re  `pd.read_excel`  again. It’ll be successful.
-
+HTML
+```html
+<h1 class="en">JavaScript Language Switcher</h1>  
+    <h1 class="tw">JS語言切換</h1>  
+    <span class='en' onclick="switch_lang('.en', '.tw')">中文</span><span class='tw' onclick="switch_lang('.tw', '.en')">EN</span>
+```
+JS
+```javascript
+window.onload = switch_lang('.tw', '.en');function switch_lang(hide_lan, show_lan){  
+  $(hide_lan).hide();  
+  $(show_lan).show();  
+}
+```
 Contact me:  [Hung, Chien-Hsiang (chienhsiang-hung.github.io)](https://chienhsiang-hung.github.io/)
