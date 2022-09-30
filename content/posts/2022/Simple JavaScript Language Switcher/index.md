@@ -9,7 +9,7 @@ description: "A simple solution to python — Pandas: ValueError: Worksheet 
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["JavaScript", "Language Switcher", "Website", "Worksheet", "Read Excel File"]
+tags: ["JavaScript", "Language Switcher", "Website", "Multilingualism", "Jquery"]
 toc:
   enable: false
 zhtw: false
