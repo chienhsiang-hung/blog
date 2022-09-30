@@ -1,7 +1,7 @@
 ---
 title: "Simple JavaScript Language Switcher"
-date: 2022-07-26T04:00:00+08:00
-lastmod: 2022-07-26T04:00:00+08:00
+date: 2022-07-26T10:00:00+08:00
+lastmod: 2022-07-26T10:00:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
