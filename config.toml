@@ -99,7 +99,7 @@ enableEmoji = true
 
   [params.home]
     [params.home.profile]
-      avatarURL = "https://chienhsiang-hung.github.io/my_beautiful-jekyll/assets/img/avatar-icon.png"
+      avatarURL = "/images/avatar-icon.png"
       subtitle = "Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM"
     [params.home.posts]
       enable = true
@@ -166,6 +166,12 @@ enableEmoji = true
       [params.page.comment.facebook]
         enable = true
         appId = "830514227971718"
+
+    [params.page.seo]
+      # Publisher info
+      [params.page.seo.publisher]
+        name = "Hsiang's Blog"
+        logoUrl = "/images/avatar-icon.png"
 
 # Markup related configuration in Hugo
 [markup]
