@@ -11,8 +11,12 @@ googleAnalytics = "G-EB1W4TXEV1"
 # If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = true
 
-# yourDisqusShortname
-disqusShortname = 'hsiangsblog'
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = true
+# whether to use emoji code
+enableEmoji = true
 
 # Author config
 [author]
@@ -67,6 +71,9 @@ disqusShortname = 'hsiangsblog'
     title = ""
 
 [params]
+  # public git repo url only then enableGitInfo is true (for git info in posts)
+  gitRepo = "https://github.com/chienhsiang-hung/blog"
+
   # Header config
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
