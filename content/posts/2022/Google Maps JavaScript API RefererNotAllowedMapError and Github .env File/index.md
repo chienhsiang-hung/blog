@@ -27,7 +27,7 @@ npm start
 ```
 ![](https://miro.medium.com/max/1400/1*NNPJUJRF_glAG_r_R3N4YA.png)
 
-A message like this kept showing up. If you clicked in docs, it only gave you  [useless instructions](http://if%20you%20clicked%20in%20docs%2C%20it%20only%20gave%20you%20useless%20instructions%20that%20won%27t%20work%20even%20if%20you%20tried%20million%20times./)  that won’t work even if you tried million times.
+A message like this kept showing up. If you clicked in docs, it only gave you  [useless instructions]() that won’t work even if you tried million times.
 
 ![](https://miro.medium.com/max/1400/1*SpICuYXzzE5t3Vnvoph11w.png)
 
