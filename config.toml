@@ -1,6 +1,7 @@
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en'
 title = 'Hung, Chien-Hsiang 洪健翔 | Blog'
+
 theme = "loveit"
 
 # default amount of posts in each pages
@@ -71,6 +72,12 @@ enableEmoji = true
     title = ""
 
 [params]
+  # website title for Open Graph and Twitter Cards
+  title = "Hung, Chien-Hsiang 洪健翔 | Blog"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "Hung, Chien-Hsiang (洪健翔) A Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM - one of the biggest family offices offering tailor-made financial services to High-net-worth individual."
+  # website images for Open Graph and Twitter Cards
+  images = ["/android-chrome-512x512.png"]
   # public git repo url only then enableGitInfo is true (for git info in posts)
   gitRepo = "https://github.com/chienhsiang-hung/blog"
 
@@ -171,7 +178,7 @@ enableEmoji = true
       # Publisher info
       [params.page.seo.publisher]
         name = "Hsiang's Blog"
-        logoUrl = "/images/avatar-icon.png"
+        logoUrl = "/images/android-chrome-512x512.png"
 
 # Markup related configuration in Hugo
 [markup]
