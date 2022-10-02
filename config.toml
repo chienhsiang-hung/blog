@@ -1,8 +1,8 @@
+theme = "loveit"
+
 baseURL = 'https://chienhsiang-hung.github.io/blog'
 languageCode = 'en'
 title = 'Hung, Chien-Hsiang 洪健翔 | Blog'
-
-theme = "loveit"
 
 # default amount of posts in each pages
 paginate = 12
@@ -11,13 +11,6 @@ googleAnalytics = "G-EB1W4TXEV1"
 
 # If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = true
-
-# whether to use robots.txt
-enableRobotsTXT = true
-# whether to use git commit log
-enableGitInfo = true
-# whether to use emoji code
-enableEmoji = true
 
 # Author config
 [author]
@@ -78,8 +71,6 @@ enableEmoji = true
   description = "Hung, Chien-Hsiang (洪健翔) A Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM - one of the biggest family offices offering tailor-made financial services to High-net-worth individual."
   # website images for Open Graph and Twitter Cards
   images = ["/android-chrome-512x512.png"]
-  # public git repo url only then enableGitInfo is true (for git info in posts)
-  gitRepo = "https://github.com/chienhsiang-hung/blog"
 
   # Header config
   [params.header]
