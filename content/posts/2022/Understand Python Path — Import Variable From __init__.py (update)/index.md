@@ -12,7 +12,7 @@ resources:
 tags: ["Python", "Import", "Path", "Variables", "Modules"]
 toc:
   enable: false
-zhtw: true
+zhtw: false
 ---
 This is an update for  [How to (Python) get value from \_\_init\_\_ in same dir | by 洪健翔 Hung, Chien-hsiang | Aug, 2022 | Medium](https://hungchienhsiang.medium.com/hot-to-python-get-value-from-init-in-same-dir-ab3982589500). Make sure you have read the previous one. Let’s get started!
 

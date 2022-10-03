@@ -12,7 +12,7 @@ resources:
 tags: ["Python", "Class", "Modules", "Import", "Variables"]
 toc:
   enable: false
-zhtw: true
+zhtw: false
 ---
 ![](https://miro.medium.com/max/1400/0*F3Yp9KVm6pBl-Pps)
 

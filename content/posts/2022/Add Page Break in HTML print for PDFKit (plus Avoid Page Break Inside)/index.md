@@ -12,7 +12,7 @@ resources:
 tags: ["Page Break", "CSS", "HTML", "Print", "Pdfkit"]
 toc:
   enable: false
-zhtw: true
+zhtw: false
 ---
 ![](https://miro.medium.com/max/1400/0*yfgGaIVglDR0FT--)
 

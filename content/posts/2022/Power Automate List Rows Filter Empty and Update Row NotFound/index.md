@@ -12,7 +12,7 @@ resources:
 tags: ["Power Automate", "Dataverse", "Odata", "Empty", "Update Table"]
 toc:
   enable: false
-zhtw: true
+zhtw: false
 ---
 # Using ‘Filter Query’
 
