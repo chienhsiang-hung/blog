@@ -2,7 +2,7 @@
 title: "binary tree random node python"
 date: 2022-10-03T03:40:00+08:00
 lastmod: 2022-10-03T04:10:00+08:00
-draft: true
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "isnanx commented on 30 Apr 2019"
@@ -39,7 +39,9 @@ class Node:
         self.size = 1
 ```
 
-Update the insert and the delete function. The delete function would be a bit tricky to implement.
+Then update the insert and the delete function. *The delete function would be a bit tricky to implement*.
+
+The solution provided by the book outsource github isn't quite right on [the delete function](https://github.com/careercup/CtCI-6th-Edition-Python/blob/master/chapter_04/p11_random_node.py#L52). (The size property wasn't being taken care of quite right.)
 ```python
 def delete_helper(self, node, key):
 
