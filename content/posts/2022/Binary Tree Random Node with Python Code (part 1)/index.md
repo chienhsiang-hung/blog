@@ -1,19 +1,23 @@
 ---
-title: "binary tree random node python"
-date: 2022-10-03T03:40:00+08:00
-lastmod: 2022-10-03T04:10:00+08:00
+title: "Binary Tree Random Node with Python Code (part 1)"
+date: 2022-10-03T13:40:00+08:00
+lastmod: 2022-10-03T14:50:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "isnanx commented on 30 Apr 2019"
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
-tags: ["Hugo", "Word Count", "Chinese", "Blog", "Post"]
+  src: "featured-image.jpg"
+tags: ["Binary Tree", "Leetcode", "Cracking Coding Interview", "Python", "Binary Search Tree"]
 toc:
   enable: true
 zhtw: false
 ---
+![](https://miro.medium.com/max/1400/0*mXzaMze1aeSIxZFE)
+
+Photo by  [Javier Quesada](https://unsplash.com/@quesada179?utm_source=medium&utm_medium=referral)  on  [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+
 # Random Node
 From the book - **Cracking the Coding Interview** (*4.11*).
 Build a **binary tree class** along with the **insert**, **delete**, **find** and the **getRandomNode** method which returns a random node in the tree. (All nodes shall have the same possibility to be returned.)
