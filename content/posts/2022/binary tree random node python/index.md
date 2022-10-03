@@ -39,7 +39,7 @@ class Node:
         self.size = 1
 ```
 
-The solution provided by the book outsource github isn't quite right on the [delete function](https://github.com/careercup/CtCI-6th-Edition-Python/blob/master/chapter_04/p11_random_node.py#L52). (The size property wasn't being taken care of quite right.)
+Update the insert and the delete function. The delete function would be a bit tricky to implement.
 ```python
 def delete_helper(self, node, key):
 
@@ -64,7 +64,7 @@ def delete_helper(self, node, key):
         temp = min_val_node(node.right)
         node.key = temp.key
         node.right = self.delete_helper(node.right, temp.key)
-        
+
     node.size -= 1
     return node
 ```
