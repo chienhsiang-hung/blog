@@ -149,8 +149,8 @@ hasCJKLanguage = true
       anonymizeIP = true
   
   [params.page]
-    author: "Hsiang"
-    authorLink: "https://chienhsiang-hung.github.io/"
+    author = "Hsiang"
+    authorLink = "https://chienhsiang-hung.github.io/"
     # Custom config for zh-tw
     zhtw = false
 
