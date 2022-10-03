@@ -9,7 +9,7 @@ description: "How to achieve something like the example above? This should work 
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-tags: ["Power Automate", "List Rows", "Column Null", "Filter Empty", "Check Null Value"]
+tags: ["CSS", "Display", "Position", "Relative", "Absolute"]
 toc:
   enable: true
 zhtw: false
