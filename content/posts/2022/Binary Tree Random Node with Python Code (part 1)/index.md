@@ -5,7 +5,7 @@ lastmod: 2022-10-03T14:50:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "isnanx commented on 30 Apr 2019"
+description: "Random Node"
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
