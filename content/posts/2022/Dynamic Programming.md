@@ -39,5 +39,15 @@ $n=2$, $F(2)=F(1)+2=3$
 $n=3$, $F(3)=F(2)+3=6$
 ...
 $F(n)=F(n-1)+n$
-
+### Go Implementation
+```go
+func nSum(n int) int {
+	dp := make([]int, n+1)
+	dp[0] = 0 // in case n==0
+	for i:=1; i<=n; i++ {
+		dp[i] = dp[i-1] + i
+	}
+	return dp[n]
+}
+```
 
