@@ -55,10 +55,16 @@ func nSum(n int) int {
 
 ## Framework for Solving DP Problems
 1. Express our goal as an objective functions
-Example: **Climbing Stairs Problem**
+
+> Example: **Climbing Stairs Problem**
+
 $F(i)$ is the number of distinct ways to reach the i-th stair 
 2. Identify **Base cases** (to solve bondary problems)
-$F(2)=2$
-$F(1)=1$
-$F(0)=1$
-$$F(n)=F(n-1)+F(n-2)$$
+
+> $F(2)=2$ 
+> $F(1)=1$ 
+> $F(0)=1$ 
+> $$F(n)=F(n-1)+F(n-2)$$
+
+3. Recurrence Relation
+4. Order of computation
