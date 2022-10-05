@@ -29,3 +29,11 @@ $Fib(5) = Fib(4) + Fib(3)$
 $Fib(4) = Fib(3) + Fib(2)$
 ...
 Overlapping part: $Fib(3)$, $Fib(2)$, $Fib(1)$
+
+## Types of Problems
+1. Combinatoric -> Ans: **How many...?**
+2. Optimization -> Ans: **Minimum/Maximum** of steps/ways/paths...
+$$1+2+3+4+5+...+R=\sum_{i=1}^n i$$
+$n=1$, $F(1)=1$
+$n=2$, $F(2)=F(1)+2=3$
+
