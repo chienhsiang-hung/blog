@@ -14,8 +14,6 @@ toc:
   enable: true
 zhtw: false
 ---
-# LeetCode 746. Min Cost Climbing Stairs | Dynamic Programming | Python | Time O(n) Space O(1)
-
 ## Question
 You are given an integer array  `cost`  where  `cost[i]`  is the cost of  `ith`  step on a staircase. Once you pay the cost, you can either climb one or two steps.
 
