@@ -30,7 +30,7 @@ Use $X_1$ to solve $X_2$ to solve $X_3$ etc. to solve the entire problem.
 $Fib(5) = Fib(4) + Fib(3)$
 $Fib(4) = Fib(3) + Fib(2)$
 ...
-Overlapping part: $Fib(3)$, $Fib(2)$, $Fib(1)$
+Overlapping part: $Fib(3)$, $Fib(2)$, $Fib(1)$ *(Memoized/Cached Results)*
 
 ## Types of Problems
 1. Combinatoric -> Ans: **How many...?**
