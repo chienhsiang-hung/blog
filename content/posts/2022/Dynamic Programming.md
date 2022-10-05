@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Dynamic Programming"
 date: 2022-10-05T12:30:00+08:00
 lastmod: 2022-10-06T09:20:00+08:00
 draft: true
