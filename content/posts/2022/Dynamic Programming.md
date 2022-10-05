@@ -66,5 +66,8 @@ $F(i)$ is the number of distinct ways to reach the i-th stair
 > $F(0)=1$ 
 > $$F(n)=F(n-1)+F(n-2)$$
 
-3. Recurrence Relation
+3. Recurrence relation
 4. Order of computation
+5. Location of the answer
+
+> $F(n)$
