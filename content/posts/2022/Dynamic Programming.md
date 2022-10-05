@@ -18,6 +18,8 @@ zhtw: false
 ## Advantages
 Addresses problems with exponantial time complexity to Polynomial (sometimes even linear)
 $O(c^n)$ -> $O(n^c)$ -> $O(n)$
+### When to Use
+When we don't want to recalculate things. We want to rely on existing solutions.
 
 ## Requirments
 ### Properties
