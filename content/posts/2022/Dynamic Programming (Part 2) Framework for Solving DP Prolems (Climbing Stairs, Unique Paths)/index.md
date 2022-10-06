@@ -1,19 +1,20 @@
 ---
-title: "Dynamic Programming (Part 2) Framework for Solving DP Prolems"
+title: "Dynamic Programming (Part 2) Framework for Solving DP Prolems (Climbing Stairs, Unique Paths)"
 date: 2022-10-05T12:30:00+08:00
-lastmod: 2022-10-06T09:20:00+08:00
+lastmod: 2022-10-06T12:15:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "This is the follow-up for the last tutorial. I will show you how to cope with Dynamic Programming problems."
 resources:
 - name: "featured-image"
-  src: "featured-image.jpeg"
-tags: ["Python", "Dynamic Programming", "Leetcode", "Leetcode Easy", "Bottom Up Approach"]
+  src: "featured-image.jpg"
+tags: ["Dynamic Programming", "Unique Paths", "Python", "Leetcode Medium", "Climbing Stairs"]
 toc:
   enable: true
 zhtw: false
 ---
+![Unique Paths](featured-image.jpg "Unique Paths")
 This is the follow-up for 
 [the last tutorial](https://chienhsiang-hung.github.io/blog/posts/2022/leetcode-746.-min-cost-climbing-stairs-dynamic-programming-python-time-on-space-o1/). I will show you **how to cope with Dynamic Programming problems**.
 
