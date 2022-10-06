@@ -171,6 +171,10 @@ hasCJKLanguage = true
         name = "Hsiang's Blog"
         logoUrl = "/images/android-chrome-512x512.png"
 
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = true
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
