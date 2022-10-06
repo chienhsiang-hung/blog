@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Programming (Part 2) Framework for Solving DP Prolems (Climbing Stairs, Unique Paths)"
 date: 2022-10-05T12:30:00+08:00
-lastmod: 2022-10-06T12:15:00+08:00
+lastmod: 2022-10-06T12:25:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
