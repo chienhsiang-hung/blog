@@ -14,6 +14,9 @@ toc:
   enable: true
 zhtw: true
 ---
+## D Link Dir 853重設
+您可按壓設備背面的RESET孔約10秒，此動作將會清空設備的所有設定 並回復出廠預設值，放開RESET後請等待電源指示燈亮藍燈後再重新設定。
+
 先按壓 Router Reset 10秒，至`192.168.0.1`
 
 ![](https://miro.medium.com/max/700/1*FFNotMaCRMgtT58Ast_fow.png)
