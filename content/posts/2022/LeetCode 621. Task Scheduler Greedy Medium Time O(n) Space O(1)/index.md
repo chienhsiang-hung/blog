@@ -1,11 +1,11 @@
 ---
 title: "LeetCode 621. Task Scheduler Greedy Medium Time O(n) Space O(1)"
 date: 2022-10-20T12:01:00+08:00
-lastmod: 2022-10-20T12:01:00+08:00
+lastmod: 2022-10-20T12:03:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "台中購物節app歸戶財政部載具後沒有出現發票"
+description: "The key is to find out how many idles do we need."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
@@ -184,6 +184,8 @@ class Solution:
 ```
 ## Solution
 ### Simply Calculation
+> The key is to find out how many idles do we need.
+
 Then I adopted [g27as](https://leetcode.com/g27as/)'s [solution](https://leetcode.com/problems/task-scheduler/solutions/104500/java-o-n-time-o-1-space-1-pass-no-sorting-solution-with-detailed-explanation/?envType=study-plan&id=level-2&orderBy=most_votes), and convert it from **Java** to **Python**.
 ```python
 # to find how many idle we need
