@@ -1,7 +1,7 @@
 ---
 title: "Leetcode 148. Sort List, Merge Sort (Divide and Conquer) Simple Python Solution (Simulation Process in Comments)"
-date: 2022-10-24T02:40:00+08:00
-lastmod: 2022-10-24T02:40:00+08:00
+date: 2022-10-25T09:22:00+08:00
+lastmod: 2022-10-25T09:22:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
