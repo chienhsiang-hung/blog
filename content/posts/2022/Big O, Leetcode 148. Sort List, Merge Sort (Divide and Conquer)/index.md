@@ -50,7 +50,7 @@ Given the  `head`  of a linked list, return  _the list after sorting it in  **as
 ### Approach
 ![Merge Sort](featured-image.jpg "Merge Sort")
 ### Complexity
--   Time complexity:O(nLogn)
+-   Time complexity:$O(nLog(n))$
 ### Code
 ```python
 # Definition for singly-linked list.
