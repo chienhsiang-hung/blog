@@ -9,7 +9,7 @@ description: "Given the head of a linked list, return the list after sorting it 
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["Python", "Python3", "LeetCode", "LeetCode Medium", "Greedy"]
+tags: ["Python", "Linked List", "Merge Sort", "LeetCode Medium", "Divide And Conquer"]
 toc:
   enable: true
 zhtw: false
@@ -22,7 +22,7 @@ Given the  `head`  of a linked list, return  _the list after sorting it in  **as
 ![](https://assets.leetcode.com/uploads/2020/09/14/sort_list_1.jpg)
 
 > **Input:** head = [4,2,1,3]
-
+>
 > **Output:** [1,2,3,4]
 
 **Example 2:**
