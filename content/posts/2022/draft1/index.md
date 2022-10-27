@@ -2,7 +2,7 @@
 title: "warm-up-interview"
 date: 2022-10-27T11:28:00+08:00
 lastmod: 2022-10-27T11:28:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -26,7 +26,8 @@ zhtw: true
         1. Generator [(Check Out My Sharing)](https://chienhsiang-hung.github.io/blog/posts/2022/python-generator-performance-yield-one-line-generator/)
         2. SQL
         3. Interact w/ API
-- [ ] *2022-10-27* **HR Interview Invitation and Arrangment**
+- [x] *2022-10-27* **HR Interview Invitation and Arrangment**
+    - Rmb to prepare some Qs to ask
 - [ ] *2022-11-04* **HR Interview - Video Call**
 
 ## synpulse - Banking Technology Consultant - HK
