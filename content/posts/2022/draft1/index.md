@@ -44,8 +44,11 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 - [x] *2022-10-24* **Applied**
 - [x] *2022-10-25* **Asked for Assignment**
-- [x] *2022-10-27* **Coderbyte**
-  - Codebyte 2 Python 1 SQL (1 math, 1 searching, 1 sql query)
+- [ ] *2022-10-27* **Coderbyte**
+  - Codebyte 2 Python 1 SQL
+    1. math - fibonacci
+    2. searching
+    3. sql query
 
     It's much easier than the [CTW one](#ctw---backend-engineer-python---jp)
 
@@ -55,4 +58,5 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - [X] *2022-10-24* **投遞**
 - [X] *2022-10-24* **面試邀約**
   - 安排面試時間10/28(五)上午11:00，將採線上面試，面試時請準備過往作品集或專案進行介紹。
-- [x] *2022-10-27* **面試邀約 回覆時間**
+- [x] *2022-10-27* **面試邀約 回覆時間 重新安排面試時間至下周**
+- [ ] *2022-11-04* **線上面試 請準備過往作品集或專案進行介紹**
