@@ -2,7 +2,7 @@
 title: "warm-up-interview"
 date: 2022-10-27T11:28:00+08:00
 lastmod: 2022-10-27T11:28:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -44,7 +44,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 - [x] *2022-10-24* **Applied**
 - [x] *2022-10-25* **Asked for Assignment**
-- [ ] *2022-10-27* **Coderbyte**
+- [x] *2022-10-27* **Coderbyte**
   - Codebyte 2 Python 1 SQL
     1. math - fibonacci
     2. searching
