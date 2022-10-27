@@ -25,14 +25,14 @@ zhtw: true
     - HackerRank 2 Python 1 SQL
         1. Generator [(Check Out My Sharing)](https://chienhsiang-hung.github.io/blog/posts/2022/python-generator-performance-yield-one-line-generator/)
         2. SQL
-        3. Interacte w/ API
+        3. Interact w/ API
 - [ ] *2022-10-27* **HR Interview Invitation and Arrangment**
 - [ ] *2022-11-04* **HR Interview - Video Call**
 
 ## synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
-Reached out from Meg Milagrosa on LinkedIn
+Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 - [x] *2022-10-25* **HR Team Reached Out**
 - [x] *2022-10-27* **Replied w/ My CV and Arranged A Phone Call**
@@ -51,4 +51,4 @@ Reached out from Meg Milagrosa on LinkedIn
 - [X] *2022-10-24* **投遞**
 - [X] *2022-10-24* **面試邀約**
     - 安排面試時間10/28(五)上午11:00，將採線上面試，面試時請準備過往作品集或專案進行介紹。
-- [ ] *2022-10-27* **面試邀約 回覆時間**
+- [x] *2022-10-27* **面試邀約 回覆時間**
