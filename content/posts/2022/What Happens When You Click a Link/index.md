@@ -2,7 +2,7 @@
 title: "What Happens When You Click a Link? "
 date: 2022-10-30T09:16:00+08:00
 lastmod: 2022-10-30T09:16:00+08:00
-draft: true
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "When those programmes are being executed, they will consume some resources from the computer. How do we allocate the resources? Who will do this for the programs?"
@@ -20,19 +20,19 @@ zhtw: false
 ![HTTP-0.9](HTTP-0.9.png "HTTP-0.9")
 - Client send a request
 
-  -> launch a TCP/IP connect: `telnet google.com 80`
+  -> launch a TCP[^TCP]/IP connect: `telnet google.com 80`
   
   -> **one-line commend: `GET /about`**
 - _CRLF_[^CRLF] to end a request
 - Respond HTML in _ASCII_[^ASCII]
-- Auto-shut-down every Request / Response (close TCP/IP connect)
+- Auto-shut-down every Request / Response (close TCP[^TCP]/IP connect)
 ### HTTP/1.0
 ![HTTP-1.0](HTTP-1.0.png "HTTP-1.0")
 - Still in _ASCII_[^ASCII]
   - **Multi-line commend is allowed including `Header`**
     > Method + Header + _CRLF_[^CRLF]
 
-  -> launch a TCP/IP connect: `telnet google.com 80`
+  -> launch a TCP[^TCP]/IP connect: `telnet google.com 80`
   
   -> commend:
 
@@ -48,14 +48,15 @@ zhtw: false
   1. Status code
   2. Header
   3. Conten type
-- Auto-shut-down every Request / Response (close TCP/IP connect)
+- Auto-shut-down every Request / Response (close TCP[^TCP]/IP connect)
 ### HTTP/1.1
 - Improve Efficiency
-  - **Persistent Connection** without TCP/IP connect Auto-shut-down
+  - **Persistent Connection** without TCP[^TCP]/IP connect Auto-shut-down
 
-    Keep the [connection alive to be reused for other resources](https://youtu.be/Taq5TV1K4XU?t=1620) in the same domain (so that you don't need to re-do all TCP hand-shake again and again)
+    Keep the [connection alive to be reused for other resources](https://youtu.be/Taq5TV1K4XU?t=1620) in the same domain (so that you don't need to re-do all TCP[^TCP] hand-shake again and again)
     ![HTTP-1.1-Persistent-Connection](HTTP-1.1-Persistent-Connection.png "HTTP-1.1-Persistent-Connection")
-  - Chunked
+  - Request pipeline: multiple requests at a time
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
 [^ASCII]: ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers. [ASCII | Definition, History, Trivia, & Facts | Britannica](https://www.britannica.com/topic/ASCII)
+[^TCP]: TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol. The speed for TCP is slower while the speed of UDP is faster. TCP uses handshake protocol like SYN, SYN-ACK, ACK while UDP uses no handshake protocols. [TCP vs UDP: Key Difference Between Them (guru99.com)](https://www.guru99.com/tcp-vs-udp-understanding-the-difference.html)
