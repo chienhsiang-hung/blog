@@ -55,8 +55,25 @@ zhtw: false
 
     Keep the [connection alive to be reused for other resources](https://youtu.be/Taq5TV1K4XU?t=1620) in the same domain (so that you don't need to re-do all TCP[^TCP] hand-shake again and again)
     ![HTTP-1.1-Persistent-Connection](HTTP-1.1-Persistent-Connection.png "HTTP-1.1-Persistent-Connection")
-  - Request pipeline: multiple requests at a time
+  - Chunked encoding transfer
+  - Byte range request
+
+    ```
+    GET / HTTP/1.1
+    Host: www.miniasp.com
+    Range: bytes=0-100
+    ```
+    ```
+    GET / HTTP/1.1
+    Host: www.miniasp.com
+    Range: bytes=101-200
+    ```
+    To get the 2 chunked _206 Partial Content_
+  - Request pipeline[^pipelined-connection]: multiple requests at a time
+  
+    ![Time diagram of non-pipelined vs. pipelined connection](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/HTTP_pipelining2.svg/1024px-HTTP_pipelining2.svg.png "Time diagram of non-pipelined vs. pipelined connection")
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
 [^ASCII]: ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers. [ASCII | Definition, History, Trivia, & Facts | Britannica](https://www.britannica.com/topic/ASCII)
 [^TCP]: TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol. The speed for TCP is slower while the speed of UDP is faster. TCP uses handshake protocol like SYN, SYN-ACK, ACK while UDP uses no handshake protocols. [TCP vs UDP: Key Difference Between Them (guru99.com)](https://www.guru99.com/tcp-vs-udp-understanding-the-difference.html)
+[^pipelined-connection]: HTTP pipelining is a feature of HTTP/1.1 which allows multiple HTTP requests to be sent over a single TCP connection without waiting for the corresponding responses. [HTTP pipelining - Wikipedia](https://en.wikipedia.org/wiki/HTTP_pipelining)
