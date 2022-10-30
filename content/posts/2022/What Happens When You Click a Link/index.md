@@ -50,8 +50,11 @@ zhtw: false
   3. Conten type
 - Auto-shut-down every Request / Response (close TCP/IP connect)
 ### HTTP/1.1
-- Improved Efficiency
+- Improve Efficiency
   - **Persistent Connection** without TCP/IP connect Auto-shut-down
+
+    Keep the [connection alive to be reused for other resources](https://youtu.be/Taq5TV1K4XU?t=1620) in the same domain (so that you don't need to re-do all TCP hand-shake again and again)
+    ![HTTP-1.1-Persistent-Connection](HTTP-1.1-Persistent-Connection.png "HTTP-1.1-Persistent-Connection")
   - Chunked
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
