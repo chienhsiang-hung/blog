@@ -49,6 +49,10 @@ zhtw: false
   2. Header
   3. Conten type
 - Auto-shut-down every Request / Response (close TCP/IP connect)
+### HTTP/1.1
+- Improved Efficiency
+  - **Persistent Connection** without TCP/IP connect Auto-shut-down
+  - Chunked
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
 [^ASCII]: ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers. [ASCII | Definition, History, Trivia, & Facts | Britannica](https://www.britannica.com/topic/ASCII)
