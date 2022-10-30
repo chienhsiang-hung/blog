@@ -37,7 +37,12 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 - [x] *2022-10-25* **HR Team Reached Out**
 - [x] *2022-10-27* **Replied w/ My CV and Arranged A Phone Call**
-- [ ] *2022-10-28* **Phone Screen**
+- [x] *2022-10-28* **Phone Screen & Arranged The Next Round Interview**
+  - [Interview Process]
+    1. Hiring Manager Interview (Virtual)
+    2. Case Study (Virtual) (1hr pre-study, 1hr presentation)
+    3. Head Interview
+- [ ] *2022-11-04* **1st Round Virtual Interview w/ Hiring Manager**
 
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
