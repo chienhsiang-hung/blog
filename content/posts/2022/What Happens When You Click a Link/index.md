@@ -8,7 +8,7 @@ authorLink: "https://chienhsiang-hung.github.io/"
 description: "When those programmes are being executed, they will consume some resources from the computer. How do we allocate the resources? Who will do this for the programs?"
 resources:
 - name: "featured-image"
-  src: ""
+  src: "featured-image.png"
 tags: []
 categories: ["SE Interview 101"]
 toc:
@@ -17,7 +17,7 @@ zhtw: false
 ---
 ## HTTP History
 ### HTTP/0.9
-![HTTP-0.9](HTTP-0.9.png "HTTP-0.9")
+![HTTP-0.9](featured-image.png "HTTP-0.9")
 - Client send a request
 
   -> launch a TCP[^TCP]/IP connect: `telnet google.com 80`
