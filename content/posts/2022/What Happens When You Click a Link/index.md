@@ -1,5 +1,5 @@
 ---
-title: "What Happens When You Click a Link? "
+title: "What Happens When You Click a Link? HTTP (Hypertext Transfer Protocol)"
 date: 2022-10-30T09:16:00+08:00
 lastmod: 2022-10-30T09:16:00+08:00
 draft: false
@@ -75,7 +75,16 @@ Improved Overall Efficiency
   ![Time diagram of non-pipelined vs. pipelined connection](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/HTTP_pipelining2.svg/1024px-HTTP_pipelining2.svg.png "Time diagram of non-pipelined vs. pipelined connection")
 #### Updates
 - RFC 7230: Message Syntax and Routing (Proxy Server)
-- RFC 7231: Semantics and Content
+- [RFC 7231: Semantics and Content](https://www.rfc-editor.org/rfc/rfc7231)
+- [RFC 7232: Conditional Requests](https://www.rfc-editor.org/rfc/rfc7232)
+
+  ![Conditional-Requests-DisableCache](Conditional-Requests-DisableCache.png "Conditional-Requests-DisableCache")
+  ![Conditional-Requests-Header](Conditional-Requests-Header.png "Conditional-Requests-Header")
+- RFC 7233: Range Requests
+- RFC 7234: Caching
+- RFC 7235: Authentication
+### Resource
+- [(18) 初學者都該學會的 HTTP 通訊協定基礎 - YouTube](https://www.youtube.com/watch?v=Taq5TV1K4XU)
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
 [^ASCII]: ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers. [ASCII | Definition, History, Trivia, & Facts | Britannica](https://www.britannica.com/topic/ASCII)
