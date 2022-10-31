@@ -1,15 +1,15 @@
 ---
-title: "What Happens When You Click a Link? HTTP (Hypertext Transfer Protocol)"
-date: 2022-10-30T09:16:00+08:00
-lastmod: 2022-10-30T09:16:00+08:00
+title: "What Happens When You Click a Link? URL/ HTTP/ Domain Name/ DNS/ IP Address"
+date: 2022-10-31T11:04:00+08:00
+lastmod: 2022-10-31T11:04:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "When those programmes are being executed, they will consume some resources from the computer. How do we allocate the resources? Who will do this for the programs?"
+description: "What happens when we hit any URL? Before discussing what happens after hitting the URL, we must go through what a URL actually is, and what different parts of the URL mean - right? Without wasting any time, let’s understand more about URLs."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-tags: []
+tags: ["Url", "Https", "Http Request", "Domain Names", "DNS"]
 categories: ["SE Interview 101"]
 toc:
   enable: true
@@ -25,6 +25,37 @@ Before discussing what happens after hitting the _URL_, we must go through what 
 If you look into its full form, then it is self explanatory: it has the location of the resources which we want to access. **It is an address of the place where we want to go to interact with or find information.**
 
 > The web site is like the house and the **URL (Uniform Resource Locator)** is the address.
+
+{{< youtube keo0dglCj7I >}}
+### Anatomy of an URL
+Let’s take an example:
+
+https://chienhsiang-hung.github.io/blog/
+
+Here, the first part is `https`. This basically tells the browser which [protocol](#http-history) it should use. It can be [http](#http-history), https, ftp, etc. A [protocol](#http-history) is a set of rules that browser use for communication over the network. `https` is basically a secure version, i.e. information is exchanged in a secure way.
+
+The second part `chienhsiang-hung.github.io` is a **domain name**. You can relate it to your friend’s house. It is an address of website. We use it to reach to the server (trained computer) that is responsible for serving the information for that website. Wait! You might think, a seconds before I mentioned URL is the **address** whereas I also mentioned **domain name** is also **address**. You may have been confused. Don’t be confused!
+### URL vs. Domain Name
+Difference between URL and Domain Name
+
+The major difference between both is that the **URL is a complete address**. URL tells about the method through which information should exchange, the path after reaching that website. Whereas the **domain name is part of a URL**.
+### Domain Name
+As we know, when we hit any URL or you can say **domain name**, then that website gets opened with its content. **A server (a trained computer) serves it.** We also know that **every computer has an IP address** which is used for communication over the internet. It is an address as its self explaining ‘IP address’. When we hit any URL, then we are actually hitting the IP address of the computer which is responsible for serving the website content (hosting).
+
+But, now, you might think what the hell...is everything an address? Why does this domain name exist if the IP address is there? Why can’t we use IP address to get content of the website?
+
+Yes! You can use IP addresses to get content of the website but really!.. Would you be able to remember each website’s associated IP address? Obviously not! It’s hard to remember the IP address of every website. That’s why domain names came into the market.
+
+You can relate it to your contact list. You can’t remember every person’s number, but you can remember their name. Same concept applies here as well. You can’t remember those scary IP addresses, but you can easily remember domain names.
+
+This huge amount of data is maintained in a database where the domain name with its IP address is stored.
+> A system that stores domain names with its corresponding IP address is known as **DNS (Domain name system)**.
+### DNS lookup to find IP address
+**DNS is like a phone book and helps us to provide the IP address** that is associated with the domain name just like our phone book gives a mobile number which is associated with the person’s name.
+![DNS](https://www.freecodecamp.org/news/content/images/2019/06/dns.png "DNS")
+This is the overview, but there are four layers through which this domain name query goes through.
+
+*More on: [What happens when you click on a URL in your browser (freecodecamp.org)](https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/)*
 ## HTTP History
 ### HTTP/0.9
 ![HTTP-0.9](featured-image.png "HTTP-0.9")
