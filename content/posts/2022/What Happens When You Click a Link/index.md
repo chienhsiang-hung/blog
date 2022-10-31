@@ -2,7 +2,7 @@
 title: "What Happens When You Click a Link? HTTP (Hypertext Transfer Protocol)"
 date: 2022-10-30T09:16:00+08:00
 lastmod: 2022-10-30T09:16:00+08:00
-draft: true
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "When those programmes are being executed, they will consume some resources from the computer. How do we allocate the resources? Who will do this for the programs?"
@@ -15,6 +15,16 @@ toc:
   enable: true
 zhtw: false
 ---
+## URL
+**What happens when we hit any URL?**
+
+Before discussing what happens after hitting the _URL_, we must go through what a _URL_ actually is, and what different parts of the _URL_ mean - right? Without wasting any time, let’s understand more about *URL*s.
+
+**URL – Uniform Resource Locator**
+
+If you look into its full form, then it is self explanatory: it has the location of the resources which we want to access. **It is an address of the place where we want to go to interact with or find information.**
+
+> The web site is like the house and the **URL (Uniform Resource Locator)** is the address.
 ## HTTP History
 ### HTTP/0.9
 ![HTTP-0.9](featured-image.png "HTTP-0.9")
