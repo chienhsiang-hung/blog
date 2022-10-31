@@ -1,7 +1,7 @@
 ---
 title: "warm-up-interview"
-date: 2022-10-27T11:28:00+08:00
-lastmod: 2022-10-27T11:28:00+08:00
+date: 2022-10-31T12:21:00+08:00
+lastmod: 2022-10-31T12:21:00+08:00
 draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -56,6 +56,11 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     3. sql query
 
     It's much easier than the [CTW one](#ctw---backend-engineer-python---jp)
+- [ ] *2022-11-03* **Online Interview w/ an Engineer Lead and a Backend Engineer 2-2.5hrs**
+
+  Preparation Materials:
+  - [Processes and Threads | Operating System](https://chienhsiang-hung.github.io/blog/posts/2022/processes-and-threads-operating-system/)
+  - [What Happens When You Click a Link? URL/ HTTP/ Domain Name/ DNS/ IP Address](https://chienhsiang-hung.github.io/blog/posts/2022/what-happens-when-you-click-a-link/)
 
 ## 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
