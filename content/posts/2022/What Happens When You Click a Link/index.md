@@ -92,10 +92,10 @@ The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol
 ### Resource
 - [(18) 初學者都該學會的 HTTP 通訊協定基礎 - YouTube](https://www.youtube.com/watch?v=Taq5TV1K4XU)
 ## HTTP Request Methods
-- GET
-- POST
-- PUT
-- HEAD
+- [GET](#get)
+- [POST](#post)
+- [PUT](#put)
+- [HEAD](#head)
 - DELETE
 - PATCH
 - OPTIONS
@@ -205,6 +205,7 @@ The difference between POST and PUT is that **PUT requests are idempotent**. Tha
 In other words, if GET /users returns a list of users, then HEAD /users will make the same request but will not return the list of users.
 
 HEAD requests are useful for checking what a GET request will return before actually making a GET request - like before downloading a large file or response body.
+### The others
 
 [^CRLF]: The term CRLF refers to Carriage Return (ASCII 13, \r ) Line Feed (ASCII 10, \n ). They're used to note the termination of a line, however, dealt with differently in today's popular Operating Systems. [CRLF Injection | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
 [^ASCII]: ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers. [ASCII | Definition, History, Trivia, & Facts | Britannica](https://www.britannica.com/topic/ASCII)
