@@ -86,6 +86,9 @@ Improved Overall Efficiency
 ### Summary
 The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol for distributed collaborative, hypertext information systems.
 - Stateless
+- Distributed
+- Collaborative
+- Hypertext: not just "text" but with "links"
 ### Resource
 - [(18) 初學者都該學會的 HTTP 通訊協定基礎 - YouTube](https://www.youtube.com/watch?v=Taq5TV1K4XU)
 
