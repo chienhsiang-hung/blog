@@ -2,7 +2,7 @@
 title: "What Happens When You Click a Link? HTTP (Hypertext Transfer Protocol)"
 date: 2022-10-30T09:16:00+08:00
 lastmod: 2022-10-30T09:16:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "When those programmes are being executed, they will consume some resources from the computer. How do we allocate the resources? Who will do this for the programs?"
