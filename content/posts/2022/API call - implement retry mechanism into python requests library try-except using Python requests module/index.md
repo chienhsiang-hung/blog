@@ -90,20 +90,7 @@ I want to be able to add this functionality transparently, without having to man
 ### Implementation
 This snippet of code will make all HTTP requests from the same session retry for a total of 5 times, sleeping between retries with an increasing backoff of 0s, 2s, 4s, 8s, 16s (the first retry is done immediately). It will retry on basic connectivity issues (including DNS lookup failures), and HTTP status codes of 502, 503 and 504.
 
-[implement-retry-mechanism.py](implement-retry-mechanism.py)
-```python
-import logging
-import requests
-from requests.adapters import HTTPAdapter, Retry
-
-logging.basicConfig(level=logging.DEBUG)
-
-session = requests.Session()
-retries = Retry(total=5, backoff_factor=1, status_forcelist=[502, 503, 504])
-session.mount('http://', HTTPAdapter(max_retries=retries))
-
-session.get('http://httpstat.us/503')
-```
+<script src="https://gist.github.com/chienhsiang-hung/2b246264255b7c2d2b86302a3bb7ac31.js"></script>
 !["Exception has occurred: RetryError"](featured-image.png "Exception has occurred: RetryError")
 > DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): httpstat.us:80
 DEBUG:urllib3.connectionpool:http://httpstat.us:80 "GET /503 HTTP/1.1" 503 23
