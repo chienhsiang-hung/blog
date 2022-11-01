@@ -1,7 +1,7 @@
 ---
 title: "API call - implement retry mechanism into python requests library / try-except using Python requests module"
 date: 2022-10-31T13:34:00+08:00
-lastmod: 2022-10-31T13:34:00+08:00
+lastmod: 2022-11-01T05:51:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
