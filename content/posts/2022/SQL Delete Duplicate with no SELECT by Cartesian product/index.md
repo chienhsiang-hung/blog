@@ -1,7 +1,7 @@
 ---
 title: "SQL Delete Duplicate with no SELECT by Cartesian product"
 date: 2022-11-01T10:13:00+08:00
-lastmod: 2022-11-01T10:13:00+08:00
+lastmod: 2022-11-01T10:17:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -65,6 +65,7 @@ DELETE p1 FROM person p1, person p2
 WHERE p1.email=p2.email AND p1.id>p2.id;
 ```
 ### Explanation
+![Piatnikcards](featured-image.jpg "Piatnikcards")
 **Input:**
     
     Person table:
