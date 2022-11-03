@@ -5,7 +5,7 @@ lastmod: 2022-11-03T04:01:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "The Internet protocol suite, commonly known as TCP/IP, is a framework for organizing the set of communication protocols used in the Internet and similar computer networks according to functional criteria. The Internet protocol suite provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
