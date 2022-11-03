@@ -1,0 +1,97 @@
+# Q1
+Have the function FibonacciChecker(num) return the string yes if the number given is part of the Fibonacci sequence. This sequence is defined by: Fn = Fn-1 + Fn-2, which means to find Fn you add the previous two numbers up. The first two numbers are 0 and 1, then comes 1, 2, 3, 5 etc. If num is not in the Fibonacci sequence, return the string no.
+
+```python=
+def MathChallenge(num):
+  f0, f1 = 0, 1
+
+  while f0 < num:
+    if num in [f0, f1]:
+    if num in (f0, f1):
+    if num in {f0, f1}:
+      return 'yes'
+    f0, f1 = f1, f0+f1
+  return 'no'
+
+# keep this function call here 
+print(MathChallenge(input()))
+```
+
+# Q2
+Have the function LetterCount(str) take the str parameter being passed and return the first word with the greatest number of repeated letters. For example: "Today, is the greatest day ever!" should return greatest because it has 2 e's (and 2 t's) and it comes before ever which also has 2 e's. If there are no words with repeating letters return -1. Words will be separated by spaces.
+
+```python=
+from collections import defaultdict
+
+def SearchingChallenge(strParam):
+  if strParam[0] == ' ': return -1
+
+  # record the word and compare it through the iteration
+  strParam += ' '
+  
+  current_word = ''
+  word_dict = defaultdict(int)
+  max_word = None
+  max_ct = 0
+  for mychr in strParam:
+    if mychr == ' ':
+      this_max = max(word_dict.values())
+
+      # update when it's bigger than bf
+      if this_max > 1 and this_max > max_ct:
+        max_word = current_word
+        max_ct = this_max
+
+      current_word = ''
+      word_dict = defaultdict(int)
+      continue
+
+    current_word += mychr
+        
+    word_dict[mychr] += 1
+  
+  return -1 if not max_word else max_word
+
+
+# keep this function call here 
+print(SearchingChallenge(input()))
+```
+
+# Q3
+```sql=
+SELECT 
+  maintable_8KHFC.GroupID,
+  cb_vendorinformation.CompanyName,
+  Count(*) AS Count
+FROM maintable_8KHFC, cb_vendorinformation
+WHERE maintable_8KHFC.GroupID = cb_vendorinformation.GroupID
+GROUP BY cb_vendorinformation.CompanyName, maintable_8KHFC.GroupID
+ORDER BY Count, maintable_8KHFC.GroupID ASC;
+```
+
+---------
+```python=
+numbers = [1, 10, 8, 7, 7, 2] -> [1, 10, 8, 7, 2] 
+
+[1,10,10,10] -> [1, 10]
+[2,2,2,2] -> [2]
+[1,10,8,8,7,6,6,7,5] -> [1,10,8,7,6,5]
+
+contrain:
+    len(numbers) >= 1
+
+    
+from collections import defaultdict
+
+def delete_dup(numbers):
+    output = []
+    num_dict = defaultdict(int)
+    
+    for curr_num in numbers:
+        if num_dict[f'{curr_num}'] >= 1:
+            continue
+        num_dict[f'{curr_num}'] += 1
+        output.append(curr_num)
+    
+    return output
+```

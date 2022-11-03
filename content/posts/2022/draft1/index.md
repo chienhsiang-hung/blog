@@ -2,7 +2,7 @@
 title: "warm-up-interview"
 date: 2022-11-03T08:40:00+08:00
 lastmod: 2022-11-03T08:40:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -85,7 +85,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   
   與兩位工程師中文線上面試
   1. 針對履歷問題提問，現職工作內容?
-  2. 會開`Markdown`共享，針對前次網測三題題目依次討論
+  2. 會開`Markdown`共享，針對前次網測[答券](Pinkoi.txt) - 三題題目依次討論，然後加考一題白板題
 
     第一題我的答案
     ```python
