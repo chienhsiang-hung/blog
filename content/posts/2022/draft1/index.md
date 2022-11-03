@@ -1,8 +1,8 @@
 ---
 title: "warm-up-interview"
-date: 2022-10-31T12:21:00+08:00
-lastmod: 2022-10-31T12:21:00+08:00
-draft: true
+date: 2022-11-03T08:40:00+08:00
+lastmod: 2022-11-03T08:40:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -56,12 +56,17 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     3. sql query
 
     It's much easier than the [CTW one](#ctw---backend-engineer-python---jp)
-- [ ] *2022-11-03* **Online Interview w/ an Engineer Lead and a Backend Engineer 2-2.5hrs**
+- [x] *2022-11-03* **Online Interview w/ an Engineer Lead and a Backend Engineer 2-2.5hrs**
 
   Preparation Materials:
   - [Processes and Threads | Operating System](https://chienhsiang-hung.github.io/blog/posts/2022/processes-and-threads-operating-system/)
   - [What Happens When You Click a Link? URL/ HTTP/ Domain Name/ DNS/ IP Address](https://chienhsiang-hung.github.io/blog/posts/2022/what-happens-when-you-click-a-link/)
+  - [API call - implement retry mechanism into python requests library / try-except using Python requests module](https://chienhsiang-hung.github.io/blog/posts/2022/api-call-implement-retry-mechanism-into-python-requests-library-try-except-using-python-requests-module/)
+  - [TCP/IP | Backend 101](https://chienhsiang-hung.github.io/blog/posts/2022/tcpip-backend-101/)
 
+  {{< admonition type=tip title="More on what I've prepared" open=false >}}
+  A **quote** banner
+  {{< /admonition >}}
 ## 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
 
