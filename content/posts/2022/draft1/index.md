@@ -64,8 +64,18 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   - [API call - implement retry mechanism into python requests library / try-except using Python requests module](https://chienhsiang-hung.github.io/blog/posts/2022/api-call-implement-retry-mechanism-into-python-requests-library-try-except-using-python-requests-module/)
   - [TCP/IP | Backend 101](https://chienhsiang-hung.github.io/blog/posts/2022/tcpip-backend-101/)
 
-  {{< admonition type=tip title="More on what I've prepared" open=false >}}
-  A **quote** banner
+  {{< admonition type=tip title="More on What I've Prepared" open=false >}}
+  - [2020 iT邦鐵人賽 - YouTube](https://www.youtube.com/playlist?list=PLS5AiLcCHgNxd341NwuY9EOpVvY5Z8VOs)
+  - [List And Tuple | Data Structures | Python Tutorials - YouTube](https://www.youtube.com/watch?v=hdzxzBRXKJ0)
+  - [[Python]B05─資料結構(data structure) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天 (ithome.com.tw)](https://ithelp.ithome.com.tw/articles/10211265)
+  - [[CS] 進程與線程的概念整理（process and thread） | PJCHENder 未整理筆記](https://pjchender.dev/computer-science/cs-process-thread/#:~:text=process%20%E6%98%AFOS%20%E5%88%86%E9%85%8D%E8%B3%87%E6%BA%90,%E6%98%AF%E9%80%B2%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%B7%9A%E7%A8%8B%E3%80%82)
+  - [Day2 介紹常見的名詞以及 Concurrent 和 Parallel 之間的差別 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天 (ithome.com.tw)](https://ithelp.ithome.com.tw/articles/10201828)
+  - [Concurrency vs Parallelism - YouTube](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
+  - [10 Git Commands Every Developer Should Know (freecodecamp.org)](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+  - [Git Basics: Merge and Rebase - YouTube](https://www.youtube.com/watch?v=dO9BtPDIHJ8)
+  - [Scaling Databases - Web Development - YouTube](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
+  {{< /admonition >}}
+  {{< admonition type=success title="More on Others' Successful Interview Sharing" open=false >}}
   {{< /admonition >}}
 ## 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
