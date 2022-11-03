@@ -76,7 +76,140 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   - [Scaling Databases - Web Development - YouTube](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
   {{< /admonition >}}
   {{< admonition type=success title="More on Others' Successful Interview Sharing" open=false >}}
+  - [2018 / 09 Backend Engineer 後端工程師面試紀錄（Pinkoi / Gogoro / iStage / 雷亞 Rayark） | by Kadai | Medium](https://medium.com/@Kadai/2018-09-backend-engineer-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84-pinkoi-gogoro-istage-%E9%9B%B7%E4%BA%9E-rayark-9753229bf781)
+  - [2021 新鮮人後端工程師求職心得 — 面試篇（17LIVE、ShopBack、Pinkoi、MixerBox、…） | by Chieh-Han Jonathan Tu | Medium](https://medium.com/@jhantu/2021-%E6%96%B0%E9%AE%AE%E4%BA%BA%E5%BE%8C%E7%AB%AF%E6%B1%82%E8%81%B7%E5%BF%83%E5%BE%97-%E9%9D%A2%E8%A9%A6%E7%AF%87-d651831a9817)
+  - [Junior Backend Engineer面試經驗. 因為從網路許多前人經驗分享中受益良多，因此來貢獻一些小小的經驗，同時做個紀錄。 | by Lucas Lin | Medium](https://medium.com/@bluecas/junior-backend-engineer%E9%9D%A2%E8%A9%A6%E7%B6%93%E9%A9%97-bce7b0dbdffc)
+  - [Pinkoi_香港商果翼科技股份有限公司台灣分公司的所有【Backend Engineer】/【後端工程師】/【軟體工程師】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/Jhfb?page=1&position%5B%5D=Backend%20Engineer&position%5B%5D=%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB&position%5B%5D=%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB&sort=featured)
   {{< /admonition >}}
+  Interview Experience:
+  
+  與兩位工程師中文線上面試
+  1. 針對履歷問題提問，現職工作內容?
+  2. 會開`Markdown`共享，針對前次網測三題題目依次討論
+
+    第一題我的答案
+    ```python
+    def MathChallenge(num):
+      f0, f1 = 0, 1
+
+      while f0 < num:
+        if num in [f0, f1]:
+          return 'yes'
+        f0, f1 = f1, f0+f1
+      return 'no'
+    ```
+    針對第五行
+
+        if num in [f0, f1]:
+
+    請問`[f0, f1]`還能夠用什麼資料結構來代替，回`tuple`但因為知道`tuple`是**immutable**不確定能不能這樣用，要試試看
+
+
+    再問，若`[f0, f1]`改成`(f0, f1)`, `{f0, f1}`，效能有差嗎，誰比較快
+
+    回答
+    ```python
+        if num in [f0, f1]:
+        if num in (f0, f1):
+        if num in {f0, f1}:
+    ```
+    三個都是O(n)，但實際運行好像有看過文章說`tuple`比`list`快，不確定
+
+    再來是第二題，針對字串相加進行提問
+    ```python
+    from collections import defaultdict
+
+    def SearchingChallenge(strParam):
+      if strParam[0] == ' ': return -1
+
+      # record the word and compare it through the iteration
+      strParam += ' '
+      
+      current_word = ''
+      word_dict = defaultdict(int)
+      max_word = None
+      max_ct = 0
+      for mychr in strParam:
+        if mychr == ' ':
+          this_max = max(word_dict.values())
+
+          # update when it's bigger than bf
+          if this_max > 1 and this_max > max_ct:
+            max_word = current_word
+            max_ct = this_max
+
+          current_word = ''
+          word_dict = defaultdict(int)
+          continue
+
+        current_word += mychr
+        word_dict[mychr] += 1
+      
+      return -1 if not max_word else max_word
+
+
+    # keep this function call here 
+    print(SearchingChallenge(input()))
+    ```
+    1. 有沒有別的作法，如何改善
+    2. 為什麼要在前面一開始(第七行)加 / 為什麼要用空格區分，有沒有比較快的方式
+        
+            strParam += ' '
+
+    3. 第26行
+            
+            current_word += mychr
+        
+        這種字串相加會有什麼問題，如何優化?
+    
+    再來是`SQL`題，有先告知自己當時因為公司沒有使用，所以對`SQL`不熟
+    ```sql
+    SELECT 
+      maintable_8KHFC.GroupID,
+      cb_vendorinformation.CompanyName,
+      Count(*) AS Count
+    FROM maintable_8KHFC, cb_vendorinformation
+    WHERE maintable_8KHFC.GroupID = cb_vendorinformation.GroupID
+    GROUP BY cb_vendorinformation.CompanyName, maintable_8KHFC.GroupID
+    ORDER BY Count, maintable_8KHFC.GroupID ASC;
+    ```
+    面試官說，你有說你對`SQL`比較不熟不過你還是完成了，那我們還是來問一下
+    
+    1. 在第6行，`WHERE maintable_8KHFC.GroupID = cb_vendorinformation.GroupID`還可以怎麼改寫?
+    2. 在這邊用`WHERE`跟`JOIN`的效能以及效果差別在哪?
+
+    現場加考第四題白板題，移除重複項，順序不能改變
+    ```python
+    numbers = [1, 10, 8, 7, 7, 2] -> [1, 10, 8, 7, 2] 
+
+    [1,10,10,10] -> [1, 10]
+    [2,2,2,2] -> [2]
+    [1,10,8,8,7,6,6,7,5] -> [1,10,8,7,6,5]
+
+    contrain:
+        len(numbers) >= 1
+
+        
+    from collections import defaultdict
+
+    def delete_dup(numbers):
+        output = []
+        num_dict = defaultdict(int)
+        
+        for curr_num in numbers:
+            if num_dict[f'{curr_num}'] >= 1:
+                continue
+            num_dict[f'{curr_num}'] += 1
+            output.append(curr_num)
+        
+        return output
+    ```
+    1. 有沒有辦法更快?
+    2. 可以用`set()`改寫嗎?
+
+    至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
+
+
 ## 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
 
