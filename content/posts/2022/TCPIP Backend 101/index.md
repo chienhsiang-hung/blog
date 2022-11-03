@@ -37,23 +37,67 @@ This functionality is organized into four [abstraction layers](https://en.wikipe
 
 {{< youtube 2QGgEk20RXM >}}
 ### How They Work
-- Pysical -> Data Link
+- **Pysical -> Data Link**
 
   0/1 Data to Frame (Ethernet Protocol)
 
-      head: __
-      data: __
+      Header: Mac Address
+      IP-Packet: Data
+      Trailer: Error Checking Data
   
-  in Mac Address
-- Data Link -> Transport
+  - *Mac Address: A3:12:56:B5:95:7F*
 
-  IP Address
+  - *IP Address:*
 
-      192.168.1.3
-      (11000000-10101000-10000000-00000000)
+    ```
+    192.168.1.3
+    (11000000-10101000-10000000-00000000)
+    ```
+- **Transport**
+
+  In the world of Internet protocol traffic, consumers can choose between a TCP or UDP setup for their business or personal use. When it comes to TCP vs UDP features and functions, each brings its own set of advantages and challenges.
+
+  **What is TCP?**
+
+  Transmission Control Protocol (TCP) is connection-oriented.
+  > Once a connection has been established, data can be transmitted in two directions.
+
+  TCP has built-in systems to **check for errors** and to **guarantee data** will be delivered in the **order** it was sent, making it the perfect protocol for transferring information like *still images*, *data files*, and *web pages*.
+
+  But while TCP is instinctively reliable, its feedback mechanisms also result in a larger overhead, translating to greater use of the available bandwidth on your network.
+  ```
+  Sender TCP ---Connection Request---> Receiver TCP
+  Sender TCP <----------ACK---------- Receiver TCP
+  Sender TCP ----------ACK----------> Receiver TCP
+
+  # Three-way Handshake
+  ```
+  **What is UDP?**
+
+  User Datagram Protocol (UDP) is a simpler, connectionless Internet protocol wherein **error-checking and recovery services are not required**. With UDP, there is no overhead for **opening a connection, maintaining a connection, or terminating a connection**.
+  > Data is continuously sent to the recipient, whether or not they receive it. 
+
+  Although UDP isn’t ideal for sending an email, viewing a webpage, or downloading a file, it is largely preferred for **real-time communications** like broadcast or multitask network transmission.
+
+  **What is the Difference Between TCP and UDP?**
+  ![TCP-vs-UDP](TCP-vs-UDP.png "TCP-vs-UDP")
+  > TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol.
   
-- Transport -> Internet
-  
+  A key difference between TCP and UDP is speed, as **TCP is comparatively slower than UDP**. Overall, UDP is a much faster, simpler, and efficient protocol, however, **retransmission of lost data packets is only possible with TCP**. 
+
+  Another notable discrepancy with TCP vs UDP is that **TCP provides an ordered delivery** of data from user to server (and vice versa), whereas UDP is not dedicated to end-to-end communications, nor does it check the readiness of the receiver (requiring fewer overheads and taking up less space).
+- **Application**[^The-Application-Layer-in-TCP/IP-Model]
+
+  The application layer is the highest abstraction layer of the TCP/IP model that **provides the interfaces and protocols needed by the users**. It combines the functionalities of the session layer, the presentation layer and the application layer of the OSI model.
+
+  - The functions of the application layer are −
+    - It **facilitates the user to use the services** of the network.
+    - It is used to **develop network-based applications**.
+    - It **provides user services** like user login, naming network devices, formatting messages, and e-mails, transfer of files etc.
+    - It is also concerned with error handling and recovery of the message as a whole.
+
+  - This layer uses a number of protocols, the main among which are as follows −
+
 
   
   
@@ -61,3 +105,4 @@ This functionality is organized into four [abstraction layers](https://en.wikipe
 
 
 [^Internet_protocol_suite]: [Internet protocol suite - Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+[^The-Application-Layer-in-TCP/IP-Model]: [The Application Layer in TCP/IP Model (tutorialspoint.com)](https://www.tutorialspoint.com/The-Application-Layer-in-TCP-IP-Model#:~:text=The%20application%20layer%20is%20the,layer%20of%20the%20OSI%20model.&text=It%20facilitates%20the%20user%20to%20use%20the%20services%20of%20the%20network.)
