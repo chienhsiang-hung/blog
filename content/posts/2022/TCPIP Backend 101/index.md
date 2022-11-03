@@ -1,15 +1,16 @@
 ---
 title: "TCP/IP | Backend 101"
-date: 2022-11-03T02:30:00+08:00
-lastmod: 2022-11-03T02:30:00+08:00
+date: 2022-11-03T04:01:00+08:00
+lastmod: 2022-11-03T04:01:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
-tags: []
+  src: "featured-image.png"
+tags: ["Tcp Ip", "Tcp", "Internet Protocol", "Udp", "Communication Protocol"]
+categories: ["SE Interview 101"]
 toc:
   enable: true
 zhtw: false
@@ -28,7 +29,7 @@ In the development of this networking model, early versions of it were known as 
 
 > The Internet protocol suite provides  [end-to-end data communication](https://en.wikipedia.org/wiki/End-to-end_principle "End-to-end principle")  specifying **how data should be packetized, addressed, transmitted,  [routed](https://en.wikipedia.org/wiki/Routing "Routing"), and received.**
 
-![tcp-ip-model](tcp-ip-model.png "tcp-ip-model")
+![tcp-ip-model](featured-image.png "tcp-ip-model")
 This functionality is organized into four [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer "Abstraction layer"), which classify all related protocols according to each protocol's scope of networking.[[1]](https://en.wikipedia.org/wiki/Internet_protocol_suite#cite_note-rfc1122-1)[[2]](https://en.wikipedia.org/wiki/Internet_protocol_suite#cite_note-R9Fra-2)  An implementation of the layers for a particular application forms a  [protocol stack](https://en.wikipedia.org/wiki/Protocol_stack "Protocol stack"). From lowest to highest, the layers are
 - [link layer](https://en.wikipedia.org/wiki/Link_layer "Link layer"), containing communication methods for data that remains within a single network segment (link)
 - [internet layer](https://en.wikipedia.org/wiki/Internet_layer "Internet layer"), providing  [internetworking](https://en.wikipedia.org/wiki/Internetworking "Internetworking")  between independent networks
