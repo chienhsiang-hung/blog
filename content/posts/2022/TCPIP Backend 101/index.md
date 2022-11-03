@@ -97,6 +97,17 @@ This functionality is organized into four [abstraction layers](https://en.wikipe
     - It is also concerned with error handling and recovery of the message as a whole.
 
   - This layer uses a number of protocols, the main among which are as follows −
+    - *Hyper Text Transfer Protocol, HTTP* − It is the underlying protocol for world wide web. It defines how hypermedia messages are formatted and transmitted.
+    - *File Transfer Protocol, FTP* − It is a client-server based protocol for transfer of files between client and server over the network.
+    - *Simple Mail Transfer Protocol, SMTP* − It lays down the rules and semantics for sending and receiving electronic mails (e-mails).
+    - *Domain Name System, DNS* − It is a naming system for devices in networks. It provides services for translating domain names to IP addresses.
+    - *TELNET* − It provides bi-directional text-oriented services for remote login to the hosts over the network.
+    - *Simple Network Management Protocol, SNMP* − It is for managing, monitoring the network and for organizing information about the networked devices.
+
+## More to read
+1. [TCP vs. UDP: What’s the Difference? - Lifesize](https://www.lifesize.com/en/blog/tcp-vs-udp/#:~:text=TCP%20is%20a%20connection%2Doriented,is%20only%20possible%20with%20TCP.)
+2. [(20) 2018 Network Programming Basics #01 Quick Understanding Network Protocol (1) - YouTube](https://www.youtube.com/watch?v=iNITVjVLpxI)
+3. [(20) 2018 Network Programming Basics #02 Quick Understanding Network Communication Protocol Part2 - YouTube](https://www.youtube.com/watch?v=RDpyv1HET-o)
 
 
   
