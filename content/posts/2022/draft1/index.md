@@ -67,7 +67,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   {{< admonition type=info title="Related Preparation Materials" open=false >}}
   - [星普思管理諮詢有限公司面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/Mez6s)
   - [IT Strategy by Synpulse - YouTube](https://www.youtube.com/watch?v=_UXVU74IxeA)
-  - [(21) Mock Consulting Interview - Consultant - YouTube](https://www.youtube.com/watch?v=psuKyBsH1oo)
+  - [Mock Consulting Interview - Consultant - YouTube](https://www.youtube.com/watch?v=psuKyBsH1oo)
   {{< /admonition >}}
   The interview went smooth I think
     
