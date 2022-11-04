@@ -2,7 +2,7 @@
 title: "warm-up-interview"
 date: 2022-11-04T03:35:00+08:00
 lastmod: 2022-11-04T03:35:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
