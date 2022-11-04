@@ -28,7 +28,19 @@ zhtw: true
     3. Interact w/ API
 - [x] *2022-10-27* **HR Interview Invitation and Arrangment**
   - Rmb to prepare some Qs to ask
-- [ ] *2022-11-04* **HR Interview - Video Call**
+- [x] *2022-11-04* **HR Interview - Video Call**
+
+  [中文面試] Recruiter是才任職三個月的中國人
+  {{< admonition type=info title="Some Interview Info" open=false >}}
+  - [CTW株式会社面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/uyUBC)
+  - [日本互联网公司巡礼12 -- 快速成长的游戏平台 CTW - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/193118796)
+  - [双向奔赴东京游戏公司CTW，关于日语、工作签和面试 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/500304084)
+  - [CTW株式会社 - 搜索结果 - 知乎 (zhihu.com)](https://www.zhihu.com/search?type=content&q=CTW%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE)
+  - [CTW.inc是一家怎样的公司？---要从中国国内招人啦 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/393754469)
+  - [建议你不要浪费时间面试一家叫 CTW 的公司 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/518899417)
+  - [ctw株式会社在国内的求职候选人建议不要浪费时间 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/556792408)
+  - [日本东京互联网IT就职调研 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/401924091)
+  {{< /admonition >}}
 ## synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
