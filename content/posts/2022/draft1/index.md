@@ -59,7 +59,12 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     1. Hiring Manager Interview (Virtual)
     2. Case Study (Virtual) (1hr pre-study, 1hr presentation)
     3. Head Interview
-- [ ] *2022-11-04* **1st Round Virtual Interview w/ Hiring Manager**
+- [x] *2022-11-04* ~~**1st Round Virtual Interview w/ Hiring Manager**~~
+    
+    Only discovered **the 1st Round Interview was actually with a Consultant** in half an hour to the interview lol
+
+    The interview went smooth I think
+    
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
