@@ -1,8 +1,8 @@
 ---
 title: "warm-up-interview"
-date: 2022-11-03T08:40:00+08:00
-lastmod: 2022-11-03T08:40:00+08:00
-draft: true
+date: 2022-11-04T03:35:00+08:00
+lastmod: 2022-11-04T03:35:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -29,7 +29,6 @@ zhtw: true
 - [x] *2022-10-27* **HR Interview Invitation and Arrangment**
   - Rmb to prepare some Qs to ask
 - [ ] *2022-11-04* **HR Interview - Video Call**
-
 ## synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
@@ -43,7 +42,6 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     2. Case Study (Virtual) (1hr pre-study, 1hr presentation)
     3. Head Interview
 - [ ] *2022-11-04* **1st Round Virtual Interview w/ Hiring Manager**
-
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
@@ -208,8 +206,6 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     2. 可以用`set()`改寫嗎?
 
     至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
-
-
 ## 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
 
@@ -217,4 +213,27 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - [X] *2022-10-24* **面試邀約**
   - 安排面試時間10/28(五)上午11:00，將採線上面試，面試時請準備過往作品集或專案進行介紹。
 - [x] *2022-10-27* **面試邀約 回覆時間 重新安排面試時間至下周**
-- [ ] *2022-11-04* **線上面試 請準備過往作品集或專案進行介紹**
+- [X] *2022-11-04* **線上面試 請準備過往作品集或專案進行介紹**
+
+  _準備過往作品集或專案進行介紹_
+  
+  - [面試流程]
+
+    中文視訊(半小時)，面資訊處經理(原後端工程師升上來)，對方也是中山畢業資訊博班。原本兩位後端好像也都是中山的，一位回去中山念研究所了，另一位去博班要做教職。
+
+    流程上就是自我介紹(現職、工作內容、專案)
+    - 為什麼轉作工程師?
+    - IT Manager為什麼還會接觸到開發?
+    - 後端使用什麼Framework?
+    - 什麼時候開始寫程式?寫多久了?
+    - 資料庫你除了`MongoDB`以外還有用什麼?熟`SQL`或`MySQL`嗎?
+    - 為什麼會想要換新工作?
+    - 對我們公司的了解?
+    接著進行公司介紹，然後開放問問題。問: 目前IT團隊規模跟組成
+    
+    最後是一些公司制式要問的問題
+    - 工作上遇到困難會怎麼去解決?
+    - Git版本控制協作經驗?
+    - 如果專案上市在即，而公司資安被官方找出弱點需要修正，你怎麼辦?
+    
+    最後是期望薪資，根據目前面試其他公司的待遇，給出了一個低標後結束面試，說今天會review。聽完組織狀況跟打聽過這家狀況，應該是沒辦法給到我要的。
