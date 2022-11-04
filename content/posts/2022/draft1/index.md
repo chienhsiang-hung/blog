@@ -31,6 +31,10 @@ zhtw: true
 - [x] *2022-11-04* **HR Interview - Video Call**
 
   [中文面試] Recruiter是才任職三個月的中國人
+
+  閒聊。被告知如果進下一階段，Tech Interview會有2 rounds，然後才是CTO/CEO Interview
+
+  目前IT部門有30人，去年還只有15人，預計全公司擴展至300人
   {{< admonition type=info title="Some Interview Info" open=false >}}
   - [CTW株式会社面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/uyUBC)
   - [日本互联网公司巡礼12 -- 快速成长的游戏平台 CTW - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/193118796)
