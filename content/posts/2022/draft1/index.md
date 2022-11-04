@@ -36,6 +36,8 @@ zhtw: true
 
   目前IT部門有30人，去年還只有15人，預計全公司擴展至300人
 
+  期待薪資? 1.3-1.4M NTD (6M JPY)
+
   _被問為什麼會想投CTW，說是因為看到公司過了幾輪募資快速發展，但其實好像跟其他公司搞混了xd_
   {{< admonition type=info title="Some Interview Info" open=false >}}
   - [CTW株式会社面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/uyUBC)
@@ -61,7 +63,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     3. Head Interview
 - [x] *2022-11-04* ~~**1st Round Virtual Interview w/ Hiring Manager**~~
     
-    Only discovered **the 1st Round Interview was actually with a Consultant** in half an hour to the interview lol
+    Only discovered **the 1st Round Interview was actually interviewing with a Consultant[^AssociateConsultant]** in half an hour to the interview lol
 
     The interview went smooth I think
     
@@ -264,3 +266,4 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
 [^阿爾發證券投資顧問股份有限公司的薪資薪水情報]: [阿爾發證券投資顧問股份有限公司的薪資、薪水情報-台灣薪資情報網 (twjobs.net)](https://twjobs.net/q.aspx?q=%E9%98%BF%E7%88%BE%E7%99%BC%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+[^AssociateConsultant]: [星普思管理諮詢有限公司面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/Mez6s?)
