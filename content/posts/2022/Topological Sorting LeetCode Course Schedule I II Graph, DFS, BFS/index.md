@@ -1,15 +1,15 @@
 ---
 title: "Topological Sorting | LeetCode Course Schedule I/II | Graph, DFS, BFS"
-date: 2022-11-07T10:50:00+08:00
-lastmod: 2022-11-07T10:50:00+08:00
+date: 2022-11-07T13:40:00+08:00
+lastmod: 2022-11-07T13:40:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge u v, vertex u comes before v in the ordering."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["Tcp Ip", "Tcp", "Internet Protocol", "Udp", "Communication Protocol"]
+tags: ["Topological Sort", "Graph", "DFS", "Bfs", "Course Schedule"]
 toc:
   enable: true
 zhtw: false
