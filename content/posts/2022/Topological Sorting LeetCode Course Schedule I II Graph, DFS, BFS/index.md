@@ -60,6 +60,45 @@ Return  `true`  if you can finish all courses. Otherwise, return  `false`.
 -   `0 <= ai, bi < numCourses`
 -   All the pairs prerequisites[i] are  **unique**.
 
+**Thinking**
+
+This is basically the simpler version of [Course Schedule II](#course-schedule-ii).
+
+[**Code**](https://github.com/chienhsiang-hung/Data-Structures-and-Algorithms-in-Python/blob/main/Trees%20and%20Graphs/Course%20Schedule.py)
+```python
+# if there is a loop, it won't be possible to finish all courses
+
+from collections import defaultdict, deque
+
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        graph = defaultdict(list)
+        pre_cs_list = [0] * numCourses
+
+        for next_c, pre_c in prerequisites:
+            graph[pre_c].append(next_c)
+            pre_cs_list[next_c] += 1
+            
+        q = deque()
+        # check independent cources
+        for i in range(numCourses):
+            if pre_cs_list[i] == 0:
+                q.append(i)
+        
+
+        ans = []    
+        while q:
+            curr = q.popleft()
+            ans.append(curr)
+
+            for next_c in graph[curr]:
+
+                pre_cs_list[next_c] -= 1
+                if pre_cs_list[next_c] == 0:
+                    q.append(next_c)
+        return len(ans) == numCourses
+```
+
 ### Course Schedule II
 **LeetCode 210. Course Schedule II**[^course-schedule-ii]
 
