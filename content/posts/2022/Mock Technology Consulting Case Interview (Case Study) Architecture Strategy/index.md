@@ -8,7 +8,7 @@ authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
+  src: "featured-image.jpg"
 tags: []
 toc:
   enable: true
@@ -41,5 +41,12 @@ An enterprise architecture plan is an overall structural strategy for all IT sys
 Your manager has asked you to develop the new architecture plan by analyzing the current systems and interviewing stakeholders. What aspects of the current system would you want to analyze? How would you gather the information?
 
 {{< admonition type=note title="Intuition" open=false >}}
+**New Architecture Plan** by
+- Analyzing the current systems
+- Interviewing stakeholders
 
++ What aspects would you focus on?
++ How to gather info?
+
+I want to first check the current systems about 1. how much they
 {{< /admonition >}}
