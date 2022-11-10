@@ -1,11 +1,11 @@
 ---
 title: "Mock Technology Consulting Case Interview (Case Study): Architecture Strategy"
-date: 2022-11-10T09:15:00+08:00
-lastmod: 2022-11-10T09:15:00+08:00
+date: 2022-11-10T10:20:00+08:00
+lastmod: 2022-11-10T10:20:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "Architecture Strategy: Federal Finance Agency Practice Case from Deloitte and Christine Wong. Our client is a small division of a large Federal Finance Agency that is in charge of administering and enforcing economic and trade sanctions determined by US foreign policy and national security goals."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
@@ -55,6 +55,8 @@ I want to first check the current systems about 1. how much they...
 The scope of the project is potentially very large given the consolidation of software systems, data structures, and potential new development efforts. How would you prioritize the list of requirements for the new system?
 ### Q3
 What factors out of Deloitte’s control will determine the scope of the project?
+
+*A good answer may include that the scope of the project is constrained by **time**, **resources**, and **budget**.*
 ### Q4
 After your current state analysis, it has been determined that the client’s biggest pain point is the amount of time it takes to enter data into each system and that this could be improved by creating a unified data architecture to be used across all systems. What steps would you go through to implement this new database? What do each of these steps entail?
 
