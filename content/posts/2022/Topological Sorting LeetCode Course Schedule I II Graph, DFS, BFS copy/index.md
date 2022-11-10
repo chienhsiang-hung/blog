@@ -15,7 +15,7 @@ toc:
 zhtw: false
 ---
 ## Case
-*[Architecture Strategy: Federal Finance Agency Practice Case](https://docs.google.com/document/d/1-bYDsnRg4lzUpmVXavqS8jR_mGGeagFMj63du50PQOo/edit) from [Deloitte]() and [Christine Wong](https://www.youtube.com/c/ChristineWong).*
+*[Architecture Strategy: Federal Finance Agency Practice Case](https://docs.google.com/document/d/1-bYDsnRg4lzUpmVXavqS8jR_mGGeagFMj63du50PQOo) from [Deloitte]() and [Christine Wong](https://www.youtube.com/c/ChristineWong).*
 ### Architecture Strategy: Federal Finance Agency
 **Our client is a small division of a large Federal Finance Agency that is in charge of administering and enforcing economic and trade sanctions determined by US foreign policy and national security goals.**
 
