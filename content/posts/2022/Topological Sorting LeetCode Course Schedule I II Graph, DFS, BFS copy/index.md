@@ -2,7 +2,7 @@
 title: "Mock Technology Consulting Case Interview (Case Study): Architecture Strategy"
 date: 2022-11-10T09:15:00+08:00
 lastmod: 2022-11-10T09:15:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
