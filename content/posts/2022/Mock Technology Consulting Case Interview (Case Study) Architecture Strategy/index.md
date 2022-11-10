@@ -17,7 +17,7 @@ zhtw: false
 ## Case
 *[Architecture Strategy: Federal Finance Agency Practice Case](https://docs.google.com/document/d/1-bYDsnRg4lzUpmVXavqS8jR_mGGeagFMj63du50PQOo) from [Deloitte]() and [Christine Wong](https://www.youtube.com/c/ChristineWong).*
 ### Architecture Strategy: Federal Finance Agency
-**Our client is a small division of a large Federal Finance Agency that is in charge of administering and enforcing economic and trade sanctions determined by US foreign policy and national security goals.**
+Our client is a small division of a large Federal Finance Agency that is in charge of administering and enforcing economic and trade sanctions determined by US foreign policy and national security goals.
 #### BUSINESS SITUATION
 The agency’s office uses a number of software application systems to track and manage cases, applications, transactions, and other financial documents. Recently, the division has experienced increased workload due to changes in US foreign policy as well as high staff turnover. The change in US foreign policy and high staff turnover has led to a substantial backlog of unprocessed paperwork.
 
