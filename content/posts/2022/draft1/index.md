@@ -1,7 +1,7 @@
 ---
 title: "warm-up-interview"
-date: 2022-11-07T03:35:00+08:00
-lastmod: 2022-11-07T03:35:00+08:00
+date: 2022-11-10T04:28:00+08:00
+lastmod: 2022-11-10T04:28:00+08:00
 draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -49,6 +49,7 @@ zhtw: true
   - [ctw株式会社在国内的求职候选人建议不要浪费时间 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/556792408)
   - [日本东京互联网IT就职调研 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/401924091)
   {{< /admonition >}}
+- [x] *2022-11-10* **Rejected**
 ## synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
@@ -78,7 +79,11 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   3. Behavioral Questions
 
   [Synpulse Consultant Interview Questions | Glassdoor](https://www.glassdoor.com/Interview/Synpulse-Consultant-Interview-Questions-EI_IE940996.0,8_KO9,19.htm)
-    
+  
+  Do I need to make a ppt?
+- [ ] *2022-11-11* **2nd Round Interview w/ AP (Case Study)**
+
+  1 hr case study -> 10 mins presentation -> 50 mins QA
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
