@@ -38,4 +38,8 @@ An enterprise architecture plan is an overall structural strategy for all IT sys
 -   Additional goals of the project include adapting to foreign languages, standardizing internal reporting and decreasing throughput time for form processing.
 
 ### Q1
-**Your manager has asked you to develop the new architecture plan by analyzing the current systems and interviewing stakeholders. What aspects of the current system would you want to analyze? How would you gather the information?**
+Your manager has asked you to develop the new architecture plan by analyzing the current systems and interviewing stakeholders. What aspects of the current system would you want to analyze? How would you gather the information?
+
+{{< admonition type=note title="Intuition" open=false >}}
+
+{{< /admonition >}}
