@@ -1,7 +1,7 @@
 ---
 title: "Mock Technology Consulting Case Interview (Case Study): Architecture Strategy"
 date: 2022-11-10T10:20:00+08:00
-lastmod: 2022-11-10T10:20:00+08:00
+lastmod: 2022-11-11T01:56:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -40,7 +40,7 @@ An enterprise architecture plan is an overall structural strategy for all IT sys
 
 ### Q1
 Your manager has asked you to develop the new architecture plan by analyzing the current systems and interviewing stakeholders. What aspects of the current system would you want to analyze? How would you gather the information?
-{{< admonition type=note title="Intuition" open=false >}}
+{{< admonition type=note title="Intuition" open=true >}}
 **Architecture Plan** by
 - Analyzing the current systems
 - Interviewing stakeholders
@@ -58,11 +58,47 @@ I want to first check the current systems about 1. how much they...
 {{< /admonition >}}
 ### Q2
 The scope of the project is potentially very large given the consolidation of software systems, data structures, and potential new development efforts. How would you prioritize the list of requirements for the new system?
+{{< admonition type=note title="Intuition" open=true >}}
+1. Interview
+2. System examine
+3. Test
+
+Wrong in a way it should be the Priority not the Process/Procedure
+{{< /admonition >}}
+{{< admonition type=tip title="Tip" open=false >}}
+Tell the difference btw wants and needs.
+
+A: Rank and weight the requirements based on an objective methodology
+
+B: Maintain a traceability matrix to **track requirements throughout implementation**
+
+C: Have a small group of approvers from the leadership team **be responsible for approving the final list** of high priority requirements
+
+All of the above would be good answers for how to prioritize the list of requirements for the new system.
+{{< /admonition >}}
 ### Q3
 What factors out of Deloitte’s control will determine the scope of the project?
 
 *A good answer may include that the scope of the project is constrained by **time**, **resources**, and **budget**.*
+
+A great answer may include some of the following:
+
+-   Budget, new US foreign policy, and time
+    
+-   The agency’s availability of resources, documentation of current system and acceptance of change regarding a new system
 ### Q4
 After your current state analysis, it has been determined that the client’s biggest pain point is the amount of time it takes to enter data into each system and that this could be improved by creating a unified data architecture to be used across all systems. What steps would you go through to implement this new database? What do each of these steps entail?
+
+A good answer may include some of the following:
+
+Identify requirements, design, build, testing, training and maintenance; recognize that data de-duplication is an important issue for the new system given that this pain point was mentioned in the business situation
+
+A great answer may include some of the following:
+
+-   Update existing software systems to pull from new database tables and use an ERD diagram/UML modeling system to display structure
+    
+-   Mention issues with moving data from old to new database: data conversion, data profiling/cleansing, warehousing, data standardization. Inquire about the types and quantity of data that needs to be stored as well as data dependencies in the existing databases
+    
+-   Test the data structure using system testing, integration testing, systems integration testing, and user acceptance testing
 
 [^CAREERCOACHING]: [Mock Technology Consulting Case Interview: Architecture Strategy | CAREER COACHING WITH CHRISTINE - YouTube](https://www.youtube.com/watch?v=92FQs2fXJ9I&list=LL&index=2)
