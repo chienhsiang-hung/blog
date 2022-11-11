@@ -39,7 +39,7 @@ zhtw: true
   期待薪資? 1.3-1.4M NTD (6M JPY)
 
   _被問為什麼會想投CTW，說是因為看到公司過了幾輪募資快速發展，但其實好像跟其他公司搞混了xd_
-  {{< admonition type=info title="Some Interview Info" open=false >}}
+  {{< admonition type=info title="Some Interview Info" open=true >}}
   - [CTW株式会社面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/uyUBC)
   - [日本互联网公司巡礼12 -- 快速成长的游戏平台 CTW - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/193118796)
   - [双向奔赴东京游戏公司CTW，关于日语、工作签和面试 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/500304084)
