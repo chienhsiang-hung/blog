@@ -40,7 +40,6 @@ An enterprise architecture plan is an overall structural strategy for all IT sys
 
 ### Q1
 Your manager has asked you to develop the new architecture plan by analyzing the current systems and interviewing stakeholders. What aspects of the current system would you want to analyze? How would you gather the information?
-
 {{< admonition type=note title="Intuition" open=false >}}
 **Architecture Plan** by
 - Analyzing the current systems
@@ -50,6 +49,12 @@ Your manager has asked you to develop the new architecture plan by analyzing the
 + How to gather info?
 
 I want to first check the current systems about 1. how much they...
+{{< /admonition >}}
+{{< admonition type=tip title="Tip" open=false >}}
+- Analyze opportunities for alignment between the business processes
+- Analyze **data issues in each database** – determine where data is being recorded twice in between different systems and similarities / differences in data models for each database
+- Analyze current business processes by identifying **key use cases**
+- Create a **data mapping** to see how the same information is being recorded in multiple systems
 {{< /admonition >}}
 ### Q2
 The scope of the project is potentially very large given the consolidation of software systems, data structures, and potential new development efforts. How would you prioritize the list of requirements for the new system?
