@@ -89,10 +89,12 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   {{< /admonition >}}
 - [x] *2022-11-11* **2nd Round Interview w/ AP (Case Study)**
 
-  1 hr case study -> 10 mins presentation -> 50 mins QA
+  Anticipated process:
+  - 1 hr case study (prior to the call) -> 10 mins presentation -> 50 mins QA
 
-  
-  *The material I used to prepare before the interview [(Mock Technology Consulting Case Interview (Case Study): Architecture Strategy)](https://chienhsiang-hung.github.io/blog/posts/2022/mock-technology-consulting-case-interview-case-study-architecture-strategy/) that you can use.*
+    *The material I used to prepare before the interview [(Mock Technology Consulting Case Interview (Case Study): Architecture Strategy)](https://chienhsiang-hung.github.io/blog/posts/2022/mock-technology-consulting-case-interview-case-study-architecture-strategy/) that you can use.*
+
+  Real Process:
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
