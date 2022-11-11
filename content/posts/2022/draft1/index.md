@@ -84,12 +84,15 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   [[Report]](dttl-TOMS-Case-Study-8-4-14.pdf) From [Deloitte Digital Case Study: TOMS | Deloitte | Technology Services | Case studies](https://www2.deloitte.com/in/en/pages/technology/articles/deloitte-digital-case-study-toms.html)
 
   [Technology Consulting Case Interview: What You Need to Know (thinkific.com)](https://hackingthecaseinterview.thinkific.com/pages/technology-consulting-case-interview)
-  
+
   Do I need to make a ppt?
   {{< /admonition >}}
 - [x] *2022-11-11* **2nd Round Interview w/ AP (Case Study)**
 
   1 hr case study -> 10 mins presentation -> 50 mins QA
+
+  
+  *The material I used to prepare before the interview [(Mock Technology Consulting Case Interview (Case Study): Architecture Strategy)](https://chienhsiang-hung.github.io/blog/posts/2022/mock-technology-consulting-case-interview-case-study-architecture-strategy/) that you can use.*
 ## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
