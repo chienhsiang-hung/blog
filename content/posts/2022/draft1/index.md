@@ -1,8 +1,8 @@
 ---
 title: "warm-up-interview"
-date: 2022-11-11T07:46:00+08:00
-lastmod: 2022-11-11T07:46:00+08:00
-draft: true
+date: 2022-11-12T07:46:00+08:00
+lastmod: 2022-11-12T07:46:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -82,6 +82,10 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
   [Synpulse Consultant Interview Questions | Glassdoor](https://www.glassdoor.com/Interview/Synpulse-Consultant-Interview-Questions-EI_IE940996.0,8_KO9,19.htm)
 
   [[Report]](dttl-TOMS-Case-Study-8-4-14.pdf) From [Deloitte Digital Case Study: TOMS | Deloitte | Technology Services | Case studies](https://www2.deloitte.com/in/en/pages/technology/articles/deloitte-digital-case-study-toms.html)
+
+  [Mock Technology Consulting Case Interview: Tech Transformation | CAREER COACHING WITH CHRISTINE - YouTube](https://www.youtube.com/watch?v=oc2zYWRPMqA)
+
+  [Interviewee Led Tech Case Interview | CAREER COACHING WITH CHRISTINE - YouTube](https://www.youtube.com/watch?v=2EfCyJ6XYeM)
 
   [Technology Consulting Case Interview: What You Need to Know (thinkific.com)](https://hackingthecaseinterview.thinkific.com/pages/technology-consulting-case-interview)
 
