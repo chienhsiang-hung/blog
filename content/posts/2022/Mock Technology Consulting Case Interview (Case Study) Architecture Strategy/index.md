@@ -1,7 +1,7 @@
 ---
 title: "Mock Technology Consulting Case Interview (Case Study): Architecture Strategy"
 date: 2022-11-10T10:20:00+08:00
-lastmod: 2022-11-11T01:56:00+08:00
+lastmod: 2022-11-12T08:18:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -9,7 +9,7 @@ description: "Architecture Strategy: Federal Finance Agency Practice Case from D
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: []
+tags: ["Tech Consulting", "Case Study", "Management Consulting", "Banking Technology", "Case Interview"]
 toc:
   enable: true
 zhtw: false
