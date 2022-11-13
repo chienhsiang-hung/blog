@@ -1,7 +1,7 @@
 ---
 title: "warm-up-interview"
-date: 2022-11-12T07:46:00+08:00
-lastmod: 2022-11-12T07:46:00+08:00
+date: 2022-11-13T02:23:00+08:00
+lastmod: 2022-11-13T02:23:00+08:00
 draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -170,7 +170,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     ```
     三個都是O(n)，但實際運行好像有看過文章說`tuple`比`list`快，不確定
 
-    再來是第二題，針對字串相加進行提問
+    再來是第二題，針對字串相加進行提問[^StringProblem]
     ```python
     from collections import defaultdict
 
@@ -207,7 +207,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     print(SearchingChallenge(input()))
     ```
     1. 有沒有別的作法，如何改善
-    2. 為什麼要在前面一開始(第七行)加 / 為什麼要用空格區分，有沒有比較快的方式
+    2. 為什麼要在前面一開始(第七行)加 / 為什麼要用空格區分，有沒有比較快的方式[^StringProblem]
         
             strParam += ' '
 
@@ -215,7 +215,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
             
             current_word += mychr
         
-        這種字串相加會有什麼問題，如何優化?
+        這種字串相加會有什麼問題，如何優化?[^StringProblem]
     
     再來是`SQL`題，有先告知自己當時因為公司沒有使用，所以對`SQL`不熟
     ```sql
@@ -300,3 +300,4 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
 [^阿爾發證券投資顧問股份有限公司的薪資薪水情報]: [阿爾發證券投資顧問股份有限公司的薪資、薪水情報-台灣薪資情報網 (twjobs.net)](https://twjobs.net/q.aspx?q=%E9%98%BF%E7%88%BE%E7%99%BC%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+[^StringProblem]: [How To Efficiently Concatenate Strings In Python | by Dinesh Kumar K B | Python in Plain English](https://python.plainenglish.io/concatenating-strings-efficiently-in-python-9bfc8e8d6f6e#:~:text=The%20time%20complexity%20of%20using,not%20see%20a%20huge%20difference.)
