@@ -81,4 +81,4 @@ Now you need to look closer to the problem and draw the routes. For example ``[[
           1 -> 23 -> 24
                3  -> 6
 
-We need to utilize `queue` to achieve the transfer record like. How? By **traversing the same route first then other branches**.
+We need to utilize `queue` to achieve the transfer record like. How? By **traversing the same route first then other branches**. So that queue would be like `[20,1,3,8,11,23,6...]`.
