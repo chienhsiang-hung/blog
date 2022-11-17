@@ -1,18 +1,19 @@
 ---
 title: "Python to Read Large Excel/CSV File Faster"
-date: 2022-11-17T03:21:00+08:00
-lastmod: 2022-11-17T03:21:00+08:00
+date: 2022-11-17T05:23:00+08:00
+lastmod: 2022-11-17T05:23:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
-tags: []
+  src: "featured-image.jpg"
+tags: ["Python", "Read Excel File", "Pandas", "Pandas Dataframe", "Read Csv"]
 toc:
   enable: true
 ---
+![featured-image.jpg](featured-image.jpg "Img Source: https://unsplash.com/photos/Wpnoqo2plFA")
 ## Read a CSV with PyArrow
 In Pandas 1.4, released in January 2022, there is a new backend for CSV reading, relying on the Arrow library’s CSV parser. It’s still marked as experimental, and it doesn’t support all the features of the default parser—but it is faster.[^pandas-read-csv-fast]
 
