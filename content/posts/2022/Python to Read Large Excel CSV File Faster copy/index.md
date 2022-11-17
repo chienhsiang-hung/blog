@@ -135,3 +135,45 @@ Failed at **Input**:
 Dry run the code you will find the issue here: **How can we find the shortest route (in terms of number of transfer needed)?** *(Since the output was 4 and expected is 1.)*
 ## Find The Shortest Route (Transfer)
 You will need to divide the searching route and record it and find the `min`.
+```python
+from collections import defaultdict, deque
+
+class Solution:
+    def numBusesToDestination(self, routes, source: int, target: int) -> int:
+        adj_map = defaultdict(list)
+        visited_map = defaultdict(lambda: False)
+
+        # travers the routes to build a Adj List
+        for bus_num in range(len(routes)):
+            for n_stop in range(len(routes[bus_num])):
+                next_stop_i = (n_stop +1) % len(routes[bus_num])
+                next_stop = routes[bus_num][next_stop_i]
+
+                adj_map[ routes[bus_num][n_stop] ].append( (next_stop, bus_num) )
+
+
+        transfers = []
+        def search(current, current_bus_num, target, n_transfer=1):
+            if current == target:
+                transfers.append(n_transfer)
+                return
+
+            if visited_map[current]:
+                return
+            visited_map[current] = True
+
+            for next_stop, next_bus_num in adj_map[current]:
+                if current_bus_num == next_bus_num:
+                    search(next_stop, next_bus_num, target, n_transfer)
+                else:
+                    search(next_stop, next_bus_num, target, n_transfer+1)
+
+
+        visited_map[source] = True
+        for next_stop, bus_num in adj_map[source]:
+            search(next_stop, bus_num, target)
+
+        return -1 if not transfers else min(transfers)
+```
+Then I proposed the new solution with **num of transfers recorded** while failed at case like `[[10,21,24,31,32,34,37],[10,19,28,37],[11,17,23,31,41,43,44],[21,26,29,33],[5,11,33,41],[4,5,8,9,24,44]]`, `output=2`, `expected=1`. You need to be careful of adapting **1D visited record or 2D**.
+## 2D Visited Matrix
