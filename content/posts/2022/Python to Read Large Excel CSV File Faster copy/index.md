@@ -223,4 +223,4 @@ class Solution:
 
         return -1 if not transfers else min(transfers)
 ```
-With the *2-d visited matrix*, still I got the wrong output. After a further examination, I've found I've might been using the wrong technique. I should have adopt **BFS** instead of **DFS** which made my visited matrix useless here (sine it needs to be updated on each branch).
+With the *2-d visited matrix*, still I got the wrong output. After a further examination, I've found I've might been using the wrong technique. I should have adopted **BFS** instead of **DFS** which made my visited matrix useless here (sine it needs to be updated on each branch).
