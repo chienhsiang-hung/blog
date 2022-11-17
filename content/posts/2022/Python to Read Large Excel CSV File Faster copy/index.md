@@ -75,10 +75,12 @@ for i in range( len(adj_map[current]) ):
             (adj_map[current][i], n_bus+1)
         )
 ```
-Now you need to look closer to the problem and draw the routes. For example ``[[24],[3,6,11,14,22],[1,23,24],[0,6,14],[1,3,8,11,20]]` the first 4 rounds should be:
+Now you need to look closer to the problem and draw the routes. For example `[[24],[3,6,11,14,22],[1,23,24],[0,6,14],[1,3,8,11,20]]` the first 4 rounds should be:
 
     20 -> 1 -> 3  -> 8
           1 -> 23 -> 24
                3  -> 6
 
 We need to utilize `queue` to achieve the transfer record like. How? By **traversing the same route first then other branches**. So that queue would be like `[20,1,3,8,11,23,6...]`.
+
+*What if we have multiple stop to transfer at the first stop?* Let's say `[[24,20],[3,6,11,14,22],[1,23,24],[0,6,14],[1,3,8,11,20]]`. Then you need to know where they are by tagging their `bus_num` in the `adj_list`.
