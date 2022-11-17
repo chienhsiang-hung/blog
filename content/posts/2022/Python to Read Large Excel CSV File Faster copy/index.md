@@ -177,3 +177,50 @@ class Solution:
 ```
 Then I proposed the new solution with **num of transfers recorded** while failed at case like `[[10,21,24,31,32,34,37],[10,19,28,37],[11,17,23,31,41,43,44],[21,26,29,33],[5,11,33,41],[4,5,8,9,24,44]]`, `output=2`, `expected=1`. You need to be careful of adapting **1D visited record or 2D**.
 ## 2D Visited Matrix
+```python
+from collections import defaultdict, deque
+
+class Solution:
+    def numBusesToDestination(self, routes, source: int, target: int) -> int:
+        adj_map = defaultdict(list)
+        # prepare a 2-d visited matrix
+        visited_map = [
+            [False] * len(routes[i]) for i in range(len(routes))
+        ]
+
+        # travers the routes to build a Adj List
+        for bus_num in range(len(routes)):
+            for n_stop in range(len(routes[bus_num])):
+                next_stop_i = (n_stop +1) % len(routes[bus_num])
+                next_stop = routes[bus_num][next_stop_i]
+
+                adj_map[ routes[bus_num][n_stop] ].append( (next_stop, bus_num, n_stop) )
+
+                # init source visited
+                if n_stop == source:
+                    visited_map[bus_num][n_stop] = True
+
+
+        transfers = []
+        def search(current, current_bus_num, n_stop, target, n_transfer=1):
+            if current == target:
+                transfers.append(n_transfer)
+                return
+
+            if visited_map[current_bus_num][n_stop]:
+                return
+            visited_map[current_bus_num][n_stop] = True
+
+            for next_stop, next_bus_num, n_stop in adj_map[current]:
+                if current_bus_num == next_bus_num:
+                    search(next_stop, next_bus_num, n_stop, target, n_transfer)
+                else:
+                    search(next_stop, next_bus_num, n_stop, target, n_transfer+1)
+
+
+        for next_stop, bus_num, n_stop in adj_map[source]:
+            search(next_stop, bus_num, n_stop, target)
+
+        return -1 if not transfers else min(transfers)
+```
+With the *2-d visited matrix*, still I got the wrong output. After a further examination, I've found I've might been using the wrong technique. I should have adopt **BFS** instead of **DFS** which made my visited matrix useless here (sine it needs to be updated on each branch).
