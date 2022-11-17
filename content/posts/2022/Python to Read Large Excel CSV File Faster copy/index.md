@@ -134,3 +134,4 @@ Failed at **Input**:
 
 Dry run the code you will find the issue here: **How can we find the shortest route (in terms of number of transfer needed)?** *(Since the output was 4 and expected is 1.)*
 ## Find The Shortest Route (Transfer)
+You will need to divide the searching route and record it and find the `min`.
