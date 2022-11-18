@@ -14,7 +14,6 @@ toc:
   enable: true
 zhtw: true
 ---
-## Osaka
+## Sapporo
 ### Flight
-2022-02-19(Sun) to 2022-02-24(Fri) at $8,351
-![Round-trip-to-Osaka](Round-trip-to-Osaka.png "Round-trip-to-Osaka.png")
+2022-01-05(Thu) to 2022-01-10(Tue) at $13,091 (2 round-tickets, 1* 20kg outbound + 1* 25kg inbound)
