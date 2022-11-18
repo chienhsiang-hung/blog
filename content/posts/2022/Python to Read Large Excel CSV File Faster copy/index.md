@@ -1,7 +1,7 @@
 ---
 title: ""
-date: 2022-11-17T11:24:00+08:00
-lastmod: 2022-11-17T11:24:00+08:00
+date: 2022-11-18T11:19:00+08:00
+lastmod: 2022-11-18T11:19:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -13,8 +13,8 @@ tags: []
 toc:
   enable: true
 ---
-## Classic BFS
-At first, I came oup with a classic BFS solution.
+## Classic DFS
+At first, I came oup with a classic DFS solution.
 ```python
 from collections import defaultdict, deque
 
