@@ -16,4 +16,4 @@ zhtw: true
 ---
 ## Sapporo
 ### Flight
-2022-01-05(Thu) to 2022-01-10(Tue) at $13,091 (2 round-tickets, 1* 20kg outbound + 1* 25kg inbound)
+2022-01-05(Thu) to 2022-01-10(Tue) at Scoot TPE to Sapporo $13,091NTD (2 round-tickets, 1* 20kg outbound + 1* 25kg inbound)
