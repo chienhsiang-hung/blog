@@ -14,6 +14,9 @@ toc:
   enable: true
 zhtw: true
 ---
+## Appier - Technical Service Engineer (GCR) - TW
+- [x] *2022-11-17* **Interview Invitation**
+
 ## CTW - Backend Engineer-Python - JP
 [Senior Backend Engineer- Python｜CTW株式会社｜日本－104 人力銀行](https://www.104.com.tw/job/7ri1p?jobsource=pda_i)
 
