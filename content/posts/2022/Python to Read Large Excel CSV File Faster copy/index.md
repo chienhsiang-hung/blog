@@ -13,7 +13,9 @@ tags: []
 toc:
   enable: true
 ---
-## Classic DFS
+## Question
+## Attempts
+### Classic DFS
 At first, I came oup with a classic DFS solution.
 ```python
 from collections import defaultdict, deque
@@ -84,7 +86,7 @@ Now you need to look closer to the problem and draw the routes. For example `[[2
 We need to utilize `queue` to achieve the transfer record like. How? By **traversing the same route first then other branches**. So that queue would be like `[20,1,3,8,11,23,6...]`.
 
 *What if we have multiple stop to transfer at the first stop?* Let's say `[[24,20],[3,6,11,14,22],[1,23,24],[0,6,14],[1,3,8,11,20]]`. Then you need to know where they are by tagging their `bus_num` in the `adj_list`.
-## Remember The Bus Number
+### Remember The Bus Number
 ```python
 from collections import defaultdict, deque
 
@@ -133,7 +135,7 @@ Failed at **Input**:
 `[[1,9,12,20,23,24,35,38],[10,21,24,31,32,34,37,38,43],[10,19,28,37],[8],[14,19],[11,17,23,31,41,43,44],[21,26,29,33],[5,11,33,41],[4,5,8,9,24,44]]` ,`source=37`, `target=28`
 
 Dry run the code you will find the issue here: **How can we find the shortest route (in terms of number of transfer needed)?** *(Since the output was 4 and expected is 1.)*
-## Find The Shortest Route (Transfer)
+### Find The Shortest Route (Transfer)
 You will need to divide the searching route and record it and find the `min`.
 ```python
 from collections import defaultdict, deque
@@ -176,7 +178,7 @@ class Solution:
         return -1 if not transfers else min(transfers)
 ```
 Then I proposed the new solution with **num of transfers recorded** while failed at case like `[[10,21,24,31,32,34,37],[10,19,28,37],[11,17,23,31,41,43,44],[21,26,29,33],[5,11,33,41],[4,5,8,9,24,44]]`, `output=2`, `expected=1`. You need to be careful of adapting **1D visited record or 2D**.
-## 2D Visited Matrix
+### 2D Visited Matrix
 ```python
 from collections import defaultdict, deque
 
@@ -224,3 +226,9 @@ class Solution:
         return -1 if not transfers else min(transfers)
 ```
 With the *2-d visited matrix*, still I got the wrong output. After a further examination, I've found I've might been using the wrong technique. I should have adopted **BFS** instead of **DFS** which made my visited matrix useless here (sine it needs to be updated/re-initialized on each branch).
+
+**You need to do BFS simultaniously.**
+
+To record the visited-matrix in order to determine whether to stop or not.
+## Why BFS
+In order to record the right process. Imagine you're taking a bus, you have tried all the bus on that specific station, would you come back again before you reach the end given the condition that you have travelled all the possible routes starts from this station. *(Inspired by [zippysphinx](https://leetcode.com/zippysphinx/)'s [Solution](https://leetcode.com/problems/bus-routes/solutions/1072394/python-bfs-solution/?orderBy=most_votes).)*
