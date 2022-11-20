@@ -1,8 +1,8 @@
 ---
 title: ""
-date: 2022-11-18T11:19:00+08:00
-lastmod: 2022-11-18T11:19:00+08:00
-draft: true
+date: 2022-11-20T11:19:00+08:00
+lastmod: 2022-11-20T11:19:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -283,4 +283,4 @@ test1 = [[3,16,33,45,59,79,103,135],[3,35,39,54,56,78,96,101,120,132,146,148],[1
 ```
 We need to re-think the problem, how do we walk through the routes? Or in other words, how do we travel from a to b by bus if we have no maps?
 ## Why BFS
-In order to record the right process. Imagine you're taking a bus, you have tried all the bus on that specific station, would you come back again before you reach the end given the condition that you have travelled all the possible routes starts from this station. *(Inspired by [zippysphinx](https://leetcode.com/zippysphinx/)'s [Solution](https://leetcode.com/problems/bus-routes/solutions/1072394/python-bfs-solution/?orderBy=most_votes).)*
+In order to record the right process. Imagine you're taking a bus, you have tried all the bus on that specific station. Would you come back again before you reach the end given the condition that you have travelled all the possible routes starts from this station? *(Inspired by [zippysphinx](https://leetcode.com/zippysphinx/)'s [Solution](https://leetcode.com/problems/bus-routes/solutions/1072394/python-bfs-solution/).)*
