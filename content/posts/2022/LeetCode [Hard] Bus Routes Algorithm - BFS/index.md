@@ -1,19 +1,20 @@
 ---
-title: ""
-date: 2022-11-20T11:19:00+08:00
-lastmod: 2022-11-20T11:19:00+08:00
+title: "LeetCode [Hard] Bus Routes | Algorithm - BFS"
+date: 2022-11-20T06:43:00+08:00
+lastmod: 2022-11-20T06:43:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "We need to re-think the problem, how do we walk through the routes? Or in other words, how do we travel from a to b by bus if we have no maps?"
 resources:
 - name: "featured-image"
-  src: ""
-tags: []
+  src: "featured-image.jpg"
+tags: ["Algorithms", "Leetcode", "Bfs", "Breadth First Search", "Python"]
 toc:
   enable: true
 ---
 ## Question
+[Bus Routes - LeetCode](https://leetcode.com/problems/bus-routes/)
 ## Attempts
 ### Classic DFS
 At first, I came oup with a classic DFS solution.
@@ -228,7 +229,7 @@ class Solution:
 With the *2-d visited matrix*, still I got the wrong output. After a further examination, I've found I've might been using the wrong technique. I should have adopted **BFS** instead of **DFS** which made my visited matrix useless here (sine it needs to be updated/re-initialized on each branch).
 
 **You need to do BFS simultaniously.**
-
+![Bus Routes 0](Bus%20Routes%200.jpg "Bus Routes 0")
 To record the visited-matrix in order to determine whether to stop or not.
 ```python
 from collections import defaultdict, deque
@@ -284,3 +285,40 @@ test1 = [[3,16,33,45,59,79,103,135],[3,35,39,54,56,78,96,101,120,132,146,148],[1
 We need to re-think the problem, how do we walk through the routes? Or in other words, how do we travel from a to b by bus if we have no maps?
 ## Why BFS
 In order to record the right process. Imagine you're taking a bus, you have tried all the bus on that specific station. Would you come back again before you reach the end given the condition that you have travelled all the possible routes starts from this station? *(Inspired by [zippysphinx](https://leetcode.com/zippysphinx/)'s [Solution](https://leetcode.com/problems/bus-routes/solutions/1072394/python-bfs-solution/).)*
+![bus by bus](featured-image.jpg "bus by bus")
+```python
+from collections import defaultdict, deque
+
+class Solution:
+    def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
+        transfers = 0
+        if source == target:
+            return transfers
+
+        # create a stop-to-buses map
+        stop_to_bus = defaultdict(set)
+        for bus_num in range(len(routes)):
+            for i in range(len(routes[bus_num])):
+                stop_to_bus[routes[bus_num][i]].add(bus_num)
+        
+        visited_buses = [False] * len(routes)
+        bus_queue = deque([
+            stop_to_bus[source] # set of buses
+        ])
+        while bus_queue[0]:
+            current_buses = bus_queue.popleft()
+            
+            transfers += 1
+            bus_queue.append(set())
+            for bus in current_buses:
+                visited_buses[bus] = True
+                for stop in routes[bus]:
+                    if stop == target:
+                        return transfers
+
+                    # add new bus to visit
+                    for next_bus in stop_to_bus[stop]:
+                        if not visited_buses[ next_bus ]:
+                            bus_queue[-1].add( next_bus )
+        return -1
+```
