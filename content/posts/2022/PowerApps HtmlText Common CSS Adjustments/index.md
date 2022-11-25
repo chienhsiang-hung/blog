@@ -1,18 +1,19 @@
 ---
 title: "PowerApps HtmlText Common CSS Adjustments"
-date: 2022-11-25T10:31:00+08:00
-lastmod: 2022-11-25T10:31:00+08:00
+date: 2022-11-25T10:39:00+08:00
+lastmod: 2022-11-25T10:39:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "css div full screen, css center horizontally and vertically, css button width based on char count, css style not working, Background Opacity CSS"
 resources:
 - name: "featured-image"
-  src: ""
-tags: ["Algorithms", "Leetcode", "Bfs", "Breadth First Search", "Python"]
+  src: "featured-image.png"
+tags: ["Powerapps", "HTML", "CSS", "Center", "Height And Width"]
 toc:
   enable: true
 ---
+![featured-image.png](featured-image.png "PowerApps HtmlText Common CSS Adjustments")
 ## Dcoration
 ### Div Full Screen
 css div full screen `position: absolute;`[^css-make-a-div-height-full-screen]
