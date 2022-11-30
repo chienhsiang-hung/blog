@@ -8,10 +8,12 @@ authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
+  src: "featured-image.png"
 tags: [""]
 toc:
   enable: true
 ---
 ## Background
 I'm developing a News Board in Powerapps. I utilize `RSS` Connector to retrieve Google News for the following effect.
+![featured-image.png](featured-image.png "featured-image")
+
