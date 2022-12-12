@@ -1,7 +1,7 @@
 ---
 title: "Python Extract HTML Table (Convert to Pandas DataFrame) Tutorial"
-date: 2022-12-12T08:21:00+08:00
-lastmod: 2022-12-12T08:21:00+08:00
+date: 2022-12-12T09:40:00+08:00
+lastmod: 2022-12-12T09:40:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -9,7 +9,7 @@ description: "We can play with the string by finding the n-th occurence '<table'
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-tags: [""]
+tags: ["Python", "HTML", "Dataframes", "Pandas", "Time Zone Converter"]
 toc:
   enable: true
 ---
