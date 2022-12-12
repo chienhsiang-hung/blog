@@ -24,3 +24,7 @@ But, what if we have a `HTML` body that has **nested tables**.
       ...
 ```
 ![nested tables](featured-image.png "nested tables")
+
+We can play with the string by finding the n-th occurence `'<table'` to filter out the unwanted `<table>`. Then use the `header` parameter to anchor the right header.
+
+But how can we transform the table to the format we want?
