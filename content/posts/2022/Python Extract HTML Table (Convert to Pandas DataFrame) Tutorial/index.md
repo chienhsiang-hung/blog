@@ -35,7 +35,7 @@ We can play with the string by finding the n-th occurence `'<table'` to filter o
 
 But how can we transform the table to the format we want?
 ## Transpose/Transform
-![Transpose-or-Transform-the-table](Transpose-or-Transform-the-table.png "Transpose-or-Transform-the-table.png")
+![Transpose-or-Transform-the-table](Transpose-or-Transform-the-table.png "Transpose-or-Transform-the-table")
 
 Let's ignore the complex `DataFrame`, `transpose` things. A simple and intuitive approach will be loop through the `DataFrame` and Create a new `DF`.
 
