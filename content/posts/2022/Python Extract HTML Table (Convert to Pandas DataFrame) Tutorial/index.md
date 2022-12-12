@@ -5,10 +5,10 @@ lastmod: 2022-12-12T08:21:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "We can play with the string by finding the n-th occurence '<table' to filter out the unwanted <table>. Then use the header parameter to anchor the right header. But how can we transform the table to the format we want?"
 resources:
 - name: "featured-image"
-  src: ""
+  src: "featured-image.png"
 tags: [""]
 toc:
   enable: true
@@ -37,9 +37,9 @@ But how can we transform the table to the format we want?
 ## Transpose/Transform
 ![Transpose-or-Transform-the-table](Transpose-or-Transform-the-table.png "Transpose-or-Transform-the-table.png")
 
-Let's ignore the complex `DataFrame` `transpose` things. A simple and intuitive approach will be loop through the `DataFrame` and Create a new `DF`.
+Let's ignore the complex `DataFrame`, `transpose` things. A simple and intuitive approach will be loop through the `DataFrame` and Create a new `DF`.
 
-Like the above tables, I've written the example code you can refer to.
+Like the above tables, I've written an example code you can refer to.
 ```python
 new_DF = pd.DataFrame(columns=['Date', 'Bank', 'Currency', 'Tenor', 'Fixed Deposit Rate', 'Loan Rate', 'Remarks'])
 
