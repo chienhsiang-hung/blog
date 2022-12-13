@@ -1,7 +1,7 @@
 ---
 title: "Python Extract HTML Table (Convert to Pandas DataFrame) Tutorial"
 date: 2022-12-12T09:40:00+08:00
-lastmod: 2022-12-12T09:40:00+08:00
+lastmod: 2022-12-13T03:23:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -32,6 +32,16 @@ But, what if we have a `HTML` body that has **nested tables**.
 ![nested tables](featured-image.png "nested tables")
 
 We can play with the string by finding the n-th occurence `'<table'` to filter out the unwanted `<table>`. Then use the `header` parameter to anchor the right header.
+
+Example:
+```python
+with open('test.txt', 'r', encoding="utf-8") as file:
+    html = file.read()
+
+tables = html.split('<table')
+
+target_DF = pd.read_html('<table'+tables[5], header=[1])[0]
+```
 
 But how can we transform the table to the format we want?
 ## Transpose/Transform
