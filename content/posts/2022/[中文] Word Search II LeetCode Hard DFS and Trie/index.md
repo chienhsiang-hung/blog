@@ -8,7 +8,7 @@ authorLink: "https://chienhsiang-hung.github.io/"
 description: "I’m developing a News Board in Powerapps. I utilize RSS Connector to retrieve Google News for the following effect."
 resources:
 - name: "featured-image"
-  src: ""
+  src: "featured-image.jpg"
 tags: [""]
 toc:
   enable: true
@@ -16,6 +16,7 @@ zhtw: true
 ---
 ## 題目
 ### 文字接龍
+![Word Search II](featured-image.jpg "Word Search II")
 LeetCode這題Hard要求找出Graph中存在於Input `words` List 中的字，為 [Word Search - LeetCode](https://leetcode.com/problems/word-search/description/) 的進階版。
 
 `words`從一個變成數個，main loop一樣採用**DFS**，差別在如何*有效率地*在words中依據`n-chr`來進行搜索。這裡採用 <b>Trie</b>* 的文字樹結構，先手刻**Trie**，內建`insert()`跟`search()`。接著整體**iteration流程**跟 [Word Search - LeetCode](https://leetcode.com/problems/word-search/description/) 差不多。
