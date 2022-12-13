@@ -1,15 +1,15 @@
 ---
 title: "[中文] Word Search II LeetCode Hard | DFS and Trie"
-date: 2022-12-13T10:11:00+08:00
-lastmod: 2022-12-13T10:11:00+08:00
+date: 2022-12-13T11:42:00+08:00
+lastmod: 2022-12-13T11:42:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "I’m developing a News Board in Powerapps. I utilize RSS Connector to retrieve Google News for the following effect."
+description: "LeetCode這題Hard要求找出Graph中存在於Input words List 中的字，為 Word Search - LeetCode 的進階版。words從一個變成數個，main loop一樣採用DFS，差別在如何有效率地在words中依據n-chr來進行搜索。這裡採用 Trie* 的文字樹結構，先手刻Trie，內建insert()跟search()。接著整體iteration流程跟 Word Search - LeetCode 差不多。"
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: [""]
+tags: ["Leetcode", "Leetcode Hard", "DFS", "Python", "Trie"]
 toc:
   enable: true
 zhtw: true
