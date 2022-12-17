@@ -1,15 +1,15 @@
 ---
 title: "Amortized analysis - Implement Queue using Stacks vs. LinkedLIst"
-date: 2022-12-17T02:17:00+08:00
-lastmod: 2022-12-17T02:17:00+08:00
+date: 2022-12-17T03:04:00+08:00
+lastmod: 2022-12-17T03:04:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "Can you implement the queue such that each operation is amortized O(1) time complexity? In other words, performing n operations will take overall O(n) time even if one of those operations may take longer."
 resources:
 - name: "featured-image"
-  src: ""
-tags: [""]
+  src: "featured-image.png"
+tags: ["Time Complexity", "Amortize", "Computer Science", "Queue", "Stack"]
 toc:
   enable: true
 ---
@@ -55,6 +55,7 @@ Each operation takes exact O(1) time complexity to execute.
 What if we are not allowed to use linked list but **2 stacks** instead. It would be impossible to achieve right? Though with Amortized Analysis, **amortized O(1)** is acceptable. We can still try to make some tricks.
 
 #### Two Stacks - Amortized Analysis
+![featured-image.png](featured-image.png "implement-queue-using-stacks")
 Can you implement the queue such that each operation is **[amortized](#whats-amortized-analysis)**  `O(1)` time complexity? In other words, performing `n` operations will take overall `O(n)` time even if one of those operations may take longer.[^implement-queue-using-stacks]
 ```python
 class MyQueue:
