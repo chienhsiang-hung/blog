@@ -55,6 +55,7 @@ Each operation takes exact O(1) time complexity to execute.
 What if we are not allowed to use linked list but **2 stacks** instead. It would be impossible to achieve right? Though with Amortized Analysis, **amortized O(1)** is acceptable. We can still try to make some tricks.
 
 #### Two Stacks - Amortized Analysis
+Can you implement the queue such that each operation is **[amortized](#whats-amortized-analysis)**  `O(1)` time complexity? In other words, performing `n` operations will take overall `O(n)` time even if one of those operations may take longer.[^implement-queue-using-stacks]
 ```python
 class MyQueue:
 
@@ -86,4 +87,6 @@ We can see in this solution, for `push()`, `peak()`, `empty()`, they still take 
 
 If the output array already has some elements in it, then dequeue runs in constant time; otherwise, **dequeue takes $O(n)$** time to add all the elements onto the output array from the input array, where n is the current length of the input array. After copying n elements from input, we can perform n dequeue operations, each taking constant time, before the output array is empty again. Thus, **we can perform a sequence of n dequeue operations in only $O(n)$ time, which implies that the amortized time of each dequeue operation is $O(1)$**.[^Amortized_analysis]
 
+
 [^Amortized_analysis]: [Amortized analysis - Wikipedia](https://en.wikipedia.org/wiki/Amortized_analysis)
+[^implement-queue-using-stacks]: [Implement Queue using Stacks - LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/)
