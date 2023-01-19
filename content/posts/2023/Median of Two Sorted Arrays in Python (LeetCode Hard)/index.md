@@ -14,5 +14,8 @@ toc:
   enable: true
 ---
 ## Solution
-Most Python solution you can find usding either this or kth solution they slice the `nums1` and `nums2` for loop and it makes the time complexity from $O(Log n)$ $O(n Log n)$. Here I share a solution using pointer to avoid the such problem.
+Most Python solution you can find usding either this or kth solution they slice the `nums1` and `nums2` for loop and it makes the time complexity from $O(Logn)$ $O(nLogn)$. Here I share a solution using pointer to avoid such the problem.
+
 {{< youtube LPFhl65R7ww >}}
+
+If you don't understand the concept please have a look at the above video first by [@tusharroy2525](https://www.youtube.com/@tusharroy2525/about). 
