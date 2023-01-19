@@ -1,5 +1,5 @@
 ---
-title: "Median of Two Sorted Arrays in Python (LeetCode Hard)"
+title: "Median of Two Sorted Arrays in Python (No Slicing) Real O(log(min(m, n))), LeetCode Hard"
 date: 2023-01-19T03:00:00+08:00
 lastmod: 2023-01-19T03:00:00+08:00
 draft: false
@@ -13,19 +13,42 @@ tags: ["Python", "Sliding Windows", "Sliding Window Algorithm", "Leetcode", "Lee
 toc:
   enable: true
 ---
+## Median of Two Sorted Arrays
+
+Given two sorted arrays  `nums1`  and  `nums2`  of size  `m`  and  `n`  respectively, return  **the median**  of the two sorted arrays.
+
+The overall run time complexity should be  `O(log (m+n))`.
+
+**Example 1:**
+
+**Input:** nums1 = [1,3], nums2 = [2]
+**Output:** 2.00000
+**Explanation:** merged array = [1,2,3] and median is 2.
+
+**Example 2:**
+
+**Input:** nums1 = [1,2], nums2 = [3,4]
+**Output:** 2.50000
+**Explanation:** merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
+
+**Constraints:**
+
+-   `nums1.length == m`
+-   `nums2.length == n`
+-   `0 <= m <= 1000`
+-   `0 <= n <= 1000`
+-   `1 <= m + n <= 2000`
+-   `-10^6 <= nums1[i], nums2[i] <= 10^6`
+
 ## Solution
-Most Python solution you can find usding either this or kth solution they sliced the `nums1` and `nums2` for loop and it makes the time complexity from $O(Logn)$ $O(nLogn)$.
+Most Python solution you can find usding either this or kth solution they sliced the `nums1` and `nums2` for loop and it makes the time complexity from $O(\log n)$ to $O(n\log n)$.
 
 **Slicing Examples:**
 1. `return self.kth(a, b[ib + 1:], k - ib - 1)` by [clue](https://leetcode.com/clue/)
 2. `return self.findKth(A[:i],B[j:],i)` by [yawnzheng](https://leetcode.com/yawnzheng/)
 
 ### Optimized
-Here I share a solution using pointer to avoid such the problem.
-
-{{< youtube LPFhl65R7ww >}}
-
-If you don't understand the concept please have a look at the above video first by [@tusharroy2525](https://www.youtube.com/@tusharroy2525/about). 
+Here I share a solution using pointer to avoid such the problem so that we can really get the $O(\log min(m, n))$ time complexity.
 
 ![featured-image.jpg](featured-image.jpg)
 
@@ -62,3 +85,7 @@ class Solution:
                     return max(lu, ld)
                 return ( max(lu, ld) + min(ru, rd) ) /2
 ```
+
+If you don't understand the concept please have a look at the below video first by [@tusharroy2525](https://www.youtube.com/@tusharroy2525/about). 
+
+{{< youtube LPFhl65R7ww >}}
