@@ -1,7 +1,7 @@
 ---
 title: "Median of Two Sorted Arrays in Python with Binary Search (No Slicing) Real O(log(min(m, n)))"
-date: 2023-01-19T03:00:00+08:00
-lastmod: 2023-01-19T03:00:00+08:00
+date: 2023-01-19T08:14:00+08:00
+lastmod: 2023-01-19T08:14:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
