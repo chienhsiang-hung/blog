@@ -1,15 +1,15 @@
 ---
-title: "Median of Two Sorted Arrays in Python (No Slicing) Real O(log(min(m, n))), LeetCode Hard"
+title: "Median of Two Sorted Arrays in Python with Binary Search (No Slicing) Real O(log(min(m, n)))"
 date: 2023-01-19T03:00:00+08:00
 lastmod: 2023-01-19T03:00:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "Given an integer array nums and an integer k, return the number of good subarrays of nums."
+description: "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n))."
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: ["Python", "Sliding Windows", "Sliding Window Algorithm", "Leetcode", "Leetcode Medium"]
+tags: ["Binary Search", "Binary Search Algorithm", "Python", "Leetcode Hard", "Leetcode"]
 toc:
   enable: true
 ---
