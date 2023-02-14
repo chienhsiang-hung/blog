@@ -14,12 +14,19 @@ toc:
   enable: true
 zhtw: true
 ---
-## Appier - Technical Service Engineer (GCR) - TW
-- [x] *2022-11-17* **Interview Invitation**
+## TBD 
+### Wonderland - Technical Application Engineer - TW/CH
+[Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/?refId=79URI%2BRc4p6bL5LZU5Z6Ug%3D%3D&trackingId=hmywp%2BqsfXxdLe%2FYp0zVmA%3D%3D)
+- [x] *2023-02-14* **人資電話訪談**
 
-  Arrange to meet on next Wed.
+  大概介紹公司在做什麼(嬰兒用品)，工廠在哪(東軟?)，規模多大等等。主要使用語言JAVA，做生產管理系統導入，配合工廠克制需求。軟體跟外部購買，聽起來是幫廠商根顧問溝通跟作客改，不是純開發。
 
-## CTW - Backend Engineer-Python - JP
+  下次會與主管面談。需要準備(如何快速上手JAVA、有興趣?、對生產管理系統的了解)
+
+### HuntByte - Back End Debeloper - TW
+
+## Practices
+### CTW - Backend Engineer-Python - JP
 [Senior Backend Engineer- Python｜CTW株式会社｜日本－104 人力銀行](https://www.104.com.tw/job/7ri1p?jobsource=pda_i)
 
 *[Backend Engineer-Python｜CTW株式会社｜日本－104 人力銀行](https://www.104.com.tw/job/7rhys?jobsource=pda_i)*
@@ -54,8 +61,8 @@ zhtw: true
   - [ctw株式会社在国内的求职候选人建议不要浪费时间 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/556792408)
   - [日本东京互联网IT就职调研 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/401924091)
   {{< /admonition >}}
-- [x] *2022-11-10* **Rejected**
-## synpulse - Banking Technology Consultant - HK
+
+### synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
 Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
@@ -103,8 +110,8 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
     *The material I used to prepare before the interview [(Mock Technology Consulting Case Interview (Case Study): Architecture Strategy)](https://chienhsiang-hung.github.io/blog/posts/2022/mock-technology-consulting-case-interview-case-study-architecture-strategy/) that you can use.*
 
-  Real Process:
-## Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
+  Real Process: TL;TT
+### Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
 - [x] *2022-10-24* **Applied**
@@ -268,8 +275,8 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     2. 可以用`set()`改寫嗎?
 
     至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資(因為查過比薪水[^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]，整體薪資偏低，所以就回1.1M NTD)等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
-- [x] *2022-11-04* **Rejected**
-## 阿爾發投顧 - Python後端工程師 - TW
+
+### 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
 
 - [X] *2022-10-24* **投遞**
@@ -300,8 +307,10 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     - 如果專案上市在即，而公司資安被官方找出弱點需要修正，你怎麼辦?
     
     最後是期望薪資，根據目前面試其他公司的待遇，給出了一個低標後結束面試(同Pinkoi那場回覆 - 1.1M NTD)，說今天會review。聽完組織狀況跟打聽過這家狀況[^阿爾發證券投資顧問股份有限公司的薪資薪水情報]，應該是沒辦法給到期待薪資。
-  
-  沒有後續
+
+## Others
+一些因為時間有衝突，或者是已經練過類似，或是來不及/懶得打上來XD，如果想知道可以再PM我詳細
+- Appier - Technical Service Engineer (GCR) - TW
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
 [^阿爾發證券投資顧問股份有限公司的薪資薪水情報]: [阿爾發證券投資顧問股份有限公司的薪資、薪水情報-台灣薪資情報網 (twjobs.net)](https://twjobs.net/q.aspx?q=%E9%98%BF%E7%88%BE%E7%99%BC%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
