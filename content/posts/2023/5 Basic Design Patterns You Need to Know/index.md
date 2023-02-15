@@ -91,7 +91,7 @@ To create an Observer pattern, we first define a Subject class that maintains a 
 Here's an example implementation of the Observer pattern in Python:
 
 It also notifies the other objects also that’s why we generally call it Publisher[^Publisher]. All the objects that want to track changes in the publisher’s state are called subscribers.
-
+<script src="https://gist.github.com/chienhsiang-hung/a74123e075386afd8e58247439773f3a.js"></script>
 
 In this example, we define a `Subject` superclass with `attach`, `detach`, and `notify` methods for managing its list of observers. We also define an `Observer` superclass with an `update` method that is called by the `Subject` when its state changes.
 

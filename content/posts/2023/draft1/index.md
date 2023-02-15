@@ -17,7 +17,9 @@ zhtw: true
 ## On-going
 ### Fortune Electric - Software Engineer - TW
 [Software Engineer | 華城電機股份有限公司 Fortune Electric | LinkedIn](https://www.linkedin.com/jobs/view/3468545137/?refId=5ciBKUcWLJkjaFx5zpwO8A%3D%3D&trackingId=4yRBBsfpE4OVSFvl%2Fn4lLw%3D%3D)
-- [] *2023-02-15* **Phone Call Screen with HR**
+- [x] *2023-02-15* **Phone Call Screen with HR**
+
+  將成立的新事業體，會由外籍主管帶領台籍工程師團隊，約下周線上面試，與該外籍主管與一名顧問。
 
 ### FundPark - Software Engineer - HK
 - [x] *2023-02-06* **Virtual Interview Invitation**
