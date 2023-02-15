@@ -94,6 +94,7 @@ hasCJKLanguage = true
     Paypal = "chienhsianghung"
     Kaggle = "chienhsianghung"
     Email = "iworkhard@hsiang.eu.org"
+    RSS = True
 
   [params.home]
     [params.home.profile]
