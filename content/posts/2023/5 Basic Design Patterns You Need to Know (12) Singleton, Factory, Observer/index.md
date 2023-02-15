@@ -5,7 +5,7 @@ lastmod: 2023-02-15T06:10:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "Singleton pattern: This pattern ensures that only one instance of a class is created and provides a global point of access to that instance."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
