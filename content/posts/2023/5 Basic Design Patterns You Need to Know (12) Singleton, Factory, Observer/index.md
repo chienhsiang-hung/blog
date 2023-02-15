@@ -1,7 +1,7 @@
 ---
 title: "5 Basic Design Patterns You Need to Know (1/2): Singleton, Factory, Observer"
 date: 2023-02-15T06:10:00+08:00
-lastmod: 2023-02-15T06:10:00+08:00
+lastmod: 2023-02-15T06:15:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -53,8 +53,6 @@ The Factory pattern is a **creational** design pattern that provides an interfac
 To create a Factory class, we first define a superclass (or interface) that declares the methods for creating objects. We then define a concrete implementation of the superclass for each type of object that we want to create. Finally, we define a Factory class that takes in a parameter and **returns an object of the appropriate type based on that parameter**.
 
 Here's an example implementation of the Factory pattern in Python:
-
-rubyCopy code
 
 ```python
 class Animal:
