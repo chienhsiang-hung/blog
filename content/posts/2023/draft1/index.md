@@ -368,10 +368,10 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - Appier - Technical Service Engineer (GCR) - TW
 - Tetrion Capital - Software Design Engineer - HK
 - Tetrion Capital - DevOps Engineer - HK
+- Marketech International - Artificial Intelligence Engineer - TW
 - Wipro - TV/STB Test Engineer- Python - TW
 - Wipro - Software Engineer - IN
 - Tea House - Financial Engineer - TW
-
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
 [^阿爾發證券投資顧問股份有限公司的薪資薪水情報]: [阿爾發證券投資顧問股份有限公司的薪資、薪水情報-台灣薪資情報網 (twjobs.net)](https://twjobs.net/q.aspx?q=%E9%98%BF%E7%88%BE%E7%99%BC%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
