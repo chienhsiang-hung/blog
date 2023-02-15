@@ -1,15 +1,15 @@
 ---
-title: "5 Basic Design Patterns You Need to Know"
-date: 2023-02-15T02:23:00+08:00
-lastmod: 2023-02-15T02:23:00+08:00
+title: "5 Basic Design Patterns You Need to Know (1/2): Singleton, Factory, Observer"
+date: 2023-02-15T06:10:00+08:00
+lastmod: 2023-02-15T06:10:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
-tags: []
+  src: "featured-image.png"
+tags: ["Design Patterns", "Design Pattern In Python", "Factory Pattern", "Singleton Pattern", "Observer Pattern"]
 categories: ["Design Patterns Roadmap"]
 toc:
   enable: true
@@ -91,6 +91,9 @@ To create an Observer pattern, we first define a Subject class that maintains a 
 Here's an example implementation of the Observer pattern in Python:
 
 It also notifies the other objects also that’s why we generally call it Publisher[^Publisher]. All the objects that want to track changes in the publisher’s state are called subscribers.
+
+![Observer (Publisher)](featured-image.png "Observer (Publisher)")
+
 <script src="https://gist.github.com/chienhsiang-hung/a74123e075386afd8e58247439773f3a.js"></script>
 
 In this example, we define a `Subject` superclass with `attach`, `detach`, and `notify` methods for managing its list of observers. We also define an `Observer` superclass with an `update` method that is called by the `Subject` when its state changes.
@@ -101,71 +104,27 @@ Finally, we define a `ConcreteObserver` class that extends the `Observer` and pr
 
 Using the Observer pattern can be useful in situations where we want to maintain loose coupling between objects and decouple the code that changes the state of an object from the code that reacts to the change. It can also be helpful in situations where we want to provide a flexible way to add and remove observers without changing the code of the subject class.
 
-### Decorator
-The Decorator pattern is a structural design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class.
+## Use Cases
+Singleton:
 
-To create a Decorator pattern, we first define a Component interface that defines the operations that can be altered by decorators. We then define a ConcreteComponent class that implements the Component interface. Next, we define one or more Decorator classes that implement the Component interface and contain an instance of the ConcreteComponent. Finally, we can combine the decorators in any order to create a decorated object with the desired functionality.
+-   **Configuration objects that need to be shared across an application**
+-   Database connection objects that need to be reused
+-   **Logging objects that need to be accessed from different parts of the application**
+-   Objects that need to maintain a single point of control, such as a **global counter** or sequence generator
 
-Here's an example implementation of the Decorator pattern in Python:
+Factory:
 
-```python
-class Component:
-    def operation(self):
-        pass
+-   **Object creation that requires complex initialization or multiple steps**
+-   Object creation that needs to be decoupled from the calling code
+-   Creating objects based on runtime parameters or configuration settings
+-   Creating objects that are difficult to instantiate directly, such as objects with circular dependencies or objects that require access to a particular resource
 
-class ConcreteComponent(Component):
-    def operation(self):
-        return "ConcreteComponent"
+Observer:
 
-class Decorator(Component):
-    def __init__(self, component):
-        self._component = component
+-   **Implementing publish-subscribe systems, where one object sends messages and other objects receive them**
+-   Implementing event-based systems, where multiple objects need to respond to changes in state
+-   Implementing user interface components that need to update in response to changes in data
+-   **Implementing notification systems that send updates to multiple listeners or subscribers**
 
-    def operation(self):
-        return self._component.operation()
-
-class ConcreteDecoratorA(Decorator):
-    def operation(self):
-        return f"ConcreteDecoratorA({self._component.operation()})"
-
-class ConcreteDecoratorB(Decorator):
-    def operation(self):
-        return f"ConcreteDecoratorB({self._component.operation()})"` 
-```
-
-In this example, we define a `Component` interface with an `operation` method, which is implemented by the `ConcreteComponent` class. We also define a `Decorator` superclass with a `component` field and an `operation` method, which is implemented by the `ConcreteDecoratorA` and `ConcreteDecoratorB` subclasses. The decorators add functionality to the `ConcreteComponent` by calling its `operation` method and then modifying its output.
-
-Using the Decorator pattern can be useful in situations where we want to add or modify behavior of an individual object at runtime, rather than using inheritance to modify the behavior of a whole class. It can also be helpful in situations where we want to add behavior to an object without tightly coupling that behavior to the object's class.
-
-### Adapter
-
-The Adapter pattern is a structural design pattern that allows two incompatible interfaces to work together by wrapping an object with a new interface.
-
-To create an Adapter pattern, we first define a Target interface that represents the desired interface we want to use. We then define an Adaptee interface that represents the existing interface that needs to be adapted. Finally, we define an Adapter class that implements the Target interface and wraps an instance of the Adaptee, translating calls from the Target interface to the Adaptee interface.
-
-Here's an example implementation of the Adapter pattern in Python:
-
-```python
-class Target:
-    def request(self):
-        pass
-
-class Adaptee:
-    def specific_request(self):
-        return "Adaptee request"
-
-class Adapter(Target):
-    def __init__(self, adaptee):
-        self._adaptee = adaptee
-
-    def request(self):
-        return f"Adapter: {self._adaptee.specific_request()}"
-```
-
-In this example, we define a `Target` interface with a `request` method, which is implemented by the `Adapter` class. We also define an `Adaptee` interface with a `specific_request` method, which is implemented by the `Adaptee` class.
-
-The `Adapter` class wraps an instance of the `Adaptee` and translates calls from the `Target` interface to the `Adaptee` interface using the `specific_request` method. In this way, the `Target` interface can work with the `Adaptee` interface without needing to modify the `Adaptee` class.
-
-Using the Adapter pattern can be useful in situations where we want to reuse an existing class with an incompatible interface, or when we want to provide a simplified or more flexible interface to an existing class. It can also be helpful in situations where we want to separate the client code from the implementation details of the adapted class.
 
 [^Publisher]: [Observer method - Python Design Patterns - GeeksforGeeks](https://www.geeksforgeeks.org/observer-method-python-design-patterns/)
