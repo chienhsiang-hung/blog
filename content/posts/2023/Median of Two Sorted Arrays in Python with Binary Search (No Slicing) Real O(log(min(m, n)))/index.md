@@ -6,9 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n))."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+featuredimage: featured-image.jpg
 tags: ["Binary Search", "Binary Search Algorithm", "Python", "Leetcode Hard", "Leetcode"]
 toc:
   enable: true

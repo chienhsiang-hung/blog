@@ -6,9 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "從點擊到看到網頁 從搜尋引擎點擊網頁後，發生什麼事? 1. 瀏覽器向DNS伺服器發出請求，DNS返回目標網頁的IP位址 (以Domain URL交換)"
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
+featuredimage: featured-image.png
 tags: ["DNS", "靜態網頁", "動態網頁", "伺服器", "分布式資料庫系統"]
 toc:
   enable: true

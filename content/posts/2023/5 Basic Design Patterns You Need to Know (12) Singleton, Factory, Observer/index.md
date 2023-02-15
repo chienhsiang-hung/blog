@@ -6,9 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "Singleton pattern: This pattern ensures that only one instance of a class is created and provides a global point of access to that instance."
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
+featuredimage: featured-image.png
 tags: ["Design Patterns", "Design Pattern In Python", "Factory Pattern", "Singleton Pattern", "Observer Pattern"]
 categories: ["Design Patterns Roadmap"]
 toc:
