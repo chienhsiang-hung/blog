@@ -83,48 +83,15 @@ In this example, we define an `Animal` superclass with a `speak` method, which i
 
 Using the Factory pattern can be useful in situations where we want to abstract away the details of object creation and provide a flexible way to create objects. It can also be helpful in situations where we want to decouple the code that uses the objects from the code that creates them.
 
-### Observer (Publisher)[^Publisher]
+### Observer (Publisher)
 The Observer pattern is a behavioral design pattern that defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
 
 To create an Observer pattern, we first define a Subject class that maintains a list of its dependents (also known as observers), and provides methods for adding, removing, and notifying observers. We then define one or more Observer classes that implement an update method, which is called by the Subject when its state changes.
 
 Here's an example implementation of the Observer pattern in Python:
 
-```python
-class Subject:
-    def __init__(self):
-        self._observers = []
+It also notifies the other objects also that’s why we generally call it Publisher[^Publisher]. All the objects that want to track changes in the publisher’s state are called subscribers.
 
-    def attach(self, observer):
-        self._observers.append(observer)
-
-    def detach(self, observer):
-        self._observers.remove(observer)
-
-    def notify(self):
-        for observer in self._observers:
-            observer.update(self)
-
-class Observer:
-    def update(self, subject):
-        pass
-
-class ConcreteObserver(Observer):
-    def update(self, subject):
-        print(f"Subject {id(subject)} has been updated")
-
-class ConcreteSubject(Subject):
-    def __init__(self):
-        super().__init__()
-        self._state = None
-
-    def get_state(self):
-        return self._state
-
-    def set_state(self, state):
-        self._state = state
-        self.notify()
-```
 
 In this example, we define a `Subject` superclass with `attach`, `detach`, and `notify` methods for managing its list of observers. We also define an `Observer` superclass with an `update` method that is called by the `Subject` when its state changes.
 
