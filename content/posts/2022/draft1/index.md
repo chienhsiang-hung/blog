@@ -1,8 +1,8 @@
 ---
 title: "warm-up-interview"
-date: 2022-11-13T02:23:00+08:00
-lastmod: 2022-11-13T02:23:00+08:00
-draft: true
+date: 2023-02-15T02:23:00+08:00
+lastmod: 2023-02-15T02:23:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -15,6 +15,26 @@ toc:
 zhtw: true
 ---
 ## TBD 
+### Infini Capital - Infrastructure Developer (DevOps) - HK/TW
+- [x] *2023-02-15* **線上面試(一位hr兩位IT主管分別在台灣與香港，聽起來兩位主管都是台灣人)**
+
+  Hedge Fund, 處理交易資料、協助RPA，CI/CD
+
+  面試時間大約一小時，問題涵蓋:
+  - 對DevOps的了解
+  - API Scaling
+  - 維護資料庫經驗 (大型資料庫)，如何改善效率
+  - Design Pattern
+  - Linux, Shell script
+  - `SQL`熟悉程度
+  - Azure管理狀況
+
+經驗很好也深刻體會到自己的不足
+
+在聽到我對design pattern不熟後，其中一位還說他能理解因為我不是本科系(但這是我的不對，馬上去補上)，詢問問題也都耐心回答，指引方向
+
+兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(像是解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
+
 ### Wonderland - Technical Application Engineer - TW/CH
 [Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/?refId=79URI%2BRc4p6bL5LZU5Z6Ug%3D%3D&trackingId=hmywp%2BqsfXxdLe%2FYp0zVmA%3D%3D)
 - [x] *2023-02-14* **人資電話訪談**
@@ -24,6 +44,12 @@ zhtw: true
   下次會與主管面談。需要準備(如何快速上手JAVA、有興趣?、對生產管理系統的了解)
 
 ### HuntByte - Back End Debeloper - TW
+[Back End Developer | HuntByte | LinkedIn](https://www.linkedin.com/jobs/view/3466167677/?midToken=AQGjUWGuuZExJA&midSig=3GMcOgRIjqhWE1&trk=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job&trkEmail=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job-null-aprv7i%7Ele1chdwn%7E4h-null-jobs%7Eview)
+- [x] *2023-02-14* **開發兼人資電訪**
+
+  完全新創，第一版產品三月會上線，目前公司兩個後端一個前端，全公司八名成員，資金預計還能撐一年。
+
+  聊聊為什麼想換工作，完全開發網頁目前認為有什麼部分(技能)是欠缺的嗎? 目前開希望一百以上
 
 ## Practices
 ### CTW - Backend Engineer-Python - JP
