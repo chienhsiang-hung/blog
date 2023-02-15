@@ -225,6 +225,12 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     ```
     三個都是O(n)，但實際運行好像有看過文章說`tuple`比`list`快，不確定
 
+    > **後來自己用電腦測試，實際上並沒有什麼差別...**
+    >
+    > **不清楚是被面試官忽悠還是他們自己也不理解**
+    >
+    > **測試結果放在這邊，如果大家有什麼不一樣的看法也歡迎留下意見，不確定是自己測試錯誤還是對方真的誤導**
+
     再來是第二題，針對字串相加進行提問[^StringProblem]
     ```python
     from collections import defaultdict
@@ -358,6 +364,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - Tetrion Capital - DevOps Engineer - HK
 - Wipro - TV/STB Test Engineer- Python - TW
 - Wipro - Software Engineer - IN
+- Tea House - Financial Engineer - TW
 
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
