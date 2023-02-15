@@ -105,7 +105,7 @@ zhtw: true
   - [日本东京互联网IT就职调研 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/401924091)
   {{< /admonition >}}
 
-### synpulse - Banking Technology Consultant - HK
+### Synpulse - Banking Technology Consultant - HK
 [Career | Synpulse (csod.com)](https://synpulse.csod.com/ux/ats/careersite/1/home/requisition/319?c=synpulse)
 
 Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
@@ -356,6 +356,8 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - Appier - Technical Service Engineer (GCR) - TW
 - Tetrion Capital - Software Design Engineer - HK
 - Tetrion Capital - DevOps Engineer - HK
+- Wipro - TV/STB Test Engineer- Python - TW
+- Wipro - Software Engineer - IN
 
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
