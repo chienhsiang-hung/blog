@@ -14,9 +14,26 @@ toc:
   enable: true
 zhtw: true
 ---
-## TBD 
+## On-going
+### FundPark - Software Engineer - HK
+- [x] *2023-02-06* **Virtual Interview Invitation**
+- [x] *2023-02-13* **Email Reminder**
+  
+  I have to said the HR is so kind to remind/double-check if there is any problem on my side of scheduling time slots for the meeting. I would have lost the email in the Spam and missed the oppotunity of the interview.
+
+- [x] *2023-02-14* **Online Interview with HR**
+
+  Talked about the exprience:
+  - Why do you leave the current company
+  - Why do you want to work in HK
+  - What are challanges you've faced in previous projects
+  - Any thing to improve either on soft-skill or hard-skill
+  - What are you bad at
+
 ### Infini Capital - Infrastructure Developer (DevOps) - HK/TW
 - [x] *2023-02-15* **線上面試(一位hr兩位IT主管分別在台灣與香港，聽起來兩位主管都是台灣人)**
+
+  [Infrastructure Developer (DevOps) | Infini Capital | LinkedIn](https://www.linkedin.com/jobs/view/3460399562/?refId=7vrYLanMJtIJwjRmh5%2BB6g%3D%3D&trackingId=fPSKrBT%2FaL739xP%2FCsNv3w%3D%3D)
 
   Hedge Fund, 處理交易資料、協助RPA，CI/CD
 
@@ -29,11 +46,11 @@ zhtw: true
   - `SQL`熟悉程度
   - Azure管理狀況
 
-經驗很好也深刻體會到自己的不足
+  經驗很好也深刻體會到自己的不足
 
-在聽到我對design pattern不熟後，其中一位還說他能理解因為我不是本科系(但這是我的不對，馬上去補上)，詢問問題也都耐心回答，指引方向
+  在聽到我對design pattern不熟後，其中一位還說他能理解因為我不是本科系(但這是我的不對，馬上去補上)，詢問問題也都耐心回答，指引方向
 
-兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(像是解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
+  兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(像是解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
 
 ### Wonderland - Technical Application Engineer - TW/CH
 [Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/?refId=79URI%2BRc4p6bL5LZU5Z6Ug%3D%3D&trackingId=hmywp%2BqsfXxdLe%2FYp0zVmA%3D%3D)
