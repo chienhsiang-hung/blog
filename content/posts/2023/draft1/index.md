@@ -15,6 +15,10 @@ toc:
 zhtw: true
 ---
 ## On-going
+### 鈊象電子 - Server軟體工程師 - TW
+[server software engineer | International Games System | LinkedIn](https://www.linkedin.com/jobs/view/3477677394/)
+- [x] *2023-02-13* **HR幫忙安排**
+
 ### Fortune Electric - Software Engineer - TW
 [Software Engineer | 華城電機股份有限公司 Fortune Electric | LinkedIn](https://www.linkedin.com/jobs/view/3468545137/?refId=5ciBKUcWLJkjaFx5zpwO8A%3D%3D&trackingId=4yRBBsfpE4OVSFvl%2Fn4lLw%3D%3D)
 - [x] *2023-02-15* **Phone Call Screen with HR**
