@@ -1,8 +1,8 @@
 ---
 title: "warm-up-interview"
-date: 2023-02-15T02:23:00+08:00
-lastmod: 2023-02-15T02:23:00+08:00
-draft: true
+date: 2023-02-16T02:23:00+08:00
+lastmod: 2023-02-16T02:23:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -47,7 +47,7 @@ zhtw: true
   - 對DevOps的了解
   - API Scaling
   - 維護資料庫經驗 (大型資料庫)，如何改善效率
-  - Design Pattern
+  - [Design Pattern](https://chienhsiang-hung.github.io/blog/posts/2023/5-basic-design-patterns-you-need-to-know-12-singleton-factory-observer/)
   - Linux, Shell script
   - `SQL`熟悉程度
   - Azure管理狀況
