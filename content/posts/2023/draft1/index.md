@@ -59,7 +59,7 @@ zhtw: true
   兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(像是解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
 
 ### Wonderland - Technical Application Engineer - TW/CH
-[Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/?refId=79URI%2BRc4p6bL5LZU5Z6Ug%3D%3D&trackingId=hmywp%2BqsfXxdLe%2FYp0zVmA%3D%3D)
+[Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/)
 - [x] *2023-02-14* **人資電話訪談**
 
   大概介紹公司在做什麼(嬰兒用品)，工廠在哪(東莞?)，規模多大等等。主要使用語言JAVA，做PLM生產管理系統導入，配合工廠克制需求。軟體跟外部購買，聽起來是幫廠商根顧問溝通跟作客改，不是純開發。
