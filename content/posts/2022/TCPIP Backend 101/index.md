@@ -10,7 +10,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 tags: ["Tcp Ip", "Tcp", "Internet Protocol", "Udp", "Communication Protocol"]
-categories: ["SE Interview 101"]
+categories: ["SWE Interview 101"]
 toc:
   enable: true
 zhtw: false
