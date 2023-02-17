@@ -6,9 +6,7 @@ draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
-resources:
-- name: "featured-image"
-  src: ""
+featuredimage: featured-image.png
 tags: []
 toc:
   enable: true
