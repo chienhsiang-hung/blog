@@ -13,7 +13,7 @@ toc:
 zhtw: true
 ---
 ## 背景
-> **中山MBA in Finance，大數據、ML競賽得牌，在香港EAM龍頭之一擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作。**
+> **國立中山大學MBA in Finance，大數據、ML競賽得牌，在香港EAM龍頭之一擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作。**
 ### 研究論文(題目／研究目的)
 台灣 ICO 發展之研究 （A Study of ICO Development in Taiwan） 
 
