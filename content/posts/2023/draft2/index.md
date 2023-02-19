@@ -14,6 +14,20 @@ zhtw: true
 ---
 ## 背景
 > **中山MBA in Finance，大數據、ML競賽得牌，在香港EAM龍頭之一擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作。**
+### 研究論文(題目／研究目的)
+台灣 ICO 發展之研究 （A Study of ICO Development in Taiwan） 
+
+本篇論文透過過往文獻、基礎，以及背景的探討，藉以了解 ICO 之生成，並且如此火熱的原因。並解析其自身優缺點，輔以與 IPO 差異之分析，試推斷 ICO之利與弊。再根據現況各國政府監管狀況（拉力）與推動應用作法（推力），搭配現有成功之 ICO 案例分析，望能對台灣未來 ICO 可能的發展方向與目前現況，做出結論，並提出是否可改善之建議。 
+### Foreign Experience
+- Exchange Programme， Business／Managerial Economics， Örebro University， Sep. 2019 to Jan. 2020， Örebro， Sweden
+- Summer School Programme， International Relations and Affairs， the State University of Nizhni Novgorod named after N.I. Lobachevsky （UNN）， Jun. 2019 to Aug. 2019， Nizhni Novgorod， Russia
+- International Marketing Intern， Hsin－Fei  Internation Co.， Jan. 2019 to Feb. 2019， Cebu， Philippines
+### Projects
+- [臺灣清冠一號地圖 Taiwan NRICM101 Map](https://chienhsiang-hung.github.io/NRICM101-map/): Creator of a responsive med info map, shows the metadata of nearby clinics for those who were infected or weren’t, in need of finding the NRICM101 treatment for Covid-19 (average 1,000+ daily visitors). Integrated government data with Leaflet (open-source JavaScript map library), and hosted serverless using Vercel, GitHub, and MongoDB.
+- [Kaggle Profile Summary Card API](https://chienhsiang-hung.github.io/kaggle-profile-summary-card/): Developed an API by Web Scraping competition data and presented through designing on HTML and CSS / SVG (serves stainless by embedding through HTML or Markdown), deployed on Vercel with Python for Kagglers to display their Kaggle profile at any time, everywhere, and effortlessly. It’s used in more than 10 countries.
+- [Asian Traffic| Embedded Object Detection](https://www.kaggle.com/code/chienhsianghung/yolov5-for-asian-traffic-object-detection): Led a team to train an object detection model using YOLOv5 in a competition and further embedded it on the Android app and Raspberry Pi. Managed to raise 20% of mAP (highest in competition), accelerate the running speed by 900% and work smoothly on embedded devices.
+### Others
+- [Kaggle All-round Expert](https://www.kaggle.com/chienhsianghung): Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
 
 ## 面試
 ### 富邦
@@ -45,5 +59,5 @@ GOALS:
 GOALS: 
 - 創新技術研究與專案管理
 
-##### 選擇原因
+###### 選擇原因
 如前面所提，得益於科技與技術如指數般發展與更新，我們能夠使用更多工具因應趨勢，在領域中保持競爭力。也因為科技與技術不斷地更新，持續擁抱並學習新知的熱情與能力顯得更為重要，而這與我的個性及能力不謀而合。我在中山MBA訓練的敏捷開發管理，以及在香港公司擔任IT Manager時期練就的快速研究並熟悉創新技術的能力，讓我能更好地因應動態環境和需求做出相應合適且高質/量的產出，更確保了自己能在工作中持續提供高價值的產出。
