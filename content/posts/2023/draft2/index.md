@@ -18,7 +18,7 @@ zhtw: true
 台灣 ICO 發展之研究 （A Study of ICO Development in Taiwan） 
 
 本篇論文透過過往文獻、基礎，以及背景的探討，藉以了解 ICO 之生成，並且如此火熱的原因。並解析其自身優缺點，輔以與 IPO 差異之分析，試推斷 ICO之利與弊。再根據現況各國政府監管狀況（拉力）與推動應用作法（推力），搭配現有成功之 ICO 案例分析，望能對台灣未來 ICO 可能的發展方向與目前現況，做出結論，並提出是否可改善之建議。 
-### Foreign Experience
+### Foreign Experiences
 - Exchange Programme， Business／Managerial Economics， Örebro University， Sep. 2019 to Jan. 2020， Örebro， Sweden
 - Summer School Programme， International Relations and Affairs， the State University of Nizhni Novgorod named after N.I. Lobachevsky （UNN）， Jun. 2019 to Aug. 2019， Nizhni Novgorod， Russia
 - International Marketing Intern， Hsin－Fei  Internation Co.， Jan. 2019 to Feb. 2019， Cebu， Philippines
