@@ -29,7 +29,7 @@ zhtw: true
 ### Others
 - [Kaggle All-round Expert](https://www.kaggle.com/chienhsianghung): Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
 
-## 面試
+## 投遞
 ### 富邦
 #### 志願
 > 應提及興趣、優勢、發展
@@ -62,7 +62,49 @@ GOALS:
 ###### 選擇原因
 如前面所提，得益於科技與技術如指數般發展與更新，我們能夠使用更多工具因應趨勢，在領域中保持競爭力。也因為科技與技術不斷地更新，持續擁抱並學習新知的熱情與能力顯得更為重要，而這與我的個性及能力不謀而合。我在中山MBA訓練的敏捷開發管理，以及在香港公司擔任IT Manager時期練就的快速研究並熟悉創新技術的能力，讓我能更好地因應動態環境和需求做出相應合適且高質/量的產出，更確保了自己能在工作中持續提供高價值的產出。
 
-#### 前面MA的經驗
+#### Objective Statement
+非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
+
+## Questions
+### 自我描述
+- 近年做過最有挑戰或最有成就的事情
+  
+  |   |   |
+  | - | - |
+  | S | 嘗試個法金後決定走數金 |
+  | T | 培養技術(硬)實力 |
+  | A | 參加工研院、Kaggle比賽、自學CS |
+  | R | Kaggle All-round Expert, IT Manager at one of the biggest EAMs in HK |
+
+  參加工研院AI and Deep Learning培訓計畫，利用培訓
+
+- 近年失敗的經驗和該事件對你的影響
+
+  |   |   |
+  | - | - |
+  | S | 想嘗試Tier-1 SWE |
+  | T | 通過面試 |
+  | A | 刷題、學習: Algorithm, Data Structure, Design Pattern |
+  | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
+
+- 對職涯的規劃
+
+  PM
+
+- Personality (traits), values
+
+  非常喜歡一句話: "If you want something you've never had. You must be willing to do something you've never done."。
+
+  熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的路標警示。
+  
+
+  
+
+  
+
+  
+
+### 前面MA的經驗
 - 為什麼這麼短?
 
   在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
