@@ -69,7 +69,7 @@ zhtw: true
   下次會與主管面談。需要準備(如何快速上手JAVA、有興趣?、對生產管理系統的了解)
 
 ### HuntByte - Back End Debeloper - TW
-[Back End Developer | HuntByte | LinkedIn](https://www.linkedin.com/jobs/view/3466167677/?midToken=AQGjUWGuuZExJA&midSig=3GMcOgRIjqhWE1&trk=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job&trkEmail=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job-null-aprv7i%7Ele1chdwn%7E4h-null-jobs%7Eview)
+[Back End Developer | HuntByte | LinkedIn](https://www.linkedin.com/jobs/view/3466167677)
 - [x] *2023-02-14* **開發兼人資電訪**
 
   完全新創，第一版產品三月會上線，目前公司兩個後端一個前端，全公司八名成員，資金預計還能撐一年。
