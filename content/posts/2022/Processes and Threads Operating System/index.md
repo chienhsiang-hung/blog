@@ -10,7 +10,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 tags: ["Process", "Threads", "Operating Systems", "Multithreading", "Os"]
-categories: ["SE Interview 101"]
+categories: ["SWE Interview 101"]
 toc:
   enable: true
 zhtw: false
