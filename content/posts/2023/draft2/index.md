@@ -85,7 +85,7 @@ GOALS:
   | - | - |
   | S | 想嘗試Tier-1 SWE |
   | T | 通過面試 |
-  | A | 刷題、學習: Algorithm, Data Structure, Design Pattern |
+  | A | 刷題、學習: Algorithm, Data Structure, (Design Pattern) |
   | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
 
   Story 2:
