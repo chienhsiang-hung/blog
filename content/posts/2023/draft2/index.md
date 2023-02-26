@@ -80,12 +80,16 @@ GOALS:
 
 - 近年失敗的經驗和該事件對你的影響
 
+  Story 1:
   |   |   |
   | - | - |
   | S | 想嘗試Tier-1 SWE |
   | T | 通過面試 |
   | A | 刷題、學習: Algorithm, Data Structure, Design Pattern |
   | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
+
+  Story 2:
+  ...
 
 - 對職涯的規劃
 
