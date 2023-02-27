@@ -76,7 +76,7 @@ GOALS:
   | A | 參加工研院、Kaggle比賽、自學CS |
   | R | Kaggle All-round Expert, IT Manager at one of the biggest EAMs in HK |
 
-  參加工研院AI and Deep Learning培訓計畫，在3個月內從原理、實作，到應用，完成四項專案、在Kaggle深度學習競賽中取得銀牌。6個月內成功成為Kaggle All-round Expert並獲得多家企業徵才邀請，包括資安資料科學家、IT經理等，成功轉職進入外商協助建置資料工程以、產品數位化及作業自動化。在加入1年內開發出並取代原先外包之白標應用程式，省下1年180萬台幣支出。此外還開發出多項產業領先應用，包含Structured Porduct Quotation Apps、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢合作。
+  參加工研院AI and Deep Learning培訓計畫，在3個月內從原理、實作，到應用，完成四項專案、在Kaggle深度學習競賽中取得銀牌。6個月內成功成為Kaggle All-round Expert並獲得多家企業徵才邀請，包括資安資料科學家、IT經理等，成功轉職進入外商協助建置資料工程以、產品數位化及作業自動化。在加入1年內開發出並取代原先外包之白標應用程式，省下1年180萬台幣支出。此外還開發出多項產業領先應用，包含Structured Porduct Quotation Apps、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
 - 近年失敗的經驗和該事件對你的影響
 
@@ -89,7 +89,12 @@ GOALS:
   | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
 
   Story 2:
-  ...
+  |   |   |
+  | - | - |
+  | S | 陪朋友一起刷題目 |
+  | T | 比賽1個月內取得全站排名前10% |
+  | A | 刷題、學習: Algorithm, Data Structure |
+  | R | 失敗，只打到前30%，因為只是興趣學習，策略未經優化、解題過程也未經優化 |
 
 - 對職涯的規劃
 
