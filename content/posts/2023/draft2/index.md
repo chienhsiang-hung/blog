@@ -106,9 +106,7 @@ GOALS:
 
 - Personality (traits), values
 
-  非常喜歡一句話: "If you want something you've never had. You must be willing to do something you've never done."。
-
-  熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的路標警示。
+  非常喜歡一句話: "If you want something you've never had. You must be willing to do something you've never done."。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。
   
 ### 前面MA的經驗
 - 為什麼這麼短?
