@@ -1,8 +1,8 @@
 ---
 title: "MA"
-date: 2023-02-19T04:23:00+08:00
-lastmod: 2023-02-19T04:23:00+08:00
-draft: true
+date: 2023-02-27T06:53:00+08:00
+lastmod: 2023-02-27T06:53:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -80,21 +80,25 @@ GOALS:
 
 - 近年失敗的經驗和該事件對你的影響
 
-  Story 1:
-  |   |   |
-  | - | - |
-  | S | 想嘗試Tier-1 SWE |
-  | T | 通過面試 |
-  | A | 刷題、學習: Algorithm, Data Structure, (Design Pattern) |
-  | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
+  - Story 1:
 
-  Story 2:
-  |   |   |
-  | - | - |
-  | S | 陪朋友一起刷題目 |
-  | T | 比賽1個月內取得全站排名前10% |
-  | A | 刷題、學習: Algorithm, Data Structure |
-  | R | 失敗，只打到前30%，因為只是興趣學習，策略未經優化、解題過程也未經優化<br>雖然失敗有些失望，但如果改變刷題策略執行下去，有信心可以達成 |
+    |   |   |
+    | - | - |
+    | S | 想嘗試Tier-1 SWE |
+    | T | 通過面試 |
+    | A | 刷題、學習: Algorithm, Data Structure, (Design Pattern) |
+    | R | 了解自身實力，如果真的要走這條路，要更努力準備 |
+
+  - Story 2:
+
+    |   |   |
+    | - | - |
+    | S | 陪朋友準備FAANG |
+    | T | 比賽1個月內取得全站排名前10% |
+    | A | 刷題、學習: Algorithm, Data Structure |
+    | R | 失敗，只打到前30%，因為只是興趣學習，策略未經優化、解題過程也未經優化<br>雖然失敗有些失望，但改變刷題策略執行下去，有信心可以達成 |
+
+    幾個月前因為朋友要準備FAANG，邀請自己一起練Algorithm、Data Structure。當時離報名MA也還有段時間因此想藉此機會測試自己實力。策略是用熟悉語言(Python)先快速理解各主題基本原理、實作，完成一輪學習後開始刷題並參加競賽，目標開始比賽1個月內能進入全球排名前10%。
 
 - 對職涯的規劃
 
