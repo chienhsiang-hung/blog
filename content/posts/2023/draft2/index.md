@@ -65,6 +65,9 @@ GOALS:
 #### Objective Statement
 非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
 
+### 國泰
+#### 對此工作的認知、憧憬與自我目標設定 
+
 ## Questions
 ### 自我描述
 - 近年做過最有挑戰或最有成就的事情
