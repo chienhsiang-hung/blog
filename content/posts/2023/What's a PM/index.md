@@ -13,5 +13,12 @@ toc:
   enable: true
 ---
 ## What's a PM?
-> A PM is responsible for making sure that a team ships a great product.
+What's a PM?
+A PM is someone responsible to make sure a team ship great products, 
+like a mini CEO who draws vision, designs a strategy and makes decisions. The difference between a chief executive and a product manager is product managers don't have authority over the teams.
+
+How do you lead a team without authority?
+You will need to influence them with your vision and research. Don't be afraid of anyone or anything as long as you know that you are doing the right thing. 
+
+Why PM?
 
