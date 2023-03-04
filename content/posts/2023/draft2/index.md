@@ -118,6 +118,12 @@ GOALS:
 近期專案成果
 - 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
 - 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
+- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域(競賽、資料、討論)也都各取得其要求的金、銀牌數量，獲得四項專家成就。
+
+  奪牌之比賽包含:
+
+  - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。
+  - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
 - 工研院AI與深度學習專案，YOLOv4, YOLOv5 和 MovileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
 - Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 ### 挑戰
