@@ -124,7 +124,7 @@ GOALS:
 
   - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
   - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
-- 工研院AI與深度學習專案，YOLOv4, YOLOv5 和 MovileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
+- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
 - Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 ### 挑戰
 ### 前面MA的經驗
