@@ -119,7 +119,7 @@ GOALS:
 
 - 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
 
-• Kaggle Profile Summary Card API: Developed an API by Web Scraping competition data and presented through designing on HTML andCSS / SVG (serves stainless by embedding through HTML or Markdown), deployed on Vercel with Python for Kagglers to display theirKaggle profile at any time, everywhere, and effortlessly. It’s used in more than 10 countries.
+- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
 
 - Human Protein Atlas的單一細胞弱分類比賽，資料集為細胞相片，分為四個通道、各自為不同構造組成，企圖分類其中綠色通道之細胞。挑戰在於其為"弱分類"問題，給定相片與相片對應之多分類標籤，用相片層級標籤訓練模型，試圖找出其特徵規律，經過segmentation而後classification，給出相片中各細胞之分類、機率、與segmentation mask (類似於物件偵測之bounding box)。比賽仍在進行中，目前mAP排名前9%(銅牌)。
 - 蝦皮於Kaggle舉辦的深度學習比賽，在70,000件商品中，利用Efficientnet以及Tfidf分別對影像與文字進行Embedding，再利用KNN找出不同賣場間相同的產品，以利展示給消費者同樣商品中最便宜的物件，提升平台消費量。目前比賽仍在進行當中，F-score排名前4% (銀牌)。
