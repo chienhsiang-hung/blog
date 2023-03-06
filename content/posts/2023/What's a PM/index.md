@@ -21,4 +21,5 @@ How do you lead a team without authority?
 You will need to influence them with your vision and research. Don't be afraid of anyone or anything as long as you know that you are doing the right thing. 
 
 Why PM?
+One reason is that you get to sit at the intersection of Technology, Business, and Design and learn to see things from a different perspective of view.
 
