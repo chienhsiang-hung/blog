@@ -2,7 +2,7 @@
 title: "MA"
 date: 2023-02-27T06:53:00+08:00
 lastmod: 2023-02-27T06:53:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -66,6 +66,7 @@ GOALS:
 非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
 
 ### 國泰
+*國泰官網徵才系統英文版故障，無法成功進入下一步。*
 #### 對此工作的認知、憧憬與自我目標設定
 ##### GMA
 國泰GMA計畫召集具碩士以上學歷且英文流利，並具創新思維、懂得善用團隊，積極且重邏輯思考解決問題之人才。透過在不同BU間輪調培養多元專業、了解跨部門業務，來塑造通曉**企劃、數金、業務及管理**之通才，來達成*集團策略高度管理之任務。*
