@@ -32,5 +32,4 @@ One reason is that you get to sit at the intersection of Technology, Business, a
 
 > For example. There is an idea to build a talent matching service website (for plumbers etc.).
 ### Research and Planning
-Try to identify the problems and set a set of features to achieve the goal and answer the question
-
+Try to identify the problems and set a set of features to achieve the goal and answer the question "why are we working on this?".
