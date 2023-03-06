@@ -57,9 +57,3 @@ One reason is that you get to sit at the intersection of Technology, Business, a
     </tr>
   </tbody>
 </table>
-
-
-|               | 104                | 8891               |         591        |      PRO360     |
-| ------------- | ------------------ | ------------------ | ------------------ | --------------- |
-| How to Charge | cost/time to posts | cost/time to posts | cost/time to posts | to get contacts |
-| Who to Pay    |
