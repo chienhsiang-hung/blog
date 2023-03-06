@@ -1,13 +1,13 @@
 ---
-title: "What's a PM?"
+title: "What's a PM with a Case to Build a Talent Matching Website"
 date: 2023-02-28T06:08:00+08:00
 lastmod: 2023-02-28T06:08:00+08:00
 draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: "Display Dates in a Combo Box"
+description: ""
 featuredimage: featured-image.png
-tags: ["Powerapps", "Dataverse", "Microsoft Dataverse", "Combobox", "Distinct"]
+tags: [""]
 categories: ["PM 101"]
 toc:
   enable: true
@@ -29,6 +29,8 @@ One reason is that you get to sit at the intersection of Technology, Business, a
 | Why&What |
 | -- |
 | Define the requirements and Research the market |
+
+> For example. There is an idea to build a talent matching service website (for plumbers etc.).
 ### Research and Planning
 
 
