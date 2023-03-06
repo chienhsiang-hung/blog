@@ -29,12 +29,18 @@ One reason is that you get to sit at the intersection of Technology, Business, a
 |                     Why&What                    |
 | ----------------------------------------------- |
 | Define the requirements and Research the market |
-
-> For example. There is an idea to build a talent/service matching website (for plumbers etc.).
 ### Why&What - Research and Planning
 1. Try to identify the problems and set a set of features to achieve the goal and answer the question "why are we working on this?".
 2. Define Success. What the world would look like if the team gets successful? Objectives and Key Results (OKRs).
-#### Competitor Analysis
+
+> For example. There is an idea to build a talent/service matching website (for plumbers etc.).
+
+Pain Points:
+- Provider: It is expensive to find customers through PRO360 (100ish NTD a time).
+- User: 
+  1. No way to browse. (Can't initiate the purchases.)
+  2. Hard to find the services nearby.
+#### Role Model and Competitor Analysis
 <table>
   <thead>
     <tr>
@@ -42,18 +48,40 @@ One reason is that you get to sit at the intersection of Technology, Business, a
       <th>104</th>
       <th>8891</th>
       <th>591</th>
-      <th>PRO360</th>
       <th>Shopee</th>
+      <th>PRO360</th>
+      <th>ExpertEase</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Underlying</td>
+      <td>Talents / Jobs</td>
+      <td>Cars</td>
+      <td>Houses</td>
+      <td>eCommerce</td>
+      <td>Services</td>
+      <td>Services</td>
+    </tr>
     <tr>
       <td>How to Charge</td>
       <td>cost/time to posts</td>
       <td>cost/time to posts</td>
       <td>cost/time to posts</td>
-      <td>to get contacts</td>
       <td>% to per sale</td>
+      <td>to get contacts</td>
+      <td>cost/time to posts</td>
+    </tr>
+    <tr>
+      <td>Maps / Location</td>
+      <td>N</td>
+      <td>N</td>
+      <td>Y</td>
+      <td>N</td>
+      <td>N</td>
+      <td>Y</td>
     </tr>
   </tbody>
 </table>
+
+#### Features List
