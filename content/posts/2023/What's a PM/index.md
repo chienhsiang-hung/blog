@@ -1,5 +1,5 @@
 ---
-title: "What's a PM with a Case to Build a Talent Matching Website"
+title: "What's a PM with a Case to Build a Talent&Service Matching Website"
 date: 2023-02-28T06:08:00+08:00
 lastmod: 2023-02-28T06:08:00+08:00
 draft: true
@@ -26,10 +26,40 @@ One reason is that you get to sit at the intersection of Technology, Business, a
 
 ## Functions of a PM
 *(Why -> What -> How -> Test -> Deploy)*
-| Why&What |
-| -- |
+|                     Why&What                    |
+| ----------------------------------------------- |
 | Define the requirements and Research the market |
 
-> For example. There is an idea to build a talent matching service website (for plumbers etc.).
-### Research and Planning
-Try to identify the problems and set a set of features to achieve the goal and answer the question "why are we working on this?".
+> For example. There is an idea to build a talent/service matching website (for plumbers etc.).
+### Why&What - Research and Planning
+1. Try to identify the problems and set a set of features to achieve the goal and answer the question "why are we working on this?".
+2. Define Success. What the world would look like if the team gets successful? Objectives and Key Results (OKRs).
+#### Competitor Analysis
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>104</th>
+      <th>8891</th>
+      <th>591</th>
+      <th>PRO360</th>
+      <th>Shopee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>How to Charge</td>
+      <td>cost/time to posts</td>
+      <td>cost/time to posts</td>
+      <td>cost/time to posts</td>
+      <td>to get contacts</td>
+      <td>% to per sale</td>
+    </tr>
+  </tbody>
+</table>
+
+
+|               | 104                | 8891               |         591        |      PRO360     |
+| ------------- | ------------------ | ------------------ | ------------------ | --------------- |
+| How to Charge | cost/time to posts | cost/time to posts | cost/time to posts | to get contacts |
+| Who to Pay    |
