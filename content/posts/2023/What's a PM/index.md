@@ -26,9 +26,9 @@ One reason is that you get to sit at the intersection of Technology, Business, a
 
 ## Functions of a PM
 *(Why -> What -> How -> Test -> Deploy)*
-|                     Why&What                    |
-| ----------------------------------------------- |
-| Define the requirements and Research the market |
+|                     Why, What                   |   How  |
+| ----------------------------------------------- | ------ |
+| Define the requirements and Research the market | Design |
 ### Why&What - Research and Planning
 1. Try to identify the problems and set a set of features to achieve the goal and answer the question "why are we working on this?".
 2. Define Success. What the world would look like if the team gets successful? Objectives and Key Results (OKRs).
@@ -85,3 +85,16 @@ Pain Points:
 </table>
 
 #### Features List
+
+### How- Design
+#### SPEC
+Detailed Functional Specification (Spec.)
+- Goals
+- Use Cases
+- Requirements
+- Wireframes
+- Bullet points describing every possible state of the feature
+- Internationalization
+- Security
+
+<-- Designers -- PMs -- Engineers -->
