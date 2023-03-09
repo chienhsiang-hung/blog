@@ -1,8 +1,8 @@
 ---
-title: "warm-up-interview"
-date: 2023-02-16T02:23:00+08:00
-lastmod: 2023-02-16T02:23:00+08:00
-draft: true
+title: "2022/2023 軟體工程師 面試分享整理"
+date: 2023-03-09T03:47:00+08:00
+lastmod: 2023-03-09T03:47:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -12,16 +12,24 @@ toc:
   enable: true
 zhtw: true
 ---
-## On-going
-### 鈊象電子 - Server軟體工程師 - TW
-[server software engineer | International Games System | LinkedIn](https://www.linkedin.com/jobs/view/3477677394/)
-- [x] *2023-02-13* **HR幫忙安排**
-
+## Interviews
 ### Fortune Electric - Software Engineer - TW
 [Software Engineer | 華城電機股份有限公司 Fortune Electric | LinkedIn](https://www.linkedin.com/jobs/view/3468545137/?refId=5ciBKUcWLJkjaFx5zpwO8A%3D%3D&trackingId=4yRBBsfpE4OVSFvl%2Fn4lLw%3D%3D)
 - [x] *2023-02-15* **Phone Call Screen with HR**
 
   將成立的新事業體，會由外籍主管帶領台籍工程師團隊，約下周線上面試，與該外籍主管與一名顧問。
+
+  告知職位為FullStack Engineer
+- [x] *2023-02-21* **Virtual Interview with Team Lead and a consultant**
+
+  Some intro about the new department and development. (Battery mgmt.)
+  
+  - React experience
+  - Linux, OS
+  - sse and websocket (WebSockets are bidirectional. SSEs are mono-directional.)
+  - Rust (security reason)
+  
+  The Lead is young and friendly, experienced at `assembly`, `linux`.
 
 ### FundPark - Software Engineer - HK
 - [x] *2023-02-06* **Virtual Interview Invitation**
@@ -56,9 +64,9 @@ zhtw: true
 
   經驗很好也深刻體會到自己的不足
 
-  在聽到我對design pattern不熟後，其中一位還說他能理解因為我不是本科系(但這是我的不對，馬上去補上)，詢問問題也都耐心回答，指引方向
+  在聽到我對design pattern不熟後，其中一位還說他能理解因為我不是本科系(但這是我的不對，面試後馬上補上)，詢問問題也都耐心回答，指引方向
 
-  兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(像是解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
+  兩位主管很專業也很親切，這場面試不管有沒有上都得到很多資訊(解釋DevOps等)，會讓人結束後細細品味很想待在兩位團隊底下做事磨練
 
 ### Wonderland - Technical Application Engineer - TW/CH
 [Technical Application Engineer | Wonderland Group | LinkedIn](https://www.linkedin.com/jobs/view/3462457107/)
@@ -66,7 +74,7 @@ zhtw: true
 
   大概介紹公司在做什麼(嬰兒用品)，工廠在哪(東莞?)，規模多大等等。主要使用語言JAVA，做PLM生產管理系統導入，配合工廠克制需求。軟體跟外部購買，聽起來是幫廠商根顧問溝通跟作客改，不是純開發。
 
-  下次會與主管面談。需要準備(如何快速上手JAVA、有興趣?、對生產管理系統的了解)
+  如何快速上手JAVA、有興趣?、對生產管理系統的了解
 
 ### HuntByte - Back End Debeloper - TW
 [Back End Developer | HuntByte | LinkedIn](https://www.linkedin.com/jobs/view/3466167677)
@@ -75,8 +83,8 @@ zhtw: true
   完全新創，第一版產品三月會上線，目前公司兩個後端一個前端，全公司八名成員，資金預計還能撐一年。
 
   聊聊為什麼想換工作，完全開發網頁目前認為有什麼部分(技能)是欠缺的嗎? 目前開希望一百以上
+- [x] *2023-02-17* **辦公室面試，與兩位founder和一位cto**
 
-## Practices
 ### CTW - Backend Engineer-Python - JP
 [Senior Backend Engineer- Python｜CTW株式会社｜日本－104 人力銀行](https://www.104.com.tw/job/7ri1p?jobsource=pda_i)
 
@@ -374,7 +382,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 - Wipro - TV/STB Test Engineer- Python - TW
 - Wipro - Software Engineer - IN
 - Tea House - Financial Engineer - TW
-
+- 鈊象電子 - Server軟體工程師 - TW
 
 [^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]: [Pinkoi_香港商果翼科技股份有限公司台灣分公司後端工程師的所有薪水 | 比薪水 (salary.tw)](https://salary.tw/c/Jhfb/positions/%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB?sort=featured&currentPage=1#_=_)
 [^阿爾發證券投資顧問股份有限公司的薪資薪水情報]: [阿爾發證券投資顧問股份有限公司的薪資、薪水情報-台灣薪資情報網 (twjobs.net)](https://twjobs.net/q.aspx?q=%E9%98%BF%E7%88%BE%E7%99%BC%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
