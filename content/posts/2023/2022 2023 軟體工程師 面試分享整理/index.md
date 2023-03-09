@@ -8,6 +8,7 @@ authorLink: "https://chienhsiang-hung.github.io/"
 description: "featured-image 時不時練習面試一下能夠了解目前產業需求、自己有沒有符合市場需求 分享自己這兩年練習面試的一些經驗供大家參考 Interviews Fortune Electric - Software Engineer - TW Software Engineer | 華城電機股份, Pinkoi - Backend Engineer"
 featuredimage: featured-image.png
 tags: ["軟體工程師", "Swe", "面試", "Full Stack Developer", "Software Engineering"]
+categories: ["SWE Interview 101"]
 toc:
   enable: true
 zhtw: true
