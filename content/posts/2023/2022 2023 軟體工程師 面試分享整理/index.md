@@ -1,19 +1,21 @@
 ---
 title: "2022/2023 軟體工程師 面試分享整理"
-date: 2023-03-09T03:47:00+08:00
-lastmod: 2023-03-09T03:47:00+08:00
+date: 2023-03-09T11:15:00+08:00
+lastmod: 2023-03-09T11:15:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+description: "featured-image 時不時練習面試一下能夠了解目前產業需求、自己有沒有符合市場需求 分享自己這兩年練習面試的一些經驗供大家參考 Interviews Fortune Electric - Software Engineer - TW Software Engineer | 華城電機股份, Pinkoi - Backend Engineer"
 featuredimage: featured-image.png
-tags: []
+tags: ["軟體工程師", "Swe", "面試", "Full Stack Developer", "Software Engineering"]
 toc:
   enable: true
 zhtw: true
 ---
 ![featured-image.png](featured-image.png "featured-image")
 時不時練習面試一下能夠了解目前產業需求、自己有沒有符合市場需求
+
+分享自己這兩年練習面試的一些經驗供大家參考
 ## Interviews
 ### Fortune Electric - Software Engineer - TW
 [Software Engineer | 華城電機股份有限公司 Fortune Electric | LinkedIn](https://www.linkedin.com/jobs/view/3468545137/?refId=5ciBKUcWLJkjaFx5zpwO8A%3D%3D&trackingId=4yRBBsfpE4OVSFvl%2Fn4lLw%3D%3D)
@@ -172,7 +174,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
   [Technology Consulting Case Interview: What You Need to Know (thinkific.com)](https://hackingthecaseinterview.thinkific.com/pages/technology-consulting-case-interview)
 
-  Do I need to make a ppt?
+  <span hidden>Do I need to make a ppt?</span>
   {{< /admonition >}}
 - [x] *2022-11-11* **2nd Round Interview w/ AP (Case Study)**
 
@@ -388,7 +390,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     最後是期望薪資[^阿爾發證券投資顧問股份有限公司的薪資薪水情報]，因為只是來練習面試，一樣開1.2M NTD<span hidden>，說今天會review<span>。
 
 ## Others
-一些因為時間有衝突，或者是已經練過類似，或是來不及/懶得打上來XD，如果想知道可以再PM我詳細
+一些因為時間有衝突，或者是已經練過類似，或是來不及/懶得打上來XD，如果想知道可以再留言告訴我
 - Mindee - Solutions Engineer - FR
 - Appier - Technical Service Engineer (GCR) - TW
 - Tetrion Capital - Software Design Engineer - HK
