@@ -255,6 +255,8 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     >
     > **測試結果放在這邊，如果大家有什麼不一樣的看法也歡迎留下意見，不確定是自己測試錯誤還是對方誤導**
 
+    <script src="https://gist.github.com/chienhsiang-hung/3b335babe08551db2a69e80ad1949893.js"></script>
+
     再來是第二題，針對字串相加進行提問[^StringProblem]
     ```python
     from collections import defaultdict
@@ -347,7 +349,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     1. 有沒有辦法更快?
     2. 可以用`set()`改寫嗎?
 
-    至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資(因為查過比薪水[^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]，整體薪資偏低，所以就回1.1M NTD)等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
+    至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資(查過比薪水[^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]，整體薪資偏低，因為只是來練習面試，所以就隨便回1.2M NTD)等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
 
 ### 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
