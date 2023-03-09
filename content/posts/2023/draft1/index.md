@@ -12,6 +12,8 @@ toc:
   enable: true
 zhtw: true
 ---
+![featured-image.png](featured-image.png "featured-image")
+時不時練習面試一下能夠了解目前產業需求、自己有沒有符合市場需求
 ## Interviews
 ### Fortune Electric - Software Engineer - TW
 [Software Engineer | 華城電機股份有限公司 Fortune Electric | LinkedIn](https://www.linkedin.com/jobs/view/3468545137/?refId=5ciBKUcWLJkjaFx5zpwO8A%3D%3D&trackingId=4yRBBsfpE4OVSFvl%2Fn4lLw%3D%3D)
@@ -117,7 +119,7 @@ zhtw: true
 
   目前IT部門有30人，去年還只有15人，預計全公司擴展至300人
 
-  期待薪資? 1.3-1.4M NTD (6M JPY)
+  <span hidden>期待薪資? 1.3-1.4M NTD (6M JPY)</span>
 
   _被問為什麼會想投CTW，說是因為看到公司過了幾輪募資快速發展，但其實好像跟其他公司搞混了xd_
   {{< admonition type=info title="Some Interview Info" open=true >}}
@@ -238,7 +240,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
         if num in [f0, f1]:
 
-    請問`[f0, f1]`還能夠用什麼資料結構來代替，回`tuple`但因為知道`tuple`是**immutable**不確定能不能這樣用，要試試看
+    請問`[f0, f1]`還能夠用什麼資料結構來代替<span hidden>，回`tuple`但因為知道`tuple`是**immutable**不確定能不能這樣用，要試試看</span>
 
 
     再問，若`[f0, f1]`改成`(f0, f1)`, `{f0, f1}`，效能有差嗎，誰比較快
@@ -250,6 +252,8 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
         if num in {f0, f1}:
     ```
     三個都是O(n)，但實際運行好像有看過文章說`tuple`比`list`快，不確定
+
+    面試官很肯定地說`tuple`最快，說之前應為這個更改，順利提升內部程式運行速度
 
     > **後來自己用電腦測試，實際上並沒有什麼差別...**
     >
@@ -349,7 +353,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     1. 有沒有辦法更快?
     2. 可以用`set()`改寫嗎?
 
-    至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資(查過比薪水[^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]，整體薪資偏低，因為只是來練習面試，所以就隨便回1.2M NTD)等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
+    至於前面根據其他面試者經驗準備的資料，一題都沒考到。剩下稍微閒聊，然後就切到HR。閒聊過去經驗、發展規劃、其他面試、期待薪資(查過比薪水[^Pinkoi_香港商果翼科技股份有限公司台灣分公司薪水情報]大概知道薪資範圍，因為只是來練習面試，所以就回1.2M NTD)等。整個流程進行比預期快很多，原本信中預估2-2.5hrs，實際用不到一小半。
 
 ### 阿爾發投顧 - Python後端工程師 - TW
 [Python後端工程師｜阿爾發證券投資顧問｜台北市－104 人力銀行](https://www.104.com.tw/job/6vazb?jobsource=pda_i)
@@ -381,16 +385,19 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
     - Git版本控制協作經驗?
     - 如果專案上市在即，而公司資安被官方找出弱點需要修正，你怎麼辦?
     
-    最後是期望薪資，因為只是來練習面試，一樣給出了一個低標後結束面試(同Pinkoi那場回覆 - 1.2M NTD)，說今天會review。聽完組織狀況跟打聽過這家狀況[^阿爾發證券投資顧問股份有限公司的薪資薪水情報]，應該是沒辦法給到期待薪資。
+    最後是期望薪資[^阿爾發證券投資顧問股份有限公司的薪資薪水情報]，因為只是來練習面試，一樣開1.2M NTD<span hidden>，說今天會review<span>。
 
 ## Others
 一些因為時間有衝突，或者是已經練過類似，或是來不及/懶得打上來XD，如果想知道可以再PM我詳細
+- Mindee - Solutions Engineer - FR
 - Appier - Technical Service Engineer (GCR) - TW
 - Tetrion Capital - Software Design Engineer - HK
 - Tetrion Capital - DevOps Engineer - HK
 - Marketech International - Artificial Intelligence Engineer - TW
 - Wipro - TV/STB Test Engineer- Python - TW
 - Wipro - Software Engineer - IN
+- (Consus) Wipro - Sr. Frontend Engineer - TW
+- (Consus) Wipro - Software Engineer frontend /Sr. Engineer-Backend - TW
 - Tea House - Financial Engineer - TW
 - 鈊象電子 - Server軟體工程師 - TW
 
