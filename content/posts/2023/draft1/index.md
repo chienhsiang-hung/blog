@@ -179,7 +179,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
     *The material I used to prepare before the interview [(Mock Technology Consulting Case Interview (Case Study): Architecture Strategy)](https://chienhsiang-hung.github.io/blog/posts/2022/mock-technology-consulting-case-interview-case-study-architecture-strategy/) that you can use.*
 
-  Real Process: TL;TT
+  Real Process: TL;DW ([my draft ppt](Presentation1.pptx) based on given question, made 1 hr prior to the interview)
 ### Pinkoi - Backend Engineer - Buyer Engagement Squad - TW
 [Backend Engineer - Buyer Engagement Squad｜Pinkoi_香港商果翼科技｜台北市－104 人力銀行](https://www.104.com.tw/job/7nzwo?jobsource=pda_i)
 
@@ -253,9 +253,7 @@ Reached out by Meg Milagrosa from Talent Acquisition Team on LinkedIn
 
     > **後來自己用電腦測試，實際上並沒有什麼差別...**
     >
-    > **不清楚是被面試官忽悠還是他們自己也不理解**
-    >
-    > **測試結果放在這邊，如果大家有什麼不一樣的看法也歡迎留下意見，不確定是自己測試錯誤還是對方真的誤導**
+    > **測試結果放在這邊，如果大家有什麼不一樣的看法也歡迎留下意見，不確定是自己測試錯誤還是對方誤導**
 
     再來是第二題，針對字串相加進行提問[^StringProblem]
     ```python
