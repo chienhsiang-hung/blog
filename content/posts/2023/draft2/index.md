@@ -38,7 +38,7 @@ hiddenFromSearch: true
 > 應提及興趣、優勢、發展
 
 ##### 台北富邦銀行 - 數位創新組
-> 學歷資訊統計
+> 台北富邦銀行學歷資訊統計[^面試趣]
 > 
 > -   [](https://interview.tw/school/NCCU "國立政治大學")
 >     
@@ -66,6 +66,20 @@ GOALS:
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位創新組的目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港EAM龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
 ##### 富邦金控 - 資訊科技組
+> 富邦金控學歷資訊統計[^面試趣]
+> 
+> -   [](https://interview.tw/school/TKU "淡江大學")
+>     
+>     ①  9.2%  淡江大學
+>     
+> -   [](https://interview.tw/school/NCCU "國立政治大學")
+>     
+>     ②  5.8%  國立政治大學
+>     
+> -   [](https://interview.tw/school/PCCU "中國文化大學")
+>     
+>     ③  5.8%  中國文化大學
+
 以成為創新技術研究與專案管理之雙軌人才為發展方向。
 
 核心職掌如下：  
@@ -84,6 +98,20 @@ GOALS:
 非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
 
 ### 國泰
+> 國泰金學歷資訊統計[^面試趣]
+> 
+> -   [](https://interview.tw/school/NCCU "國立政治大學")
+>     
+>     ①  19%  國立政治大學
+>     
+> -   [](https://interview.tw/school/NTU "國立臺灣大學")
+>     
+>     ②  8.3%  國立臺灣大學
+>     
+> -   [](https://interview.tw/school/NTUT "國立臺北科技大學")
+>     
+>     ③  7.1%  國立臺北科技大學
+
 *國泰官網徵才系統英文版故障，無法成功進入下一步。*
 #### 對此工作的認知、憧憬與自我目標設定
 ##### GMA
@@ -168,3 +196,6 @@ GitHub: https://github.com/chienhsiang-hung/
 - 為什麼這麼短?
 
   在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
+
+
+[^面試趣]: [找工作前的第一站 | 面試趣 (interview.tw)](https://interview.tw/)
