@@ -1,8 +1,8 @@
 ---
 title: "MA"
-date: 2023-02-27T06:53:00+08:00
-lastmod: 2023-02-27T06:53:00+08:00
-draft: true
+date: 2023-03-11T00:53:00+08:00
+lastmod: 2023-03-11T00:53:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
@@ -11,6 +11,8 @@ tags: []
 toc:
   enable: true
 zhtw: true
+hiddenFromHomePage: true
+hiddenFromSearch: true
 ---
 ## 背景
 > **國立中山大學MBA in Finance，大數據、ML競賽得牌，在香港EAM龍頭擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作。**
@@ -31,10 +33,26 @@ zhtw: true
 
 ## 投遞
 ### 富邦
+
 #### 志願
 > 應提及興趣、優勢、發展
 
 ##### 台北富邦銀行 - 數位創新組
+> 學歷資訊統計
+> 
+> -   [](https://interview.tw/school/NCCU "國立政治大學")
+>     
+>     ①  14%  國立政治大學
+>     
+> -   [](https://interview.tw/school/MCU "銘傳大學")
+>     
+>     ②  7.9%  銘傳大學
+>     
+> -   [](https://interview.tw/school/TKU "淡江大學")
+>     
+>     ③  6.3%  淡江大學
+
+
 養成金融科技、數據運用及數位服務創新人才。
 
 1.以優化創新金融科技服務為主要發展方向，參與內外部服務平台建置，推動大數據智能決策管理經營環境。  
