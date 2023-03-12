@@ -201,7 +201,7 @@ GitHub: https://github.com/chienhsiang-hung/
 - Strengths:
   1. 中山財管碩畢專業素養與香港金融EAM龍頭擔任IT Manager的工作經驗
   2. 主動積極，在團隊中總是第一個提出問題、第一個想出解決方法，或第一個執行的人
-  3. 學習、進步、創新
+  3. 學習、進步、創新，懂得搜尋善用資源
 - Weaknesses:
   1. 不夠細心
   2. 太嚴厲
