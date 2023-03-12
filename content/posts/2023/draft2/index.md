@@ -147,7 +147,11 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 
 中信擁有最成熟完整的MA培訓制度，作為台灣金融業龍頭，中信提供最全面的金融服務，而MA的培訓制度又能讓人才在加入公司後藉由在各領域的學習，擴大自身技能廣度以及深度。配合培訓體系的完整規劃以及對業務養成的前瞻理念，讓訓練不只紮實且挑戰，提供最佳的成長空間。
 
-而這與我的能力及興趣不謀而合，結合我在中山財管MBA訓練的商管素質及知識，與目前在香港金融EAM龍頭擔任IT Manager練就的快速研究熟悉創新技術並開發實作的能力，在持續變動的環境中快速學習，期許自己能擴充自己的影響力，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
+而這與我的能力及興趣不謀而合，結合我在中山財管MBA訓練的商管素質及知識，與目前在香港金融EAM龍頭擔任IT Manager練就的快速研究熟悉創新技術並開發實作的能力，在持續變動的環境中快速學習，為組織帶來。期許自己能擴充自己的影響力，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
+
+相關作品:
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
 ## 題庫
 ### 自我描述
 #### 家庭成長背景
@@ -193,6 +197,26 @@ GitHub: https://github.com/chienhsiang-hung/
 - Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 #### SWOT構面條列分析自己
 *請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
+
+- Strengths:
+  1. 中山財管碩畢專業素養與香港金融EAM龍頭擔任IT Manager的工作經驗
+  2. 主動積極，在團隊中總是第一個提出問題、第一個想出解決方法，或第一個執行的人
+  3. 學習、進步、創新
+- Weaknesses:
+  1. 不夠細心
+  2. 太嚴厲
+  3. 多工問題
+- Opportunities:
+  1. 科技日新月異
+  2. 機會不斷出現
+- Threats:
+  1. 科技日新月異
+  2. 環境變化快速
+
+##### 資源
+1. Cracking the PM Interview
+2. [Personal SWOT Analysis - Making the Most of Your Talents and Opportunities](https://www.mindtools.com/aaiakpy/personal-swot-analysis)
+3. [Personal SWOT Analysis: Where Talent Meets Opportunity](https://creately.com/blog/hr-planning/personal-swot-analysis/)
 
 ### 挑戰
 #### 近年做過最有挑戰或最有成就的事情
