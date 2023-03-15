@@ -176,25 +176,6 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
 #### 對職涯的規劃
 善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，期許自己能加入更大的組織擴充自己的影響力，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
-#### 其他成就、特殊表現事蹟
-近期專案成果
-- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
-- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
-- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域(競賽、資料、討論)也都各取得其要求的金、銀牌數量，獲得四項專家成就。
-
-  奪牌之比賽包含:
-
-  - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
-  - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
-
-[Portfolio]
-
-Website: https://hsiang.eu.org/
-
-GitHub: https://github.com/chienhsiang-hung/
-
-- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
-- Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 #### SWOT構面條列分析自己
 *請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
 
@@ -215,10 +196,40 @@ GitHub: https://github.com/chienhsiang-hung/
   1. 科技日新月異如指數般成長進步，這一刻剛學會的技術，下一刻被另一個技術取代，須要時刻站在浪尖上並不斷學習
   2. 環境變化快速，新的需求出現，舊市馬上就退場，須要保持警覺，為隨時可能的變動做調整
 
+善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
+  
+  我對FinTech特別有興趣，也希望看到自己未來能帶領專案，產出能商轉或是為公司帶來巨大利益的產品。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+
+[Portfolio]
+
+Website: https://hsiang.eu.org/
+
+GitHub: https://github.com/chienhsiang-hung/
+
 ##### 資源
 1. Cracking the PM Interview
 2. [Personal SWOT Analysis - Making the Most of Your Talents and Opportunities](https://www.mindtools.com/aaiakpy/personal-swot-analysis)
 3. [Personal SWOT Analysis: Where Talent Meets Opportunity](https://creately.com/blog/hr-planning/personal-swot-analysis/)
+
+#### 其他成就、特殊表現事蹟
+近期專案成果
+- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
+- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
+- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域(競賽、資料、討論)也都各取得其要求的金、銀牌數量，獲得四項專家成就。
+
+  奪牌之比賽包含:
+
+  - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
+  - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
+
+[Portfolio]
+
+Website: https://hsiang.eu.org/
+
+GitHub: https://github.com/chienhsiang-hung/
+
+- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
+- Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 
 ### 挑戰
 #### 近年做過最有挑戰或最有成就的事情
