@@ -198,6 +198,8 @@ GitHub: https://github.com/chienhsiang-hung/
 #### SWOT構面條列分析自己
 *請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
 
+![Personal SWOT Analysis: Where Talent Meets Opportunity](https://d3n817fwly711g.cloudfront.net/uploads/2014/07/New-Finding-Your-Dream-Job.png "Personal SWOT Analysis: Where Talent Meets Opportunity")
+
 - Strengths:
   1. 中山財管碩畢專業素養與香港金融EAM龍頭擔任IT Manager的工作經驗
   2. 主動積極，在團隊中總是第一個提出問題、第一個想出解決方法，或第一個執行的人
