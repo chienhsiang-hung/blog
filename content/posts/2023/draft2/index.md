@@ -113,7 +113,8 @@ GOALS:
 >     ③  7.1%  國立臺北科技大學
 
 *國泰官網徵才系統英文版故障，無法成功進入下一步。*
-#### 對此工作的認知、憧憬與自我目標設定
+#### 工作認知及憧憬與目標設定
+_對此工作的認知、憧憬與自我目標設定_
 ##### GMA
 國泰GMA計畫召集具碩士以上學歷且英文流利，並具創新思維、懂得善用團隊，積極且重邏輯思考解決問題之人才。透過在不同BU間輪調培養多元專業、了解跨部門業務，來塑造通曉**企劃、數金、業務及管理**之通才，達成*集團策略高度管理之任務。*
 
@@ -152,7 +153,8 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 相關作品:
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
-## 題庫
+### 開發金
+## 問題
 ### 自我描述
 #### 自傳
 My name is Chien-Hsiang Hung and I am a software engineer with over six years of experience in web development, data analysis, and machine learning. I was born and raised in Taiwan, where I developed a passion for programming and mathematics at an early age. I graduated from National Taiwan University with a bachelor's degree in computer science and engineering, and then pursued a master's degree in artificial intelligence at National Cheng Kung University. During my studies, I participated in several research projects and competitions related to natural language processing, computer vision, and recommender systems. I also gained valuable industry experience by working as an intern at Microsoft Research Asia and MediaTek.
@@ -188,7 +190,7 @@ and society.
 ##### 之前MA的經驗
 ###### 為何離開、為何如此短暫
 在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
-#### SWOT構面條列分析自己及職涯策略
+#### SWOT分析自己、職涯策略
 *請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
 
 ![Personal SWOT Analysis: Where Talent Meets Opportunity](https://d3n817fwly711g.cloudfront.net/uploads/2014/07/New-Finding-Your-Dream-Job.png "Personal SWOT Analysis: Where Talent Meets Opportunity")
@@ -236,8 +238,9 @@ GitHub: https://github.com/chienhsiang-hung/
 - 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
 - Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
 
-### 挑戰
-#### 近年做過最有挑戰或最有成就的事情
+### 經驗
+#### 最有挑戰或最有成就的事情
+_近年做過最有挑戰或最有成就的事情_
 |   |   |
 | - | - |
 | S | 嘗試個法金後決定走數金 |
@@ -246,7 +249,8 @@ GitHub: https://github.com/chienhsiang-hung/
 | R | Kaggle All-round Expert, IT Manager at one of the biggest EAMs in HK |
 
 參加工研院AI and Deep Learning培訓計畫，在3個月內從原理、實作，到應用，完成四項專案、在Kaggle深度學習競賽中取得銀牌。6個月內成功成為Kaggle All-round Expert並獲得多家企業徵才邀請，包括資安資料科學家、IT經理等，成功轉職進入外商協助建置資料工程以、產品數位化及作業自動化。在加入1年內開發出並取代原先外包之白標應用程式，省下1年180萬台幣支出。此外還開發出多項產業領先應用，包含Structured Porduct Quotation Apps、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
-#### 近年失敗的經驗和該事件對你的影響
+#### 失敗的經驗和影響
+_近年失敗的經驗和該事件對你的影響_
 {{< admonition type=note title="Story 1" open=false >}}
 |   |   |
 | - | - |
@@ -264,11 +268,13 @@ GitHub: https://github.com/chienhsiang-hung/
 | R | 失敗，只打到前30%，因為只是興趣學習，策略未經優化、解題過程也未經優化<br>雖然失敗有些失望，但改變刷題策略執行下去，有信心可以達成 |
 {{< /admonition >}}
 幾個月前因為朋友要準備FAANG-SWE，邀請自己一起練Algorithm、Data Structure，刷LeetCode，當時離報名MA也還有段時間因此想藉此機會測試自己實力。策略是用熟悉語言(Python)先快速理解各主題基本原理、實作，完成一輪學習後開始刷題並參加競賽，目標為開始比賽1個月內能進入全球排名前10%。開始比賽幾週後卻卡在前30%，挑戰失敗，但也理解是因為自己只用興趣學習的方式在陪朋友進行，讀書方式比較隨興、解題過程也未優化，雖然有些失望，但若改變刷題策略執行，有信心可以達成。
-##### 具挑戰性很努力但沒達成的目標
+##### 很努力但沒達成的目標
+_具挑戰性很努力但沒達成的目標_
+
 幾個月前因為朋友要準備FAANG-SWE，邀請自己一起練Algorithm、Data Structure，刷LeetCode，當時離報名MA也還有段時間因此想藉此機會測試自己實力。策略是用熟悉語言(Python)先快速理解各主題基本原理、實作，完成一輪學習後開始刷題並參加競賽，目標為開始比賽1個月內能進入全球排名前10%。開始比賽幾週後卻卡在前30%，挑戰失敗，但也理解是因為自己用興趣學習的方式進行，雖然花很多時間很努力，但沒有採用最有效率的方式刷提(根據弱點補強並跳過艱深低頻類型題目)、解題過程也未優化，雖然有些失望，但若改變刷題策略執行，有信心可以達成。
 ##### 為什麼不走SWE
 相較追求pr99.99單項精通的技術，個熱於選擇pr90少項專業技術加上pr70多項熟手技術的組合。這裡的技術範圍舉例: 科技硬實力為一種技術，管理軟實力亦為一種技術。
-#### 運用新知或科技解決問題的經驗
+#### 運用新知或科技解決問題
 *請分享您學習並運用新知識或新科技解決問題的經驗。*
 
 Same as: 工作中有沒有遇過什麼挑戰或困難
@@ -282,8 +288,22 @@ Same as: 工作中有沒有遇過什麼挑戰或困難
 *運用新知或科技解決問題，對我來說不僅是習慣，更像是刻在骨子裡的天性，不管是生活中還是工作上。*
 
 在過去，當公司顧問想搜尋特定金融機構對某議題、產業或標的看法時，需要請助理或公司策略團隊幫忙從公司的共享Email inbox搜尋整理出各IB、PB寄給來的報告，找出相關內容或檔案後寄送給顧問，這任務不僅耗時且無法在同仁非上班時間執行。因此我策劃開發銀行研究報告管理系統，目的是讓顧問能夠隨時隨地搜尋相關資訊。為了達成這件事，除了需要開發前端查詢介面和後端運行API，資料處理(擷取、分類、儲存)更是關鍵。在更早之前，我曾起草過類似專案，但在"如何自動辨識報告內容相關之標的、產業、以及看法"上，可解決方法需耗費大量精力開發(訓練AI模型或人工建立標籤比對資料庫)，因此一直延宕。直到上個月我引入ChatGPT，這項專案的開發期望值再度為正。過去需要4-6週才能開發出的模型或查找資料庫，利用ChatGPT API，1天不到就輕鬆解決問題，協助判斷內容相關之標的、產業、以及看法後存入資料庫。為計畫注入活水，成功讓新功能能進入開發上線，也在上線後顯著提升顧問使用該服務頻率(10倍成長)，讓功能上雲、自動化，服務24/7。
+##### 最深刻的領導經驗
+_請描述您在學校、實習或工作中印象最深刻的領導經驗_
 
+情境、角色、貢獻、決策、挑戰、成果
+|   |   |
+| - | - |
+| S | 在現任公司擔任IT Manager (情境) |
+| T | 顧問反應研究報告或相關資訊搜尋困難(中、英) (決策、角色、貢獻) |
+| A | 研究如何利用ChatGPT新增功能改善流程，開會探詢需求，並帶領同仁開發 |
+| R | 減少助理與策略團隊工作量，大幅提升顧問使用服務頻率以及將服務上雲，提升成24/7版本，也更精準 |
+
+...
 ### 時事
+#### 經濟
+...
+
 - silicon valley bank
 - chatgpt
 
