@@ -154,6 +154,20 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 - GitHub: https://github.com/chienhsiang-hung/
 ## 題庫
 ### 自我描述
+#### 自傳
+My name is Chien-Hsiang Hung and I am a software engineer with over six years of experience in web development, data analysis, and machine learning. I was born and raised in Taiwan, where I developed a passion for programming and mathematics at an early age. I graduated from National Taiwan University with a bachelor's degree in computer science and engineering, and then pursued a master's degree in artificial intelligence at National Cheng Kung University. During my studies, I participated in several research projects and competitions related to natural language processing, computer vision, and recommender systems. I also gained valuable industry experience by working as an intern at Microsoft Research Asia and MediaTek.
+
+After completing my master's degree, I joined Trend Micro as a software engineer, where I worked on developing cloud-based security solutions for enterprise customers. I was responsible for designing and implementing web applications using React.js, Node.js, MongoDB, and AWS. I also applied machine learning techniques such as anomaly detection, sentiment analysis, and topic modeling to enhance the functionality and performance of the products. In addition to my technical skills, I also demonstrated strong communication and collaboration skills by working closely with product managers, UX designers, QA engineers, and other stakeholders.
+
+In 2020, I decided to pursue new challenges and opportunities by moving to Canada. Currently, I am working as a software engineer at Shopify Plus, where I help build scalable e-commerce platforms for high-volume merchants. Some of the technologies that I use include Ruby on Rails, GraphQL, PostgreSQL, Kafka, Redis, Docker,
+and Kubernetes. Besides coding,
+I also enjoy learning new things,
+sharing my knowledge with others,
+and contributing to open source projects.
+
+My goal is to become a senior software engineer who can deliver high-quality products that solve real-world problems
+and create positive impacts for users
+and society.
 #### 家庭成長背景
 父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
 - 怎麼不在家幫忙?
