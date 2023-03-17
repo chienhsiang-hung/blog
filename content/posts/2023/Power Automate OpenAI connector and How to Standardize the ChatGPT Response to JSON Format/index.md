@@ -6,7 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
-featuredimage: featured-image.png
+featuredimage: share-it-as-a-link.png
 tags: []
 toc:
   enable: true
@@ -63,14 +63,26 @@ Please read the information on this page and tell me your summary, and the relat
     }
 }
 ```
-But in this format, it will reply with the format full of space as we typed above. For better usage, we need to give the GPT a more specific guide and remove the space and`\n` etc. That is, compose a JSON schema. The final request will be something like this:
+But in this format, it will reply with the format full of space as we typed above. For better usage, we need to give the GPT a more specific guide and remove the space and`\n` etc. You can use this site to easily minify your JSON - [Best JSON Viewer and JSON Beautifier Online (codebeautify.org)](https://codebeautify.org/jsonviewer).
 ```
 <URL>
 Please read the information on this page and tell me your summary, and the related stock tickers and related industries mentioned in the following format(json) in 2 languages - English and Traditional Chinese.
 {"English":{"Tickers":"a list of related stock tickers in yahoo finance format i.e. [AAPL, GOOG] if there are no related stock tickers, return []","Summary":"the summary of this info","Industries":"a list of the related industries as above put them in [] using ',' as separators if there are no related industries, return []"},"繁體中文":{"大綱":"上面的Summary中文版","產業":"上面的Industries中文版"}}
 ```
-You can use this site to easily minify your JSON - [Best JSON Viewer and JSON Beautifier Online (codebeautify.org)](https://codebeautify.org/jsonviewer), this site to convert your JSON to JSON schema - [Free Online JSON to JSON Schema Converter (liquid-technologies.com)](https://www.liquid-technologies.com/online-json-to-schema-converter).
-
-At first, I tried to compose it by myself and examine it through [this site](https://www.liquid-technologies.com/online-json-to-schema-converter) but found it so inefficient and in a way, I think this site doesn't work so well so I strongly suggest just using the combination of the above two sites to form a schema and minification.
-
 Last, the question is how do we read the answer in Power Automate.
+## Parse JSON
+That is, compose a JSON schema and use the `Parse JSON` connector that way we don't need to *handle the text response ourselves*.
+
+(something like this if you know what I mean :grinning: `\n- {\"股票代號\":...\n\n[\"English\"]\n\"Tickers: [AAPL]\nSummary:`).
+
+You can use this site to convert your JSON to JSON schema - [Free Online JSON to JSON Schema Converter (liquid-technologies.com[)](https://www.liquid-technologies.com/online-json-to-schema-converter) for use in the `Parse JSON` connector.
+
+At first, I tried to *compose it by myself[^json-schema.org][^Parse-JSON-action]* and examine it through [this site](https://www.liquid-technologies.com/online-json-to-schema-converter) (it kept on showing errors even though the schema is right) but found it so inefficient in a way.
+[^json-schema.org]: [Getting Started Step-By-Step | JSON Schema (json-schema.org)](https://json-schema.org/learn/getting-started-step-by-step.html)
+[^Parse-JSON-action]: [How to use Parse JSON action in Power Automate (m365princess.com)](https://www.m365princess.com/blogs/2021-02-08-how-to-use-parse-json-action-in-power-automate/)
+
+![json-schema-validator.png](json-schema-validator.png "json-schema-validator")
+I think this site doesn't work so well so I strongly suggest just using the combination of the above two sites to form a schema and minification for the `prompt`.
+![Parse-JSON-Schema.png](Parse-JSON-Schema.png "Parse-JSON-Schema")
+And, vola! It works perfectly.
+![JSON-result.png](JSON-result.png "JSON-result")
