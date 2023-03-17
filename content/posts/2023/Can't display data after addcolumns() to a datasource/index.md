@@ -6,7 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "I am able to see the table is generated successfully though the addColumns() generated columns (total_aum, total_income) couldn’t be displayed in a gallery or anywhere in the canvas app. fx: First(table).total_income should display 0 not blank()."
-images: ["Explicit-column-selection.png"]
+images: ["posts/2023/cant-display-data-after-addcolumns-to-a-datasource/Explicit-column-selection.png"]
 featuredimage: Explicit-column-selection.png
 tags: ["Powerapps", "Connecting to Data", "Creating Apps", "General Questions", "Using Apps Using Formulas"]
 toc:
