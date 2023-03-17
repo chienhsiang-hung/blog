@@ -6,6 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
+images: ["posts/2023/power-automate-openai-connector-and-how-to-standardize-the-chatgpt-response-to-json-format/share-it-as-a-link.png"]
 featuredimage: share-it-as-a-link.png
 tags: []
 toc:
