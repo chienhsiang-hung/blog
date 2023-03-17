@@ -24,8 +24,9 @@ Search the **GPT3 Completes your prompt** Connector in your power automate flow 
 And you can find API Key here: [Overview - OpenAI API](https://platform.openai.com/) with the documentation i.e. Token Usage, Parameters setting etc.
 
 ## Pass Long Content
-There is an 4096 token limitation in openai so you wouldn't be able to pass a content or receive the prompt longer than that. **What if you need openAI help you to summarize a great content but too long.**
+There is a 4096 token limitation in openai so you wouldn't be able to pass contents or receive the prompt longer than that. **What if you need openAI help you to summarize great contents but too long?**
 
-Congratulations! I will show you a workaround for you in power platform.
-### Sharepoint
-You can 
+Congratulations! I will show you a workaround for you in the power platform.
+### Sharepoint for a Link
+You can store the contents as a html etc. and put in on Sharepoint List like I did here. Then share it as a link to GPT3 for the task. This way you saved a ton of tokens but still get it reading the contents and doing the job for you.
+![share-it-as-a-link.png](share-it-as-a-link.png "share-it-as-a-link")
