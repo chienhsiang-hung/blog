@@ -22,7 +22,7 @@ The OpenAI IP Connector is a tool that allows you to use GPT-3 to complete your 
 Search the **GPT3 Completes your prompt** Connector in your power automate flow then give it a name and Enter API Key as `Bearer YOUR_API_KEY`. When entering your API key in the Power Platform, you need to type it as: "Bearer YOUR_API_KEY" (the word "Bearer" a blank and the actual API_KEY).[^OpenAI]
 [^OpenAI]: [PowerPlatformConnectors/independent-publisher-connectors/OpenAI at dev · microsoft/PowerPlatformConnectors (github.com)](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/OpenAI)
 
-And you can find API Key here: [Overview - OpenAI API](https://platform.openai.com/) with the documentation i.e. Token Usage, Parameters setting etc.
+And you can find API Key here: [Overview - OpenAI API](https://platform.openai.com/) with the documentation - [API Reference - OpenAI API](https://platform.openai.com/docs/api-reference/completions/create), i.e. Token Usage, Parameters setting etc.
 
 ## Pass Long Content
 There is a 4096 token limitation in openai so you wouldn't be able to pass contents or receive the prompt longer than that. **What if you need openAI help you to summarize great contents but too long?**
