@@ -27,7 +27,7 @@ Finally, marketing and advertising expenses can also contribute to the overall c
 
 Overall, the increase in diaper prices is likely due to a combination of factors, including rising commodity prices, supply chain disruptions, inflation, and increased manufacturing and transportation costs.
 
-It is understandable that the increase in diaper prices can put a strain on families who are already facing economic challenges, especially during the pandemic. It is important for companies to work towards managing costs while maintaining quality and accessibility of their products for consumers. Hopefully, as the global economy stabilizes and supply chains improve, the cost of diapers and other products will become more affordable for families.
+It is important for companies to work towards managing costs while maintaining quality and accessibility of their products for consumers. Hopefully, as the global economy stabilizes and supply chains improve, the cost of diapers and other products will become more affordable for families.
 
 ### What are some ways to reduce the cost of diapers?
 Here are some ways to reduce the cost of diapers:
