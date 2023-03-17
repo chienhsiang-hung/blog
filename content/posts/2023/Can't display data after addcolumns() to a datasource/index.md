@@ -6,7 +6,7 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: "I am able to see the table is generated successfully though the addColumns() generated columns (total_aum, total_income) couldn’t be displayed in a gallery or anywhere in the canvas app. fx: First(table).total_income should display 0 not blank()."
-featuredimage: Explicit-column-selection.png
+featuredimage: featured-image.png
 tags: ["Powerapps", "Connecting to Data", "Creating Apps", "General Questions", "Using Apps Using Formulas"]
 toc:
   enable: true
@@ -66,7 +66,7 @@ Even weirder now when I tested it with Label. In the Ideas, it showed Current fo
 ![chienhsianghung_1-1678262752202.png](https://powerusers.microsoft.com/t5/image/serverpage/image-id/616343iEDE867B9736607B6/is-moderation-mode/true/image-dimensions/2500?v=v2&px=-1 "chienhsianghung_1-1678262752202.png")
 
 ## Solution
-![Explicit-column-selection.png](Explicit-column-selection.png "Explicit-column-selection.png")
+![Explicit-column-selection.png](featured-image.png "Explicit-column-selection.png")
 Then I found the problem is because of the **Explicit column selection** feature again.
 
 When I tried to calculate the `total_income` number in the gallery.
