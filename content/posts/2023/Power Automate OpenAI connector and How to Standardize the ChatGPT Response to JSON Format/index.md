@@ -1,7 +1,7 @@
 ---
 title: "Power Automate OpenAI connector and How to Standardize the ChatGPT Response to JSON Format"
 date: 2023-03-17T03:55:00+08:00
-lastmod: 2023-03-17T03:55:00+08:00
+lastmod: 2023-03-17T04:34:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -75,7 +75,7 @@ That is, compose a JSON schema and use the `Parse JSON` connector that way we do
 
 (something like this if you know what I mean :grinning: `\n- {\"股票代號\":...\n\n[\"English\"]\n\"Tickers: [AAPL]\nSummary:`).
 
-You can use this site to convert your JSON to JSON schema - [Free Online JSON to JSON Schema Converter (liquid-technologies.com[)](https://www.liquid-technologies.com/online-json-to-schema-converter) for use in the `Parse JSON` connector.
+You can use this site to convert your JSON to JSON schema - [Free Online JSON to JSON Schema Converter (liquid-technologies.com)](https://www.liquid-technologies.com/online-json-to-schema-converter) for use in the `Parse JSON` connector.
 
 At first, I tried to *compose it by myself[^json-schema.org][^Parse-JSON-action]* and examine it through [this site](https://www.liquid-technologies.com/online-json-to-schema-converter) (it kept on showing errors even though the schema is right) but found it so inefficient in a way.
 [^json-schema.org]: [Getting Started Step-By-Step | JSON Schema (json-schema.org)](https://json-schema.org/learn/getting-started-step-by-step.html)
