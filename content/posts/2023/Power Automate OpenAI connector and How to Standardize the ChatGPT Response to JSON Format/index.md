@@ -1,14 +1,13 @@
 ---
 title: "Power Automate OpenAI connector and How to Standardize the ChatGPT Response to JSON Format"
-date: 2023-03-17T00:53:00+08:00
-lastmod: 2023-03-17T00:53:00+08:00
+date: 2023-03-17T03:55:00+08:00
+lastmod: 2023-03-17T03:55:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
 images: ["posts/2023/power-automate-openai-connector-and-how-to-standardize-the-chatgpt-response-to-json-format/share-it-as-a-link.png"]
 featuredimage: share-it-as-a-link.png
-tags: []
+tags: ["Power Automate", "OpenAI", "ChatGPT", "Json", "Json Schema"]
 toc:
   enable: true
 ---
