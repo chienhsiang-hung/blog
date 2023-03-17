@@ -1,11 +1,10 @@
 ---
-title: "Why are diapers so expensive? 從尿布價格看通貨膨脹"
-date: 2023-03-16T00:53:00+08:00
-lastmod: 2023-03-16T00:53:00+08:00
-draft: true
+title: "Why are diapers so expensive? What should government do?"
+date: 2023-03-17T10:45:00+08:00
+lastmod: 2023-03-17T10:45:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
 featuredimage: featured-image.png
 tags: []
 toc:
@@ -29,15 +28,13 @@ Overall, the increase in diaper prices is likely due to a combination of factors
 
 It is important for companies to work towards managing costs while maintaining quality and accessibility of their products for consumers. Hopefully, as the global economy stabilizes and supply chains improve, the cost of diapers and other products will become more affordable for families.
 
-- government should also do something to cope with the inflation right?
+### But the government should cope with the inflation right?
 
-the government can take measures to address inflation and help alleviate its impact on consumers. Some of the actions that governments can take include:
+The government can take measures to address inflation and help alleviate its impact on consumers. Some of the actions that governments can take include:
 
-Monetary policy: The central bank can adjust interest rates and money supply to manage inflation. Higher interest rates can help reduce inflation by reducing demand for credit, which in turn reduces spending and slows down price increases.
-
-Fiscal policy: Governments can also use fiscal policy tools such as taxation, government spending, and subsidies to control inflation. For example, reducing taxes or increasing government spending can boost demand and stimulate economic growth, but it can also lead to inflation. Similarly, reducing subsidies can reduce government spending and help control inflation.
-
-Supply-side policies: Governments can also take steps to increase the supply of goods and services, which can help keep prices in check. This can include measures such as reducing barriers to entry for businesses, improving infrastructure, and investing in education and training to increase productivity.
+- Monetary policy: The central bank can adjust interest rates and money supply to manage inflation. Higher interest rates can help reduce inflation by reducing demand for credit, which in turn reduces spending and slows down price increases.
+- Fiscal policy: Governments can also use fiscal policy tools such as taxation, government spending, and subsidies to control inflation. For example, reducing taxes or increasing government spending can boost demand and stimulate economic growth, but it can also lead to inflation. Similarly, reducing subsidies can reduce government spending and help control inflation.
+- Supply-side policies: Governments can also take steps to increase the supply of goods and services, which can help keep prices in check. This can include measures such as reducing barriers to entry for businesses, improving infrastructure, and investing in education and training to increase productivity.
 
 Overall, managing inflation is a complex issue, and governments need to carefully balance the different policy options to ensure a stable and healthy economy while also protecting the interests of consumers.
 
