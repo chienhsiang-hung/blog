@@ -31,7 +31,7 @@ hiddenFromSearch: true
 ### Others
 - [Kaggle All-round Expert](https://www.kaggle.com/chienhsianghung): Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
 
-## 投遞
+## 投遞與面試
 ### 富邦
 
 #### 志願
@@ -94,6 +94,9 @@ GOALS:
 ###### 選擇原因
 如前面所提，得益於科技與技術如指數般發展與更新，我們能夠使用更多工具因應趨勢，在領域中保持競爭力。也因為科技與技術不斷地更新，持續擁抱並學習新知的熱情與能力顯得更為重要，而這與我的個性及能力不謀而合。我在中山MBA訓練的敏捷開發管理，以及在香港公司擔任IT Manager時期練就的快速研究並熟悉創新技術的能力，讓我能更好地因應動態環境和需求做出相應合適且高質/量的產出，更確保了自己能在工作中持續提供高價值的產出。
 
+#### 作業
+##### 富邦人壽-保險科技
+TBA
 #### Objective Statement
 非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
 
@@ -153,6 +156,29 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 相關作品:
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+
+### 元大
+#### 數位金融儲備幹部
+**<mark>資訊分析</mark>專長結合<mark>創新思維</mark>發展數位金融**
+
+數位金融成為全球金融業發展趨勢的重要戰略，我們需要對**金融產業的應用場景**具備高敏銳度及勇於挑戰創新的優秀人才，參與這個新興的項目，朝向普惠金融智能服務邁進，包括大數據、AI人工智能、文字探勘、AR/VR、機器人理財及金融區塊鏈生態圈、社群經營及客戶體驗UI/UX設計…等多元項目數金人才。加入元大數位金融儲備幹部陣容，一起成為數位時代的領航者。
+#### 動機及期待
+*請說明申請本職務(計劃)的動機及期待*
+##### 背景
+元大金控是台灣最具規模和實力的金融控股公司之一，擁有廣泛的金融業務和服務項目，包括證券、基金、保險、銀行、信託等。以下是元大金控在台灣金融業的優勢或特點：
+1.  跨足多個金融領域：元大金控涵蓋證券、基金、保險、銀行、信託等多個金融領域，可提供全方位的金融服務，滿足客戶不同的金融需求。
+2.  強大的研究和投資團隊：元大金控擁有專業的研究和投資團隊，能夠提供高品質的投資建議和風險管理服務。
+3.  高效的科技應用：元大金控投入大量資源在科技應用上，擁有先進的金融科技平台和系統，提供客戶高效、方便的金融服務。
+4.  國際化經驗：元大金控在亞洲多個國家設有分支機構，具有豐富的國際化經驗和全球視野。
+
+選擇元大的MA program，主要原因如下：
+1.  專業性：元大金控的MA program強調培養專業人才，涵蓋金融投資、風險管理、企業財務等多個領域，可提升我的金融專業素養和能力。
+2.  實戰性：元大金控的MA program注重實戰能力的培養，強調理論與實踐相結合，可以提供豐富的實踐經驗和機會。
+3.  發展性：元大金控是台灣金融業的龍頭企業之一，有良好的發展前景和職涯發展機會，參加MA program可以為我的未來職涯發展打下基礎。
+4.  文化氛圍：元大金控的企業文化以專業、創新、卓越為核心價值觀，這種文化氛圍對我個人成長和發展也具有好的影響。
+##### 填答
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
 ### 開發金
 ## 問題
 ### 自我描述
