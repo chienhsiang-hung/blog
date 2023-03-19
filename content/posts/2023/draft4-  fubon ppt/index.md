@@ -1,8 +1,8 @@
 ---
 title: "fubon ppt"
-date: 2023-03-18T10:45:00+08:00
-lastmod: 2023-03-18T10:45:00+08:00
-draft: true
+date: 2023-03-19T10:45:00+08:00
+lastmod: 2023-03-19T10:45:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 featuredimage: featured-image.png
@@ -21,6 +21,7 @@ zhtw: true
 4. 研究新技術與新應用、執行集團內外合作計畫。
 
 ## 問題
+*請針對以下題目，<mark>「擇一題目」</mark>進行簡報製作。專題簡報製作內容為中文或英文投影片，限頁數15頁以內、檔案大小10MB以內。口頭報告時間為10分鐘內，中英文口說均需準備，報告語言現場由主管指定。*
 ### 數據提升業務通路市場優勢
 *如何運用大數據分析，提升壽險公司在業務員通路市場上的競爭優勢*
 
@@ -43,7 +44,7 @@ zhtw: true
 
 （3）客戶行為分析：利用大數據分析客戶的行為數據
 
-## Steps
+## Think as a Data Scientist
 As a data scientist, I would approach these problems using the following steps:
 
 Define the problem: Clearly define the business problem to be solved, identify the data sources required, and establish the relevant metrics.
@@ -59,3 +60,37 @@ Test the hypothesis: Use statistical and machine learning techniques to test the
 Communicate findings: Communicate the findings in a clear and concise manner, using visualizations such as graphs and charts to support the analysis. A report would typically include an executive summary, an introduction, methodology, results, conclusion, and recommendations.
 
 My method of analysis would depend on the specific problem at hand and the data available. I would typically use a combination of statistical and machine learning techniques to analyze the data and generate insights. For example, I might use regression analysis to understand the relationship between variables, or clustering to segment customers based on their behavior. I would then communicate my findings using visualizations, such as graphs or charts, to support the analysis and make recommendations based on the results.
+
+## 簡報
+針對第二題 - [數位客戶經營與大數據分析加強客戶黏著與貢獻](#數位客戶經營與大數據分析加強客戶黏著與貢獻)
+### 簡介
+本章節介紹研究主題，概述簡報內容和目標。
+### 顧客黏著度與貢獻度的意義
+本章節解釋顧客黏著度和貢獻度的意義和價值，以及為何它們是保險公司業務成長的關鍵因素。
+### 數位客戶經營與大數據分析的角色
+本章節介紹數位客戶經營和大數據分析在提升顧客黏著度和貢獻度中扮演的角色，並強調其重要性。
+### 數位客戶經營與大數據分析的優勢
+本章節列舉數位客戶經營和大數據分析的優勢，包括提高市場反應速度、提升客戶體驗和精準行銷等。
+### 數位客戶經營與大數據分析的挑戰
+本章節列舉數位客戶經營和大數據分析的挑戰，包括資料品質、隱私和安全、技術複雜性等問題，並探討如何克服這些挑戰。
+### 如何提升顧客黏著度與貢獻度
+本章節介紹如何提升顧客黏著度和貢獻度，包括提供個性化服務、加強溝通和互動等方法。
+### 數位客戶經營與大數據分析在提升顧客黏著度與貢獻度的應用
+本章節介紹數位客戶經營和大數據分析在提升顧客黏著度和貢獻度方面的應用，包括客戶分析、行為預測、客戶推薦和交叉銷售等。
+### 資料蒐集、儲存與應用策略
+本章節介紹如何收集、儲存和應用顧客資料，包括數據來源、數據儲存和數據處理等方面的策略。
+### 資料分析與探勘的工具和技術
+本章節介紹資料分析和探勘的工具和技術，包括統計分析、機器學習和自然語言處理等。
+### 客戶與業務員Tagging與分群的實現
+本章節介紹客戶和業務員Tagging和分群的實現方法，包括基於行為和偏好的分群、基於社交網絡的分群和基於地理位置的分群等。
+### 數位客戶經營與大數據分析的案例分析
+本章節介紹數位客戶經營和大數據分析的案例分析，包括應用場景、方法和結果等。
+### 新技術與新應用的研究
+本章節介紹新技術和新應用的研究，包括人工智慧、區塊鏈、物聯網和雲計算等，並探討它們在數位客戶經營和大數據分析中的應用。
+### 集團內外合作計畫的執行
+本章節介紹集團內外合作計畫，包括合作夥伴的選擇、合作形式和合作目標等。
+### 總結
+富邦人壽保險科技組在數位客戶經營與大數據分析方面的優勢：
+
+本章節介紹富邦人壽保險科技組在數位客戶經營和大數據分析方面的優勢，包括數據資源、技術實力和專業團隊等。
+15.  參考文獻
