@@ -97,8 +97,6 @@ GOALS:
 #### 作業
 ##### 富邦人壽-保險科技
 TBA
-#### Objective Statement
-非常喜歡⼀句話： ” If you want something you’ve never had. You must be willing to do something you’ve never done.” 所有進步都來⾃於對創新事物帶來的挑戰，無畏地迎接，並且戰勝。
 
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
@@ -179,33 +177,43 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 ##### 填答
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
+#### 生涯發展規劃
+*請說明您對於未來的生涯發展的規劃*
+##### 背景
+首先，我希望能夠在數位金融儲備幹部計劃中獲得全面的金融和數位技術知識。通過參加課程、實習和項目，我希望能夠學習金融產品的設計、開發和銷售，以及數位技術的應用，例如區塊鏈、人工智能和大數據等，提升自己的專業素養和能力。
+
+其次，我希望能夠在數位金融領域建立自己的人脈和社交資本。通過參加數位金融相關的活動、項目和研討會，我希望能夠與金融和數位技術領域的專業人士建立良好的關係，擴大自己的人脈網絡。
+
+接著，我希望能夠在數位金融儲備幹部計劃結束後進入元大金控的相關部門工作，例如數位金融產品開發、數據分析、網路行銷等領域。通過實踐和實踐經驗，我希望能夠不斷提升自己的專業素養和技能，進一步發展自己的職業生涯。
+
+最後，我希望能夠成為元大金控的優秀人才，並為公司的數位轉型和發展做出貢獻。通過積極參與公司的項目和活動，我希望能夠不斷成長和進步，實現自己的職業目標和夢想，同時為公司的成功貢獻自己的力量。
+##### 填答
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在數位金融儲備幹部計劃結束後進入元大金控的相關部門工作，例如數位金融產品開發、數據分析、網路行銷等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+
 ### 開發金
 ## 問題
 ### 自我描述與經驗
-#### 自傳
-My name is Chien-Hsiang Hung and I am a software engineer with over six years of experience in web development, data analysis, and machine learning. I was born and raised in Taiwan, where I developed a passion for programming and mathematics at an early age. I graduated from National Taiwan University with a bachelor's degree in computer science and engineering, and then pursued a master's degree in artificial intelligence at National Cheng Kung University. During my studies, I participated in several research projects and competitions related to natural language processing, computer vision, and recommender systems. I also gained valuable industry experience by working as an intern at Microsoft Research Asia and MediaTek.
+#### 自傳與家庭成長背景
+*Same as:自我個性(特質)、價值觀, 請簡述家庭成員對您的影響*
 
-After completing my master's degree, I joined Trend Micro as a software engineer, where I worked on developing cloud-based security solutions for enterprise customers. I was responsible for designing and implementing web applications using React.js, Node.js, MongoDB, and AWS. I also applied machine learning techniques such as anomaly detection, sentiment analysis, and topic modeling to enhance the functionality and performance of the products. In addition to my technical skills, I also demonstrated strong communication and collaboration skills by working closely with product managers, UX designers, QA engineers, and other stakeholders.
-
-In 2020, I decided to pursue new challenges and opportunities by moving to Canada. Currently, I am working as a software engineer at Shopify Plus, where I help build scalable e-commerce platforms for high-volume merchants. Some of the technologies that I use include Ruby on Rails, GraphQL, PostgreSQL, Kafka, Redis, Docker,
-and Kubernetes. Besides coding,
-I also enjoy learning new things,
-sharing my knowledge with others,
-and contributing to open source projects.
-
-My goal is to become a senior software engineer who can deliver high-quality products that solve real-world problems
-and create positive impacts for users
-and society.
-#### 家庭成長背景
 父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
-- 怎麼不在家幫忙?
-#### 自我個性(特質)、價值觀
-適應力與學習能力強! 喜愛嘗試，擁抱新鮮事物，視失敗與挫折為通往成功道路上的墊腳石。時時提醒自己: ” If you want something you've never had. You must be willing to do something you've never done.”。相信進步來自於迎接新事物帶來的挑戰，無畏地接受、並且戰勝，每天都要比昨天的自己更進步些。
 
-休閒時間除了社團活動也熱愛旅遊、戶外運動等，上至攀登百岳滑雪、下至衝浪潛水，還考取了PADI  AOW進階開放水域潛水員(可下潛30米)的資格。
-##### Personality (traits), values
-非常喜歡一句話: "If you want something you've never had. You must be willing to do something you've never done."。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。
-#### 工作經歷與收穫
+在2017-2020兩年半的時間內取得中山MBA財管碩士，參加各大商業競賽並取得獎項，像是國泰商業大數據競賽優選，DBS Hackthon冠軍等。累積金融業實習經驗像是富邦、期交所等，了解金融場景，也參加政府新南向至菲律賓實習，同時累積國際經驗，包含俄羅斯暑期學程與瑞典交換。並在過程中持續增加現金流量，透過實習薪資、比賽獎金、各類獎學金之取得，幸運地使現金流入總和大於期間各校學費、生活費、住宿費等等。降低額外打工需求，提升學習品質，休閒時間除了社團活動也熱愛旅遊、戶外運動等，還考取了像是PADI  AOW進階開放水域潛水員的證照。
+
+相信一句話： If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+##### 為何不在家幫忙
+
+#### 重要事蹟、挑戰、成就
+##### 系學會/社團/工作等經歷及重要事蹟 
+*請列舉近3年參加系學會/社團/工作等經歷及重要事蹟*
+
+參加工研院AI and Deep Learning培訓計畫，在3個月內從原理、實作，到應用，完成四項專案、在Kaggle深度學習競賽中取得銀牌。6個月內成功成為Kaggle All-round Expert並獲得多家企業徵才邀請，包括資安資料科學家、IT經理等，成功轉職進入外商協助建置資料工程、產品數位化及作業自動化等。
+
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，省下1年180萬台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+
+除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有直接職權下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+
+##### 工作經歷與收穫
 - 想知道你的經歷與這份工作是否吻合
   - 能夠**串聯**不同BU間之資源，發揮集團綜效
   - *通曉*企劃、數金、業務、管理等 -> 全局思維
@@ -213,14 +221,13 @@ and society.
 目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，省下1年180萬台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
 除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
-##### 之前MA的經驗
-###### 為何離開、為何如此短暫
-在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
+###### 過去MA經驗
+- 為何離開、為何如此短暫
+  
+  在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
 
-#### 最有挑戰或最有成就的事情
+##### 最有挑戰或最有成就的事情
 _近年做過最有挑戰或最有成就的事情_
-
-*請列舉近3年參加系學會/社團/工作等經歷及重要事蹟*
 
 |   |   |
 | - | - |
