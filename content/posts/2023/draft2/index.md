@@ -181,7 +181,7 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 
 ### 開發金
 ## 問題
-### 自我描述
+### 自我描述與經驗
 #### 自傳
 My name is Chien-Hsiang Hung and I am a software engineer with over six years of experience in web development, data analysis, and machine learning. I was born and raised in Taiwan, where I developed a passion for programming and mathematics at an early age. I graduated from National Taiwan University with a bachelor's degree in computer science and engineering, and then pursued a master's degree in artificial intelligence at National Cheng Kung University. During my studies, I participated in several research projects and competitions related to natural language processing, computer vision, and recommender systems. I also gained valuable industry experience by working as an intern at Microsoft Research Asia and MediaTek.
 
@@ -216,57 +216,12 @@ and society.
 ##### 之前MA的經驗
 ###### 為何離開、為何如此短暫
 在進入FinTech前想體驗法金與個金實際工作狀況，及測試自己在兩個領域的市場價值。
-#### SWOT分析自己、職涯策略
-*請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
 
-![Personal SWOT Analysis: Where Talent Meets Opportunity](https://d3n817fwly711g.cloudfront.net/uploads/2014/07/New-Finding-Your-Dream-Job.png "Personal SWOT Analysis: Where Talent Meets Opportunity")
-
-- Strengths:
-  1. 中山財管碩畢專業素養與香港金融EAM龍頭擔任IT Manager的工作經驗
-  2. 主動積極，在團隊中總是第一個提出問題、第一個想出解決方法，或第一個執行的人
-  3. 學習、進步、創新，懂得搜尋善用資源
-- Weaknesses:
-  1. 不夠細心，雖然能在特定環境下能讓事情進展更快速，但也在其他情況事情出錯時，讓我認識到自己在什麼狀況下比較粗心，而能在類似情形出現時透過多檢查2-3次克服
-  2. 有時除了對自己，也對周遭的人太嚴厲，因此我加強溝通技巧，特別練習給予正面回饋，並用疑問取代質疑
-  3. 多工問題，有時同一時間太多任務在身，會導致事情都不按照進度發展，每件事都想做，每件都沒做好。也因此我學到為代辦事項依照重要度與緊急程度安排順序，能夠有條理跟規劃的把所有事情一一完成
-- Opportunities:
-  1. 科技日新月異如指數般成長進步，學不完的資源，已經沒有什麼是透過網路無法習得的了
-  2. 環境變化快速，隨時都有新的機會、新的市場等待投入
-- Threats:
-  1. 科技日新月異如指數般成長進步，這一刻剛學會的技術，下一刻被另一個技術取代，須要時刻站在浪尖上並不斷學習
-  2. 環境變化快速，新的需求出現，舊市馬上就退場，須要保持警覺，為隨時可能的變動做調整
-
-期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
-##### 對職涯的規劃
-善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，期許自己能加入更大的組織擴充自己的影響力，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
-##### 資源
-1. Cracking the PM Interview
-2. [Personal SWOT Analysis - Making the Most of Your Talents and Opportunities](https://www.mindtools.com/aaiakpy/personal-swot-analysis)
-3. [Personal SWOT Analysis: Where Talent Meets Opportunity](https://creately.com/blog/hr-planning/personal-swot-analysis/)
-
-#### 其他成就、特殊表現事蹟
-近期專案成果
-- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
-- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
-- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域(競賽、資料、討論)也都各取得其要求的金、銀牌數量，獲得四項專家成就。
-
-  奪牌之比賽包含:
-
-  - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
-  - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
-
-[Portfolio]
-
-Website: https://hsiang.eu.org/
-
-GitHub: https://github.com/chienhsiang-hung/
-
-- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
-- Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
-
-### 經驗
 #### 最有挑戰或最有成就的事情
 _近年做過最有挑戰或最有成就的事情_
+
+*請列舉近3年參加系學會/社團/工作等經歷及重要事蹟*
+
 |   |   |
 | - | - |
 | S | 嘗試個法金後決定走數金 |
@@ -326,6 +281,55 @@ _請描述您在學校、實習或工作中印象最深刻的領導經驗_
 | R | 減少助理與策略團隊工作量，大幅提升顧問使用服務頻率以及將服務上雲，提升成24/7版本，也更精準 |
 
 ...
+
+#### SWOT分析自己、職涯策略
+*請以SWOT構面條列分析您自己，並依據您的分析提出個人未來五年內的職涯發展策略。*
+
+![Personal SWOT Analysis: Where Talent Meets Opportunity](https://d3n817fwly711g.cloudfront.net/uploads/2014/07/New-Finding-Your-Dream-Job.png "Personal SWOT Analysis: Where Talent Meets Opportunity")
+
+- Strengths:
+  1. 中山財管碩畢專業素養與香港金融EAM龍頭擔任IT Manager的工作經驗
+  2. 主動積極，在團隊中總是第一個提出問題、第一個想出解決方法，或第一個執行的人
+  3. 學習、進步、創新，懂得搜尋善用資源
+- Weaknesses:
+  1. 不夠細心，雖然能在特定環境下能讓事情進展更快速，但也在其他情況事情出錯時，讓我認識到自己在什麼狀況下比較粗心，而能在類似情形出現時透過多檢查2-3次克服
+  2. 有時除了對自己，也對周遭的人太嚴厲，因此我加強溝通技巧，特別練習給予正面回饋，並用疑問取代質疑
+  3. 多工問題，有時同一時間太多任務在身，會導致事情都不按照進度發展，每件事都想做，每件都沒做好。也因此我學到為代辦事項依照重要度與緊急程度安排順序，能夠有條理跟規劃的把所有事情一一完成
+- Opportunities:
+  1. 科技日新月異如指數般成長進步，學不完的資源，已經沒有什麼是透過網路無法習得的了
+  2. 環境變化快速，隨時都有新的機會、新的市場等待投入
+- Threats:
+  1. 科技日新月異如指數般成長進步，這一刻剛學會的技術，下一刻被另一個技術取代，須要時刻站在浪尖上並不斷學習
+  2. 環境變化快速，新的需求出現，舊市馬上就退場，須要保持警覺，為隨時可能的變動做調整
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+##### 對職涯的規劃
+善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，期許自己能加入更大的組織擴充自己的影響力，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。
+##### 資源
+1. Cracking the PM Interview
+2. [Personal SWOT Analysis - Making the Most of Your Talents and Opportunities](https://www.mindtools.com/aaiakpy/personal-swot-analysis)
+3. [Personal SWOT Analysis: Where Talent Meets Opportunity](https://creately.com/blog/hr-planning/personal-swot-analysis/)
+
+#### 其他成就、特殊表現事蹟
+近期專案成果
+- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
+- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
+- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域(競賽、資料、討論)也都各取得其要求的金、銀牌數量，獲得四項專家成就。
+
+  奪牌之比賽包含:
+
+  - Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
+  - Jane Street Market Prediction，以TensorFlow建置simple NN (MLP)利用 purged grouped time series CV驗證訓練效果提升模型成效。
+
+[Portfolio]
+
+Website: https://hsiang.eu.org/
+
+GitHub: https://github.com/chienhsiang-hung/
+
+- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。大幅提升(raise 20%)mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
+- Kaggle 貸款違約風險預測競賽，利用各項(含外部非信用)客戶資料預測客戶是否會還款(/違約)。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
+
 ### 時事
 #### 經濟
 ...
