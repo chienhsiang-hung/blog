@@ -136,7 +136,27 @@ Let's define Customer Stickiness and Customer Contribution first:
 - Customer Contribution: buy more in terms of increasing P*Q (recommendation system) (Q)
 
 > 以數位客戶經營提升黏著度，以大數據分析(推薦系統)提升貢獻度
-#### 關鍵角色
+
+#### 如何提升黏著度
+以蘋果為例，為何他們客戶黏著度如此高? 提供資料佐證
+
+保險業如何參考改善
+
+目前平台用戶購買壽險流程
+#### 如何提升貢獻度
+- 客戶資料(如果登入)
+
+  性別、年齡、職業、收入、資產狀況等
+
+- 收集平台用戶行為資料
+  
+  1. 瀏覽險種
+  2. 試算保額
+  3. 是否下載條款、次數
+  4. 地理位置
+
+將使用者分群、推薦
+
 What data to collect (features) and EDA
 
 可能的特徵:
