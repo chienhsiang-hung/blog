@@ -126,9 +126,30 @@ My method of analysis would depend on the specific problem at hand and the data 
 -   介紹使用的分析工具和技術的詳細說明
 
 ### 實作
+> 應把內容做清楚，爭取面試機會
+
 ![Ideas.jpg](Ideas.jpg "Ideas")
 #### 客戶黏著度與貢獻度
 Let's define Customer Stickiness and Customer Contribution first:
 
 - Customer Stickiness: even when other's products are better will they still stick to ours (P) (platform UI/UX)
 - Customer Contribution: buy more in terms of increasing P*Q (recommendation system) (Q)
+
+> 以數位客戶經營提升黏著度，以大數據分析(推薦系統)提升貢獻度
+#### 關鍵角色
+What data to collect (features) and EDA
+
+可能的特徵:
+
+
+
+
+Train and Test (model)
+
+Deployment Test (platform)
+
+Track the Impact
+
+How to achieve these (departments need to be included)
+
+Expected Result
