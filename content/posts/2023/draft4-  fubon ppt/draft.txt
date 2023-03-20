@@ -25,3 +25,11 @@ Suggestion for Fubon
 
 They want to see how I tackle with the problem as pm and as DS.
 (How I would tackle them as I'm in wisdom.)
+
+---
+
+Let's define the Customer Stickiness and Custormer Contribution first:
+
+Customer Stickiness: even when other's products are better will them still stick to ours (P) (platform UI/UX)
+Customer Contribution: buy more interms of increasing P*Q (recommendation system) (Q)
+
