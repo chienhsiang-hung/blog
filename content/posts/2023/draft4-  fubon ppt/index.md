@@ -1,8 +1,8 @@
 ---
 title: "fubon ppt"
-date: 2023-03-19T10:45:00+08:00
-lastmod: 2023-03-19T10:45:00+08:00
-draft: true
+date: 2023-03-20T10:45:00+08:00
+lastmod: 2023-03-20T10:45:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 featuredimage: featured-image.png
@@ -126,3 +126,9 @@ My method of analysis would depend on the specific problem at hand and the data 
 -   介紹使用的分析工具和技術的詳細說明
 
 ### 實作
+![Ideas.jpg](Ideas.jpg "Ideas")
+#### 客戶黏著度與貢獻度
+Let's define Customer Stickiness and Customer Contribution first:
+
+- Customer Stickiness: even when other's products are better will they still stick to ours (P) (platform UI/UX)
+- Customer Contribution: buy more in terms of increasing P*Q (recommendation system) (Q)

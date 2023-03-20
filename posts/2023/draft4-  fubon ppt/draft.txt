@@ -1,0 +1,47 @@
+Online Customer Management -- - --- Customer Stickiness and Custormer Contribution
+Big Data Analysis ----------------- |
+
+Why
+         CS vs CC
+OCM
+BDA
+
+How
+         CS vs CC
+OCM
+BDA
+
+Cases
+         CS vs CC
+OCM
+BDA
+
+Challenge
+         CS vs CC
+OCM
+BDA
+
+Suggestion for Fubon
+
+They want to see how I tackle the problem as a PM and as DS.
+(How I would tackle them as I'm in wisdom.)
+
+---
+
+Let's define Customer Stickiness and Customer Contribution first:
+
+Customer Stickiness: even when other's products are better will they still stick to ours (P) (platform UI/UX)
+Customer Contribution: buy more in terms of increasing P*Q (recommendation system) (Q)
+
+What data to collect (features) and EDA
+
+Train and Test (model)
+
+Deployment Test (platform)
+
+Track the Impact
+
+How to achieve these (departments need to be included)
+
+Expected Result
+
