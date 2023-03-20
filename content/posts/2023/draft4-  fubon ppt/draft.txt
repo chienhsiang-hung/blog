@@ -1,0 +1,27 @@
+Online Customer Management -- - --- Customer Stickiness and Custormer Contribution
+Big Data Analysis ----------------- |
+
+Why
+         CS vs CC
+OCM
+BDA
+
+How
+         CS vs CC
+OCM
+BDA
+
+Cases
+         CS vs CC
+OCM
+BDA
+
+Challenge
+         CS vs CC
+OCM
+BDA
+
+Suggestion for Fubon
+
+They want to see how I tackle with the problem as pm and as DS.
+(How I would tackle them as I'm in wisdom.)
