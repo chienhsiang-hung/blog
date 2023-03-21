@@ -173,3 +173,5 @@ Track the Impact
 How to achieve these (departments need to be included)
 
 Expected Result
+
+[The Role of Cookies for the Purchasing Customer - Recostream](https://recostream.com/blog/the-role-of-cookies-for-the-purchasing-customer)
