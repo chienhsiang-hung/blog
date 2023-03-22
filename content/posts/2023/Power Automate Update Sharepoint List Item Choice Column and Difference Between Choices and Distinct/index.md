@@ -39,3 +39,10 @@ Then you can go back to your Power Automate flow. You'll see the input box chang
 ![switch-to-input-entire-array.png](switch-to-input-entire-array.png "switch-to-input-entire-array")
 Vola! Now you can add the array variable you created before to the choice column.
 ![you-will-be-able-to-see-your-arr.png](you-will-be-able-to-see-your-arr.png "you-will-be-able-to-see-your-arr")
+
+## Difference Between Choices and Distinct
+*powerapps combobox choice column*
+
+*powerapps error loading control*
+
+*powerapps filter choices column*
