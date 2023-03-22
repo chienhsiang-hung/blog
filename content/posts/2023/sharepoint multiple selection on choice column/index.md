@@ -1,5 +1,5 @@
 ---
-title: "sharepoint multiple selection on choice column"
+title: "power automate update sharepoint list item choice column"
 date: 2023-01-11T00:53:00+08:00
 lastmod: 2023-01-11T00:53:00+08:00
 draft: true
