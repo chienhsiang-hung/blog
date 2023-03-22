@@ -2,7 +2,7 @@
 title: "sharepoint multiple selection on choice column"
 date: 2023-01-11T00:53:00+08:00
 lastmod: 2023-01-11T00:53:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
