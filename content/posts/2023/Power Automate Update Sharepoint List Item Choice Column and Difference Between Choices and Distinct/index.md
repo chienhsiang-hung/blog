@@ -1,7 +1,7 @@
 ---
 title: "Power Automate Update Sharepoint List Item Choice Column and Difference Between Choices and Distinct"
 date: 2023-03-22T09:30:00+08:00
-lastmod: 2023-03-22T09:30:00+08:00
+lastmod: 2023-03-22T09:49:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -12,11 +12,16 @@ toc:
   enable: true
 ---
 ## Update Sharepoint List Item Choice Column
+*power automate add record to sharepoint list choice*
+
 **Power Automate - Microsoft Forms & SharePoint choice field (multi-select) updates**
 
 You can update the choice list item by this:
 {{< youtube wX1TVWedVGA >}}
 
+Or you can check out this article:
+
+[Microsoft Flow - populate a multi choice field in SharePoint - Office 365 Basics](https://365basics.com/microsoft-flow-populate-a-multi-choice-field-in-sharepoint/)
 ### TL;DW
 Make sure you can generate the following `cell value`/`item`:
 ```
