@@ -1,7 +1,7 @@
 ---
 title: "Power Automate Update Sharepoint List Item Choice Column and Difference Between Choices and Distinct"
-date: 2023-03-22T08:45:00+08:00
-lastmod: 2023-03-22T08:45:00+08:00
+date: 2023-03-22T09:30:00+08:00
+lastmod: 2023-03-22T09:30:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
