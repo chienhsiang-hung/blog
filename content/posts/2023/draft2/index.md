@@ -96,6 +96,8 @@ GOALS:
 
 #### 簡報專題
 ##### 富邦人壽-保險科技
+*(還有一個線上behaviour test)*
+
 TBA
 #### 團體面談
 ##### 富邦證券-數據科學
@@ -160,6 +162,8 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 相關作品:
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+#### OA
+測驗為英文形式，三大部分總計需20分鐘，內含計算題，請預先備妥計算機、紙、筆以利作答，測驗結果將綜合考量作答正確率與速度。
 
 ### 元大
 #### 數位金融儲備幹部
