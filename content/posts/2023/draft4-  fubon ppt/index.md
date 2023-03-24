@@ -1,7 +1,7 @@
 ---
 title: "fubon ppt"
-date: 2023-03-20T10:45:00+08:00
-lastmod: 2023-03-20T10:45:00+08:00
+date: 2023-03-24T08:23:00+08:00
+lastmod: 2023-03-24T08:23:00+08:00
 draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -155,14 +155,12 @@ Let's define Customer Stickiness and Customer Contribution first:
   3. 是否下載條款、次數
   4. 地理位置
 
+#### 其他
 將使用者分群、推薦
 
 What data to collect (features) and EDA
 
-可能的特徵:
-
-
-
+可能的特徵...
 
 Train and Test (model)
 
@@ -173,5 +171,7 @@ Track the Impact
 How to achieve these (departments need to be included)
 
 Expected Result
+
+### 資源
 
 [The Role of Cookies for the Purchasing Customer - Recostream](https://recostream.com/blog/the-role-of-cookies-for-the-purchasing-customer)
