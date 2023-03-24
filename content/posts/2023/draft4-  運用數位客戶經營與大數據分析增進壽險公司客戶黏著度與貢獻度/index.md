@@ -174,5 +174,10 @@ How to achieve these (departments need to be included)
 Expected Result
 
 ### 資源
-
-[The Role of Cookies for the Purchasing Customer - Recostream](https://recostream.com/blog/the-role-of-cookies-for-the-purchasing-customer)
+- [The Role of Cookies for the Purchasing Customer - Recostream](https://recostream.com/blog/the-role-of-cookies-for-the-purchasing-customer)
+- [Report: Brand loyalty at an all-time high of 92% for Apple as Android brands take a dive - SellCell.com Blog](https://www.sellcell.com/blog/cell-phone-brand-loyalty-2021/)
+- [Apple has most loyal smartphone customers in US, study finds | AppleInsider](https://appleinsider.com/articles/21/10/29/apple-has-most-loyal-smartphone-customers-in-us-study-finds)
+- [Insurance Recommendation | Kaggle](https://www.kaggle.com/datasets/mrmorj/insurance-recommendation?select=Test.csv)
+- [好「險」！四種正在重塑保險業面貌的人工智慧應用 (appier.com)](https://www.appier.com/zh-tw/blog/4-ai-applications-that-are-transforming-the-insurance-industry-now)
+- [AI如何改寫保險業機遇？迎向2030年保險業未來趨勢 | SAS](https://www.sas.com/zh_tw/insights/articles/risk-fraud/ai-for-insurance.html)
+- [Recommendation Engine for Insurance (zelros.com)](https://www.zelros.com/#1652260157509-8b3310ec-d92d1654689418033)
