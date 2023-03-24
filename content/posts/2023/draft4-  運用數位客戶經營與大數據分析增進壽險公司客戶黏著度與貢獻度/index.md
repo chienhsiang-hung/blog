@@ -1,5 +1,5 @@
 ---
-title: "fubon ppt"
+title: "運用數位客戶經營與大數據分析增進壽險公司客戶黏著度與貢獻度"
 date: 2023-03-24T08:23:00+08:00
 lastmod: 2023-03-24T08:23:00+08:00
 draft: true
@@ -129,6 +129,7 @@ My method of analysis would depend on the specific problem at hand and the data 
 > 應把內容做清楚，爭取面試機會
 
 ![Ideas.jpg](Ideas.jpg "Ideas")
+Draft: [draft.txt](draft.txt)
 #### 客戶黏著度與貢獻度
 Let's define Customer Stickiness and Customer Contribution first:
 
