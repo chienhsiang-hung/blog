@@ -257,7 +257,7 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
   - 能夠**串聯**不同BU間之資源，發揮集團綜效
   - *通曉*企劃、數金、業務、管理等 -> 全局思維
 
-目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，省下1年180萬台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替節省公司1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
 除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
 ###### 過去MA經驗
