@@ -239,6 +239,9 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 ### 開發金
 ## 問題
 ### 自我描述與經驗
+#### 1 Minute Pitch
+- My value
+- Why I want to work here
 #### 自傳與家庭成長背景
 *Same as:自我個性(特質)、價值觀, 請簡述家庭成員對您的影響*
 
