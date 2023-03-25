@@ -30,7 +30,13 @@ hiddenFromSearch: true
 - [Asian Traffic| Embedded Object Detection](https://www.kaggle.com/code/chienhsianghung/yolov5-for-asian-traffic-object-detection): Led a team to train an object detection model using YOLOv5 in a competition and further embedded it on the Android app and Raspberry Pi. Managed to raise 20% of mAP (highest in competition), accelerate the running speed by 900% and work smoothly on embedded devices.
 ### Others
 - [Kaggle All-round Expert](https://www.kaggle.com/chienhsianghung): Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
-
+### 工作與實習
+||Wisdom Asset Management|
+|-|-|
+|地點|台灣|
+|職稱|IT Manager|
+|職務|管理並設計前後端、內外部Apps，開發出產業領先應⽤，替公司節省1年180萬新台幣⽀出，獲中國⼀線券商洽詢對接。  提供RPA⽅案並實作，為公司進⾏資料上雲，作業流程數位化、⾃動化，提升各部⾨⼯作效率。|
+|期間|June 2021 to present|
 ## 投遞與面試
 ### 富邦
 
@@ -236,7 +242,25 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 
 <span hidden>可連絡#3810 廖小姐</span>
 
+### 台新
+組別分類：  
+- 個人金融儲備菁英  
+- <mark>數位金融儲備菁英</mark>
+- <mark>數據分析儲備菁英</mark>
+- 法人金融儲備菁英  
+- 國際金融儲備菁英  
+- 金融市場儲備菁英  
+- 證券市場儲備菁英  
+- 人壽保險儲備菁英
+
+興趣特質:
+1. 積極學習，對金融服務業有強烈興趣  
+2. 創意思考，樂於解決問題  
+3. 具備高度邏輯分析能力  
+4. 強烈企圖心與抗壓力且願意挑戰全球布局
 ### 開發金
+### 保誠
+### 玉山
 ## 問題
 ### 自我描述與經驗
 #### 1 Minute Pitch
