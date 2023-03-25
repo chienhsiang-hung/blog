@@ -30,13 +30,40 @@ hiddenFromSearch: true
 - [Asian Traffic| Embedded Object Detection](https://www.kaggle.com/code/chienhsianghung/yolov5-for-asian-traffic-object-detection): Led a team to train an object detection model using YOLOv5 in a competition and further embedded it on the Android app and Raspberry Pi. Managed to raise 20% of mAP (highest in competition), accelerate the running speed by 900% and work smoothly on embedded devices.
 ### Others
 - [Kaggle All-round Expert](https://www.kaggle.com/chienhsianghung): Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
+
+<div hidden>
 ### 工作與實習
-||Wisdom Asset Management|
-|-|-|
-|地點|台灣|
-|職稱|IT Manager|
-|職務|管理並設計前後端、內外部Apps，開發出產業領先應⽤，替公司節省1年180萬新台幣⽀出，獲中國⼀線券商洽詢對接。  提供RPA⽅案並實作，為公司進⾏資料上雲，作業流程數位化、⾃動化，提升各部⾨⼯作效率。|
-|期間|June 2021 to present|
+- Wisdom Asset Management
+  - IT Manager, Data and Digital Integration Team
+  - 管理並設計前後端、內外部Apps，開發出產業領先應⽤，替公司節省1年180萬新台幣⽀出，獲中國⼀線券商洽詢對接。提供RPA⽅案並實作，為公司進⾏資料上雲，作業流程數位化、⾃動化，提升各部⾨⼯作效率。
+  - 202106-now
+- 凱基
+  - 財管MA(個金), 財富管理
+  - 協助分公司達成財富管理⽬標。分公司重要客⼾陪訪及財富管理業務⽀援協助。分公司財管業務教育訓練。協助舉辦客⼾財富管理說明會。
+  - 202009-202009
+- 中租
+  - 亞太MA(法金), 中小企
+  - 蒐集企業名單，電話開發(⼀天70通，每⽇1訪，每⽉責任額$20,000,000)。評估企業營運狀況與資⾦需求，提供產品及營運諮詢服務。
+  - 202007-202008
+- 新飛國際
+  - 國際行銷實習生, 國際行銷部
+  - 開發菲律賓當地合作商家。安排規劃並同⾏翻譯、協助台灣顧客與學員⽣活起居，顧客滿意度達95%，後續回購+轉介率達7成。⾏銷活動策定、規劃，利⽤VBA改善⼯作流程，作業速度提升90%。
+  - 201901-201902
+- 富邦
+  - CSR行銷企劃實習生, 職安管理部
+  - 研究⽬標顧客消費者⾏為(以Python實作DecisionTree預測)。與組⻑共同推動、制定年度企業社會責任公益活動並發展商品，創造超過150萬企業價值，計劃報酬率超過300%。
+  - 201809-201812
+- 台灣期貨交易所
+  - 暑期實習生, 資訊規劃部
+  - 資料分類與整理。期貨模擬交易演練競賽，獲第⼀名。
+  - 201807-201808
+</div>
+
+### 擅長軟體與工具
+- Python | HTML | CSS | Bootstrap | MongoDB | SQL | jQuery | JavaScript | Node.js | React | Next.js | Unit Testing | Git | OOP | VBA
+- Cloud Computing | Azure | Blob | Functions | AWS | S3 | Lambda | Vercel | API Development | RPA | Web Scraping | Reverse Engineering
+- Frontend | Backend | Full-Stack | Machine Learning | Deep Learning | Microservices | Chinese, English - Professional proficiency or above
+
 ## 投遞與面試
 ### 富邦
 
