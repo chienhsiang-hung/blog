@@ -178,6 +178,8 @@ GOALS:
   |-|-|
   |Func|風險管理|
 
+  ![Return to Risk on Financial Investment.jpeg](Return%20to Risk%20on%20Financial%20Investment.jpeg "Return to Risk on Financial Investment")
+
 #### 團體視訊
 ##### 富邦銀行-數位創新
 TBA
