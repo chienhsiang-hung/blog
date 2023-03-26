@@ -223,6 +223,11 @@ https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
   快速學習領悟並得名
 
   觀念：
+  
+
+- 最重要的三個技能
+
+  **排名**
 #### 團體視訊
 ##### 富邦銀行-數位創新
 TBA
