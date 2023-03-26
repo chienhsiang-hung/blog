@@ -220,14 +220,15 @@ https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
 
 - 給他一句話說服他錄用你
 
-  快速學習領悟並得名
+  優點：快速學習領悟並得名、懂技術也懂domain應用
 
-  觀念：
-  
+  比別人快的學習能力、比別人豐富的Domain Knowledge、比別人果斷的執行力
 
 - 最重要的三個技能
 
   **排名**
+
+  domain = PM > statistic 
 #### 團體視訊
 ##### 富邦銀行-數位創新
 TBA
