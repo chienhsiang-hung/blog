@@ -179,7 +179,13 @@ GOALS:
   |Func|風險管理|
 
   ![Return to Risk on Financial Investment.jpeg](Return%20to Risk%20on%20Financial%20Investment.jpeg "Return to Risk on Financial Investment")
+  https://www.kaggle.com/code/mmmarchetti/predicting-risk-return-on-financial-investment
 
+  Kaggle專案比賽們，要複習一下過去的經驗與專案
+
+https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
+- 怎麼簡單的說明甚麼是深度學習給兩位完全沒相關背景的主管
+- 給他一句話說服他錄用你
 #### 團體視訊
 ##### 富邦銀行-數位創新
 TBA
