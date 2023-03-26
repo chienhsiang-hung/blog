@@ -178,13 +178,26 @@ GOALS:
   |-|-|
   |Func|風險管理|
 
-  ![Return to Risk on Financial Investment.jpeg](Return%20to%20Risk%20on%20Financial%20Investment.jpeg "Return to Risk on Financial Investment")[^Return%20to%20Risk%20on%20Financial%20Investment]
-  [^Return%20to%20Risk%20on%20Financial%20Investment]: [Predicting Risk/Return on Financial Investment | Kaggle](https://www.kaggle.com/code/mmmarchetti/predicting-risk-return-on-financial-investment)
+  ![Return to Risk on Financial Investment.jpeg](Return%20to%20Risk%20on%20Financial%20Investment.jpeg "https://www.kaggle.com/code/mmmarchetti/predicting-risk-return-on-financial-investment")
 
   Kaggle專案比賽們，要複習一下過去的經驗與專案
 
-https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
-- 怎麼簡單的說明甚麼是深度學習給兩位完全沒相關背景的主管
+  1. Wisdom Full Stack, 180 - *Achievement*
+  2. [Utilize ChatGPT](#運用新知或科技解決問題) - *AI App*
+  3. 
+
+- 為什麼想離開現職
+
+  1. 現職能給我帶來的挑戰不夠，成長速度趨緩
+  2. 組織規模不夠大，產品影響帶來的成就感不夠
+
+  **其實從加入到現在我們員工數量跟AUM都已經翻超過一倍**，不管是硬實力還是軟實力都成長了許多，只是我們因為組織規模跟資訊量相較投行或商銀較小，也因此能做的事情跟做出來的影響及帶來的成就感並沒有增加太多。成長幅度跟空間都變得比較小，因此
+
+- 為什麼想加入富邦
+
+  要加入就找最好的，以前實習的經驗...
+
+- 怎麼簡單的說明甚麼是深度學習給兩位完全沒相關背景的主管[^富邦金控數據分析MA]
   
   深度學習是一種人工智慧技術，可以讓**電腦**從**資料**中**自動學習**並**進行預測或判斷**。這種技術透過**模擬神經系統**的運作方式，讓電腦**能夠進行更複雜**的任務，例如圖像辨識、語音識別、自然語言處理等等。簡單來說，就是透過**大量的資料和運算**，讓電腦自動學習並提高自己的準確性，可以應用在許多領域，例如醫療、金融、製造業等等。
   
@@ -218,7 +231,7 @@ https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
 
   在深度學習中，**損失函數的選擇通常取決於具體的問題和應用場景**。例如，在**二元分類問題中，交叉熵損失函數通常表現優異**；在**回歸問題中，均方誤差損失函數則比較常用**。選擇合適的損失函數可以提高模型的訓練效果和預測能力。
 
-- 給他一句話說服他錄用你
+- 給他一句話說服他錄用你[^富邦金控數據分析MA]
 
   優點：快速學習領悟並得名、懂技術也懂domain應用
 
@@ -229,6 +242,8 @@ https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699
   **排名**
 
   domain = PM > statistic 
+
+[^富邦金控數據分析MA]: [新鮮人面試心得：富邦金控數據分析MA、友達工程師、6間數據分析師面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=243699)
 #### 團體視訊
 ##### 富邦銀行-數位創新
 TBA
