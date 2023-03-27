@@ -197,7 +197,11 @@ GOALS:
   [近期也引進OpenAI(ChatGPT)](#其他成就與特殊表現事蹟)協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]開發的事情，用不到2週就完成。
   [^leading-nlp-language-models-2020]: [10 Leading Language Models For NLP In 2022 (topbots.com)](https://www.topbots.com/leading-nlp-language-models-2020/)
 
-  
+  目前的工作很開心，希望能到資料量更多使用場景更廣的地方展拳腳
+
+  在工作之餘還有製作口罩地圖、參加Kaggle競賽等
+
+  而我認為這份工作需要具備的技能...我也都有 因此我相信自己能勝任這項任務
 
 - 履歷上沒有的自我介紹
 
@@ -273,6 +277,10 @@ GOALS:
   **排名**
 
   domain = PM > statistic > cs
+
+- 為了投遞這個MA你做了多少準備
+
+  超過15,000字筆記(筆記當下)。而我們知道，一份質性分析的商管碩論平均也就10,000-15,000字。
 
 - 想問的問題
 
