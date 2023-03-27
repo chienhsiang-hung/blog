@@ -183,10 +183,16 @@ GOALS:
   Kaggle專案比賽們，要複習一下過去的經驗與專案
 
   1. Wisdom Full Stack, 180 - *Achievement*
-  2. [Utilize ChatGPT](#運用新知或科技解決問題) - *AI App*
-  3. 123
+  2. [Utilize ChatGPT](#運用新知或科技解決問題) - *AI App, 學習與創新*
 
   目前在香港最大的外部資產EAM/Family Office擔任IT Manager，負責全端設計開發，及為組織內的各個部門提供數位化自動化RPA解決方案。
+  
+  我喜歡與各部門同仁合作幫他們解決工作上複雜重複的人工處理問題，也喜歡協助公司的Bankers，幫他們開發Apps。再加入的第一年，就完成了結構性商品詢價系統，取代外包的White-label App，替公司省下一年相當於新台幣180萬的支出。也陸續開發出像是合併報表系統，能夠彙整多家銀行月結單資訊進資料庫並產出合併版本供各戶參考，解決助理人工有的work load限制跟時間限制，大幅增加作業效率與場景。
+
+  近期也引進ChatGPT協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]完成的事情，用不到2週的時間就初步完成，提供bankers使用。
+  [^leading-nlp-language-models-2020]: [10 Leading Language Models For NLP In 2022 (topbots.com)](https://www.topbots.com/leading-nlp-language-models-2020/)
+
+
 - 履歷上沒有的自我介紹
 
   Side Projects
