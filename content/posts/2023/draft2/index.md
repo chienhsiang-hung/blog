@@ -194,7 +194,7 @@ GOALS:
   
   我很喜歡與各部門同仁合作幫他們解決工作上複雜重複的人工處理問題，以及協助公司Bankers，幫他們開發Apps。再加入的第一年，就完成了結構性商品詢價系統，取代外包的White-label App，替公司省下一年相當於新台幣180萬的支出。也陸續開發出像是合併報表系統，能夠蒐集每個客戶各家銀行帳戶月結單資訊進資料庫並產出合併版本供各戶參考(以及風險管理(在EAM資料蒐集更困難))，建立數據資產，也解決助理人工有的work load限制跟時間限制，大幅增加作業效率與應用場景。
 
-  [近期也引進OpenAI(ChatGPT)](#其他成就與特殊表現事蹟)協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]開發的事情，用不到2週的時間就完成。
+  [近期也引進OpenAI(ChatGPT)](#其他成就與特殊表現事蹟)協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]開發的事情，用不到2週就完成。
   [^leading-nlp-language-models-2020]: [10 Leading Language Models For NLP In 2022 (topbots.com)](https://www.topbots.com/leading-nlp-language-models-2020/)
 
   
