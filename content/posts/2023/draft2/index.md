@@ -184,14 +184,16 @@ GOALS:
 
   1. Wisdom Full Stack, 180 - *Achievement*
   2. [Utilize ChatGPT](#運用新知或科技解決問題) - *AI App, 學習與創新*
+  3. [Kaggle Exp](#其他成就與特殊表現事蹟) - *AI App, 學習與創新*
 
   目前在香港最大的外部資產EAM/Family Office擔任IT Manager，負責全端設計開發，及為組織內的各個部門提供數位化自動化RPA解決方案。
   
   我喜歡與各部門同仁合作幫他們解決工作上複雜重複的人工處理問題，也喜歡協助公司的Bankers，幫他們開發Apps。再加入的第一年，就完成了結構性商品詢價系統，取代外包的White-label App，替公司省下一年相當於新台幣180萬的支出。也陸續開發出像是合併報表系統，能夠彙整多家銀行月結單資訊進資料庫並產出合併版本供各戶參考，解決助理人工有的work load限制跟時間限制，大幅增加作業效率與場景。
 
-  近期也引進ChatGPT協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]完成的事情，用不到2週的時間就初步完成，提供bankers使用。
+  近期也引進OpenAI(ChatGPT)協助銀行產業報告整理，讓原本可能需要花2個月的時間來*訓練模型*[^leading-nlp-language-models-2020]完成的事情，用不到2週的時間就初步完成，提供bankers使用。
   [^leading-nlp-language-models-2020]: [10 Leading Language Models For NLP In 2022 (topbots.com)](https://www.topbots.com/leading-nlp-language-models-2020/)
 
+  
 
 - 履歷上沒有的自我介紹
 
@@ -568,7 +570,7 @@ _請描述您在學校、實習或工作中印象最深刻的領導經驗_
 2. [Personal SWOT Analysis - Making the Most of Your Talents and Opportunities](https://www.mindtools.com/aaiakpy/personal-swot-analysis)
 3. [Personal SWOT Analysis: Where Talent Meets Opportunity](https://creately.com/blog/hr-planning/personal-swot-analysis/)
 
-#### 其他成就、特殊表現事蹟
+#### 其他成就與特殊表現事蹟
 近期專案成果
 - 開發臺灣清冠一號地圖 Taiwan NRICM101 Map (響應式跨裝置網頁)。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量(公費、自費)、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet (open-source JavaScript map library)呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
 - 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡(名片)，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球(超過10個國家)。
