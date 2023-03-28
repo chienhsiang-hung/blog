@@ -1,7 +1,7 @@
 ---
 title: "2022/2023 軟體工程師 面試分享整理"
 date: 2023-03-09T11:15:00+08:00
-lastmod: 2023-03-09T11:15:00+08:00
+lastmod: 2023-03-28T05:25:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -36,6 +36,7 @@ zhtw: true
   
   The Lead is young and friendly, experienced at `assembly`, `linux`.
 
+第一次電話面試大概確認雙方意願，第二次面試跟外籍組長以及顧問。過程很愉快馬上就約下一次筆試
 ### FundPark - Software Engineer - HK
 - [x] *2023-02-06* **Virtual Interview Invitation**
 - [x] *2023-02-13* **Email Reminder**
