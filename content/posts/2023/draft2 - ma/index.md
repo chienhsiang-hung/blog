@@ -331,8 +331,7 @@ TBA
   *(建議方案)*
 
   可加入ChatGPT/OpenAI，協助導引使用者至需要的功能或頁面，獲取相關資訊
-
-  作法: 
+  ![ChatGPT to Banks App Flow](ChatGPT%20to%20Banks%20App%20Flow.png "ChatGPT to Banks App Flow")
 
 - 要怎麼讓更多人使用 lucky pay
 - 富邦想要拓展新的族群，你認為還有誰
