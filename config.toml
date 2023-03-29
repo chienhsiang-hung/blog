@@ -156,7 +156,7 @@ enableEmoji = true
     # Custom config for zh-tw
     zhtw = false
     # whether to show link to Raw Markdown content of the content
-    # linkToMarkdown = true
+    linkToMarkdown = false
 
     [params.page.share]
     Linkedin = true
