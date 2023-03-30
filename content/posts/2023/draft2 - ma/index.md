@@ -406,6 +406,8 @@ TBA
 
 **Notes: Customer > Product > Channel**
 ###### 準備
+- 
+
 - [PainPoint](#台北富邦銀行---數位創新組)
 
   金融<mark>創新</mark>服務, 內外部<mark>平台</mark>, 應用<mark>數據決策</mark>，利用IT技術與工具 (發掘機會找尋應用場景，實現普惠金融)
