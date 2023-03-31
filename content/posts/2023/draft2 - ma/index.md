@@ -410,6 +410,12 @@ TBA
 >
 > 金融<mark>創新</mark>服務, 內外部<mark>平台</mark>, 應用<mark>數據決策</mark>，利用IT技術與工具 (發掘機會找尋應用場景，實現普惠金融)
 
+<object data="北富銀數金一面-準備.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="北富銀數金一面-準備.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="北富銀數金一面-準備.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 - 自我介紹
 
   *沒有限時間，就照自己準備的講出來[^台北富邦商業銀行股份有限公司的所有【MA】]*
