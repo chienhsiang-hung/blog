@@ -858,7 +858,7 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 
 綜上所述，證券業在發展中面臨著多重的挑戰和機遇，需要不斷地提高業務能力和創新能力，從而更好地滿足客戶需求，實現可持續發展。對於數據分析人才來說，要具備深厚的金融產業知識和數據分析能力，不斷學習新技術和新知識，成為行業中的佼佼者。
 {{< /admonition >}}
-{{< admonition type=note title="Story 2" open=false >}}
+{{< admonition type=note title="Story 2" >}}
 證券業發展現況與挑戰
 
 證券業是金融產業的重要一環，提供資本市場的交易、融資、投資、顧問等服務，促進經濟發展與社會福祉。然而，證券業也面臨著許多挑戰，如市場競爭、科技創新、法規變動、風險管理等，需要不斷地調整與創新，以滿足客戶需求與提升經營效率。
@@ -873,8 +873,6 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 
 綜上所述，我對『證券業發展現況與挑戰』的觀點與看法是：證券業需要加強數據分析能力、運用科技創新提升服務品質、遵守法規規範維護信譽，以因應市場變化與客戶需求，創造競爭優勢。
 {{< /admonition >}}
-
-
 
 
 
