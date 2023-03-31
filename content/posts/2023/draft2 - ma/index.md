@@ -143,6 +143,38 @@ GOALS:
 2. 運用數位客戶經營與大數據分析，增進壽險公司客戶黏著度與貢獻度
 
 **教訓: 太晚開始做簡報，大綱沒列好，簡報結構不夠清晰，缺乏例證(同業分析等)**
+
+##### 富邦證券-數據科學
+※**題目：**
+
+**1.** **根據客戶過去一段時間內的商品購買紀錄以及商品資訊(文字、圖片)精準預測未來一週內可能購買的商品。可以延伸分析不同客群對商品組合的偏好、客戶CLTV等。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)**)**
+
+**2.** **根據商品基本資訊、銷售資訊、事件資料來預測未來各商品的銷售金額。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview**](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)**)**
+
+**請擇一上述命題，並使用Kaggle平台資料進行建模，簡報內容需包含以下單元**
+
+**(1) 命題挑選之緣由。**
+
+**(2) 建模內容與成效說明。**
+
+**(3) 分析過程或使用不同方法所得到之insight發現。**
+
+**(4) 發想本次數據分析於金融業可能的應用場景。**
+
+**＊加分條件**
+
+**(1) 具差異化或創新分析方法(如: 特徵處理、建模方法、商業分析洞察等)。**
+
+**(2) 具差異化且有意義之insight發現。**
+
+**(3) 發想之應用場景具金融業落地應用之價值。**
+
+※報告格式：
+
+中文投影片(含英文摘要：1頁)，限頁數15頁以內、檔案大小10MB以內。
+
+口頭報告時間約10分鐘，中英文皆可(報告語言現場由主管指定)。
+
 #### 團體面談
 ##### 富邦證券-數據科學
 > 富邦證券
@@ -543,6 +575,9 @@ TBA
 [^fintech-2023]: [2023 金融科技將迎來哪些破壞式創新？盤點全球 6 大 Fintech 應用趨勢！ | TechOrange 科技報橘 (buzzorange.com)](https://buzzorange.com/techorange/2023/01/17/fintech-2023/)
 [^台北富邦商業銀行股份有限公司的所有【MA】]: [台北富邦商業銀行股份有限公司的所有【MA】/【儲備幹部】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/9WIp?page=1&position%5B%5D=MA&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&sort=featured)
 [^富邦金融控股股份有限公司的所有【MA】]: [富邦金融控股股份有限公司的所有【MA】/【ma】/【儲備幹部】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/re0s?page=1&position%5B%5D=MA&position%5B%5D=ma&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&sort=featured)
+
+###### 面試
+**Notes: 應該準備好自我介紹後(履歷上沒有的)，<mark>輕鬆面試</mark>**
 
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
