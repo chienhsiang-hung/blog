@@ -24,9 +24,21 @@ zhtw: true
 > Provide product recommendations based on previous purchases
 
 根據客戶過去**一段時間內**的<mark>商品購買紀錄</mark>以及<mark>商品資訊(文字、圖片)</mark>精準<mark>預測未來一週內可能購買的商品</mark>。可以延伸分析**不同客群對商品組合的偏好**、**客戶CLTV**等。
+
+## 筆記
+<object data="H&M%20Personalized%20Fashion%20Recommendations.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="H&M%20Personalized%20Fashion%20Recommendations.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="H&M%20Personalized%20Fashion%20Recommendations.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### 選題原由
 第一題是推薦系統，第二題是進銷存系統
 
 以金融業的商業模式來說，推薦系統會是更值得優先投入的領域
 
 ## 資料集
+商品圖庫
+商品敘述(主要為文字): 商品分類、顏色以及款式等
+顧客資料
+顧客消費紀錄
