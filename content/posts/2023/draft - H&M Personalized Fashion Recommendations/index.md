@@ -10,4 +10,16 @@ featuredimage:
 tags: [""]
 toc:
   enable: true
+zhtw: true
 ---
+## 目錄
+1. 選題原由
+2. 建模內容與成效說明
+3. 發現
+4. 應用場景
+## 題目
+[H&M Personalized Fashion Recommendations | Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)
+
+> Provide product recommendations based on previous purchases
+
+根據客戶過去**一段時間內**的<mark>商品購買紀錄</mark>以及<mark>商品資訊(文字、圖片)</mark>精準<mark>預測未來一週內可能購買的商品</mark>。可以延伸分析**不同客群對商品組合的偏好**、**客戶CLTV**等。

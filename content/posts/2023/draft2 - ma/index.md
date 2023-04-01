@@ -145,8 +145,7 @@ GOALS:
 **教訓: 太晚開始做簡報，大綱沒列好，簡報結構不夠清晰，缺乏例證(同業分析等)**
 
 ##### 富邦證券-數據科學
-※**題目：**
-
+###### 題目
 **1.** **根據客戶過去一段時間內的商品購買紀錄以及商品資訊(文字、圖片)精準預測未來一週內可能購買的商品。可以延伸分析不同客群對商品組合的偏好、客戶CLTV等。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)**)**
 
 **2.** **根據商品基本資訊、銷售資訊、事件資料來預測未來各商品的銷售金額。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview**](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)**)**
@@ -171,10 +170,12 @@ GOALS:
 
 ※報告格式：
 
-中文投影片(含英文摘要：1頁)，限頁數15頁以內、檔案大小10MB以內。
+**中文投影片(含英文摘要：1頁)，限頁數15頁以內**、檔案大小10MB以內。
 
 口頭報告時間約10分鐘，中英文皆可(報告語言現場由主管指定)。
 
+###### 製作
+**Tips: 附上英文的摘要，提出金融市場現況和競業分析、目標客群分析、公司產品優勢，計畫實施方式（含線上/線下）並製圖、成效與結論。[^2021年MA面試錄取分享]**
 #### 團體面談
 ##### 富邦證券-數據科學
 > 富邦證券
@@ -571,7 +572,6 @@ TBA
 
   這些問題旨在了解數位創新組的組織架構、工作範圍、技術應用、業務發展方向及目標等相關情況，幫助我更深入了解該職位的職責和工作內容，以及自己是否適合這個職位。
 
-[^2021年MA面試錄取分享]: [2021年MA面試錄取經驗分享｜富邦金控、中信金控｜Lina | Lina’s Diary (medium.com)](https://medium.com/linas-diary/2021mainterview-ac01dd9e0699)
 [^fintech-2023]: [2023 金融科技將迎來哪些破壞式創新？盤點全球 6 大 Fintech 應用趨勢！ | TechOrange 科技報橘 (buzzorange.com)](https://buzzorange.com/techorange/2023/01/17/fintech-2023/)
 [^台北富邦商業銀行股份有限公司的所有【MA】]: [台北富邦商業銀行股份有限公司的所有【MA】/【儲備幹部】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/9WIp?page=1&position%5B%5D=MA&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&sort=featured)
 [^富邦金融控股股份有限公司的所有【MA】]: [富邦金融控股股份有限公司的所有【MA】/【ma】/【儲備幹部】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/re0s?page=1&position%5B%5D=MA&position%5B%5D=ma&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&sort=featured)
@@ -1119,3 +1119,4 @@ GitHub: https://github.com/chienhsiang-hung/
 
 
 [^面試趣]: [找工作前的第一站 | 面試趣 (interview.tw)](https://interview.tw/)
+[^2021年MA面試錄取分享]: [2021年MA面試錄取經驗分享｜富邦金控、中信金控｜Lina | Lina’s Diary (medium.com)](https://medium.com/linas-diary/2021mainterview-ac01dd9e0699)
