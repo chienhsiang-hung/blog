@@ -72,6 +72,7 @@ zhtw: true
 
 ### 特徵
 **增加**
+- 日期
 - 顧客商品購買次數、顧客分類購買次數 (周月季/去年同期(周)/全期/時間加權)
 - 上次距離這次購買日期差異、商品新舊ratio（顧客為key）
 
@@ -84,6 +85,11 @@ zhtw: true
 
 **移除**
 - 移除article ID, product code避免overfitting
+
+#### 冷啟動
+用*熱門產品*但缺乏動態資訊，效果不好
+
+直接用模型的top12即可
 
 ### 訓練與測試
 每一個顧客都有百個候選商品（會有太多negative samples）(will lead to common inbalance problems)
