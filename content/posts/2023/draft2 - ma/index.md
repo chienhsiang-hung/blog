@@ -144,7 +144,7 @@ GOALS:
 
 **教訓: 太晚開始做簡報，大綱沒列好，簡報結構不夠清晰，缺乏例證(同業分析等)**
 
-##### 富邦證券-數據科學
+##### 富邦金控-數據分析
 ###### 題目
 **1.** **根據客戶過去一段時間內的商品購買紀錄以及商品資訊(文字、圖片)精準預測未來一週內可能購買的商品。可以延伸分析不同客群對商品組合的偏好、客戶CLTV等。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)**)**
 
