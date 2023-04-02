@@ -58,15 +58,17 @@ zhtw: true
 ## 資料處理與特徵
 資料量有多少呢（35GB）
 
-10萬種產品
+10萬種產品、3千萬筆交易
 - negative samples 數量太多
 
-  Downsampling to 一到兩百萬個每週(for all customers)有比較好的performance
+  Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
 ### 召回方法
 - 過去購買過（商品、類別）
 - item collaborative filtering
 - 上一週熱門產品
 - 去年同期熱門產品
+- graph embedding（圖片分類）
+- logistic regression on 類別資訊（分類、款式等）
 
 
 
