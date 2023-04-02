@@ -64,13 +64,17 @@ zhtw: true
   Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
 ### 召回方法
 - 過去購買過（商品、類別）
-- item collaborative filtering
+- collaborative filtering
 - 上一週熱門產品
 - 去年同期熱門產品
 - graph embedding（圖片分類）
 - logistic regression on 類別資訊（分類、款式等）
+- 平均購買價格（）
+![平均購買價格.jpeg](平均購買價格.jpeg "平均購買價格.jpeg")
 
 
 
 ### 特徵
 - 顧客商品購買次數、顧客分類購買次數 (周月季/去年同期(周)/全期/時間加權)
+
+### 訓練與測試
