@@ -55,8 +55,11 @@ zhtw: true
 - 顧客消費紀錄: 顧客、價格與通路等
 
 ## 資料處理與特徵
-- Downsampling
+- negative samples 數量太多
 
-  我們發現資料集inbalancenegitive samples
+  Downsampling to 一到兩百萬個每週有比較好的performance
 
+
+
+### 特徵
 - 顧客商品購買次數、顧客分類購買次數 (周月季/去年同期(周)/全期/時間加權)
