@@ -70,11 +70,8 @@ zhtw: true
 - logistic regression on 類別資訊（分類、款式、年齡、地區等）
 ![平均購買價格.jpeg](平均購買價格.jpeg "平均購買價格.jpeg")
 
-每一個顧客都有百個候選商品（會有太多negative samples）(will lead to common inbalance problems)
-- negative samples 數量太多
-
-  Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
 ### 特徵
+**增加**
 - 顧客商品購買次數、顧客分類購買次數 (周月季/去年同期(周)/全期/時間加權)
 - 上次距離這次購買日期差異、商品新舊ratio（顧客為key）
 
@@ -85,6 +82,14 @@ zhtw: true
 - 平均、最大、最小購買價格
 - 商品平均銷售年齡與使用者年齡差距、商品總銷售
 
+**移除**
 - 移除article ID, product code避免overfitting
 
 ### 訓練與測試
+每一個顧客都有百個候選商品（會有太多negative samples）(will lead to common inbalance problems)
+- negative samples 數量太多
+
+  Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
+
+#### CV
+用最後一週當作測試集
