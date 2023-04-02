@@ -44,7 +44,7 @@ zhtw: true
 
 但要根據每個使用者特徵對10萬個商品預測排序似乎不太實際，因此我們還需要在前一步加filter，或者說-選出候選人（召回）
 
-初步的流程就會是從pool召回百個到千個，然後再排序出前12個。因為排序是從召回的候選人來進行，因此，要是前面召回不夠精準，後面排序模型再準確也沒用，那麼召回流程就至關重要。
+初步的流程就會是從pool召回幾百個，然後再排序出前12個。因為排序是從召回的候選人來進行，因此，要是前面召回不夠精準，後面排序模型再準確也沒用，那麼召回流程就至關重要。
 
 關鍵問題就來了，我們該如何來進行召回呢？怎麼做才能從10萬筆項目中找出有效候選人（候選項目）？
 
@@ -59,22 +59,32 @@ zhtw: true
 資料量有多少呢（35GB）
 
 10萬種產品、3千萬筆交易
-- negative samples 數量太多
-
-  Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
 ### 召回方法
+百個候選人
 - 過去購買過（商品、類別）
-- collaborative filtering
+- user based collaborative filtering
+- item to item similarity
 - 上一週熱門產品
 - 去年同期熱門產品
 - graph embedding（圖片分類）
-- logistic regression on 類別資訊（分類、款式等）
-- 平均購買價格（）
+- logistic regression on 類別資訊（分類、款式、年齡、地區等）
 ![平均購買價格.jpeg](平均購買價格.jpeg "平均購買價格.jpeg")
 
+每一個顧客都有百個候選商品（會有太多negative samples）(will lead to common inbalance problems)
+- negative samples 數量太多
 
-
+  Downsampling to 可以隨機抽樣，一到兩百萬個每週(for all customers)有比較好的performance
 ### 特徵
 - 顧客商品購買次數、顧客分類購買次數 (周月季/去年同期(周)/全期/時間加權)
+- 上次距離這次購買日期差異、商品新舊ratio（顧客為key）
+
+  商品第一次在交易紀錄中出現日期視為產品release date與購買日期的ratio
+
+  判斷消費者對於新舊產品的喜好
+
+- 平均、最大、最小購買價格
+- 商品平均銷售年齡與使用者年齡差距、商品總銷售
+
+- 移除article ID, product code避免overfitting
 
 ### 訓練與測試
