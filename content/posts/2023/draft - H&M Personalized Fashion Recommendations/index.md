@@ -19,11 +19,11 @@ zhtw: true
 4. 應用場景
 
 ## 摘要
-Title: Building a Personalized Fashion Recommendation System using Customer Purchase History and Product Information
+Title: H&M Personalized Fashion Recommendations System and What We Can Learn As a Financial Corp.
 
 This project aims to develop a recommendation system that predicts the products customers are likely to purchase in the coming week based on their past purchase history and product information. The dataset used for this project is sourced from H&M's Kaggle competition, which includes product information such as text and images.
 
-The motivation behind this project is to help businesses personalize their marketing strategies and improve customer satisfaction by providing relevant product recommendations.
+The motivation behind this project is to help businesses personalize their marketing strategies and raise business revenue by improving customer satisfaction by providing relevant product recommendations.
 
 Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, precision, and F1 score. The results showed that the deep learning model outperformed the collaborative filtering model.
 
