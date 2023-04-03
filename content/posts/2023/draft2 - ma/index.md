@@ -145,6 +145,13 @@ GOALS:
 **教訓: 太晚開始做簡報，大綱沒列好，簡報結構不夠清晰，缺乏例證(同業分析等)**
 
 ##### 富邦金控-數據分析
+_**以成為數據科學人才為目標，*期建立*<mark>數據智能分析</mark>進階技術，以協助提升<mark>精準行銷</mark>、<mark>產品定價</mark>、<mark>風險管理</mark>、<mark>營運效能等</mark>。**_
+
+核心職掌如下：  
+1. **掌握國內外數據科學演算法及應用**。  
+2. 應用金控資料，協助子公司於**風險控管及詐欺詐賠預防**。  
+3. 建構跨子公司數位軌跡及推廣金控客戶視圖之業務應用。  
+4. 應用AI相關技術協助子公司提升業務效率及提升客戶體驗。
 ###### 題目
 **1.** **根據客戶過去一段時間內的商品購買紀錄以及商品資訊(文字、圖片)精準預測未來一週內可能購買的商品。可以延伸分析不同客群對商品組合的偏好、客戶CLTV等。請參考Kaggle公開數據集，相關背景詳見以下連結(**[**https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)**)**
 
