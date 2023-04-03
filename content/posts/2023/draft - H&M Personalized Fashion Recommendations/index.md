@@ -2,7 +2,7 @@
 title: "H&M Personalized Fashion Recommendations"
 date: 2023-03-22T09:30:00+08:00
 lastmod: 2023-03-22T09:49:00+08:00
-draft: true
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/"]
@@ -17,6 +17,19 @@ zhtw: true
 2. 建模內容與成效說明
 3. 發現
 4. 應用場景
+
+## 摘要
+Title: Building a Personalized Fashion Recommendation System using Customer Purchase History and Product Information
+
+This project aims to develop a recommendation system that predicts the products customers are likely to purchase in the coming week based on their past purchase history and product information. The dataset used for this project is sourced from H&M's Kaggle competition, which includes product information such as text and images.
+
+The motivation behind this project is to help businesses personalize their marketing strategies and improve customer satisfaction by providing relevant product recommendations.
+
+Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, precision, and F1 score. The results showed that the deep learning model outperformed the collaborative filtering model.
+
+Insights were obtained from the analysis of customer purchase behavior, including identifying different customer segments and their preferences for product categories. The customer lifetime value (CLTV) was also calculated to estimate the potential profitability of different customer segments.
+
+The methods and insights obtained from this project can be applied to other industries, including the financial sector, to develop personalized marketing strategies and improve customer retention. For example, banks can use customer transaction history and financial data to develop personalized investment recommendations, while insurance companies can use customer demographic data and claim history to offer customized insurance packages.
 
 ## 題目
 [H&M Personalized Fashion Recommendations | Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)
@@ -171,3 +184,6 @@ LGBMRanker來排序，分數為...
 基於客戶的保險需求和風險評估，預測其未來可能產生的損失額度，並進行風險管理。可以使用類似於人壽保險的方法進行建模，並將客戶分為不同風險等級，進行個性化的風險管理。此外，可以利用大數據技術監控不同區域的天氣、交通等因素，及時預測可能發生的災害，並提前進行風險管理。
 #### 證券
 在證券方面，可以使用類似的客戶行為分析，預測客戶對不同證券產品的需求和風險，以便提供更個性化的證券投資方案。例如，可以根據客戶的年齡、性別、投資偏好、風險承受能力等特徵，預測其未來的證券投資需求。同時，可以根據客戶的投資歷史和風險承受能力，評估客戶的風險和收益，以便更好地評估客戶風險和定價策略。
+
+### 延伸應用
+...
