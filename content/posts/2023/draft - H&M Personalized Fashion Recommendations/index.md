@@ -25,9 +25,9 @@ This project aims to develop a recommendation system that predicts the products 
 
 The motivation behind this project is to help businesses personalize their marketing strategies and raise business revenue by improving customer satisfaction by providing relevant product recommendations.
 
-Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, and precision.
+Various modelling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, and precision.
 
-Insights were obtained from the analysis of customer purchase behavior, including identifying different customer segments and their preferences for product categories.
+Insights were obtained from the analysis of customer purchase behaviour, including identifying different customer segments and their preferences for product categories.
 
 The methods and insights obtained from this project can be applied to the finance industry to develop personalized marketing strategies and improve customer retention. I've also listed some of the current issues we faced within financial services corporations. For example, banks can use customer transaction history and financial data to develop personalized investment recommendations, while insurance companies can use customer demographic data and claim history to offer customized insurance packages etc.
 
