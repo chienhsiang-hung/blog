@@ -27,9 +27,9 @@ The motivation behind this project is to help businesses personalize their marke
 
 Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, and precision.
 
-Insights were obtained from the analysis of customer purchase behavior, including identifying different customer segments and their preferences for product categories. The customer lifetime value (CLTV) was also calculated to estimate the potential profitability of different customer segments.
+Insights were obtained from the analysis of customer purchase behavior, including identifying different customer segments and their preferences for product categories.
 
-The methods and insights obtained from this project can be applied to other industries, including the financial sector, to develop personalized marketing strategies and improve customer retention. For example, banks can use customer transaction history and financial data to develop personalized investment recommendations, while insurance companies can use customer demographic data and claim history to offer customized insurance packages.
+The methods and insights obtained from this project can be applied to the finance industry to develop personalized marketing strategies and improve customer retention. I've also listed some of the current issues we faced within financial services corporations. For example, banks can use customer transaction history and financial data to develop personalized investment recommendations, while insurance companies can use customer demographic data and claim history to offer customized insurance packages etc.
 
 ## 題目
 [H&M Personalized Fashion Recommendations | Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)
