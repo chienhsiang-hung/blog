@@ -25,7 +25,7 @@ This project aims to develop a recommendation system that predicts the products 
 
 The motivation behind this project is to help businesses personalize their marketing strategies and raise business revenue by improving customer satisfaction by providing relevant product recommendations.
 
-Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, precision, and F1 score. The results showed that the deep learning model outperformed the collaborative filtering model.
+Various modeling techniques were applied, including collaborative filtering and deep learning, to develop the recommendation system. The performance of the models was evaluated using metrics such as recall, and precision.
 
 Insights were obtained from the analysis of customer purchase behavior, including identifying different customer segments and their preferences for product categories. The customer lifetime value (CLTV) was also calculated to estimate the potential profitability of different customer segments.
 
