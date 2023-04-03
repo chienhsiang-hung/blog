@@ -2,7 +2,7 @@
 title: "H&M Personalized Fashion Recommendations"
 date: 2023-03-22T09:30:00+08:00
 lastmod: 2023-03-22T09:49:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/"]
@@ -35,6 +35,9 @@ The methods and insights obtained from this project can be applied to the financ
 > Provide product recommendations based on previous purchases
 
 根據客戶過去**一段時間內**的<mark>商品購買紀錄</mark>以及<mark>商品資訊(文字、圖片)</mark>精準<mark>預測未來一週內可能購買的商品</mark>。可以延伸分析**不同客群對商品組合的偏好**、**客戶CLTV**等。
+
+## Outline
+![Outline.png](Outline.png "Outline.png")
 
 ## 筆記
 <object data="H&M%20Personalized%20Fashion%20Recommendations.pdf" type="application/pdf" width="100%" height="600px">
