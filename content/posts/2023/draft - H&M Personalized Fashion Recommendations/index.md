@@ -118,6 +118,7 @@ LGBMRanker來排序，分數為...
 直接用模型的top12即可
 
 ### 訓練與測試
+![訓練集.png](訓練集.png "訓練集.png")
 每一個顧客都有百個候選商品（會有太多negative samples）(will lead to common inbalance problems)
 - negative samples 數量太多
 
