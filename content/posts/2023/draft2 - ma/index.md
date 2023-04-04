@@ -875,6 +875,7 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 
 [遠東國際商業銀行股份有限公司 MA 面試經驗 2021.11.28 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/61a322738ff738001212a17b)
 
+[多家金融機構-儲備幹部MA-面試經驗分享面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=233389&page=4)
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
 #### 數據分析人才
