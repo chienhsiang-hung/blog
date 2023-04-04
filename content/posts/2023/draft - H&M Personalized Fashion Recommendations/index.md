@@ -209,3 +209,6 @@ LTV = 100元 × 5次 × 2年 = 1000元
 這意味著這位顧客對商城的價值是1000元。如果這位顧客是一位高價值顧客，商城可以通過針對他的購物偏好和消費行為進行精細化管理，以提高他的忠誠度和購買頻率，進一步提高其LTV。
 
 在金融業中，LTV的應用非常廣泛。例如，銀行可以通過計算客戶的LTV來評估其價值，進而針對高價值客戶提供更好的客戶體驗和個性化的產品和服務，提高客戶忠誠度。保險公司可以通過計算客戶的LTV來評估其風險和賠償成本，進而針對高風險客戶提供更優惠的保險方案。證券公司可以通過計算客戶的LTV來評估其投資價值，進而針對高價值客戶提供更個性
+
+
+[Is it worth it? ROI of recommender systems and measuring the success (neoteric.eu)](https://neoteric.eu/blog/roi-of-recommender-systems-implementation/)
