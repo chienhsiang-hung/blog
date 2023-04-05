@@ -1062,6 +1062,24 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 
 開始比賽幾週後卻卡在前30%，挑戰失敗，但也理解是因為自己用興趣學習的方式進行，雖然花很多時間很努力，但沒有採用最有效率的方式刷提(根據弱點補強並跳過艱深低頻類型題目)、解題過程也未優化(除了優化算法，也要優化解法)，雖然失望，但若改變刷題策略執行，有信心可以達成。
 ### 開發金
+#### 自傳
+父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
+
+在2017-2020兩年半的時間內取得中山MBA財管碩士，參加各大商業競賽並取得獎項，像是國泰商業大數據競賽優選，DBS Hackthon冠軍等。累積金融業實習經驗像是富邦、期交所等，了解金融場景，也參加政府新南向至菲律賓實習，同時累積國際經驗，包含俄羅斯暑期學程與瑞典交換。並在過程中持續增加現金流量，透過實習薪資、比賽獎金、各類獎學金之取得，幸運地使現金流入總和大於期間各校學費、生活費、住宿費等等。降低額外打工需求，提升學習品質，休閒時間除了社團活動也熱愛旅遊、戶外運動等，還考取了像是PADI  AOW進階開放水域潛水員的證照。
+
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+
+除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+
+相信一句話： If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入開發金相關公司部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+
+[個人網站與作品]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
 ### 保誠
 ### 一銀
 ### 永豐證
@@ -1185,6 +1203,12 @@ _請描述過去與他人的**合作經驗**、你在團隊中所扮演的**角�
   首先我研究了市場上現有的模型，發現它們都有一些缺陷，比如無法處理多語言、無法理解報告的語義等，但自己訓練又太花時間跟機器。剛好這幾個月ChatGPT興起，於是我決定利用來OpenAI改善這些問題，並且新增搜索中英文互譯的功能，讓顧問能夠用自己熟悉的語言來查詢。我與我的團隊分工合作，開發了前端查詢介面和後端運行API，並建置資料庫，與其他部門開會探詢需求和收集反饋。我還負責監督測試和上線的過程，確保沒有任何錯誤或漏洞。
 
   過去需要2個月才能開發出的模型或查找資料庫，利用OpenAI API，2周不到就完成了。也在上線後顯著提升顧問使用該服務頻率(10倍成長)，讓功能上雲、自動化，服務24/7。
+
+  In my current company, consultants often search for specific financial institutions' views on certain issues. However, the company does not have a unified platform to store and manage these reports. Instead, they are scattered in shared mailboxes. This not only reduces efficiency in searching but also means that when assistants are off duty, consultants have no one to help them with the task. Therefore, an automated, intelligent, and 24/7 data search engine is needed. I needed to design and develop the search engine, ensuring it can accurately identify the content and relevance of reports. I also need to communicate with other departments to gather feedback and lead my colleagues in development and testing.
+
+  First, I researched existing models on the market and found that they have some flaws, such as the inability to handle multiple languages and understand the semantic meaning of reports. However, training a model from scratch would take too much time. Luckily, ChatGPT has risen in popularity in recent months, so I decided to use OpenAI to improve these issues and add a search function for translating Chinese and English. I worked with my team to develop a frontend query interface and a backend running API and built a database. I also attended meetings with other departments to understand their needs and gather feedback. I was responsible for supervising the testing and deployment process, ensuring there were no errors or vulnerabilities.
+
+  Previously, it took two months to develop a model or search database, but with OpenAI API, we completed the task in less than two weeks. After deployment, the frequency of consultants using this service significantly increased (10 times growth), making the function cloud-based, automated, and available 24/7.
 ###### 合作方法
 會主動出任組長的角色，但若組員各色分明、各司其職，且有更厲害的領導者，則會願意撿取團隊中尚未被負責之部分。在過去的實習、比賽、專案經驗中學習到幾個團隊合作要成功必備的重要元素:
 1.	明確分工，善用各組員之優勢，在所位司所職，讓專案在最有效率的工作模式下前進，同時組員也能同步因為其職加強自信與組認同感
