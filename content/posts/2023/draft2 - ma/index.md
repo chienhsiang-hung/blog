@@ -646,7 +646,7 @@ _對此工作的認知、憧憬與自我目標設定_
 you need pen and calculator
 
 ![國泰認知能力測驗筆記樣本.PNG](國泰認知能力測驗筆記樣本.PNG "國泰認知能力測驗筆記Sample.PNG")
-[國泰認知能力測驗計算Sample](國泰認知能力測驗計算Sample.ipynb)
+[國泰認知能力測驗計算Sample](國泰認知能力測驗計算Sample.ipynb) - 簡單計算
 
 <iframe width="100%" height="600px" src="國泰認知能力測驗計算Sample.html"></iframe>
 
