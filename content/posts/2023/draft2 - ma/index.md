@@ -1090,6 +1090,15 @@ I currently work as an IT manager at the largest EAM/Family Office in Hong Kong,
 In addition to end-to-end application development, including data acquisition, construction, and front-end and back-end development, I have also digitized and optimized RPA for other departments within the company. This has not only saved manpower and improved work efficiency but has also enabled departments to focus on improving their core functions. These experiences have allowed me to quickly accumulate technical expertise, understand practical financial situations, and develop communication and coordination skills. I have learned how to demonstrate research, effort, and empathy without having more power than others, bringing all departments together and utilizing each unit's resources to make the correct changes for the company.
 
 I believe that if you want something you've never had, you must be willing to do something you've never done. I am passionate about trying new things and learning, embracing new challenges, and viewing failures and setbacks as part of the journey to success. I believe that progress comes from embracing new challenges, and I aspire to continuously improve myself every day.
+
+In the modern financial industry, non-traditional financial technology startups are emerging like mushrooms after rain, and the mastery of data and technology innovation is crucial for traditional financial companies. The plan for digital finance aligns well with my past academic knowledge, work experience, and interests, and presents a great opportunity for me to deepen my learning and development. I believe that I can apply the knowledge and experience I gained during my MBA at Sun Yat-Sen University and my previous role as IT Manager at a leading asset management company in Hong Kong to have a doubled impact and create greater value for the company.
+
+I hope to leverage my understanding and experience in financial products, markets, and technology, and quickly learn in the ever-changing environment, so that every project or product I handle can be more valuable than the previous one and I can constantly grow. In addition to hard skills such as industry knowledge, product development, and technical expertise, I also aim to possess excellent soft skills that enable me to lead a team to progress together. In particular, I have a keen interest in FinTech and hope to work in departments related to the development of digital financial products, data analysis, digital platforms, and artificial intelligence after completing the program. I am confident that I can lead projects and produce products that can be commercialized or bring significant benefits to the company, thereby contributing to its digital transformation and development. Additionally, I aspire to become a role model in this field and to bring positive influence to others.
+
+[Personal Website and Works]
+
+Personal Website: https://hsiang.eu.org/
+GitHub: https://github.com/chienhsiang-hung/
 ### 保誠
 ### 一銀
 ### 永豐證
