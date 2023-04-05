@@ -864,7 +864,7 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 
 Digital Banking Group
 
-負責數位金融業務，擬定數位發展策略，規劃行動APP, 官方網站，個人網路銀行, 企業網路銀行及金流平台,提供最佳的客戶體驗；發展行動支付及創新服務，研析Fintech發展趨勢，與新創業者合作發展新新商模、發展Bankee 做為純網銀平台(也是第一家主推共享經濟的銀行)，整合自媒體、社群及線上線下通路發展數位行銷，建立全行數位品牌；並運用跨平台之大數據及創新技術，發展AI智能服務，提供關鍵商業智慧分析，提高營運績效。
+負責數位金融業務，擬定數位發展策略，**規劃行動APP, 官方網站，個人網路銀行**, 企業網路銀行及金流平台,提供最佳的客戶體驗；發展行動支付及創新服務，研析Fintech發展趨勢，與新創業者合作發展新新商模、發展Bankee 做為純網銀平台(也是第一家主推共享經濟的銀行)，整合自媒體、社群及線上線下通路發展數位行銷，建立全行數位品牌；並運用跨平台之大數據及創新技術，**發展AI智能服務，提供關鍵商業智慧分析**，提高營運績效。
 
 Responsible for offering the best CX (customer experience) by planning of APP, official website, web banking, corporate web banking/ payment platform. We develop mobile payment services for variant retail business. We have sharp sense in fintech trends and develop new business models with many fintech companies. We own the digital brand Bankee~ the 1st internet-only-bank platform with sharing-economy DNA. We run marketing and branding innovatively with social media, KOL, online & offline channels. We have multiplatform big data and new technology to develop AI smart services. We provide business intelligence to enhance operation outcomes.
 #### 履歷
@@ -899,6 +899,7 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 #### 視訊面試
 *(另有15分鐘線上適性測驗-華德士測驗)*
 ##### 數位金融
+###### 事前資料
 線上AI面談
 ![https://www.facebook.com/589261541136880/posts/3103841466345529/](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/93402486_3103840269678982_7679438406132170752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=Pk7pKTebg_wAX-QPGR1&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDOuW3IC_aiSuBUXJ-6AUvZNmrn2GIdIDJgJakLA5zUMA&oe=64539D09 "https://www.facebook.com/589261541136880/posts/3103841466345529/")
 
@@ -907,6 +908,32 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 [遠東國際商業銀行股份有限公司 MA 面試經驗 2021.11.28 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/61a322738ff738001212a17b)
 
 [多家金融機構-儲備幹部MA-面試經驗分享面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=233389&page=4)
+
+- 自我介紹
+
+  畢業於中山財管，目前在香港最大的資產管理公司eam family office擔任it manager
+
+  負責全端開發以及各部門RPA方案交付
+  
+  結構型產品交易系統 省下一年一百八十萬台幣支出
+
+  近期引入chatgpt，協助建立市場資訊系統以及app功能指引
+
+- 為什麼想加入遠銀
+
+  ...
+
+用蠻放鬆的心情當作練習參加，用手機錄製
+
+###### 實際狀況
+![遠銀數金計畫介紹1.PNG](遠銀數金計畫介紹1.PNG "遠銀數金計畫介紹1.PNG")
+![遠銀數金計畫介紹2.PNG](遠銀數金計畫介紹2.PNG "遠銀數金計畫介紹2.PNG")
+![遠銀數金計畫介紹3.PNG](遠銀數金計畫介紹3.PNG "遠銀數金計畫介紹3.PNG")
+6題, 每題思考30秒回答3分鐘
+![遠銀ai面試筆記.PNG](遠銀ai面試筆記.PNG "遠銀ai面試筆記.PNG")
+
+
+
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
 #### 數據分析人才
