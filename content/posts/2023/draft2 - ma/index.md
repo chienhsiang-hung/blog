@@ -640,24 +640,21 @@ _對此工作的認知、憧憬與自我目標設定_
 *快速學習 快速修正*
 ![2023 國泰金控 GMA 線上說明會](2023%20國泰金控%20GMA%20線上說明會.png "2023 國泰金控 GMA 線上說明會")
 #### OA
-- 認知能力測驗
+##### 認知能力測驗
+46 mins 認知能力測驗(General Ability)
 
-  46 mins 認知能力測驗(General Ability)
+you need pen and calculator
 
-  you need pen and calculator
+![國泰認知能力測驗筆記樣本.PNG](國泰認知能力測驗筆記樣本.PNG "國泰認知能力測驗筆記Sample.PNG")
+[國泰認知能力測驗計算Sample](國泰認知能力測驗計算Sample.ipynb)
 
-  ![國泰認知能力測驗筆記樣本.PNG](國泰認知能力測驗筆記樣本.PNG "國泰認知能力測驗筆記Sample.PNG")
+<iframe width="100%" height="600px" src="國泰認知能力測驗計算Sample.html"></iframe>
 
-  <iframe width="100%" height="600px" src="國泰認知能力測驗計算Sample.html"></iframe>
-  
-  [國泰認知能力測驗計算Sample](國泰認知能力測驗計算Sample.ipynb)
+要把握時間，少寫會倒扣，來不及就猜
+##### 特質測驗
+30-40分鐘
 
-  要把握時間，少寫會倒扣，來不及就猜
-- 特質測驗
-
-  30-40分鐘
-
-  應該照直覺 _(不知道的時候應該就是盡量寫團隊合作的)_ 就OK了
+應該照直覺 _(不知道的時候應該就是盡量寫團隊合作的)_ 就OK了
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
