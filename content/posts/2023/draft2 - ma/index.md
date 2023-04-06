@@ -1186,7 +1186,23 @@ I hope to leverage my understanding and experience in financial products, market
 - GitHub: https://github.com/chienhsiang-hung/
 
 ### 一銀
+#### 自傳
+在中山大學攻讀財管碩士時，參加各大商業競賽並取得獎項，累積金融業實習經驗，也參加政府新南向至菲律賓實習，累積國際經驗，包含俄羅斯暑期學程與瑞典交換。
+
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+
+除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+
+[其他專案成果]
+- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map 響應式跨裝置網頁。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量公費及自費、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
+- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡，易於使用在網頁或Markdown筆記。資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。讓Kagglers即時並輕易地展現其Kaggle競賽、筆記及討論等成果。目前使用者遍布全球，超過10個國家。
+- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域-競賽、資料、討論，也都各取得其要求的金、銀牌數量，獲得四項專家成就。
+
+[個人網站與作品]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
 ### 永豐證
+### 合庫
 ### 新光
 
 ## 問題
