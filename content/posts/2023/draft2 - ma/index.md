@@ -1110,6 +1110,81 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 開始比賽幾週後卻卡在前30%，挑戰失敗，但也理解是因為自己用興趣學習的方式進行，雖然花很多時間很努力，但沒有採用最有效率的方式刷提(根據弱點補強並跳過艱深低頻類型題目)、解題過程也未優化(除了優化算法，也要優化解法)，雖然失望，但若改變刷題策略執行，有信心可以達成。
 ### 開發金
 ### 保誠
+工作內容
+
+只要你是研究所應屆畢業生，或是工作資歷兩年以下之新鮮人，對壽險業充滿熱忱，具高企圖心、抗壓性，優秀的團隊合作與溝通協調能力，歡迎你加入儲備幹部計畫，挑戰自我！
+
+[計畫介紹]
+
+保誠儲備幹部計畫的目的，為透過18個月跨單位輪調以及參與組織專案的實務學習、加上客製化的專業與軟實力的培訓，來培育具有國際與前瞻未來視野、以專業及客戶導向來提升客戶與大眾福祉的使命感與價值觀、以及影響團隊突破現況、挑戰未來的領導潛力的人才。
+
+在18個月中除了輪調的主管會透過持續的教練對話來協助儲備幹部成長之外，每位儲備幹部都會有一位高階主管擔任導師，定期關心的學習狀況、給予專業以及職涯與個人成長的引導與建議。
+
+[招募職位] (依職能分類，請直接應徵您的目標職位)
+1. 策略管理：參與保誠人壽策略制訂，及跨團隊專案規劃。以經營管理的角度洞悉產業脈動，深化專案管理及策略規劃等專業能力。
+2. 客戶體驗：以客戶體驗旅程(Customer Journey)角度，了解客戶需求，提升服務效率，敏捷回應客戶需求為目標，為通路銷售提供強力的營運支援。
+3. 行銷：關注市場脈動並從多元管道了解消費者、客戶與合作夥伴需求、彈性調整與多元世代目標客群的溝通模式，進而優化整體客戶體驗歷程。
+4. **資訊科技：負責數據分析以幫助通路團隊深入了解客戶、規劃執行各項策略性數位專案以及新科技的整合運用及導入，提供更優化的數位客戶經驗。**
+5. 精算商品：培養企業精算、商品管理領域之專業能力，於培訓期間通過精算專業考試，提升自我專業。透過內部輪調，了解通路商品需求並開發商品的過程，協助達成公司業務及策略目標
+6. 永續經營管理(ESG)：對於ESG的議題具備好奇心，提出並形塑公司ESG的文化。透過溝通與推動各種專案與活動，建立員工對於ESG 覺察意識及推動ESG活動，協助公司落實永續經營的目標。
+
+[申請資格]
+1. 學歷：國內外研究所以上學歷，科系依各職缺類別要求
+2. 經歷：應屆畢業生、2年以下工作經驗之新鮮人
+3. 語言能力：中英文流利，TOEIC 750分以上/TOEFL 90分以上/IELTS 6.0分以上 
+4. 個人特質：具備邏輯思考、 簡報能力及專案管理能力
+5. 其他條件: 符合保誠價值觀特質: Ambitious, Empathetic, Curious, Courageous, Nimble 
+
+[應徵方式]
+
+104直接應徵，並須檢附附件：
+1. 個人履歷
+2. 英文能力證書
+#### 自傳
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+
+除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+
+相信一句話： If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而科技儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對金融科技特別有興趣，我希望能夠在儲備幹部計劃結束後進入開發金相關公司部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+
+[其他專案成果]
+- 開發臺灣清冠一號地圖 Taiwan NRICM101 Map 響應式跨裝置網頁。讓染疫或未染疫但有視訊看診或清冠一號處方需求者能夠透過互動式地圖實時查閱所在地周遭資療資訊，包含剩餘劑量公費及自費、是否支援線上看診等，並且每20分鐘自動更新網頁資料，確保資訊即時性。平均每日造訪人數超過1,000人。資料來源為中醫公會及政府資源，並利用Leaflet呈現圖資，再部屬到Vercel、GitHub，及MongoDB。
+- 建置Kaggle Profile Summary Card API，透過爬蟲抓取Kaggle競賽資料後，以HTML+CSS及SVG的方式繪出獨有資訊卡，能被輕易使用於網頁或Markdown筆記。所需資訊是利用Python爬取，並以Vercel當作Server處理請求、建置API。便於Kagglers即時並輕易地展現其Kaggle競賽、筆記、資料，及討論等成果。目前使用者遍布全球，超過10個國家。
+- Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金牌，並在第6個月在其他3項領域-競賽、資料、討論，也都各取得其要求的金、銀牌數量，獲得四項專家成就。奪牌之比賽包含:
+  
+  1. Shopee - Price Match Guarantee，以PyTorch使用EfficientNet模型來對商品圖片、名稱進行分類來增進搜尋準確率。比賽過程因Public Score排名迅速竄升且筆記受關注獲金牌，因而吸引各國好手邀約組隊。最終再與法、印、阿拉伯、台等隊友聯手分工訓練、調整、組合模型後，獲得前4%金牌殊榮。
+  2. Jane Street Market Prediction，以TensorFlow建置simple NN - MLP利用 purged grouped time series CV驗證訓練效果提升模型成效。
+- 工研院AI與深度學習專案擔任組長，使用YOLOv4, YOLOv5 和 MobileNetv2 建立亞洲交通物件偵測模型，應用於嵌入式裝置。提升20% mAP與降低模型計算負擔、提升10倍效能，並應用於手機Apps、以及Raspberry Pi等邊緣裝置。
+- Kaggle 貸款違約風險預測競賽，利用各項含外部非信用客戶資料預測客戶是否會還款/違約。使用LightGBM與"根據產業知識產生之特徵"進行訓練，大幅改善預測效果、成果豐碩且泛化能力卓越，測試AUC與實際皆達0.8。
+
+[個人網站與作品]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
+
+I am an IT manager at the largest EAM/Family Office in Hong Kong, where I develop databases, front-end and back-end applications, manage internal and external apps, and provide RPA solutions for BU. Within a year of joining the company, I developed new trading and management programs, replacing the old outsourced white label app and saving the company NTD 1.8 million in expenses over a year. These programs were also integrated into several industry-leading applications, including Structured Product Quotation Feature and Monthly Statement Consolidated Report Generator, which gained the attention of a first-tier Chinese securities firm.
+
+In addition to end-to-end application development, including data acquisition, construction, and front-end and back-end development, I have also digitized and optimized RPA for other departments within the company. This has not only saved manpower and improved work efficiency but has also enabled departments to focus on improving their core functions. These experiences have allowed me to quickly accumulate technical expertise, understand practical financial situations, and develop communication and coordination skills. I have learned how to demonstrate research, effort, and empathy without having more power than others, bringing all departments together and utilizing each unit's resources to make the correct changes for the company.
+
+I believe that if you want something you've never had, you must be willing to do something you've never done. I am passionate about trying new things and learning, embracing new challenges, and viewing failures and setbacks as part of the journey to success. I believe that progress comes from embracing new challenges, and I aspire to continuously improve myself every day.
+
+In the modern financial industry, non-traditional financial technology startups are emerging like mushrooms after rain, and the mastery of data and technology innovation is crucial for traditional financial companies. The plan for digital finance aligns well with my past academic knowledge, work experience, and interests, and presents a great opportunity for me to deepen my learning and development. I believe that I can apply the knowledge and experience I gained during my MBA at Sun Yat-Sen University and my previous role as IT Manager at a leading asset management company in Hong Kong to have a doubled impact and create greater value for the company.
+
+I hope to leverage my understanding and experience in financial products, markets, and technology, and quickly learn in the ever-changing environment, so that every project or product I handle can be more valuable than the previous one and I can constantly grow. In addition to hard skills such as industry knowledge, product development, and technical expertise, I also aim to possess excellent soft skills that enable me to lead a team to progress together. In particular, I have a keen interest in FinTech and hope to work in departments related to the development of digital financial products, data analysis, digital platforms, and artificial intelligence after completing the program. I am confident that I can lead projects and produce products that can be commercialized or bring significant benefits to the company, thereby contributing to its digital transformation and development. Additionally, I aspire to become a role model in this field and to bring positive influence to others.
+
+[Projects]
+- 臺灣清冠一號地圖 Taiwan NRICM101 Map: Creator of a responsive med info map, shows the metadata of nearby clinics for those who were infected or weren’t, in need of finding the NRICM101 treatment for Covid-19 (average 1,000+ daily visitors). Integrated government data with Leaflet (open-source JavaScript map library), and hosted serverless using Vercel, GitHub, and MongoDB.
+- Kaggle Profile Summary Card API: Developed an API by Web Scraping competition data and presented through designing on HTML and CSS / SVG (serves stainless by embedding through HTML or Markdown), deployed on Vercel with Python for Kagglers to display their Kaggle profile at any time, everywhere, and effortlessly. It’s used in more than 10 countries.
+- Asian Traffic| Embedded Object Detection: Led a team to train an object detection model using YOLOv5 in a competition and further embedded it on the Android app and Raspberry Pi. Managed to raise 20% of mAP (highest in competition), accelerate the running speed by 900% and work smoothly on embedded devices.
+- Kaggle All-round Expert: Won the first competition silver medal in the 5th month into Kaggle. Collected all the required amount of medals at each sector (competitions, datasets, notebooks, discussion) to become an all-round expert in the 6th month. Competitions as Shopee - Price Match Guarantee using PyTorch with model EfficientNet to classify products by images and texts, Jane Street Market Prediction using TensorFlow with simple NN (MLP) with purged grouped time series CV to predict the price.
+
+[Personal Website and Works]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
+
 ### 一銀
 ### 永豐證
 ### 新光
