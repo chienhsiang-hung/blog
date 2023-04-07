@@ -490,6 +490,10 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
 - 建議：
   
   針對app and website: ＬＬＭ(large language model)智能客服 （原15字輸入限制，未能根據使用者資料提供差異化服務）
+
+- ＭＡ分享：
+
+  *OJT, 金控資料治理到證券CRM系統導入以及日盛整併[^financialholdings]*
   
 #### 團體視訊
 ##### 富邦銀行-數位創新
