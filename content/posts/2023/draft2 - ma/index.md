@@ -999,6 +999,13 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 > 
 > 數位金融平台經營管理，包含個人**網銀、行動銀行、海外行動銀行等平台建置**、**功能**規劃、**客戶體驗**流程設計與專案執行；擬定數位帳戶發展策略，如跨售經營及生態𡇙建構；建置並蒐集運用數位足跡平台及数據資料，進而滿足境內外及線上線下支付服務，打造完整的金融服務生態圈，帶領消費者體驗金融科技的便利應用。
 
+https://bank.sinopac.com/sinopacBT/digital.html
+
+永豐數金做得看來相當不錯
+- 網銀, App
+- 大咖管繳費：對消費者來說繳費有大咖
+- 豐收款管金流 （還有其他ＡＰＩ可串接）*（自己有用過證券的）*：對商家來說，收款有豐收款
+
 {{< admonition type=note title="桌遊心得建議" open=true >}}
 https://www.dcard.tw/f/job/p/236252443
 #第一關-甄選活動(桌遊關) 
@@ -1058,8 +1065,25 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 筆試：我已經忘光了 桌遊的標準很謎。我覺得玩桌遊的時候就是要主動參與，不管是做什麼都好，負責盯進度、想解法都行，至少讓人知道你有在玩遊戲。賽後檢討很看臨場反應，但有幾題是必考的啦。**我覺得原則是要觀察其他人的表現，玩的時候不斷思考更好的流程，觀察隊伍的運作狀況。**
 {{< /admonition >}}
 
-- 自我介紹
+- 大戶DAWHO的特色
 
+  永豐銀行的「大戶DAWHO」數位帳戶提供優質數位金融服務，包括符合資格的DAWHO可享新臺幣30萬元內活儲利率1.3%、每月跨行提款或轉帳共20次免手續費及DAWHO信用卡最高回饋4%²。此外，永豐銀行也有DAWHO現金回饋信用卡，持卡人可享有高達6.66%的循環信用年利率優惠¹。
+
+  希望這些資訊對你有幫助！如果你還有其他問題，歡迎再問我。
+
+  Source: Conversation with Bing, 4/7/2023
+  1. 永豐「大戶DAWHO」數位帳戶 理財、消費首選 - SinoPac. https://bank.sinopac.com/sinopacBT/about/news-center/news/content/2022062201.html.
+  2. DAWHO現金回饋信用卡-永豐銀行 - SinoPac. https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html.
+  3. 永豐大戶數位帳戶優缺點評價2023｜1.5％高利率活存優惠與銀行開戶教學 - Jerry成長駭客. https://jerrywangtc.blog/dawho-digit-account/.
+
+  DAWHO 不只是數位帳戶
+
+  存款帳戶、信用卡、信託投資、台股交割、海外股票都可以一次申辦
+  
+  因為我們相信如果可以簡單，為什麼要複雜？
+
+獨特項目：永豐銀數金已有：付款（ＤＡＣＡＲＤ）、收款（豐收款）、還有其他試驗api
+- [自我介紹](#%E6%BA%96%E5%82%99-1)
 ###### 辯論
 [我從辯論學到的問題分析與論述能力（上）](https://evonneyifangtsai.medium.com/%E6%88%91%E5%BE%9E%E8%BE%AF%E8%AB%96%E7%A4%BE%E5%AD%B8%E5%88%B0%E7%9A%84%E5%95%8F%E9%A1%8C%E5%88%86%E6%9E%90%E8%88%87%E8%AB%96%E8%BF%B0%E8%83%BD%E5%8A%9B-%E4%B8%8A-c6169dff383)
 
