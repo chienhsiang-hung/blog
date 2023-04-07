@@ -1081,6 +1081,11 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 - 如何讓更多人認識以及使用Bankee?
 - 給Bankee的建議? 有什麼可以開發的功能?
 
+#### 英文視訊面試
+15分鐘，應該就是測試英文口說跟聽力
+
+事前有一個視訊設備測試 可以先測試會不會有螢幕麥克風跟網路問題
+
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
 #### 數據分析人才
