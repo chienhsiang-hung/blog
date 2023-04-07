@@ -1084,6 +1084,12 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 
 獨特項目：永豐銀數金已有：付款（ＤＡＣＡＲＤ）、收款（豐收款）、還有其他試驗api
 - [自我介紹](#%E6%BA%96%E5%82%99-1)
+- 動機？為什麼來永豐
+
+  永豐銀數金做得很好而且走得很前面，包含dacard, 豐收款, 開放api
+
+  跟我對數金發展的理念相同，擁抱改變，可以的話引領趨勢，不能的話搭上趨勢
+
 ###### 辯論
 [我從辯論學到的問題分析與論述能力（上）](https://evonneyifangtsai.medium.com/%E6%88%91%E5%BE%9E%E8%BE%AF%E8%AB%96%E7%A4%BE%E5%AD%B8%E5%88%B0%E7%9A%84%E5%95%8F%E9%A1%8C%E5%88%86%E6%9E%90%E8%88%87%E8%AB%96%E8%BF%B0%E8%83%BD%E5%8A%9B-%E4%B8%8A-c6169dff383)
 
