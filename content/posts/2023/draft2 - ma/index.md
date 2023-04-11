@@ -1128,6 +1128,8 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 > 當大家認同辯題的本質是「我們還有沒有必要，去分辨真跟假？」，他就贏一半了，因為一般人都會傾向需要分辨，而他也準備好一套論述要加強這個論點，當你已經走進他為你設計好的戰場時，還不受人宰割嗎？
 
 ##### 面試
+**太專注於辯論了，實際上應該是在看團隊表現，而非專注於辯論能力等**
+
 ### 遠銀
 數位金融事業群
 
@@ -1167,6 +1169,14 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入遠銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 #### 視訊面試
 *(另有15分鐘線上適性測驗-華德士測驗)*
+#### 英文面試
+This is to gauge your ability to communicate in English in the business environment.
+
+1. Smooth.
+2. Understandable
+3. Understand.
+
+Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA. And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
 ##### 數位金融
 ###### 事前資料
 線上AI面談
