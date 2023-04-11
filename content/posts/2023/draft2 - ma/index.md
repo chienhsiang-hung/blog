@@ -1169,18 +1169,6 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入遠銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 #### 視訊面試
 *(另有15分鐘線上適性測驗-華德士測驗)*
-#### 英文面試
-This is to gauge your ability to communicate in English in the business environment.
-
-1. Smooth.
-2. Understandable
-3. Understand.
-
-Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
-
-The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
-
-And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
 ##### 數位金融
 ###### 事前資料
 線上AI面談
@@ -1226,7 +1214,34 @@ And after around 2 years in this company, I'm getting into the zone where my gro
 15分鐘，應該就是測試英文口說跟聽力
 
 事前有一個視訊設備測試 可以先測試會不會有螢幕麥克風跟網路問題
+##### Prep
+This is to gauge your ability to communicate in English in the business environment.
 
+1. Smooth.
+2. Understandable
+3. Understand.
+
+Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
+
+The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
+
+And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
+##### Meeting
+*(It was just around 10 mins.)*
+
+- read and answer the question in the paragraph
+- describe a picture
+
+turned off the screen sharing
+- how would you describe your style of dressing
+  - what influenced that
+- cybersecurities
+  - what do banks cope with that
+
+- how do you think you and the bank you are applying fits to each other
+- (1) career path growing and (2) colleague & work environment. Choose one and why
+
+Thank you.
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
 #### 數據分析人才
