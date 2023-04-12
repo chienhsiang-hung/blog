@@ -515,7 +515,13 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
 - ＭＡ分享：
 
   *OJT, 金控資料治理到證券CRM系統導入以及日盛整併[^financialholdings]*
-  
+##### 富邦金控-數據分析
+###### 面試
+notes:
+- Pca (當類別有千個時)
+- 李鴻毅模板
+- Nn 參數解釋 以及auc 如何增進
+- 林軒田
 #### 團體視訊
 ##### 富邦銀行-數位創新
 > [在瞬息萬變的數位浪潮中，發展自我無限的可能﹘陳于婷](https://www.fubon.com/financialholdings/hr/jobs_1170517_999577.html#share)
