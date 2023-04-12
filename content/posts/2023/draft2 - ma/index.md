@@ -682,6 +682,9 @@ notes:
 ###### 面試
 **Notes: 應該準備好自我介紹後(履歷上沒有的)，<mark>輕鬆面試</mark>**
 
+notes:
+- Chatgpt interface to ask all info for apps like javis
+- Be modest 
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
 > 
