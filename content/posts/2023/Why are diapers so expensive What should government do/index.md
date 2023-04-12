@@ -1,12 +1,13 @@
 ---
 title: "Why are diapers so expensive? What should government do?"
-date: 2023-04-05T10:45:00+08:00
-lastmod: 2023-04-05T10:45:00+08:00
-draft: true
+date: 2023-04-12T13:36:00+08:00
+lastmod: 2023-04-12T13:36:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-featuredimage: featured-image.png
-tags: []
+images: ["posts/2023/why-are-diapers-so-expensive-what-should-government-do/draft.jpg"]
+featuredimage: draft.jpg
+tags: ["Diapers", "Economy", "Inflation", "Cpi", "經濟"]
 toc:
   enable: true
 zhtw: true
@@ -36,6 +37,7 @@ Government regulation and legislation: Some consumers and politicians argue that
 
 It can be seen that the rising diaper prices in the US are the result of the combined effects of multiple factors, including market monopolies, production costs and raw material prices, advertising and marketing costs, and government regulation and legislation. Therefore, solving the problem of rising diaper prices requires multiple approaches, including increasing market competition, reducing production costs, changing advertising and marketing strategies, and strengthening government regulation.
 ## 觀點
+![draft.jpg](draft.jpg "draft.jpg")
 尿布價格飛漲的原因有多種。首先，原物料成本上漲是一個主要原因。尿布的主要原料是木漿和塑料，供應鏈中斷和其他行業對這些原材料的需求增加導致原材料價格上漲。其次，制造和運輸成本的上漲也是導致尿布價格上漲的因素之一。疫情導致制造和運輸中斷，公司的成本上漲，包括勞動力、能源和運輸成本。最後，營銷和廣告費用也可以對尿布的總成本做出貢獻。公司花費大量的資金在廣告和營銷上，以促進他們的產品和品牌，這會增加產品的成本。綜上所述，尿布價格上漲很可能是多種因素的結合，包括商品價格上漲、供應鏈中斷、通貨膨脹和制造和運輸成本的上漲。
 
 政府可以采取措施應對通貨膨脹，並幫助減輕其對消費者的影響。一些政府可以采取的行動包括貨幣政策、財政政策和供給側政策。
