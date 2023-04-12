@@ -205,6 +205,8 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
 - 近年積極發展財富管理業務，原因為何？
 - 券商相較於銀行，發展財富管理業務，有何優勢與劣勢？
 - 承上分析，對於券商發展財管業務有何建議之策略做法？
+##### 富邦金控-資訊科技
+##### 富邦銀行-數位創新
 
 #### 團體面談
 ##### 富邦證券-數據科學
@@ -517,6 +519,8 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
   *OJT, 金控資料治理到證券CRM系統導入以及日盛整併[^financialholdings]*
 ##### 富邦金控-數據分析
 ###### 準備
+![經驗分享-數據科學EC.jpg](經驗分享-數據科學EC.jpg "經驗分享-數據科學EC.jpg")
+![經驗分享-數據科學IT.jpg](經驗分享-數據科學IT.jpg "經驗分享-數據科學IT.jpg")
 無可取代之處：藉由學歷與精力展現出能力與學習力
 
 可以問 有哪些資料可以玩
@@ -691,6 +695,8 @@ notes:
 notes:
 - Chatgpt interface to ask all info for apps like javis
 - Be modest 
+#### 簡報面談
+##### 富邦銀行-數位創新
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
 > 
@@ -1350,6 +1356,8 @@ Thank you.
 3. 第3部分量表，是想瞭解您在選擇工作時，重視與考量的因素為何。量表沒有正確答案，無須做過多思考，依直覺反應作答即可。測驗包含兩部分，約需 5 分鐘。
 
 ### 開發金
+#### 時事
+[Why are diapers so expensive? What should government do?](https://chienhsiang-hung.github.io/blog/posts/2023/why-are-diapers-so-expensive-what-should-government-do/)
 #### 自傳
 父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
 
@@ -1387,6 +1395,8 @@ I hope to leverage my understanding and experience in financial products, market
 
 Personal Website: https://hsiang.eu.org/
 GitHub: https://github.com/chienhsiang-hung/
+#### 雲端智慧面試
+*收到此請後的5個工作天內完成面試流程*
 ### 保誠
 工作內容
 
