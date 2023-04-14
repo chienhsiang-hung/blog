@@ -813,6 +813,8 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 歡迎不畏懼挑戰且勇於多元嘗試的你，在元大只有與自己的競爭，充分展現自我的實力與價值，相信您會在元大有著一片天。
 {{< /admonition >}}
 ##### 準備
+證券、銀行、人壽、期貨
+
 > 數位金融儲備幹部
 >
 > 資訊分析專長結合創新思維發展數位金融
@@ -820,6 +822,22 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 > 數位金融成為全球金融業發展趨勢的重要戰略，我們需要對<mark>金融產業的應用場景</mark>具備高敏銳度及勇於<mark>挑戰創新</mark>的優秀人才，參與這個新興的項目，朝向<mark>普惠金融智能服務</mark>邁進，包括**大數據、AI人工智能、文字探勘、AR/VR、機器人理財及金融區塊鏈生態圈、社群經營及客戶體驗UI/UX設計**…等多元項目數金人才。加入元大數位金融儲備幹部陣容，一起成為數位時代的領航者。
 
 **自信自我介紹、準備簡報素材(先做一個模板)**
+
+{{< admonition type=note title="The Explainer: What Is Design Thinking?" open=true >}}
+{{< youtube _WI3B54m6SU >}}
+
+- Invent a Future
+  - What customers might want but don’t have
+  - Ask questions about their behaviour
+- EST
+  - test idea
+  - 持續iterating 測試概念/產品
+  - 觀察用戶反映
+  - 調整商品、價格、定位
+- Find winner idea/product
+  - 找出其中關鍵因素、資源
+- 實際應用
+{{< /admonition >}}
 
 - 你欣賞的金融科技，元大可以借鏡的[^元大金控面試趣]
 
