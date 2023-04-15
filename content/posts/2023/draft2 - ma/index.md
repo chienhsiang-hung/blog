@@ -827,7 +827,13 @@ _請說明您申請<mark>中信金控儲備幹部</mark>計畫的動機，以及
 
 [^中國信託金融控股股份有限公司面試趣]: [中國信託金融控股股份有限公司的所有【MA】/【儲備幹部】面試心得 | 面試趣 (interview.tw)](https://interview.tw/c/MqlG?page=1&position%5B%5D=MA&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&sort=featured)
 #### 第三階段-英文面談
+The interviewer doesn't sound like a native speaker.
 
+He asked about the your eng test (TOEIC/TOEFL/IELTS) score.
+
+You will have an introduction then read an article and give your thought and opinion on it. It's about the cryptocurrency for my case.
+
+I didn't prepare and haven't been speaking in English for quite a while. It was pretty bad, the way I introduce myself and the way I express my thought on certain topic.
 ### 元大
 #### 數位金融儲備幹部
 **<mark>資訊分析</mark>專長結合<mark>創新思維</mark>發展數位金融**
