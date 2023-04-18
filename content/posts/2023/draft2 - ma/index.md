@@ -1530,6 +1530,12 @@ GitHub: https://github.com/chienhsiang-hung/
 *收到此請後的5個工作天內完成面試流程*
 
 準備關於開發金的特色，網銀等等
+
+[consider to stop to continue]
+
+If passed, there will be a YuanTa-like presentation interview. I will need to do more research on the company. Maybe KGI App.
+
+Do I have time?
 ### 保誠
 工作內容
 
