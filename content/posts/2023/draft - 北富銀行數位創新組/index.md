@@ -67,3 +67,6 @@ ChatGPT
 [Report: Brand loyalty at an all-time high of 92% for Apple as Android brands take a dive - SellCell.com Blog](https://www.sellcell.com/blog/cell-phone-brand-loyalty-2021/)
 
 Amazon有35%的收入是來自推薦引擎，而 Netflix則有高達75%至80%的收入是通過極度客製化的演算法產生的，藉由這些演算法讓觀眾不斷回來觀看更多內容。
+
+## 講稿
+大家好我是洪健翔
