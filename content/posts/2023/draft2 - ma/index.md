@@ -1528,6 +1528,8 @@ Personal Website: https://hsiang.eu.org/
 GitHub: https://github.com/chienhsiang-hung/
 #### 雲端智慧面試
 *收到此請後的5個工作天內完成面試流程*
+
+不打算準備，直接上 預估20分鐘
 ### 保誠
 工作內容
 
