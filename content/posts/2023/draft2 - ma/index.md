@@ -1313,11 +1313,17 @@ GitHub: https://github.com/chienhsiang-hung/
 
 準備關於開發金的特色，網銀等等
 
-[consider to stop to continue]
+> [consider stopping application]
+>
+> If passed, there will be a YuanTa-like presentation interview. I will need to do more research on the company. Maybe KGI App.
+>
+> Do I have time?
 
-If passed, there will be a YuanTa-like presentation interview. I will need to do more research on the company. Maybe KGI App.
+後來還是急忙裸面了一下，狀況很差沒準備，有些地方不知道要講什麼，例如對開發金的了解...
 
-Do I have time?
+如同在元大遇到的問題相同，為對目標公司進行準備進行MA面試，有可能遇到的問題，尤其在離tech skill越遠的類型的工作組別
+
+或初期general的interview I guess...
 ### 保誠
 工作內容
 
