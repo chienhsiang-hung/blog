@@ -1399,6 +1399,9 @@ I hope to leverage my understanding and experience in financial products, market
 [Personal Website and Works]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+#### OA
+##### Hogan GE
+##### Hogan HBRI
 
 ### 一銀
 #### 自傳
