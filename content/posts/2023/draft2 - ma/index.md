@@ -743,6 +743,18 @@ ch notes
 
 then practice on the car CH and ENG with pdf slides
 
+了解面試者需求，設想可能工作場景
+
+例：資訊處長/部長 可能想看你溝通能力 能不能帶領專案 能不能協調 會不會跟部門文化不合 簡報條理邏輯
+
+報告（想成是提案，賣方案同時賣自己）如果可以要含
+現況 競業或標竿 原因 作法 挑戰 可能成效（盡量具體or數字）
+試想會遇到什麼提問 答案是什麼
+
+中英簡報以及自我介紹
+
+練習：給對方講稿 記下對方報告時漏掉的片段
+
 **下周一24號會知道結果，預留下周六或日for總經理面**
 ##### 富邦銀行-數位創新
 **簡報投影片製作以中文即可，口頭報告時間以****7****分鐘為限，嗣後進行****QA****與面談。中英文口說均需要準備（現場由主管指定以何種語言報告）。**
@@ -760,6 +772,8 @@ then practice on the car CH and ENG with pdf slides
 面談時間30分鐘
 
 *[數位身分IAM的導入(ISO 29115)](https://www.google.com/search?q=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&oq=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&aqs=edge..69i57.214j0j1&sourceid=chrome&ie=UTF-8)*
+
+![富邦金控-資訊科技組-簡報前綱要筆記.png](富邦金控-資訊科技組-簡報前綱要筆記.png "富邦金控-資訊科技組-簡報前綱要筆記")
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
@@ -1187,6 +1201,9 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 
 **在2023年的ChatGPT應用熱潮下,請探討金融業整合此類生成式 AI 模型的優點和缺點,並規劃㇐項最佳應用。**
 
+##### 準備
+*Open api for sme*
+
 ### 遠銀
 數位金融事業群
 
@@ -1357,7 +1374,7 @@ GitHub: https://github.com/chienhsiang-hung/
 或初期general的interview I guess...
 
 其實有紀錄提醒了，卻忘記查看...
-
+![開發金雲端智慧面試筆記.png](開發金雲端智慧面試筆記.png "開發金雲端智慧面試筆記")
 > 印象中有問選CDF的動機、CDF優劣勢、擅長的領域為何，如何應用在工作中、分享一個金融事件
 > 
 > 然後英文自介準備一下（雖然不知道是不是每個的題目都一樣）

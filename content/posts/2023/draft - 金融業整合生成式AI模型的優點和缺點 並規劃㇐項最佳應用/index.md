@@ -19,6 +19,7 @@ zhtw: true
 
 中英不限
 ## Outline
+![outline.png](outline.png "outline")
 - 題目
 - 背景
 - 蓋覽
