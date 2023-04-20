@@ -1735,6 +1735,8 @@ I hope to leverage my understanding and experience in financial products, market
 ##### 面試
 ![元大即席簡報架構.png](元大即席簡報架構.png "元大即席簡報架構.png")
 ![元大即席簡報評論1.png](元大即席簡報評論1.png "元大即席簡報評論1.png")
+
+面試官很在意動機，以及面試者對元大的研究的投入(四大BU)，還會詢問志願，再次探詢動機跟邏輯。
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
 > 
