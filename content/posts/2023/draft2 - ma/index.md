@@ -723,6 +723,12 @@ notes:
 - Chatgpt interface to ask all info for apps like javis
 - Be modest 
 
+後疫情的行動支付 台灣發展現況 發了什麼變化 觀察跟想像
+
+Over banking 下 消費者在選擇銀行時會考慮什麼：便利 價格 與風險
+
+根據進來的金融科技發展趨勢給台北富邦銀行接下來五年十年的發展建議提升競爭力 不管是面對台灣大型商銀還是純網銀
+
 數金工作內容呢?
 #### 簡報面談
 > 剛面完富邦銀金融市場
@@ -736,6 +742,8 @@ notes:
 ch notes 
 
 then practice on the car CH and ENG with pdf slides
+
+**下周一24號會知道結果，預留下周六或日for總經理面**
 ##### 富邦銀行-數位創新
 **簡報投影片製作以中文即可，口頭報告時間以****7****分鐘為限，嗣後進行****QA****與面談。中英文口說均需要準備（現場由主管指定以何種語言報告）。**
 
@@ -1347,6 +1355,14 @@ GitHub: https://github.com/chienhsiang-hung/
 如同在元大遇到的問題相同，為對目標公司進行準備進行MA面試，有可能遇到的問題，尤其在離tech skill越遠的類型的工作組別
 
 或初期general的interview I guess...
+
+其實有紀錄提醒了，卻忘記查看...
+
+> 印象中有問選CDF的動機、CDF優劣勢、擅長的領域為何，如何應用在工作中、分享一個金融事件
+> 
+> 然後英文自介準備一下（雖然不知道是不是每個的題目都一樣）
+> 
+> 還有用英文問為什麼對金融業有興趣～～
 ### 保誠
 工作內容
 
@@ -1706,6 +1722,19 @@ I hope to leverage my understanding and experience in financial products, market
 *元大一面非常競爭，同場的都是台政海歸碩士，沒有例外。簡報關強度很高，台風穩健之外要有邏輯與架構，不然會被面試官針對邏輯缺失進行擊破。3小時的面試很累但元大效率很快，3天後就收到二面通知。[^元大金控面試趣]*
 
 [^元大金控面試趣]: [元大金融控股股份有限公司 面試趣 (interview.tw)](https://interview.tw/c/Dfrt?page=1&position%5B%5D=MA&position%5B%5D=%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8&position%5B%5D=%E6%95%B8%E4%BD%8D%E9%87%91%E8%9E%8D&sort=featured)
+
+> 元大金控 涵蓋證券銀行人壽期貨等
+> 
+> 全球經營 韓國 菲律賓也有據點
+> 
+> 元大證券龍頭
+> 
+> 元大證券也有api
+> 
+> 元大銀行也可以有api (open banking) （自動轉帳、收款通知等）
+##### 面試
+![元大即席簡報架構.png](元大即席簡報架構.png "元大即席簡報架構.png")
+![元大即席簡報評論1.png](元大即席簡報評論1.png "元大即席簡報評論1.png")
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
 > 
