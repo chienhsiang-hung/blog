@@ -1454,9 +1454,14 @@ I hope to leverage my understanding and experience in financial products, market
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
 #### OA
-##### Hogan GE
-##### Hogan HBRI
+- Hogan GE: Hogan General Employability (GE)
+  
+  ![保誠HoganGE測評計算紙.png](保誠HoganGE測評計算紙.png "保誠HoganGE測評計算紙.png")
+  [保誠HoganGE測評計算Sample](保誠HoganGE測評.ipynb) - 簡單計算
+  <iframe width="100%" height="600px" src="保誠HoganGE測評.html"></iframe>
+- Hogan HBRI: Hogan Business Reasoning Inventory (HBRI)
 
+Each of the assessments takes approximately 15-20 minutes to complete.
 ### 一銀
 #### 自傳
 在中山大學攻讀財管碩士時，參加各大商業競賽並取得獎項，累積金融業實習經驗，也參加政府新南向至菲律賓實習，累積國際經驗，包含俄羅斯暑期學程與瑞典交換。
