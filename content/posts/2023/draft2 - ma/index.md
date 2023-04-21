@@ -730,6 +730,10 @@ Over banking 下 消費者在選擇銀行時會考慮什麼：便利 價格 與�
 根據進來的金融科技發展趨勢給台北富邦銀行接下來五年十年的發展建議提升競爭力 不管是面對台灣大型商銀還是純網銀
 
 數金工作內容呢?
+#### 領導潛質評測
+領導潛質指標評量問卷（Leadership Insight Inventory），答題無關對錯，請以直覺回答。填答時間限時90分鐘
+
+做簡報前收到的測驗通知，就是盡量去寫出好相處會帶人特質
 #### 簡報面談
 > 剛面完富邦銀金融市場
 > 
@@ -1224,6 +1228,8 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 > - 簡報內容中直接**講重點**，講你對於這個題目的**看法**或**策略**。
 > - 簡報題目如果做錯**方向**就會不過，小心應對題目。
 > - 可以**查閱年報**，看看**各單位做些什麼事情**。
+
+[2022&2021 (富邦/國泰/不能縮/台新/永豐 )金融業MA 面試題目及心得分享 ｜面試經驗談- - TUN大學網 有問必答社群 (1111.com.tw)](https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&id=338268)
 
 *Open api for sme*
 
