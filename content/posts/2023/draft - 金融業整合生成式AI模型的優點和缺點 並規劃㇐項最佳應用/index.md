@@ -1,8 +1,8 @@
 ---
 title: "金融業整合此類生成式 AI 模型的優點和缺點,並規劃㇐項最佳應用"
-date: 2023-04-16T00:30:00+08:00
-lastmod: 2023-04-16T00:49:00+08:00
-draft: true
+date: 2023-04-22T03:30:00+08:00
+lastmod: 2023-04-22T03:30:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/"]
@@ -123,3 +123,10 @@ ChatGPT是一種基於GPT-3.5架構的大型自然語言處理模型，能夠自
 ChatGPT成長速度與使用人數
 
 能夠幫助減少多少人力，多多少幫助
+
+## 講稿
+多提數字佐證自己的決定，**有因才有果**
+
+**在2023年的ChatGPT應用熱潮下,請探討金融業整合此類生成式 AI 模型的優點和缺點,並規劃㇐項最佳應用。**
+
+![RD.png](RD.png "RD.png")
