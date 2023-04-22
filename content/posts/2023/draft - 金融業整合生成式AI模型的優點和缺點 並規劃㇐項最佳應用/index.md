@@ -2,7 +2,7 @@
 title: "金融業整合此類生成式 AI 模型的優點和缺點,並規劃㇐項最佳應用"
 date: 2023-04-22T03:30:00+08:00
 lastmod: 2023-04-22T03:30:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/"]
@@ -132,6 +132,9 @@ ChatGPT成長速度與使用人數
 ![RD.png](RD.png "RD.png")
 
 1. 大家好我是洪健翔，選題是探討金融業整合生成式AI模型優缺並規劃應用
-2. 什麼事生成式AI
-3. 經過大量數據訓練出能夠產生複雜人工作品，什麼作品呢?
-4. 目前最火紅的生成式語言模型GPT3.5, GPT4 - 處理文字問題，從左邊開始依序還有Descript處理聲音，GitHub協助產生Programming Code，ChatGPT，MidJourney根據文字敘述生成圖像，Amper產出音樂，還有影片，人像轉人物動態影像念稿等等。
+2. 什麼是生成式AI
+3. 經過大量數據訓練出能夠產生複雜人工作品的模型。什麼作品呢?
+4. 目前最火紅的生成式語言模型GPT3.5, GPT4 - 處理文字問題，從左邊開始依序還有Descript處理聲音，GitHub協助產生Programming Code，ChatGPT，MidJourney根據文字敘述生成圖像，Amper產出音樂，還有其他影片、人像轉人物動態影像念稿等等。其中目前能夠被整合於金融業各種商業模式的場景中的當屬ChatGPT。
+5. ChatGPT有什麼優點呢?
+  - 能力強大，訓練過程使用45TB的data set以及175B個參數，能夠理解並產出複雜語意文字
+  - 根據上面的特點，ChatGPT可擴展性非常強，不管是訓練上的擴展，拿來finetune或是應用上的擴展...(check open ai api doc for example)
