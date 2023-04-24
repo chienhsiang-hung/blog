@@ -1261,7 +1261,9 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 [2021 MA面試甘苦談 (8中3). 各位學弟妹及職場的同胞們大家好，我是2021應屆畢業生Henry Lai。 | by Henry Lai | Medium](https://medium.com/@m10808008/2021-ma%E9%9D%A2%E8%A9%A6%E7%94%98%E8%8B%A6%E8%AB%87-8%E4%B8%AD3-f8ea38d0f3c1)
 ##### 準備
 *Open api for sme*
-
+1. 自介
+2. 簡報
+3. QA、對單位的了解
 ### 遠銀
 數位金融事業群
 
