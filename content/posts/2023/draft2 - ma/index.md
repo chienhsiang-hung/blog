@@ -1259,6 +1259,8 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 > 簡報部分主管並沒有要你想出什麼天大的商機，只是想看你這個人的**邏輯思考**、**表達能力**、**分析能力**、**臨場反應**…等，不緊張通常都穩。特別留意一下，簡報內容**有因才有果**，<mark>不要直接妄下結論，凡事需有根據</mark>。
 
 [2021 MA面試甘苦談 (8中3). 各位學弟妹及職場的同胞們大家好，我是2021應屆畢業生Henry Lai。 | by Henry Lai | Medium](https://medium.com/@m10808008/2021-ma%E9%9D%A2%E8%A9%A6%E7%94%98%E8%8B%A6%E8%AB%87-8%E4%B8%AD3-f8ea38d0f3c1)
+
+*會要針對其他人簡報提問*
 ##### 準備
 *Open api for sme*
 1. 自介
@@ -1524,6 +1526,26 @@ I hope to leverage my understanding and experience in financial products, market
 - Hogan HBRI: Hogan Business Reasoning Inventory (HBRI)
 
 Each of the assessments takes approximately 15-20 minutes to complete.
+#### 實體面試
+面試職位
+
+Technology
+
+時間與地點
+- 日期：2023/4/27  星期四
+- 報到時間：09:00 – 09:30
+- 面試時間&形式：
+  - 09:30-12:00團體討論&簡報(若通過團體面試者，即進行下午個人面試)
+  - 13:00-17:00 個人面試(需自備筆電，進行指定題目簡報)
+- 地點：台北文創6樓 (臺北市信義區菸廠路88號, 交通資訊)
+- 交通方式：
+  - 捷運：國父紀念館站5號出口，自光復南路右轉菸廠路，步行約500M；市府捷運站1號出口，步行約400M
+  - 開車：請由「菸廠路」駛入，大樓設有地下收費停車場。備註：不提供停車費
+
+攜帶物品與注意事項
+1. 筆電(個人面試需要進行簡報，務必攜帶。若為Macbook請自備轉接頭，轉HDMI、VGA)
+2. 身分證正本(驗證身分)
+3. 當日提供午餐，若有素食其他飲食需求，請提前來信告知
 ### 永豐證
 ### 新光
 ### 統一證
