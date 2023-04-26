@@ -788,6 +788,9 @@ then practice on the car CH and ENG with pdf slides
 *[數位身分IAM的導入(ISO 29115)](https://www.google.com/search?q=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&oq=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&aqs=edge..69i57.214j0j1&sourceid=chrome&ie=UTF-8)*
 
 ![富邦金控-資訊科技組-簡報前綱要筆記.png](富邦金控-資訊科技組-簡報前綱要筆記.png "富邦金控-資訊科技組-簡報前綱要筆記")
+#### 事業單位高階主管面談
+##### 富邦金控-資訊科技
+
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
@@ -1442,7 +1445,7 @@ GitHub: https://github.com/chienhsiang-hung/
 > 然後英文自介準備一下（雖然不知道是不是每個的題目都一樣）
 > 
 > 還有用英文問為什麼對金融業有興趣～～
-### 保誠
+### 保誠Prudential
 工作內容
 
 只要你是研究所應屆畢業生，或是工作資歷兩年以下之新鮮人，對壽險業充滿熱忱，具高企圖心、抗壓性，優秀的團隊合作與溝通協調能力，歡迎你加入儲備幹部計畫，挑戰自我！
@@ -1527,6 +1530,8 @@ I hope to leverage my understanding and experience in financial products, market
 
 Each of the assessments takes approximately 15-20 minutes to complete.
 #### 實體面試
+您將與保誠人壽管理團隊見面，期待您於面試中展現您的**專長**、**熱忱**以及**商業洞察力**
+
 面試職位
 
 Technology
@@ -1550,9 +1555,13 @@ Technology
 資訊科技：負責<mark>數據分析以幫助通路團隊深入了解客戶</mark>、規劃執行各項**策略性數位專案**以及**新科技的整合<mark>運用及導入</mark>**，提供更<mark>優化的數位客戶經驗</mark>。
 
 Tasks:
-1. 數據分析以幫助通路團隊深入了解客戶: **精準行銷** -> **優化的數位客戶經驗**
+1. 數據分析以幫助通路團隊深入了解客戶: **精準行銷** -> **優化的數位客戶經驗** (Precision marketing)
 2. **策略性數位專案**
 3. **新科技的整合運用及導入**
+
+Self-intro
+
+InsurTech Trends
 ### 永豐證
 ### 新光
 ### 統一證
