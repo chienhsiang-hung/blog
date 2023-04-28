@@ -927,6 +927,14 @@ He asked about the your eng test (TOEIC/TOEFL/IELTS) score.
 You will have an introduction then read an article and give your thought and opinion on it. It's about the cryptocurrency for my case.
 
 I didn't prepare and haven't been speaking in English for quite a while. It was pretty bad, the way I introduce myself and the way I express my thought on certain topic.
+#### 專業簡報面談
+請您依下列題目與參考方向，準備個人專題簡報，簡報及Q&A各為15分鐘。
+
+簡報題目：
+- 參考一: 請列舉一科技項目，你認為可為中信帶來更佳的客戶/員工體驗，並說明可能可助攻業務/作業之領域、方式、預計成效及可能面臨執行上的挑戰。
+- 參考二: 請列舉一科技發展趨勢，你認為對中信來看，具前瞻探索、試驗創新、長期佈局的潛力，並分析已見之國內外成功案例、應用上的獨特之處，及在金融業的適用性分析。
+
+報到時間：5月5日(五) 10:10，面談約需時30分鐘
 ### 南山
 #### 儲備菁英計畫
 南山儲備菁英計畫 Nan Shan Elite Program
