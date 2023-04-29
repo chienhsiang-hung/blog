@@ -1527,6 +1527,8 @@ Numbers and notes
 
 我們歡迎對證券業有濃厚興趣，具備「**數位金融創新**、**營運策略思維**、**風險管理意識**」想法的您加入。
 #### 履歷
+##### Step1
+填妥「永豐金證券儲備幹部(MA)履歷表」email 至 hrm.hr@sinopac.com ，為確保申請資料妥善儲存，請務必將 email 主旨命名「2023MA_姓名」(範例：2023MA_林小豐)
 - 您認為證券業與一般金融業的異同為何？您具備那些專長或技能來迎接為期1年MA培訓與實作? (600字內)
 
   *問動機(為什麼選證券業)，或者只是看應徵者是否了解證券業與金融業的差異*
@@ -1596,7 +1598,8 @@ Numbers and notes
   (4) ChatGPT 中文版/網頁版 - 最新官方下載點2023. https://www.kelifei.com/chatgpt.html Accessed 29/04/2023.
   (5) 你ChatGPT了嗎？一文看懂應用領域、操作方式是什麼，掌握未來職場新能力－商周頭條｜商周. https://www.businessweekly.com.tw/international/blog/3011255 Accessed 29/04/2023.
   (6) ChatGPT是什麼？GPT-4厲害在哪？跟過去幾代有差嗎？一篇看懂最強AI紅什麼｜數位時代 BusinessNext. https://www.bnext.com.tw/article/73183/chatgpt-202212 Accessed 29/04/2023.
-
+##### Step2
+前往104人力銀行投遞履歷，報名期間至 2023年4月30日 截止
 ### 新光
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
