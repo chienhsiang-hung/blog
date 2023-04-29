@@ -935,85 +935,6 @@ I didn't prepare and haven't been speaking in English for quite a while. It was 
 - 參考二: 請列舉一科技發展趨勢，你認為對中信來看，具前瞻探索、試驗創新、長期佈局的潛力，並分析已見之國內外成功案例、應用上的獨特之處，及在金融業的適用性分析。
 
 報到時間：5月5日(五) 10:10，面談約需時30分鐘
-### 南山
-#### 儲備菁英計畫
-南山儲備菁英計畫 Nan Shan Elite Program
-1. 金融科技: 在金融科技領域中，您將參與**FinTech**相關專案，關注**金融科技發展趨勢**，提出**技術應用情境或優化建議**，導入最適數位科技，分析與應用技術，發揮創新能力並驅**動數位轉型**。  
-2. 數位健康:透過與跨產業的合作夥伴鏈結，並整合各式數位工具的開發及應用，共思共創健康加值服務及創新保險商品設計，與異業合作夥伴攜手落地執行，滿足客戶「健康促進」及「醫療照護」的需求，為客戶打造完善的健康生態圈，讓台灣國人生活更健康！  
-3. 數位服務: 在南山數位服務領域中，您可了解保險經營管理。輪調過程中，您需提出保險服務賦能建議，投入於數位行銷、數位客群經營、創新經營管理、建立數據智能模型等科技領域，並將規劃落地執行。
-##### 履歷
-自傳、挫折、新觀點、動機規劃
-#### 動機以及職涯規劃
-*請說明您應徵南山儲備菁英計畫的動機以及您對未來的職涯規劃。*
-
-在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
-
-期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備菁英計劃結束後進入南山相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
-#### 競爭力暨健診報告
-*求職策NSEP競爭力暨健診報告*
-
-*競爭力暨健診報告，供準備面試的優劣勢及題材優化參考，關於內容您並可於諮詢時間與顧問討論。(2次機會)*
-#### OA
-- 錄影面試
-
-  *8題目，每題思考45秒，作答3分鐘*
-
-  *建議使用手機或平板，品質較佳*
-
-  *下載及安裝 APP 「 HRDA 雲端智慧面試」*
-- 適性測驗(10-15分鐘)
-##### 準備
-- 自我介紹
-
-  中山財管、香港最大資產管理公司 EAM Family office擔任it manager
-
-  我負責全端開發，以及各BU的智能RPA開發部屬，流程數位轉型
-
-  我在加入的第一年開發出了結構型產品自動詢價系統，替公司節省相當於一年180萬新台幣支出
-
-  也在最近引入ChatGPT協助建置內部資訊資料庫，並且加入前端服務，讓顧問能夠透過自然語言直接get access to the functions或者是相應資訊
-
-  將原本需要兩個月來訓練部屬的模型應用，用不到兩周就建置完成開始測試
-
-  解決原先顧問無法隨時隨地請助理幫忙整理資訊的問題
-
-  我很喜歡跟各部門合作解決大家的需求，數位轉型、讓工作效率提升
-
-  此外還有像是清冠地圖、Kaggle profile api等等，喜歡不管是工作時候是工作外，不斷學習與挑戰自己
-
-  這也是我今天來這裡的原因，希望能在南山人壽這樣base更大，客戶更廣，應用更多元的公司持續進步
-
-- BAM
-
-  南山人壽與ReMark合作，推出智能健康管理服務-BAM活力洋溢App，以更直覺的「生理年齡」作為健康管理工具，目的是幫助保戶促進健康，以多元樂活的方式達成更年輕健康的體態。BAM活力洋溢App由SCOR子公司ReMark開發所有，南山人壽。
-
-  BAM活力洋溢App目前已經榮獲Garmin Health Awards 2022保險類/最佳創新解決方案「第一名」。如果要改進BAM活力洋溢App，可以考慮增加更多健康管理工具或者增加更多健康飲食建議等等。
-
-- 帶來什麼價值
-  
-  Fintech: 財金、科技
-
-  RPA
-
-  快速學習/並應用的能力，讓公司的成長永遠走在趨勢上
-
-  *團隊合作*
-
-- 南山的特點
-
-  創新、願意嘗試，以顧客為中心
-
-  健康守護圈 BAM 一起年輕
-##### 實際錄影
-![南山人壽錄影面試筆記.PNG](南山人壽錄影面試筆記.PNG "南山人壽錄影面試筆記.PNG")
-問題...
-#### 南山儲備菁英引薦計畫
-##### 米卡免費線上諮詢
-(本來有預約諮詢但臨時有事跟顧問取消了真的是非常不好意思:worried:)
-1. 關於市場研究能力與策略提案，什麼樣的事例會有幫助
-2. 專案管理...
-3. ...
-
 ### 永豐銀
 - 財富金融 - 財富管理企劃:
   
@@ -1399,80 +1320,6 @@ turned off the screen sharing
 - (1) career path growing and (2) colleague & work environment. Choose one and why
 
 Thank you.
-### 開發金
-#### 時事
-[Why are diapers so expensive? What should government do?](https://chienhsiang-hung.github.io/blog/posts/2023/why-are-diapers-so-expensive-what-should-government-do/)
-#### 自傳
-父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
-
-在2017-2020兩年半的時間內取得中山MBA財管碩士，參加各大商業競賽並取得獎項，像是國泰商業大數據競賽優選，DBS Hackthon冠軍等。累積金融業實習經驗像是富邦、期交所等，了解金融場景，也參加政府新南向至菲律賓實習，同時累積國際經驗，包含俄羅斯暑期學程與瑞典交換。並在過程中持續增加現金流量，透過實習薪資、比賽獎金、各類獎學金之取得，幸運地使現金流入總和大於期間各校學費、生活費、住宿費等等。降低額外打工需求，提升學習品質，休閒時間除了社團活動也熱愛旅遊、戶外運動等，還考取了像是PADI  AOW進階開放水域潛水員的證照。
-
-目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
-
-除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
-
-相信一句話： If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
-
-在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
-
-期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入開發金相關公司部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
-
-[個人網站與作品]
-- Personal Website: https://hsiang.eu.org/
-- GitHub: https://github.com/chienhsiang-hung/
-
-My parents run a family business that wholesales and repairs luggage. Growing up in such a rapidly changing commercial environment has instilled in me a passion for business and management, which has motivated me to pursue further education and career opportunities in these fields. I have a talented younger brother who works at WeMo, and a younger sister who currently works at Cathay Financial Holding. She is taking a leave of absence to continue her studies in statistics at National Chengchi University. As the eldest sibling, I feel the responsibility to set an example for my siblings by continuing to overcome obstacles and pursue success.
-
-Over the course of two and a half years, from 2017 to 2020, I obtained a Master's degree in Finance from the National Sun Yat-sen University's MBA program. During this time, I participated in various business competitions and won awards, such as being selected as a winner of the Cathay Business Big Data Competition and winning the DBS Hackathon. I accumulated practical experience in the financial industry, interning at companies such as Fubon and Taiwan Futures Exchange, and I also completed an internship in the Philippines as part of the Taiwanese government's New Southbound Policy. During this time, I gained international experience, including attending summer programs in Russia and participating in an exchange program in Sweden. I was fortunate enough to generate a positive cash flow during this period through internships, competition awards, and scholarships, which allowed me to cover my tuition, living expenses, and accommodation costs without the need for additional part-time work. This reduced my need for additional work, enabling me to focus on improving the quality of my education. In my free time, I enjoy traveling, engaging in outdoor activities, and I even obtained a license as a PADI Advanced Open Water Diver.
-
-I currently work as an IT manager at the largest EAM/Family Office in Hong Kong, where I develop databases, front-end and back-end applications, manage internal and external apps, and provide RPA solutions for BU. Within a year of joining the company, I developed new trading and management programs, replacing the old outsourced white label app and saving the company NTD 1.8 million in expenses over a year. These programs were also integrated into several industry-leading applications, including Structured Product Quotation Feature and Monthly Statement Consolidated Report Generator, which gained the attention of a first-tier Chinese securities firm.
-
-In addition to end-to-end application development, including data acquisition, construction, and front-end and back-end development, I have also digitized and optimized RPA for other departments within the company. This has not only saved manpower and improved work efficiency but has also enabled departments to focus on improving their core functions. These experiences have allowed me to quickly accumulate technical expertise, understand practical financial situations, and develop communication and coordination skills. I have learned how to demonstrate research, effort, and empathy without having more power than others, bringing all departments together and utilizing each unit's resources to make the correct changes for the company.
-
-I believe that if you want something you've never had, you must be willing to do something you've never done. I am passionate about trying new things and learning, embracing new challenges, and viewing failures and setbacks as part of the journey to success. I believe that progress comes from embracing new challenges, and I aspire to continuously improve myself every day.
-
-In the modern financial industry, non-traditional financial technology startups are emerging like mushrooms after rain, and the mastery of data and technology innovation is crucial for traditional financial companies. The plan for digital finance aligns well with my past academic knowledge, work experience, and interests, and presents a great opportunity for me to deepen my learning and development. I believe that I can apply the knowledge and experience I gained during my MBA at Sun Yat-Sen University and my previous role as IT Manager at a leading asset management company in Hong Kong to have a doubled impact and create greater value for the company.
-
-I hope to leverage my understanding and experience in financial products, markets, and technology, and quickly learn in the ever-changing environment, so that every project or product I handle can be more valuable than the previous one and I can constantly grow. In addition to hard skills such as industry knowledge, product development, and technical expertise, I also aim to possess excellent soft skills that enable me to lead a team to progress together. In particular, I have a keen interest in FinTech and hope to work in departments related to the development of digital financial products, data analysis, digital platforms, and artificial intelligence after completing the program. I am confident that I can lead projects and produce products that can be commercialized or bring significant benefits to the company, thereby contributing to its digital transformation and development. Additionally, I aspire to become a role model in this field and to bring positive influence to others.
-
-[Personal Website and Works]
-
-Personal Website: https://hsiang.eu.org/
-GitHub: https://github.com/chienhsiang-hung/
-#### 雲端智慧面試
-*收到此請後的5個工作天內完成面試流程*
-
-準備關於開發金的特色，網銀等等
-
-> [consider stopping application]
->
-> If passed, there will be a YuanTa-like presentation interview. I will need to do more research on the company. Maybe KGI App.
->
-> Do I have time?
-
-後來還是急忙裸面了一下
-
-因為其他間面試時有題目雖然是英文，但要中文答的狀況
-
-這間以為也是這樣，結果才發現他是用中英題目區分
-
-中文題目應該用中文答，英文題目用英文答
-
-結果就是我前面英文題目用中文答完，換到中文題目時我才發現這件事然後改用英文答:joy:
-
-狀況很差沒準備，有些地方不知道要講什麼，例如對開發金的了解...
-
-如同在元大遇到的問題相同，為對目標公司進行準備進行MA面試，有可能遇到的問題，尤其在離tech skill越遠的類型的工作組別
-
-或初期general的interview I guess...
-
-其實有紀錄提醒了，卻忘記查看...
-![開發金雲端智慧面試筆記.png](開發金雲端智慧面試筆記.png "開發金雲端智慧面試筆記")
-> 印象中有問選CDF的動機、CDF優劣勢、擅長的領域為何，如何應用在工作中、分享一個金融事件
-> 
-> 然後英文自介準備一下（雖然不知道是不是每個的題目都一樣）
-> 
-> 還有用英文問為什麼對金融業有興趣～～
 ### 保誠Prudential
 工作內容
 
@@ -1687,6 +1534,8 @@ Numbers and notes
   *問能帶來的價值*
 
   > 證券業與一般金融業都提供金融服務。證券業主要是從事股票、債券、期貨、選擇權等金融商品的發行、交易、承銷、保管、投資顧問等業務，而一般金融業則包括銀行、保險、信託、基金等機構，它們主要是提供存款、貸款、匯兌、保險、信託、基金管理等服務。兩者的相同點是都受到金融監管機構的規範和監督，都需要具備專業的金融知識和技能，都面臨市場風險和競爭壓力。兩者的相異點是證券業的收入來源主要是佣金和手續費，而一般金融業的收入來源主要是利息和保費，證券業的客戶群體主要是投資者和發行人，而一般金融業的客戶群體主要是儲戶和借款人，證券業的業務範圍主要是資本市場，而一般金融業的業務範圍主要是貨幣市場。
+  > 
+  > 
 
   證券業與一般金融業都是提供金融服務的行業，但是它們之間也有一些相異與相同點。證券業主要是從事股票、債券、期貨、選擇權等金融商品的發行、交易、承銷、保管、投資顧問等業務，而一般金融業則包括銀行、保險、信託、基金等機構，它們主要是提供存款、貸款、匯兌、保險、信託、基金管理等服務。兩者的相同點是都受到金融監管機構的規範和監督，都需要具備專業的金融知識和技能，都面臨市場風險和競爭壓力。兩者的相異點是證券業的收入來源主要是佣金和手續費，而一般金融業的收入來源主要是利息和保費，證券業的客戶群體主要是投資者和發行人，而一般金融業的客戶群體主要是儲戶和借款人，證券業的業務範圍主要是資本市場，而一般金融業的業務範圍主要是貨幣市場。
 
@@ -2019,6 +1868,9 @@ _對此工作的認知、憧憬與自我目標設定_
 *快速學習 快速修正*
 ![2023 國泰金控 GMA 線上說明會](2023%20國泰金控%20GMA%20線上說明會.png "2023 國泰金控 GMA 線上說明會")
 #### OA
+認知能力測驗相較中信的簡單很多，寫起來順手沒什麼問題
+
+推測經過一年多工作，特質測驗表現不符國泰組織文化:confused:
 ##### 認知能力測驗
 46 mins 認知能力測驗(General Ability)
 
@@ -2035,7 +1887,159 @@ you need pen and calculator
 
 太誠實XD
 
-應該照直覺 _(不知道的時候應該就是盡量寫團隊合作的)_ 就OK了
+應該照直覺 _(不知道的時候應該就是盡量寫團隊合作的)_ <span hidden>就OK了</span>
+### 南山
+#### 儲備菁英計畫
+南山儲備菁英計畫 Nan Shan Elite Program
+1. 金融科技: 在金融科技領域中，您將參與**FinTech**相關專案，關注**金融科技發展趨勢**，提出**技術應用情境或優化建議**，導入最適數位科技，分析與應用技術，發揮創新能力並驅**動數位轉型**。  
+2. 數位健康:透過與跨產業的合作夥伴鏈結，並整合各式數位工具的開發及應用，共思共創健康加值服務及創新保險商品設計，與異業合作夥伴攜手落地執行，滿足客戶「健康促進」及「醫療照護」的需求，為客戶打造完善的健康生態圈，讓台灣國人生活更健康！  
+3. 數位服務: 在南山數位服務領域中，您可了解保險經營管理。輪調過程中，您需提出保險服務賦能建議，投入於數位行銷、數位客群經營、創新經營管理、建立數據智能模型等科技領域，並將規劃落地執行。
+##### 履歷
+自傳、挫折、新觀點、動機規劃
+#### 動機以及職涯規劃
+*請說明您應徵南山儲備菁英計畫的動機以及您對未來的職涯規劃。*
+
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備菁英計劃結束後進入南山相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+#### 競爭力暨健診報告
+*求職策NSEP競爭力暨健診報告*
+
+*競爭力暨健診報告，供準備面試的優劣勢及題材優化參考，關於內容您並可於諮詢時間與顧問討論。(2次機會)*
+#### OA
+- 錄影面試
+
+  *8題目，每題思考45秒，作答3分鐘*
+
+  *建議使用手機或平板，品質較佳*
+
+  *下載及安裝 APP 「 HRDA 雲端智慧面試」*
+- 適性測驗(10-15分鐘)
+##### 準備
+- 自我介紹
+
+  中山財管、香港最大資產管理公司 EAM Family office擔任it manager
+
+  我負責全端開發，以及各BU的智能RPA開發部屬，流程數位轉型
+
+  我在加入的第一年開發出了結構型產品自動詢價系統，替公司節省相當於一年180萬新台幣支出
+
+  也在最近引入ChatGPT協助建置內部資訊資料庫，並且加入前端服務，讓顧問能夠透過自然語言直接get access to the functions或者是相應資訊
+
+  將原本需要兩個月來訓練部屬的模型應用，用不到兩周就建置完成開始測試
+
+  解決原先顧問無法隨時隨地請助理幫忙整理資訊的問題
+
+  我很喜歡跟各部門合作解決大家的需求，數位轉型、讓工作效率提升
+
+  此外還有像是清冠地圖、Kaggle profile api等等，喜歡不管是工作時候是工作外，不斷學習與挑戰自己
+
+  這也是我今天來這裡的原因，希望能在南山人壽這樣base更大，客戶更廣，應用更多元的公司持續進步
+
+- BAM
+
+  南山人壽與ReMark合作，推出智能健康管理服務-BAM活力洋溢App，以更直覺的「生理年齡」作為健康管理工具，目的是幫助保戶促進健康，以多元樂活的方式達成更年輕健康的體態。BAM活力洋溢App由SCOR子公司ReMark開發所有，南山人壽。
+
+  BAM活力洋溢App目前已經榮獲Garmin Health Awards 2022保險類/最佳創新解決方案「第一名」。如果要改進BAM活力洋溢App，可以考慮增加更多健康管理工具或者增加更多健康飲食建議等等。
+
+- 帶來什麼價值
+  
+  Fintech: 財金、科技
+
+  RPA
+
+  快速學習/並應用的能力，讓公司的成長永遠走在趨勢上
+
+  *團隊合作*
+
+- 南山的特點
+
+  創新、願意嘗試，以顧客為中心
+
+  健康守護圈 BAM 一起年輕
+##### 實際錄影
+![南山人壽錄影面試筆記.PNG](南山人壽錄影面試筆記.PNG "南山人壽錄影面試筆記.PNG")
+問題...
+#### 南山儲備菁英引薦計畫
+##### 米卡免費線上諮詢
+(本來有預約諮詢但臨時有事跟顧問取消了真的是非常不好意思:worried:)
+1. 關於市場研究能力與策略提案，什麼樣的事例會有幫助
+2. 專案管理...
+3. ...
+### 開發金
+#### 時事
+[Why are diapers so expensive? What should government do?](https://chienhsiang-hung.github.io/blog/posts/2023/why-are-diapers-so-expensive-what-should-government-do/)
+#### 自傳
+父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
+
+在2017-2020兩年半的時間內取得中山MBA財管碩士，參加各大商業競賽並取得獎項，像是國泰商業大數據競賽優選，DBS Hackthon冠軍等。累積金融業實習經驗像是富邦、期交所等，了解金融場景，也參加政府新南向至菲律賓實習，同時累積國際經驗，包含俄羅斯暑期學程與瑞典交換。並在過程中持續增加現金流量，透過實習薪資、比賽獎金、各類獎學金之取得，幸運地使現金流入總和大於期間各校學費、生活費、住宿費等等。降低額外打工需求，提升學習品質，休閒時間除了社團活動也熱愛旅遊、戶外運動等，還考取了像是PADI  AOW進階開放水域潛水員的證照。
+
+目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
+
+除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+
+相信一句話： If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入開發金相關公司部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+
+[個人網站與作品]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
+
+My parents run a family business that wholesales and repairs luggage. Growing up in such a rapidly changing commercial environment has instilled in me a passion for business and management, which has motivated me to pursue further education and career opportunities in these fields. I have a talented younger brother who works at WeMo, and a younger sister who currently works at Cathay Financial Holding. She is taking a leave of absence to continue her studies in statistics at National Chengchi University. As the eldest sibling, I feel the responsibility to set an example for my siblings by continuing to overcome obstacles and pursue success.
+
+Over the course of two and a half years, from 2017 to 2020, I obtained a Master's degree in Finance from the National Sun Yat-sen University's MBA program. During this time, I participated in various business competitions and won awards, such as being selected as a winner of the Cathay Business Big Data Competition and winning the DBS Hackathon. I accumulated practical experience in the financial industry, interning at companies such as Fubon and Taiwan Futures Exchange, and I also completed an internship in the Philippines as part of the Taiwanese government's New Southbound Policy. During this time, I gained international experience, including attending summer programs in Russia and participating in an exchange program in Sweden. I was fortunate enough to generate a positive cash flow during this period through internships, competition awards, and scholarships, which allowed me to cover my tuition, living expenses, and accommodation costs without the need for additional part-time work. This reduced my need for additional work, enabling me to focus on improving the quality of my education. In my free time, I enjoy traveling, engaging in outdoor activities, and I even obtained a license as a PADI Advanced Open Water Diver.
+
+I currently work as an IT manager at the largest EAM/Family Office in Hong Kong, where I develop databases, front-end and back-end applications, manage internal and external apps, and provide RPA solutions for BU. Within a year of joining the company, I developed new trading and management programs, replacing the old outsourced white label app and saving the company NTD 1.8 million in expenses over a year. These programs were also integrated into several industry-leading applications, including Structured Product Quotation Feature and Monthly Statement Consolidated Report Generator, which gained the attention of a first-tier Chinese securities firm.
+
+In addition to end-to-end application development, including data acquisition, construction, and front-end and back-end development, I have also digitized and optimized RPA for other departments within the company. This has not only saved manpower and improved work efficiency but has also enabled departments to focus on improving their core functions. These experiences have allowed me to quickly accumulate technical expertise, understand practical financial situations, and develop communication and coordination skills. I have learned how to demonstrate research, effort, and empathy without having more power than others, bringing all departments together and utilizing each unit's resources to make the correct changes for the company.
+
+I believe that if you want something you've never had, you must be willing to do something you've never done. I am passionate about trying new things and learning, embracing new challenges, and viewing failures and setbacks as part of the journey to success. I believe that progress comes from embracing new challenges, and I aspire to continuously improve myself every day.
+
+In the modern financial industry, non-traditional financial technology startups are emerging like mushrooms after rain, and the mastery of data and technology innovation is crucial for traditional financial companies. The plan for digital finance aligns well with my past academic knowledge, work experience, and interests, and presents a great opportunity for me to deepen my learning and development. I believe that I can apply the knowledge and experience I gained during my MBA at Sun Yat-Sen University and my previous role as IT Manager at a leading asset management company in Hong Kong to have a doubled impact and create greater value for the company.
+
+I hope to leverage my understanding and experience in financial products, markets, and technology, and quickly learn in the ever-changing environment, so that every project or product I handle can be more valuable than the previous one and I can constantly grow. In addition to hard skills such as industry knowledge, product development, and technical expertise, I also aim to possess excellent soft skills that enable me to lead a team to progress together. In particular, I have a keen interest in FinTech and hope to work in departments related to the development of digital financial products, data analysis, digital platforms, and artificial intelligence after completing the program. I am confident that I can lead projects and produce products that can be commercialized or bring significant benefits to the company, thereby contributing to its digital transformation and development. Additionally, I aspire to become a role model in this field and to bring positive influence to others.
+
+[Personal Website and Works]
+
+Personal Website: https://hsiang.eu.org/
+GitHub: https://github.com/chienhsiang-hung/
+#### 雲端智慧面試
+*收到此請後的5個工作天內完成面試流程*
+
+準備關於開發金的特色，網銀等等
+
+> [consider stopping application]
+>
+> If passed, there will be a YuanTa-like presentation interview. I will need to do more research on the company. Maybe KGI App.
+>
+> Do I have time?
+
+後來還是急忙裸面了一下
+
+因為其他間面試時有題目雖然是英文，但要中文答的狀況
+
+這間以為也是這樣，結果才發現他是用中英題目區分
+
+中文題目應該用中文答，英文題目用英文答
+
+結果就是我前面英文題目用中文答完，換到中文題目時我才發現這件事然後改用英文答:joy:
+
+狀況很差沒準備，有些地方不知道要講什麼，例如對開發金的了解...
+
+如同在元大遇到的問題相同，為對目標公司進行準備進行MA面試，有可能遇到的問題，尤其在離tech skill越遠的類型的工作組別
+
+或初期general的interview I guess...
+
+其實有紀錄提醒了，卻忘記查看...
+![開發金雲端智慧面試筆記.png](開發金雲端智慧面試筆記.png "開發金雲端智慧面試筆記")
+> 印象中有問選CDF的動機、CDF優劣勢、擅長的領域為何，如何應用在工作中、分享一個金融事件
+> 
+> 然後英文自介準備一下（雖然不知道是不是每個的題目都一樣）
+> 
+> 還有用英文問為什麼對金融業有興趣～～
 ### 台新
 *官網投遞要小心不要一下就按應徵，按了就寄出了無法收回或修改，**一定要先進編輯履歷頁面填寫完再去點應徵***
 
