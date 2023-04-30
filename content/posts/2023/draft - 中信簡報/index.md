@@ -88,7 +88,16 @@ Q&A：
     4.  廣泛應用：ChatGPT可以應用於多個領域，例如客服應答、自動回復、智能助手等。它可以幫助企業提高客戶體驗，提高工作效率。
         
     總的來說，ChatGPT是一款強大的語言模型，具有自然對話、多語言支持、學習能力和廣泛應用等特點，是現今應用最廣泛的自然語言處理技術之一。
-4. MidJourney是一個雲端數據分析平台，它能夠通過對企業數據進行分析，幫助企業領導者制定更加科學的決策。MidJourney提供了多種分析工具和報告模板，能夠快速生成可視化的報告，方便企業管理人員進行分析和決策。
+4. ~~MidJourney是一個雲端數據分析平台，它能夠通過對企業數據進行分析，幫助企業領導者制定更加科學的決策。MidJourney提供了多種分析工具和報告模板，能夠快速生成可視化的報告，方便企業管理人員進行分析和決策。~~
+
+    MidJourney是一個文本到圖像的AI，它可以根據您的文本提示生成華麗的視覺效果。MidJourney與DALL·E 2或Craiyon（以前的DALL·E Mini）一樣，但默認偏向於創建具有繪畫性、美觀性的圖像。MidJourney沒有web應用程序，需要在Discord社群中使用。您可以在左側列表中找到“#newbies-”開頭為名的頻道，輸入/imagine，就可以把想要生成的圖像的提示詞輸入了。¹³⁴
+
+    Source: Conversation with Bing, 30/04/2023(1) 關於MidJourney你想知道的一切–羊皮大叔Ai繪畫 - 知乎. https://bing.com/search?q=MidJourney+%e7%94%9f%e6%88%90%e5%bc%8fAI+%e7%89%b9%e8%89%b2 Accessed 30/04/2023.
+    (2) 關於MidJourney你想知道的一切–羊皮大叔Ai繪畫 - 知乎. https://zhuanlan.zhihu.com/p/564497338 Accessed 30/04/2023.
+    (3) Midjourney AI繪圖工具使用教程 - 知乎. https://zhuanlan.zhihu.com/p/616724555 Accessed 30/04/2023.
+    (4) Midjourney V5實測、教學來了！AI畫作終於長出「正常的手」｜數位時代 BusinessNext. https://www.bnext.com.tw/article/74483/midjourney-v5-released Accessed 30/04/2023.
+    (5) Midjourney直接生成UI界面！AI設計體驗指南 - 知乎. https://zhuanlan.zhihu.com/p/624928938 Accessed 30/04/2023.
+    (6) 圖文教你做／Midjourney是什麼？「打完字AI自動生成圖片」超炫工具操作方法看這 | 工具人教室 | udn科技玩家. https://udn.com/news/story/122658/6391012 Accessed 30/04/2023.
 5. Amper是一個人工智慧音樂生成平台，它能夠通過機器學習和人工智慧技術，生成多種風格的音樂，並提供音樂製作工具，方便用戶進行後期製作和編輯。Amper能夠應用於音樂製作、廣告音樂、遊戲音樂等領域，讓音樂製作變得更加簡單和高效。
 ### ChatGPT
 ChatGPT有什麼優點呢?
