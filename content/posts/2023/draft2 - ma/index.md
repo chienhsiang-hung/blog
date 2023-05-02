@@ -884,6 +884,8 @@ then practice on the car CH and ENG with pdf slides
   中信才剛進入簡報關、永豐銀進入決選 *(英國保誠等待決選)*
 - 你的缺點
 - 二面簡報重點與結論
+
+  (review presentation interview)
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
