@@ -783,6 +783,46 @@ then practice on the car CH and ENG with pdf slides
 *[數位身分IAM的導入(ISO 29115)](https://www.google.com/search?q=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&oq=%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86IAM%E7%9A%84%E5%B0%8E%E5%85%A5(ISO+29115)&aqs=edge..69i57.214j0j1&sourceid=chrome&ie=UTF-8)*
 
 ![富邦金控-資訊科技組-簡報前綱要筆記.png](富邦金控-資訊科技組-簡報前綱要筆記.png "富邦金控-資訊科技組-簡報前綱要筆記")
+###### 面試
+處長是資安長（？）
+-   Kaggle的成就是團體還是個人：前面個人後面團體
+-   你有富邦的經驗：你的感受是怎麼樣
+    -   理論與知識結合很棒
+    -   簡報、合作、溝通
+    -   （正向的力量ＸＤ）
+-   chatgpt監管？不會有敏感資料被傳送
+    -   有加入disclaimer
+    -   如果誤導怎麼辦？權益受損怎麼辦？目前為在投資進行建議以及配合disclaimer以及提供正確or實際report等等（目前都會標上這是chatgpt協助產生）
+-   簡報
+    -   ＡＩ與雲
+        -   chatgpt以及上雲（運算以及application））
+-   富邦上雲還有什麼發展（重大與消金還不能不過有條件可以）
+-   ＯＡ面的幫助外，業務面有什麼幫助
+    -   Azure - ＡＩ精選客戶（精準行銷）
+-   你覺得行動銀行能夠上雲嗎
+    -   為什麼不能全部上雲
+    -   消費者機敏資訊
+    -   主管開始放寬（非消金非重大，境內將可上雲）
+    -   要考慮成本，以及是否全時（load balance）
+    -   同業積極佈局規劃上雲
+    -   團隊合作的專案並有好的成果
+        -   （比賽）  
+        -   合作可以parallel training
+        -   與外國人合作經驗
+            -   溝通與time zone
+-   金融fintech 有高度興趣嗎（問動機）
+-   問wisdom cloud adoption situations
+    -   Teams, outlook, power automate, power apps
+    -   不只it可用，大家都可以學
+    -   資產管理公司（資產管理系統）上雲程度
+    -   資料都有上雲，處理在地端
+    -   對金融重要的fintech三項是單位想到的
+-   還有什麼fintech sector應該要注意
+    -   平台（ＵＩ，ＵＸ web3？？）
+    -   Web3 資料分布在用戶之間
+-   ＦＩＤＯ
+-   團隊狀況版控（ＧＩＴＨＵＢ）
+-   azure Devop? Azure CICD Azure version control
 #### 事業單位高階主管面談
 ##### 富邦金控-資訊科技
 *跟總經理，問履歷跟動機*
@@ -886,6 +926,14 @@ then practice on the car CH and ENG with pdf slides
 - 二面簡報重點與結論
 
   (review presentation interview)
+-   為什麼不ＳＷＥ：infra, data, PM
+-   為什麼別家：都有興趣，但富邦專門分組又在金控 優勢更大
+-   其他家…保誠人壽 中信 永豐銀
+-   對fintech什麼最有興趣：上雲以及ＡＩ
+-   缺點：
+    -   不夠細心，讓我能當下促使任務更快速發展，但有時要在事後花額外的時間來修正
+    -   認識到自己在什麼情況下（緊急事項，事前需要預留時間，至少多兩次檢查）比較容易粗心
+-   簡報結論與重點
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
@@ -1342,6 +1390,60 @@ https://university.1111.com.tw/zone/university/discussTopic.asp?cat=University&i
 目前在香港最大的資產管理公司(EAM/Family Office)擔任IT manager，負責資料庫、前後端開發、App開發、RPA方案等工作。在加入的第一年開發出結構型產品詢價系統替公司節省每年180萬新台幣支出，近期還引入ChatGPT改善外部使用者體驗與優化內部RPA作業流程。我善於在技術快速翻新的環境替公司掌握趨勢、學習，並引入，穩定成長替公司增加競爭力。加上我擁有中山財管MBA學位，以及在最大AI平台Kaggle上獲得全方位(四項)專家成就，是一位具備金融與科技雙重專業的人才。
 
 在現代金融產業中，數位轉型與資訊革新勢不可擋。而永豐銀資訊科技MA的計劃目標以及公司對於新資訊科技的擁抱、嘗試與應用的精神與我的專業知識、工作經驗、興趣相符，是一個很好的學習與發展的機會。我希望能夠將我資料科學、機器學習等能力，以及資料庫、前後端開發、App管理、RPA實作等技術，應用在永豐銀行的各項業務和服務上，創造更大的價值。我也期許自己能夠在持續變動的環境中快速學習，不斷成長。我相信自己能夠成為一位Data, Infra, PM 三者兼備的優秀人才，為永豐銀行的數位轉型和發展做出貢獻。
+##### 準備
+https://www.dcard.tw/f/financial/p/238852201
+
+［三面 Final 1 vs 1（線上舉行）］副總
+-   自我介紹
+-   有沒有修過演算法
+    -   有自學
+    -   可不可以舉個例
+        -   ＢＦＳ, ＤＦＳ
+-   想來這裡做什麼
+    -   Data,Infra, PM都有興趣
+    -   implement chatgpt
+    -   Open api
+-   問問題
+    -   期待我們進來在多久的時間有什麼樣的產出
+    -   以及發展方向（in terms of time/career development）
+    -   前面幾屆的發展方向pm/data/infra
+
+https://www.dcard.tw/f/job/p/236252443
+
+-   之前的工作與金融及科技的結合
+
+主動take initiative
+
+講quotation app 1.8m實績、部門合作、開發硬實力
+
+-   跨部門溝通或合作的經驗
+    -   Quotation system
+    -   Compliance 協助與廠商談判
+    -   安排測試
+    -   主管協助與banker調查需求
+    -   每個sprint做出一個feature
+-   有沒有投其他家
+    -   永豐銀對科技的擁抱以及創新意願的程度較高
+    -   組別專業
+-   問問題
+
+*這階段，我認為他們想要知道你到底會不會來這邊。*
+
+預估製作準備30分鐘，面試十分鐘（自我介紹1報告1）…
+
+https://joysenjoy.wordpress.com/2019/06/27/2019%E9%87%91%E8%9E%8D%E6%A5%AD%E5%84%B2%E5%82%99%E5%B9%B9%E9%83%A8ma%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/
+##### 面試
+情境題:
+<object data="題目與筆記.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="題目與筆記.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="題目與筆記.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<object data="客戶增加.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="客戶增加.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="客戶增加.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### 遠銀
 數位金融事業群
