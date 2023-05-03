@@ -1737,6 +1737,8 @@ Numbers and notes
   (6) ChatGPT是什麼？GPT-4厲害在哪？跟過去幾代有差嗎？一篇看懂最強AI紅什麼｜數位時代 BusinessNext. https://www.bnext.com.tw/article/73183/chatgpt-202212 Accessed 29/04/2023.
 ##### Step2
 前往104人力銀行投遞履歷，報名期間至 2023年4月30日 截止
+#### 計畫線上說明會
+志願序表
 ### 新光
 #### 儲備幹部
 數位個金組
