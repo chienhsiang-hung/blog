@@ -1445,118 +1445,6 @@ https://joysenjoy.wordpress.com/2019/06/27/2019%E9%87%91%E8%9E%8D%E6%A5%AD%E5%84
     </embed>
 </object>
 
-### 遠銀
-數位金融事業群
-
-Digital Banking Group
-
-負責數位金融業務，擬定數位發展策略，**規劃行動APP, 官方網站，個人網路銀行**, 企業網路銀行及金流平台,提供最佳的客戶體驗；發展行動支付及創新服務，研析Fintech發展趨勢，與新創業者合作發展新新商模、發展Bankee 做為純網銀平台(也是第一家主推共享經濟的銀行)，整合自媒體、社群及線上線下通路發展數位行銷，建立全行數位品牌；並運用跨平台之大數據及創新技術，**發展AI智能服務，提供關鍵商業智慧分析**，提高營運績效。
-
-Responsible for offering the best CX (customer experience) by planning of APP, official website, web banking, corporate web banking/ payment platform. We develop mobile payment services for variant retail business. We have sharp sense in fintech trends and develop new business models with many fintech companies. We own the digital brand Bankee~ the 1st internet-only-bank platform with sharing-economy DNA. We run marketing and branding innovatively with social media, KOL, online & offline channels. We have multiplatform big data and new technology to develop AI smart services. We provide business intelligence to enhance operation outcomes.
-#### 履歷
-##### 成長背景
-*成長背景(包含個人特質介紹)*
-
-父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
-
-相信If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
-
-[個人網站與作品]
-- Personal Website: https://hsiang.eu.org/
-- GitHub: https://github.com/chienhsiang-hung/
-##### 棘手問題經驗
-*請描述或舉例過去你曾經遇到最棘手的問題及你用過哪些方式解決它，結果如何？*
-
-在一次參加物件偵測模型比賽時，比賽過程測試之公開成績非常漂亮，卻因疏忽忘記在上傳最終結果時附上隊伍資料⽽喪失決賽資格。經過反省後，整理出幾點下次可以改進的地⽅： 
-1. 明確指定負責專案管理的組員，確保計畫按時程進⾏，避免事情擠在最後⼀團亂，尤其是行政、文書這類特別容易疏忽卻異常重要的工作
-2. 增加團隊開會的次數以追蹤組員進度 
-3. 更加清楚分⼯，且應知⼰知彼，根據組員能⼒條配，減少有⼈事情太多，有⼈事情太少，浪費時間、效率低下的事情發⽣
-
-##### 動機及規劃
-*請說明為什麼您選擇參加本儲備主管計畫的原因及規劃如何快速且超乎期待的勝任該角色。*
-###### 個金
-*遠銀個人金融除了傳統個金業務，還運用大數據及機器/深度學習，建置客戶行為預測模型精準行銷、經營自媒體Line、YouTube、FB發展影音行銷培養新生代網紅、設計導客計畫發展創新行銷模式、建構智能理財與e化系統，量身打造以客戶為中心之金融服務，創建金融生態圈。在台灣金融業當中少見直接在’個金’儲備幹部中進行類似工作。*
-
-*將在報到前與公司前幾屆MA、領域同仁取得聯繫，在上崗前裝備應有之武器，能在進入公司當下馬上進入狀況，全效率工作，不浪費任何時間。*
-###### 數金
-在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
-
-期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入遠銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
-#### 視訊面試
-*(另有15分鐘線上適性測驗-華德士測驗)*
-##### 數位金融
-###### 事前資料
-線上AI面談
-![https://www.facebook.com/589261541136880/posts/3103841466345529/](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/93402486_3103840269678982_7679438406132170752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=Pk7pKTebg_wAX-QPGR1&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDOuW3IC_aiSuBUXJ-6AUvZNmrn2GIdIDJgJakLA5zUMA&oe=64539D09 "https://www.facebook.com/589261541136880/posts/3103841466345529/")
-
-[遠東國際商業銀行股份有限公司 儲備幹部 面試經驗 2020.9.3 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/5f50df651c5ca3001df87fcf)
-
-[遠東國際商業銀行股份有限公司 MA 面試經驗 2021.11.28 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/61a322738ff738001212a17b)
-
-[多家金融機構-儲備幹部MA-面試經驗分享面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=233389&page=4)
-
-- 自我介紹
-
-  畢業於中山財管，目前在香港最大的資產管理公司eam family office擔任it manager
-
-  負責全端開發以及各部門RPA方案交付
-  
-  結構型產品交易系統 省下一年一百八十萬台幣支出
-
-  近期引入chatgpt，協助建立市場資訊系統以及app功能指引
-
-- 為什麼想加入遠銀
-
-  ...
-
-用蠻放鬆的心情當作練習參加，用手機錄製
-
-###### 實際狀況
-- *[遠銀數金計畫介紹1](遠銀數金計畫介紹1.PNG)*
-- *[遠銀數金計畫介紹2](遠銀數金計畫介紹2.PNG)*
-- *[遠銀數金計畫介紹3](遠銀數金計畫介紹3.PNG)*
-
-6題, 每題思考30秒回答3分鐘
-![遠銀ai面試筆記.PNG](遠銀ai面試筆記.PNG "遠銀ai面試筆記.PNG")
-- 3分鐘自我介紹
-- 為什麼選擇數位金融為第一志願? 未來職涯規劃? 你會怎麼做?
-- 能夠為遠銀帶來什麼價值?
-- 對遠銀的了解? 遠銀有什麼特點?
-- 如何讓更多人認識以及使用Bankee?
-- 給Bankee的建議? 有什麼可以開發的功能?
-
-#### 英文視訊面試
-15分鐘，應該就是測試英文口說跟聽力
-
-事前有一個視訊設備測試 可以先測試會不會有螢幕麥克風跟網路問題
-##### Prep
-This is to gauge your ability to communicate in English in the business environment.
-
-1. Smooth.
-2. Understandable
-3. Understand.
-
-Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
-
-The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
-
-And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
-##### Meeting
-*(It was just around 10 mins.)*
-
-- read and answer the question in the paragraph
-- describe a picture
-
-turned off the screen sharing
-- how would you describe your style of dressing
-  - what influenced that
-- cybersecurities
-  - what do banks cope with that
-
-- how do you think you and the bank you are applying fits to each other
-- (1) career path growing and (2) colleague & work environment. Choose one and why
-
-Thank you.
 ### 保誠Prudential
 工作內容
 
@@ -1889,6 +1777,118 @@ Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金
 ##### 應徵動機
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 #### 初試面談
+### 遠銀
+數位金融事業群
+
+Digital Banking Group
+
+負責數位金融業務，擬定數位發展策略，**規劃行動APP, 官方網站，個人網路銀行**, 企業網路銀行及金流平台,提供最佳的客戶體驗；發展行動支付及創新服務，研析Fintech發展趨勢，與新創業者合作發展新新商模、發展Bankee 做為純網銀平台(也是第一家主推共享經濟的銀行)，整合自媒體、社群及線上線下通路發展數位行銷，建立全行數位品牌；並運用跨平台之大數據及創新技術，**發展AI智能服務，提供關鍵商業智慧分析**，提高營運績效。
+
+Responsible for offering the best CX (customer experience) by planning of APP, official website, web banking, corporate web banking/ payment platform. We develop mobile payment services for variant retail business. We have sharp sense in fintech trends and develop new business models with many fintech companies. We own the digital brand Bankee~ the 1st internet-only-bank platform with sharing-economy DNA. We run marketing and branding innovatively with social media, KOL, online & offline channels. We have multiplatform big data and new technology to develop AI smart services. We provide business intelligence to enhance operation outcomes.
+#### 履歷
+##### 成長背景
+*成長背景(包含個人特質介紹)*
+
+父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
+
+相信If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+
+[個人網站與作品]
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
+##### 棘手問題經驗
+*請描述或舉例過去你曾經遇到最棘手的問題及你用過哪些方式解決它，結果如何？*
+
+在一次參加物件偵測模型比賽時，比賽過程測試之公開成績非常漂亮，卻因疏忽忘記在上傳最終結果時附上隊伍資料⽽喪失決賽資格。經過反省後，整理出幾點下次可以改進的地⽅： 
+1. 明確指定負責專案管理的組員，確保計畫按時程進⾏，避免事情擠在最後⼀團亂，尤其是行政、文書這類特別容易疏忽卻異常重要的工作
+2. 增加團隊開會的次數以追蹤組員進度 
+3. 更加清楚分⼯，且應知⼰知彼，根據組員能⼒條配，減少有⼈事情太多，有⼈事情太少，浪費時間、效率低下的事情發⽣
+
+##### 動機及規劃
+*請說明為什麼您選擇參加本儲備主管計畫的原因及規劃如何快速且超乎期待的勝任該角色。*
+###### 個金
+*遠銀個人金融除了傳統個金業務，還運用大數據及機器/深度學習，建置客戶行為預測模型精準行銷、經營自媒體Line、YouTube、FB發展影音行銷培養新生代網紅、設計導客計畫發展創新行銷模式、建構智能理財與e化系統，量身打造以客戶為中心之金融服務，創建金融生態圈。在台灣金融業當中少見直接在’個金’儲備幹部中進行類似工作。*
+
+*將在報到前與公司前幾屆MA、領域同仁取得聯繫，在上崗前裝備應有之武器，能在進入公司當下馬上進入狀況，全效率工作，不浪費任何時間。*
+###### 數金
+在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入遠銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+#### 視訊面試
+*(另有15分鐘線上適性測驗-華德士測驗)*
+##### 數位金融
+###### 事前資料
+線上AI面談
+![https://www.facebook.com/589261541136880/posts/3103841466345529/](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.6435-9/93402486_3103840269678982_7679438406132170752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=Pk7pKTebg_wAX-QPGR1&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDOuW3IC_aiSuBUXJ-6AUvZNmrn2GIdIDJgJakLA5zUMA&oe=64539D09 "https://www.facebook.com/589261541136880/posts/3103841466345529/")
+
+[遠東國際商業銀行股份有限公司 儲備幹部 面試經驗 2020.9.3 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/5f50df651c5ca3001df87fcf)
+
+[遠東國際商業銀行股份有限公司 MA 面試經驗 2021.11.28 | GoodJob 職場透明化運動](https://www.goodjob.life/experiences/61a322738ff738001212a17b)
+
+[多家金融機構-儲備幹部MA-面試經驗分享面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=233389&page=4)
+
+- 自我介紹
+
+  畢業於中山財管，目前在香港最大的資產管理公司eam family office擔任it manager
+
+  負責全端開發以及各部門RPA方案交付
+  
+  結構型產品交易系統 省下一年一百八十萬台幣支出
+
+  近期引入chatgpt，協助建立市場資訊系統以及app功能指引
+
+- 為什麼想加入遠銀
+
+  ...
+
+用蠻放鬆的心情當作練習參加，用手機錄製
+
+###### 實際狀況
+- *[遠銀數金計畫介紹1](遠銀數金計畫介紹1.PNG)*
+- *[遠銀數金計畫介紹2](遠銀數金計畫介紹2.PNG)*
+- *[遠銀數金計畫介紹3](遠銀數金計畫介紹3.PNG)*
+
+6題, 每題思考30秒回答3分鐘
+![遠銀ai面試筆記.PNG](遠銀ai面試筆記.PNG "遠銀ai面試筆記.PNG")
+- 3分鐘自我介紹
+- 為什麼選擇數位金融為第一志願? 未來職涯規劃? 你會怎麼做?
+- 能夠為遠銀帶來什麼價值?
+- 對遠銀的了解? 遠銀有什麼特點?
+- 如何讓更多人認識以及使用Bankee?
+- 給Bankee的建議? 有什麼可以開發的功能?
+
+#### 英文視訊面試
+15分鐘，應該就是測試英文口說跟聽力
+
+事前有一個視訊設備測試 可以先測試會不會有螢幕麥克風跟網路問題
+##### Prep
+This is to gauge your ability to communicate in English in the business environment.
+
+1. Smooth.
+2. Understandable
+3. Understand.
+
+Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
+
+The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
+
+And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
+##### Interview
+*(It was just around 10 mins.)*
+
+- read and answer the question in the paragraph
+- describe a picture
+
+turned off the screen sharing
+- how would you describe your style of dressing
+  - what influenced that
+- cybersecurities
+  - what do banks cope with that
+
+- how do you think you and the bank you are applying fits to each other
+- (1) career path growing and (2) colleague & work environment. Choose one and why
+
+Thank you.
 ### 統一證
 具備金融產業知識、擅於**精準分析梳理問題、並能迅速提出解決方案的敏捷創新人才**
 #### 數據分析人才
