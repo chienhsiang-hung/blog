@@ -1798,6 +1798,8 @@ Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金
 招募網頁：[https://events.104.com.tw/skfh/20230301/?jobsource=251455_](https://events.104.com.tw/skfh/20230301/?jobsource=251455_)
 
 **※****收到信件後，請於****5/3(****三****)****前****回信告知是否如期參與本行初試面談**
+
+> 猜測是30分鐘對人資
 ### 遠銀
 數位金融事業群
 
