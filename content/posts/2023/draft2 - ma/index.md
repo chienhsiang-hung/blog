@@ -937,7 +937,7 @@ then practice on the car CH and ENG with pdf slides
 ###### 面試者等待聊天
 團面(3總2hr vs. 3candidates - 2現場1海外視訊連線)
 
-面前與一位資管畢業在某金擔任軟體工程師的應徵者聊天
+面前與一位資管畢業在台新銀行擔任軟體工程師的應徵者聊天
 
 事後回想一些聊天收穫與檢討心得
 - python開發後端不用框架的優缺點
@@ -969,6 +969,10 @@ then practice on the car CH and ENG with pdf slides
 ###### 面試
 - 2-3分鐘簡要說明自己學經歷，怎麼(為什麼)申請這個組
   
+  (海外視訊同仁中山企管碩第一名畢業後拿獎學金到法國唸二碩，聽起來非技術端人員，presentation能力佳)
+
+  (另一位在台新協助客戶導入金流API等, KK-Box軟體測試工程師intern-Agile and Automation)
+
   
 #### 金控高階主管面談
 > *［三面大二董關 1 vs 4］大董、二董、 **(人壽)** 總經理、經理[^心得分享富邦/國泰/不能縮/台新/永豐]*
