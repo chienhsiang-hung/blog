@@ -1239,6 +1239,8 @@ I didn't prepare and haven't been speaking in English for quite a while. It was 
 只想了想準備簡報要講的跟相關QA，其他完全沒準備
 
 結果因為之前的短暫MA經驗，被瘋狂挑戰動機是否足夠，雙方資訊交換是否順利，瘋狂確認動機與對中信MA programme的了解，以及其需要技能的認識、對壓力或績效的定義...
+
+專業問題倒沒什麼...
 ### 永豐銀
 - 財富金融 - 財富管理企劃:
   
