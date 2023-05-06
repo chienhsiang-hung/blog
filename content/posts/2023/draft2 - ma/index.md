@@ -937,7 +937,7 @@ then practice on the car CH and ENG with pdf slides
 ###### 面試者等待聊天
 團面(3總2hr vs. 3candidates - 2現場1海外視訊連線)
 
-面前與一位在某金擔任軟體工程師的應徵者聊天
+面前與一位資管畢業在某金擔任軟體工程師的應徵者聊天
 
 事後回想一些聊天收穫與檢討心得
 - python開發後端不用框架的優缺點
@@ -953,7 +953,6 @@ then practice on the car CH and ENG with pdf slides
   1. 組織架構不完整：當開發者不使用框架時，他們需要自己設計和實現應用程序的整個組織架構，包括路由管理、**資料庫存取**、**模板渲染**等等。這可能需要大量的時間和精力，尤其是對於較大的應用程序。
   2. 安全性差：如果開發者不了解**安全性的問題**，不使用框架可能會導致安全性問題。框架通常有一些內置的安全性特性，例如**輸入驗證**、**防止SQL注入**等等。如果不使用框架，需要開發者自己設計和實現這些特性。
   3. 維護困難：在不使用框架的情況下，應用程序的代碼通常是開發者自己設計和實現的，**如果開發者離開了團隊，那麼維護這些代碼可能會變得非常困難**，尤其是對於新來的開發人員。此外，如果使用的是框架，則其他開發者通常可以更輕鬆地理解代碼，因為框架本身已經設計好了一些常見的模式和慣例。
-
 - **angular + cordova**
 
   Angular is a popular open-source web application framework developed by Google that allows developers to build dynamic single-page applications (SPAs). Cordova, on the other hand, is a platform that enables developers to **build mobile applications using web technologies** such as HTML, CSS, and JavaScript. 
@@ -966,7 +965,7 @@ then practice on the car CH and ENG with pdf slides
 
   Using Angular with Cordova provides several benefits for developers, such as the ability to use a single codebase to build apps for multiple platforms, access to native device features, and the flexibility to use popular web development technologies. Overall, the combination of Angular and Cordova can help developers build high-quality hybrid mobile applications quickly and efficiently.
 
-  底層還是要用Andriod and Swift
+  底層還是要用Andriod and Swift，尤其當os有更新時
 ###### 面試
 
 #### 金控高階主管面談
