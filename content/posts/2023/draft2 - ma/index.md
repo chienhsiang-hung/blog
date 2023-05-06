@@ -965,6 +965,8 @@ then practice on the car CH and ENG with pdf slides
   The Angular application can be designed and developed using Angular's powerful features such as components, services, and directives, and can be styled using CSS and other web technologies. Once the application is complete, it can be packaged as a native mobile app using Cordova and deployed to various app stores.
 
   Using Angular with Cordova provides several benefits for developers, such as the ability to use a single codebase to build apps for multiple platforms, access to native device features, and the flexibility to use popular web development technologies. Overall, the combination of Angular and Cordova can help developers build high-quality hybrid mobile applications quickly and efficiently.
+
+  底層還是要用Andriod and Swift
 ###### 面試
 
 #### 金控高階主管面談
