@@ -1236,6 +1236,8 @@ I didn't prepare and haven't been speaking in English for quite a while. It was 
 
 報到時間：5月5日(五) 10:10，面談約需時30分鐘
 ##### 面試
+一分鐘自我介紹後開始簡報然後QA，<mark>其實簡報場都還是會參雜其他interviewers對你的好奇、想問你的問題，或想跟你確認的事情，這些都要好好準備...</mark>
+
 只想了想準備簡報要講的跟相關QA，其他完全沒準備
 
 結果因為之前的短暫MA經驗，被瘋狂挑戰動機是否足夠，雙方資訊交換是否順利，瘋狂確認動機與對中信MA programme的了解，以及其需要技能的認識、對壓力或績效的定義...
