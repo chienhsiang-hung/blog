@@ -950,17 +950,17 @@ then practice on the car CH and ENG with pdf slides
   3. 輕量級：沒有框架的情況下，開發的代碼通常比使用框架的代碼更簡潔，輕量級。這樣可以減少代碼量，使代碼更容易維護和升級。
 
   缺點：
-  1. 組織架構不完整：當開發者不使用框架時，他們需要自己設計和實現應用程序的整個組織架構，包括路由管理、資料庫存取、模板渲染等等。這可能需要大量的時間和精力，尤其是對於較大的應用程序。
-  2. 安全性差：如果開發者不了解安全性的問題，不使用框架可能會導致安全性問題。框架通常有一些內置的安全性特性，例如輸入驗證、防止SQL注入等等。如果不使用框架，需要開發者自己設計和實現這些特性。
-  3. 維護困難：在不使用框架的情況下，應用程序的代碼通常是開發者自己設計和實現的，如果開發者離開了團隊，那麼維護這些代碼可能會變得非常困難，尤其是對於新來的開發人員。此外，如果使用的是框架，則其他開發者通常可以更輕鬆地理解代碼，因為框架本身已經設計好了一些常見的模式和慣例。
+  1. 組織架構不完整：當開發者不使用框架時，他們需要自己設計和實現應用程序的整個組織架構，包括路由管理、**資料庫存取**、**模板渲染**等等。這可能需要大量的時間和精力，尤其是對於較大的應用程序。
+  2. 安全性差：如果開發者不了解**安全性的問題**，不使用框架可能會導致安全性問題。框架通常有一些內置的安全性特性，例如**輸入驗證**、**防止SQL注入**等等。如果不使用框架，需要開發者自己設計和實現這些特性。
+  3. 維護困難：在不使用框架的情況下，應用程序的代碼通常是開發者自己設計和實現的，**如果開發者離開了團隊，那麼維護這些代碼可能會變得非常困難**，尤其是對於新來的開發人員。此外，如果使用的是框架，則其他開發者通常可以更輕鬆地理解代碼，因為框架本身已經設計好了一些常見的模式和慣例。
 
-- angular+cordova
+- **angular + cordova**
 
-  Angular is a popular open-source web application framework developed by Google that allows developers to build dynamic single-page applications (SPAs). Cordova, on the other hand, is a platform that enables developers to build mobile applications using web technologies such as HTML, CSS, and JavaScript. 
+  Angular is a popular open-source web application framework developed by Google that allows developers to build dynamic single-page applications (SPAs). Cordova, on the other hand, is a platform that enables developers to **build mobile applications using web technologies** such as HTML, CSS, and JavaScript. 
 
   Angular and Cordova can be used together to build hybrid mobile applications that can be deployed across multiple platforms such as iOS and Android. By combining these two technologies, developers can leverage the power and flexibility of Angular to create robust web applications, while also using Cordova to package those web applications as native mobile apps.
 
-  To use Angular with Cordova, developers can start by creating an Angular application using the Angular CLI. They can then use Cordova to create a new mobile project and add the Angular application to it. Cordova provides a set of APIs that allow developers to access native device features such as the camera, accelerometer, and contacts, which can be used in conjunction with the Angular application.
+  To use Angular with Cordova, developers can start by creating an Angular application using the Angular CLI. They can then use Cordova to create a new mobile project and add the Angular application to it. **Cordova provides a set of APIs that allow developers to access native device features such as the camera, accelerometer, and contacts**, which can be used in conjunction with the Angular application.
 
   The Angular application can be designed and developed using Angular's powerful features such as components, services, and directives, and can be styled using CSS and other web technologies. Once the application is complete, it can be packaged as a native mobile app using Cordova and deployed to various app stores.
 
