@@ -2006,6 +2006,14 @@ questions notes:
 [^永豐金證券MA心得-工作板|Dcard]: [永豐金證券MA心得 - 工作板 | Dcard](https://www.dcard.tw/f/job/p/238539130)
 
 - 1min自我介紹
+
+  詢價系統、RPA
+
+  chatGPT短
+
+  工作外 final API 選擇權交易
+
+  後來因為手續費選元大
 - 為什麼選證券業MA
 
   (投資顧問部主管及HR主管)
