@@ -2012,8 +2012,6 @@ questions notes:
   chatGPT短
 
   工作外 final API 選擇權交易
-
-  後來因為手續費選元大
 - 為什麼選證券業MA
 
   (投資顧問部主管及HR主管)
