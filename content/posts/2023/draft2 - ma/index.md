@@ -1181,7 +1181,7 @@ then practice on the car CH and ENG with pdf slides
 
 然後表示早上面完，中午吃個飯，下午就會把結果寄給我們XD
 
-**結果下午回台中上班，真的開會到一半就收到信了XD offer received!!**
+**結果下午回台中上班，真的開會到一半就收到信了XD *金控-資訊科技組offer get*!!**
 
 很感謝富邦人資在面試過程中的幫忙跟提醒，可以常常在面試中看到人資做球給面試者，救面試者
 
@@ -1587,6 +1587,8 @@ https://joysenjoy.wordpress.com/2019/06/27/2019%E9%87%91%E8%9E%8D%E6%A5%AD%E5%84
   相較之下，MongoDB 是一個比較新興的非關聯型資料庫系統，在**Web、移動應用和大數據**等領域中得到了廣泛應用，但在傳統的企業和商業領域中應用較少。不過，MongoDB **近年來在大數據、雲端運算和人工智慧等新興領域**中的應用越來越廣泛，其使用量和知名度也在不斷提升。
 
   總體而言，選擇使用哪一個資料庫系統應該根據具體的應用場景和需求進行評估，並考慮其性能、功能、穩定性、可靠性、易用性、社區支持等方面的因素。
+
+**結果: 資訊科技組 正取 offer get**
 ### 英國保誠Prudential
 工作內容
 
@@ -1849,6 +1851,8 @@ What do you think of the interview experience last time
 What hinder can you think of for the project How would you deal with it
 
 -   ~~benefit conflict~~ Conflict of interest
+
+**結果: Technology MA offer get**
 ### 中信
 > 中信金學歷資訊統計[^面試趣]
 > 
