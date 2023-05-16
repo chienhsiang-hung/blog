@@ -1,5 +1,5 @@
 ---
-title: "2023金控MA 金融科技|數位創新|數據分析|資訊科技|數位平台 砸論無章的儲備幹部面試筆記"
+title: "2023金控MA 資訊科技|金融科技|數位創新|數據分析|數位平台 雜亂無章的儲備幹部面試筆記"
 date: 2023-01-11T00:53:00+08:00
 lastmod: 2023-01-11T00:53:00+08:00
 draft: false
@@ -14,8 +14,16 @@ zhtw: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
+## 結果
+> 在職申請，幾乎所有金控都申請遍了
+>
+> 都是資訊相關組別，經過大量面試彼此互相了解
+>
+> **最後有去，一路參加到最後一關，並且拿到錄取通知的有，富邦金控資訊科技MA、永豐銀資訊科技MA，以及英國保誠Prudential Technology MA**
 ## 背景
-> **國立中山大學MBA in Finance，大數據、ML競賽得牌，在香港EAM龍頭擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作。**
+> **國立中山大學MBA in Finance，大數據、ML競賽得牌(Kaggle All-round Expert)，在香港EAM龍頭擔任IT Manager，開發前後端、內外部Apps與提供RPA方案並實作等。**
+>
+> 其他學生時代事跡就是一些交換、比賽獎牌、多益975等等
 ### 研究論文(題目／研究目的)
 台灣 ICO 發展之研究 （A Study of ICO Development in Taiwan） 
 
