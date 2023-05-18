@@ -75,7 +75,7 @@ For example, you can assign the "Virtual Machine Contributor" role to a user, wh
 
 It's important to note that the "Add Co-Administrator" option is being deprecated in favor of Azure role-based access control (RBAC), which provides more granular control over permissions and follows the principle of least privilege. It's recommended to use RBAC and "Add Role Assignment" instead of adding co-administrators whenever possible.
 
-In summary, "Add Role Assignment" allows you to assign specific roles with defined permissions to users at different scopes, while "Add Co-Administrator" grants full administrative access to the Azure subscription. RBAC and role assignments offer more flexibility and security in managing user permissions within Azure.
+In summary, "Add Role Assignment" allows you to assign specific roles with defined permissions to users at different scopes, while **"Add Co-Administrator" grants full administrative access** to the Azure subscription. RBAC and role assignments offer more flexibility and security in managing user permissions within Azure.
 
 **But how to transfer azure credits to another account?**
 ### Transfer billing ownership
