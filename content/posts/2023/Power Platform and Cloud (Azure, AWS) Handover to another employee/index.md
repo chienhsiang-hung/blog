@@ -77,4 +77,9 @@ tbe...
 
 ## AWS
 ### Add another root user
+![organization-root-users.png](organization-root-users.png "organization-root-users")
 Can AWS have multiple root users?
+
+While you can only have one root user for each AWS account, your organization doesn’t need to have everything on AWS running within a single AWS account.[^AWSRootAccountBestPractices]
+
+[^AWSRootAccountBestPractices]: [AWS Root Account Best Practices | Logicata](https://www.logicata.com/blog/aws-root-user-best-practices/#:~:text=While%20you%20can%20only%20have,within%20a%20single%20AWS%20account.)
