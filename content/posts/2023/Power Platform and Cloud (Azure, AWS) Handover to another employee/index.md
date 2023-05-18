@@ -5,9 +5,9 @@ lastmod: 2023-05-17T15:51:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/why-are-diapers-so-expensive-what-should-government-do/draft.jpg"]
-featuredimage: draft.jpg
-tags: ["Diapers", "Economy", "Inflation", "Cpi", "經濟"]
+images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
+featuredimage: organization-root-users.png
+tags: [""]
 toc:
   enable: true
 ---
@@ -25,6 +25,16 @@ Furthermore, the article encourages collaboration between the outgoing and incom
 Lastly, the documentation stresses the significance of continuous improvement and encourages the new employee to stay updated on industry trends, attend relevant training sessions, and leverage available resources to enhance their knowledge and skills.
 
 By following the guidelines outlined in this article, organizations can ensure a smooth and efficient transition of Power Platform and Cloud responsibilities, minimizing disruptions and maximizing the new employee's potential to contribute effectively from the start.
+## Check List
+- [x] Positions documentation
+- [ ] all repositories back up both places
+- [ ] all files back up both places
+- [ ] forms copy
+- [ ] PowerAutomate copy
+- [ ] PowerApps copy
+- [ ] AWS root user and billing acct
+- [x] Azure root user and billing acct
+
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
 
