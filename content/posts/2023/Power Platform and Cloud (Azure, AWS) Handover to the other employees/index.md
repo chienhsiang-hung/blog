@@ -2,7 +2,7 @@
 title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
 date: 2023-05-17T15:51:00+08:00
 lastmod: 2023-05-17T15:51:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
