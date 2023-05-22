@@ -99,3 +99,7 @@ While you can only have one root user for each AWS account, your organization do
 - **[amazon web services - How to share lambda function with another user in organization - Stack Overflow](https://stackoverflow.com/questions/58441717/how-to-share-lambda-function-with-another-user-in-organization)**
 - **[AWS Account Structure Considerations - Laying the Foundation: Setting Up Your Environment for Cost Optimization (amazon.com)](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-laying-the-foundation/aws-account-structure.html)**
 - **[(4) AWS environment for dev, stage and prod opinions : aws (reddit.com)](https://www.reddit.com/r/aws/comments/6ajxni/aws_environment_for_dev_stage_and_prod_opinions/)**
+
+**How to solve it?**
+### New AWS Account Structure
+1 main/master acct for all (billing and control) - root (operation).
