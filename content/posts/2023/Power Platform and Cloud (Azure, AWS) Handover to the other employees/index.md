@@ -1,5 +1,5 @@
 ---
-title: "Power Platform and Cloud (Azure, AWS) Handover to another employee"
+title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
 date: 2023-05-17T15:51:00+08:00
 lastmod: 2023-05-17T15:51:00+08:00
 draft: false
