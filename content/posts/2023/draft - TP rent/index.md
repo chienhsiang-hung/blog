@@ -19,11 +19,11 @@ hiddenFromSearch: true
 
 垃圾集中代收
 ## check list
-fundamental
+Fundamental
 1. 離公司近 (一小時內，少走路)
 2. 非凶宅
 
-primary
+Primary
 1. 坪數要夠大 (放書桌、跳繩)
 2. 洗手間與房間要在同一層 (no 樓中樓)
 3. 安全問題
@@ -33,8 +33,8 @@ primary
 5. 流理臺
 6. 集中垃圾
 7. 門口或大樓停車場
-
-secondary
+---
+Secondary
 1. 大雙門冰箱
 2. 抽油煙
 3. 鄰居狀況
