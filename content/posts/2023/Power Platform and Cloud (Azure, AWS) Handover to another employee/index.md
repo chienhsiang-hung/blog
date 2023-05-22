@@ -2,7 +2,7 @@
 title: "Power Platform and Cloud (Azure, AWS) Handover to another employee"
 date: 2023-05-17T15:51:00+08:00
 lastmod: 2023-05-17T15:51:00+08:00
-draft: true
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
@@ -33,6 +33,8 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [ ] PowerAutomate copy
 - [ ] PowerApps copy
 - [ ] AWS root user and billing acct
+  - [ ] C&P lambda and s3
+  - [ ] build a proper structure
 - [x] Azure root user and billing acct
 
 ## Power Platform
@@ -93,3 +95,7 @@ Can AWS have multiple root users?
 While you can only have one root user for each AWS account, your organization doesn’t need to have everything on AWS running within a single AWS account.[^AWSRootAccountBestPractices]
 
 [^AWSRootAccountBestPractices]: [AWS Root Account Best Practices | Logicata](https://www.logicata.com/blog/aws-root-user-best-practices/#:~:text=While%20you%20can%20only%20have,within%20a%20single%20AWS%20account.)
+
+- **[amazon web services - How to share lambda function with another user in organization - Stack Overflow](https://stackoverflow.com/questions/58441717/how-to-share-lambda-function-with-another-user-in-organization)**
+- **[AWS Account Structure Considerations - Laying the Foundation: Setting Up Your Environment for Cost Optimization (amazon.com)](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-laying-the-foundation/aws-account-structure.html)**
+- **[(4) AWS environment for dev, stage and prod opinions : aws (reddit.com)](https://www.reddit.com/r/aws/comments/6ajxni/aws_environment_for_dev_stage_and_prod_opinions/)**
