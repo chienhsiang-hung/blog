@@ -21,6 +21,7 @@ hiddenFromSearch: true
 ## check list
 fundamental
 1. 離公司近 (一小時內，少走路)
+2. 非凶宅
 
 primary
 1. 坪數要夠大 (放書桌、跳繩)
@@ -32,5 +33,5 @@ primary
 
 secondary
 1. 大冰箱
-2. 一房
+2. 正一房 (實牆隔間)
 3. 抽油煙
