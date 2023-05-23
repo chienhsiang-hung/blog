@@ -31,13 +31,7 @@ flowchart TD
     subgraph Lambda
       TableandChart -- "invoke RequestResponse" --> HtmltoPDF
     end
-    TableandChart -.- TableandChart-structure
-    subgraph TableandChart-structure
-      APIGateway
-    end
-
     HtmltoPDF --> wampdfs
-
     subgraph S3
       wampdfs
     end
