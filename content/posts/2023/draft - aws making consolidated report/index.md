@@ -38,3 +38,10 @@ flowchart TD
   end
 {{< /mermaid >}}
 ## Classes
+TableandChart
+- Code
+  + Python 3.9 (Architecture x86_64), HTML and CSS
+- Layers
+  + dataVisLayer
+  + AWSDataWrangler-Python39	
+  + numerize
