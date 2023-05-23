@@ -25,7 +25,7 @@ flowchart TD
   end
   
   WAM_monthly_statement -- "POST" --> TableandChart
-  WAM_monthly_statement -. "delay 2 mins <br>GET" .-> wampdfs
+  WAM_monthly_statement -. "(delay 2 mins) <br>GET" .-> wampdfs
 
   subgraph AWS
     subgraph Lambda
@@ -37,3 +37,4 @@ flowchart TD
     end
   end
 {{< /mermaid >}}
+## Classes
