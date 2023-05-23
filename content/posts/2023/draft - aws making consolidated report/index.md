@@ -11,6 +11,7 @@ tags: [""]
 toc:
   enable: true
 ---
+## Flow Outline
 {{< mermaid >}}
 flowchart TD
   subgraph PowerPlatform
@@ -30,12 +31,15 @@ flowchart TD
     subgraph Lambda
       TableandChart -- "invoke RequestResponse" --> HtmltoPDF
     end
+    TableandChart -.- TableandChart-structure
+    subgraph TableandChart-structure
+      APIGateway
+    end
+
     HtmltoPDF --> wampdfs
+
     subgraph S3
       wampdfs
     end
   end
-    
-
-    
 {{< /mermaid >}}
