@@ -37,11 +37,23 @@ flowchart TD
     end
   end
 {{< /mermaid >}}
-## Classes
-TableandChart
+## Structure
+**TableandChart**
 - Code
   + Python 3.9 (Architecture x86_64), HTML and CSS
+    - main package - matplotlib
 - Layers
   + dataVisLayer
   + AWSDataWrangler-Python39	
   + numerize
+
+**HtmltoPDF**
+- Code
+  + Python 3.9 (Architecture x86_64)
+    - main package - pandas, PyPDF2
+    - custom-fonts
+- Layers
+  + wkhtmltopdf
+  + pandas
+  + fonts
+  + PyPDF2
