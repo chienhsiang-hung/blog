@@ -5,7 +5,7 @@ lastmod: 2023-05-24T05:01:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/draft-best-time-to-buy-and-sell-stock-easy-leetcode-problem/Best%20Time%20to%20Buy%20and%20Sell%20Stock.png"]
+images: ["posts/2023/best-time-to-buy-and-sell-stock-easy-leetcode-problem/Best%20Time%20to%20Buy%20and%20Sell%20Stock.png"]
 featuredimage: Best%20Time%20to%20Buy%20and%20Sell%20Stock.png
 tags: ["Leetcode", "Leetcode Easy", "Brute Force", "Optimization", "Data Structure Algorithm"]
 toc:
