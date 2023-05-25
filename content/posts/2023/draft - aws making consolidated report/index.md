@@ -49,9 +49,9 @@ end
   + Python 3.9 (Architecture x86_64), HTML and CSS
     - main package - matplotlib
 - Layers
-  + dataVisLayer
+  + dataVisLayer (custom)
   + AWSDataWrangler-Python39	
-  + numerize
+  + numerize (custom)
 
 **HtmltoPDF**
 - Code
@@ -79,6 +79,10 @@ end
 #### Add trigger (API Gateway)
 ![Function-overview.png](Function-overview.png "Function-overview.png")
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
+#### Layers
+> [Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/) > [Layers](#Layers)
+- AWSDataWrangler-Python39 updates to 
+![Add-AWS-layers-AWSSDKPandas-Python310.png](Add-AWS-layers-AWSSDKPandas-Python310.png "Add-AWS-layers-AWSSDKPandas-Python310.png")
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
