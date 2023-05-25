@@ -1,8 +1,8 @@
 ---
 title: "draft - aws making consolidated report"
-date: 2023-05-23T11:00:00+08:00
-lastmod: 2023-05-23T11:00:00+08:00
-draft: true
+date: 2023-05-25T02:00:00+08:00
+lastmod: 2023-05-25T02:00:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
@@ -10,6 +10,8 @@ featuredimage: organization-root-users.png
 tags: [""]
 toc:
   enable: true
+hiddenFromHomePage: true
+hiddenFromSearch: true
 ---
 ## Flow Outline
 {{< mermaid >}}
