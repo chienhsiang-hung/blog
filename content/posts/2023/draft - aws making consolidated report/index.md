@@ -73,7 +73,7 @@ end
 ![NearestRegion.png](NearestRegion.png "NearestRegion.png")
 *choose Singapore for Operation (in Asia)*
 ### Create function
-> [Lambda](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/) > [Functions](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions) > [Create function](#Create-function)
+> [Lambda](https://ap-southeast-1.console.aws.amazon.com/lambda/home?region=ap-southeast-1#/) > [Functions](https://ap-southeast-1.console.aws.amazon.com/lambda/home?region=ap-southeast-1#/functions) > [Create function](#Create-function)
 
 ![Create-function.png](Create-function.png "Create-function.png")
 #### Add trigger (API Gateway)
