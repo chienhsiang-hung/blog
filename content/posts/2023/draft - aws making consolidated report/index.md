@@ -80,9 +80,14 @@ end
 ![Function-overview.png](Function-overview.png "Function-overview.png")
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
 #### Layers
-> [Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/) > [Layers](#Layers)
-- Add layer `AWSSDKPandas-Python310` *(`AWSDataWrangler-Python39` upgrades to `AWSSDKPandas-Python310`)*
+**2 ways to add layers**
+- Add layer `AWSSDKPandas-Python310` at the Functions page *(`AWSDataWrangler-Python39` upgrades to `AWSSDKPandas-Python310`)*
 ![Add-AWS-layers-AWSSDKPandas-Python310.png](Add-AWS-layers-AWSSDKPandas-Python310.png "Add-AWS-layers-AWSSDKPandas-Python310.png")
+> [Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/) > [Layers](#Layers)
+
+If you can't find the ARN or you need to customize some packages inside.
+- Create layer
+![Create-layer.png](Create-layer.png "Create-layer.png")
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
