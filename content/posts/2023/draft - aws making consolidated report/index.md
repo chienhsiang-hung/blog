@@ -75,3 +75,5 @@ end
 
 ![Create-function.png](Create-function.png "Create-function.png")
 #### Add trigger
+![Function-overview.png](Function-overview.png "Function-overview.png")
+![Add-trigger.png](Add-trigger.png "Add-trigger.png")
