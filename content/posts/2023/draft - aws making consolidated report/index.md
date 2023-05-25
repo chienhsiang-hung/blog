@@ -79,3 +79,12 @@ end
 #### Add trigger (API Gateway)
 ![Function-overview.png](Function-overview.png "Function-overview.png")
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
+### Deploy
+2 ways to manual CI/CD
+- Download and Upload
+  1. Actions > Export function > Download deployment package
+  2. (edit your code package)
+  3. Compress your folder > Upload from > .zip file
+- Edit on the Portal
+  1. Save
+  2. Deploy
