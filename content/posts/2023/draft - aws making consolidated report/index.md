@@ -42,6 +42,8 @@ subgraph AWS
 end
 {{< /mermaid >}}
 ## Structure
+*(EXAMPLE)*
+
 **TableandChart**
 - Code
   + Python 3.9 (Architecture x86_64), HTML and CSS
@@ -74,6 +76,6 @@ end
 > [Lambda](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/) > [Functions](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions) > [Create function](#Create-function)
 
 ![Create-function.png](Create-function.png "Create-function.png")
-#### Add trigger
+#### Add trigger (API Gateway)
 ![Function-overview.png](Function-overview.png "Function-overview.png")
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
