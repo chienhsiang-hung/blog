@@ -12,6 +12,7 @@ toc:
   enable: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
+lightgallery: true
 ---
 ## Flow Outline
 {{< mermaid >}}
@@ -60,3 +61,14 @@ end
   + pandas
   + fonts
   + PyPDF2
+
+## How to Deploy a Lambda Function
+### Regions
+**First check your region.**
+<!-- {{< image src="RegionsManagement.png" alt="RegionsManagement.png" caption="RegionsManagement.png" title="RegionsManagement.png">}} -->
+![RegionsManagement.png](RegionsManagement.png "RegionsManagement.png")
+**Find the nearest (server) region.**
+![NearestRegion.png](NearestRegion.png "NearestRegion.png")
+
+### Create function
+> [Lambda](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/) > [Functions](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions) > [Create function](#Create-function)
