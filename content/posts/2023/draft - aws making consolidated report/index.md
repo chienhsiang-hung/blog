@@ -69,6 +69,6 @@ end
 ![RegionsManagement.png](RegionsManagement.png "RegionsManagement.png")
 **Find the nearest (server) region.**
 ![NearestRegion.png](NearestRegion.png "NearestRegion.png")
-
+*choose Singapore for Operation (in Asia)*
 ### Create function
 > [Lambda](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/) > [Functions](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions) > [Create function](#Create-function)
