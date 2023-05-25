@@ -81,7 +81,7 @@ end
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
 #### Layers
 > [Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/) > [Layers](#Layers)
-- AWSDataWrangler-Python39 updates to 
+- Add layer `AWSSDKPandas-Python310` *(`AWSDataWrangler-Python39` upgrades to `AWSSDKPandas-Python310`)*
 ![Add-AWS-layers-AWSSDKPandas-Python310.png](Add-AWS-layers-AWSSDKPandas-Python310.png "Add-AWS-layers-AWSSDKPandas-Python310.png")
 ### Deploy
 2 ways to manually CI/CD
