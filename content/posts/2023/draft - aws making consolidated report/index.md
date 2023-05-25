@@ -74,3 +74,4 @@ end
 > [Lambda](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/) > [Functions](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions) > [Create function](#Create-function)
 
 ![Create-function.png](Create-function.png "Create-function.png")
+#### Add trigger
