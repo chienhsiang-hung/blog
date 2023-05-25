@@ -80,11 +80,13 @@ end
 ![Function-overview.png](Function-overview.png "Function-overview.png")
 ![Add-trigger.png](Add-trigger.png "Add-trigger.png")
 ### Deploy
-2 ways to manual CI/CD
-- Download and Upload
-  1. Actions > Export function > Download deployment package
-  2. (edit your code package)
-  3. Compress your files > Upload from > .zip file
-- Edit on the Portal
-  1. Save
-  2. Deploy
+2 ways to manually CI/CD
+#### Download and Upload
+1. Actions > **Export function** > Download deployment package
+![Export-function.png](Export-function.png "Export-function.png")
+2. (edit your code package)
+3. **Compress your files > Upload from > .zip file**
+![Upload-from-zip-file.png](Upload-from-zip-file.png "Upload-from-zip-file.png")
+#### Edit on the Portal
+1. Save
+2. Deploy
