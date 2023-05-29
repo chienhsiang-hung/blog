@@ -174,6 +174,8 @@ If you can't find the ARN or you need to customize some packages inside.
 </table>
 
 *See [Creating and sharing Lambda layers - AWS Lambda (amazon.com)](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html).*
+
+Remember to check your function runtime. Make sure the runtime of layers and the function are the same.
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
