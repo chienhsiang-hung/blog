@@ -88,6 +88,92 @@ end
 If you can't find the ARN or you need to customize some packages inside.
 - Create layer
 ![Create-layer.png](Create-layer.png "Create-layer.png")
+- Layer configuration
+![Layer-configuration.png](Layer-configuration.png "Layer-configuration.png")
+
+***Including library dependencies in a layer:***
+<table id="w366aac23c43c23b7">
+  <thead>
+    <tr><th class="table-header" colspan="100"><div class="title">Layer paths for each Lambda runtime</div></th></tr>
+    <tr>
+      <th>Runtime</th>
+      <th>Path</th>
+    </tr>
+  </thead>
+    <tbody><tr>
+      <td rowspan="4">
+        <p>Node.js</p>
+      </td>
+      <td>
+        <p><code class="code">nodejs/node_modules</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">nodejs/node14/node_modules</code> (<code class="code">NODE_PATH</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">nodejs/node16/node_modules</code> (<code class="code">NODE_PATH</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">nodejs/node18/node_modules</code> (<code class="code">NODE_PATH</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <p>Python</p>
+      </td>
+      <td>
+        <p><code class="code">python</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">python/lib/python3.10/site-packages</code>(site directories)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Java</p>
+      </td>
+      <td>
+        <p><code class="code">java/lib</code> (<code class="code">CLASSPATH</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <p>Ruby</p>
+      </td>
+      <td>
+        <p><code class="code">ruby/gems/2.7.0</code> (<code class="code">GEM_PATH</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">ruby/lib</code> (<code class="code">RUBYLIB</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <p>All runtimes</p>
+      </td>
+      <td>
+        <p><code class="code">bin</code> (<code class="code">PATH</code>)  </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><code class="code">lib</code> (<code class="code">LD_LIBRARY_PATH</code>)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+*See [Creating and sharing Lambda layers - AWS Lambda (amazon.com)](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html).*
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
