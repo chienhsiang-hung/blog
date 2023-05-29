@@ -190,6 +190,10 @@ General configuration Timeout ~~3 sec (default)~~ set to 10 min (max).
 And, from here, choose an **Existing role**.
 ![Basic-settings.png](Basic-settings.png "Basic-settings.png")
 You have to create it manually for your lambda function if you want to use it to call another function.
+#### Environment variables
+(For HtmltoPDF function)
+![Environment-variables-for-HtmltoPDF.png](Environment-variables-for-HtmltoPDF.png "Environment-variables-for-HtmltoPDF.png")
+#### Roles
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
