@@ -174,8 +174,10 @@ If you can't find the ARN or you need to customize some packages inside.
 </table>
 
 *See [Creating and sharing Lambda layers - AWS Lambda (amazon.com)](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html).*
-
+##### Runtime Check
 Remember to check your function runtime. Make sure the runtime of layers and the function are the same.
+![Runtime-settings.png](Runtime-settings.png "Runtime-settings.png")
+And, for **AWSDataWrangler-Python39** (PythonXX should meet your runtime version as well), the ARN should be `arn:aws:lambda:YOUR-REGION:336392948345:layer:AWSDataWrangler-Python39:2`. For example
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
