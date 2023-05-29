@@ -180,6 +180,16 @@ Remember to check your function runtime. Make sure the runtime of layers and the
 ###### AWS Data Wrangler
 And, for **AWSDataWrangler-Python39** (Python*XX* should meet your runtime version as well), the `ARN` should be `arn:aws:lambda:YOUR-REGION:336392948345:layer:AWSDataWrangler-Python39:2`. For example, **AWS Data Wrangler Lambda Layer - 2.15.0 (Python 3.9)** and region **Singapore** will be `arn:aws:lambda:ap-southeast-1:336392948345:layer:AWSDataWrangler-Python39:2`.
 ![AWS-Data-Wrangler-Lambda-Layer.png](AWS-Data-Wrangler-Lambda-Layer.png "AWS-Data-Wrangler-Lambda-Layer.png")
+#### Configuration
+##### Timeout
+*Task timed out after 3.09 seconds...*
+
+General configuration Timeout ~~3 sec (default)~~ set to 10 min (max).
+![Timeout.png](Timeout.png "Timeout.png")
+##### Existing role
+And, from here, choose an **Existing role**.
+![Basic-settings.png](Basic-settings.png "Basic-settings.png")
+You have to create it manually for your lambda function if you want to use it to call another function.
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
