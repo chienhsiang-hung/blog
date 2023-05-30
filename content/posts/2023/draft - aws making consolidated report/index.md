@@ -199,10 +199,13 @@ You have to create it manually for your lambda function if you want to use it to
 to create a role and add permission
 ![create-a-role.png](create-a-role.png "create-a-role.png")
 ![Select-trusted-entity.png](Select-trusted-entity.png "Select-trusted-entity.png")
+add permissions (or create policy)
+![Add-permissions.png](Add-permissions.png "Add-permissions.png")
+![Create-policy-Specify-permissions.png](Create-policy-Specify-permissions.png "Create-policy-Specify-permissions.png")
 ###### Invoke Role
 To invoke another lambda function in AWS.
 - Permissions policies - Customer managed - `InvokeHtmltoPDF`
-  ```
+  ```json
   {
       "Version": "2012-10-17",
       "Statement": [
@@ -223,7 +226,7 @@ To invoke another lambda function in AWS.
   [^Lambda-ARN]: [The Lambda ARN (Amazon Resource Name) does not show up at top right when i create a function for Alexa skill set - Stack Overflow](https://stackoverflow.com/questions/38448999/the-lambda-arn-amazon-resource-name-does-not-show-up-at-top-right-when-i-creat)
 
 - Permissions policies - AWS managed - `AWSLambdaBasicExecutionRole`
-  ```
+  ```json
   {
       "Version": "2012-10-17",
       "Statement": [
@@ -239,6 +242,31 @@ To invoke another lambda function in AWS.
       ]
   }
   ```
+###### lambda s3
+lambda-s3-role
+- Permissions policies - AWS managed - `AWSLambdaExecute`
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "logs:*"
+            ],
+            "Resource": "arn:aws:logs:*:*:*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject"
+            ],
+            "Resource": "arn:aws:s3:::*"
+        }
+    ]
+}
+```
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
