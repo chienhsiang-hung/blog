@@ -195,43 +195,50 @@ You have to create it manually for your lambda function if you want to use it to
 ![Environment-variables-for-HtmltoPDF.png](Environment-variables-for-HtmltoPDF.png "Environment-variables-for-HtmltoPDF.png")
 #### Roles
 > [IAM](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home) > [Roles](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/roles)
+
+to create a role and add permission
+![create-a-role.png](create-a-role.png "create-a-role.png")
 ##### Invoke Role
 To invoke another lambda function in AWS.
 
-Permissions policies - Customer managed - `InvokeHtmltoPDF`
-```
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "VisualEditor0",
-            "Effect": "Allow",
-            "Action": [
-                "lambda:InvokeFunction",
-                "lambda:InvokeAsync"
-            ],
-            "Resource": "arn:aws:lambda:region:account-id:function:function-name"
-        }
-    ]
-}
-```
-Permissions policies - AWS managed - `AWSLambdaBasicExecutionRole`
-```
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Effect": "Allow",
-            "Action": [
-                "logs:CreateLogGroup",
-                "logs:CreateLogStream",
-                "logs:PutLogEvents"
-            ],
-            "Resource": "*"
-        }
-    ]
-}
-```
+- Permissions policies - Customer managed - `InvokeHtmltoPDF`
+  ```
+  {
+      "Version": "2012-10-17",
+      "Statement": [
+          {
+              "Sid": "VisualEditor0",
+              "Effect": "Allow",
+              "Action": [
+                  "lambda:InvokeFunction",
+                  "lambda:InvokeAsync"
+              ],
+              "Resource": "arn:aws:lambda:region:account-id:function:function-name"
+          }
+      ]
+  }
+  ```
+  `Resource`: *lambda function arn[^Lambda-ARN]*, replace`region`, `account-id` and `function-name`.
+
+  [^Lambda-ARN]: [The Lambda ARN (Amazon Resource Name) does not show up at top right when i create a function for Alexa skill set - Stack Overflow](https://stackoverflow.com/questions/38448999/the-lambda-arn-amazon-resource-name-does-not-show-up-at-top-right-when-i-creat)
+
+- Permissions policies - AWS managed - `AWSLambdaBasicExecutionRole`
+  ```
+  {
+      "Version": "2012-10-17",
+      "Statement": [
+          {
+              "Effect": "Allow",
+              "Action": [
+                  "logs:CreateLogGroup",
+                  "logs:CreateLogStream",
+                  "logs:PutLogEvents"
+              ],
+              "Resource": "*"
+          }
+      ]
+  }
+  ```
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
