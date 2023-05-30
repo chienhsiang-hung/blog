@@ -267,6 +267,16 @@ lambda-s3-role
       ]
   }
   ```
+#### Amazon S3
+##### Create bucket
+Configuration
+- General configuration
+  - AWS Region
+    
+    Singapore
+- Object Ownership
+  - ACLs enabled
+  - Bucket owner preferred
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
