@@ -245,28 +245,28 @@ To invoke another lambda function in AWS.
 ###### lambda s3
 lambda-s3-role
 - Permissions policies - AWS managed - `AWSLambdaExecute`
-```json
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Effect": "Allow",
-            "Action": [
-                "logs:*"
-            ],
-            "Resource": "arn:aws:logs:*:*:*"
-        },
-        {
-            "Effect": "Allow",
-            "Action": [
-                "s3:GetObject",
-                "s3:PutObject"
-            ],
-            "Resource": "arn:aws:s3:::*"
-        }
-    ]
-}
-```
+  ```json
+  {
+      "Version": "2012-10-17",
+      "Statement": [
+          {
+              "Effect": "Allow",
+              "Action": [
+                  "logs:*"
+              ],
+              "Resource": "arn:aws:logs:*:*:*"
+          },
+          {
+              "Effect": "Allow",
+              "Action": [
+                  "s3:GetObject",
+                  "s3:PutObject"
+              ],
+              "Resource": "arn:aws:s3:::*"
+          }
+      ]
+  }
+  ```
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
