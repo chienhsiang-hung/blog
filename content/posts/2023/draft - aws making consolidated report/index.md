@@ -242,7 +242,7 @@ To invoke another lambda function in AWS.
       ]
   }
   ```
-###### lambda s3
+###### lambda to s3
 lambda-s3-role
 - Permissions policies - AWS managed - `AWSLambdaExecute`
   ```json
