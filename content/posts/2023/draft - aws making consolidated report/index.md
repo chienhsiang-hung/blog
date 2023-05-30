@@ -195,12 +195,12 @@ You have to create it manually for your lambda function if you want to use it to
 ![Environment-variables-for-HtmltoPDF.png](Environment-variables-for-HtmltoPDF.png "Environment-variables-for-HtmltoPDF.png")
 #### Roles
 > [IAM](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home) > [Roles](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/roles)
-
+##### Create role
 to create a role and add permission
 ![create-a-role.png](create-a-role.png "create-a-role.png")
-##### Invoke Role
+![Select-trusted-entity.png](Select-trusted-entity.png "Select-trusted-entity.png")
+###### Invoke Role
 To invoke another lambda function in AWS.
-
 - Permissions policies - Customer managed - `InvokeHtmltoPDF`
   ```
   {
