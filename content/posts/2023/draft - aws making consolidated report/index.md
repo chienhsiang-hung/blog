@@ -210,7 +210,7 @@ Permissions policies - Customer managed - `InvokeHtmltoPDF`
                 "lambda:InvokeFunction",
                 "lambda:InvokeAsync"
             ],
-            "Resource": "arn:aws:lambda:us-east-1:194559612279:function:HtmltoPDF"
+            "Resource": "arn:aws:lambda:region:account-id:function:function-name"
         }
     ]
 }
