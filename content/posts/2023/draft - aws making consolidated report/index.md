@@ -42,7 +42,7 @@ subgraph AWS
 end
 {{< /mermaid >}}
 ## Structure
-*(EXAMPLE)*
+*(ABSTRACT EXAMPLE)*
 
 **TableandChart**
 - Code
@@ -267,8 +267,8 @@ lambda-s3-role
       ]
   }
   ```
-#### Amazon S3
-##### Create bucket
+### Amazon S3
+#### Create bucket
 **Configuration**
 
 General configuration
@@ -301,7 +301,7 @@ Advanced settings
 - Object Lock
 
   `Disable`
-##### Object URL
+#### Object URL
 For it to work publicly, you need to add a **Bucket policy** to make the Bucket `Publicly accessible`.
 ![Object-overview.png](Object-overview.png "Object-overview.png")
 Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-east-1) > [Buckets](https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1) > YOURBUCKET > Permissions > Bucket policy
@@ -326,6 +326,31 @@ Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-eas
 Once you've applied the *policy* successfully, you will see the changes made in the Permission overview sector.
 ![S3-permission-access-public.png](S3-permission-access-public.png "S3-permission-access-public.png")
 Now you can access the object through the **Object URL**.
+### Connectors
+update codes' connection
+#### Lambda function to Lambda function
+```python
+import boto3
+client = boto3.client('lambda')
+
+response  = client.invoke(
+    # arn:aws:lambda:region:account-id:function:function-name
+    FunctionName = 'arn:aws:lambda:REGION:ACCOUNT-ID:function:FUNCTION-NAME',
+    InvocationType = 'RequestResponse',
+    Payload = json.dumps({
+        'example': your_var,
+    })
+)
+# responseFromChild = json.load(response['Payload'])
+```
+#### Lambda function to S3
+Lambda function save/upload to S3
+```python
+import boto3
+
+s3 = boto3.resource('s3')
+s3.meta.client.upload_file("/tmp/TEST_FILE.txt", 'YOUR_BUCKET_NAME', "NEW_FILE_NAME.txt")
+```
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
