@@ -1,13 +1,13 @@
 ---
 title: "AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc."
-date: 2023-05-31T07:45:00+08:00
-lastmod: 2023-05-31T07:45:00+08:00
+date: 2023-05-31T07:53:00+08:00
+lastmod: 2023-05-31T07:53:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/aws-deploy-lambda-function-api-gateway-invoke-call-another-lambda-function-save-to-s3-public-access-etc/organization-root-users.png"]
 featuredimage: S3-permission-access-public.png
-tags: [""]
+tags: ["AWS Lambda", "Aws S3", "Api Gateway", "Lambda Layer", "Aws Data Wrangler"]
 toc:
   enable: true
 lightgallery: true
