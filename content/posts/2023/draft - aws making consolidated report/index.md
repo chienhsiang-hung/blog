@@ -269,34 +269,40 @@ lambda-s3-role
   ```
 #### Amazon S3
 ##### Create bucket
-Configuration
-- General configuration
-  - Bucket name *(Bucket with the same name already exists: Bucket name must be globally unique and must not contain spaces or uppercase letters. [See rules for bucket naming](https://docs.aws.amazon.com/console/s3/bucket-naming))*
+**Configuration**
 
-    ~~wampdfs~~`wam-consolidated-pdfs`
-  - AWS Region
-    
-    `Singapore`
-- Object Ownership
-  - ACLs enabled
-  - Bucket owner preferred
-- Block Public Access settings for this bucket
-  - untick `Block all public access`
-  - I acknowledge that the current settings might result in this bucket and the objects within becoming public.
-- Bucket Versioning
+General configuration
+- Bucket name *(Bucket with the same name already exists: Bucket name must be globally unique and must not contain spaces or uppercase letters. [See rules for bucket naming](https://docs.aws.amazon.com/console/s3/bucket-naming))*
+
+  ~~wampdfs~~`wam-consolidated-pdfs`
+- AWS Region
   
+  `Singapore`
+
+Object Ownership
+- ACLs enabled
+- Bucket owner preferred
+
+Block Public Access settings for this bucket
+- untick `Block all public access`
+- I acknowledge that the current settings might result in this bucket and the objects within becoming public.
+
+Bucket Versioning - `Disable`
+
+Default encryption
+- Encryption key type
+
+  `Amazon S3 managed keys (SSE-S3)`
+- Bucket Key
+
   `Disable`
-- Default encryption
-  - Encryption key type
 
-    `Amazon S3 managed keys (SSE-S3)`
-  - Bucket Key
+Advanced settings
+- Object Lock
 
-    `Disable`
-- Advanced settings
-  - Object Lock
+  `Disable`
+##### Object URL
 
-    `Disable`
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
