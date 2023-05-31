@@ -314,7 +314,7 @@ Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-eas
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::wampdfs/*"
+            "Resource": "arn:aws:s3:::YOUTBUCKETNAME/*"
         }
     ]
 }
