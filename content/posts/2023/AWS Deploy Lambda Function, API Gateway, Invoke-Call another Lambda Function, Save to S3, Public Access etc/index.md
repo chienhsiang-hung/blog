@@ -1,7 +1,7 @@
 ---
 title: "AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc."
-date: 2023-05-31T07:21:00+08:00
-lastmod: 2023-05-31T07:21:00+08:00
+date: 2023-05-31T07:45:00+08:00
+lastmod: 2023-05-31T07:45:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
