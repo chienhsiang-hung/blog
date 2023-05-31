@@ -34,7 +34,7 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [ ] all repositories back up both places
 - [ ] all files back up both places
 - [ ] forms copy
-- [ ] PowerAutomate copy
+- [ ] PowerAutomate copy ALL from the `Owner`
 - [ ] PowerApps copy
 - [x] AWS root user and billing acct
   - [x] C&P lambda and s3
@@ -108,4 +108,4 @@ While you can only have one root user for each AWS account, your organization do
 ### New AWS Account Structure
 1 main/master acct for all (billing and control) - root (operation).
 
-Deploy to operation - [AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc.](https://chienhsiang-hung.github.io/blog/posts/2023/aws-deploy-lambda-function-api-gateway-invoke-call-another-lambda-function-save-to-s3-public-access-etc/)
+Deploy to operation - [AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc.](https://chienhsiang-hung.github.io/blog/posts/2023/aws-deploy-lambda-function-api-gateway-invoke-call-another-lambda-function-save-to-s3-public-access-etc/).
