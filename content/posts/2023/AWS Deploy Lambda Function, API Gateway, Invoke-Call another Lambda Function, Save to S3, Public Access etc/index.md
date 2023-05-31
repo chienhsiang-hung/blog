@@ -1,17 +1,15 @@
 ---
-title: "draft - aws making consolidated report"
-date: 2023-05-25T02:00:00+08:00
-lastmod: 2023-05-25T02:00:00+08:00
+title: "AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc."
+date: 2023-05-31T07:21:00+08:00
+lastmod: 2023-05-31T07:21:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
-featuredimage: organization-root-users.png
+images: ["posts/2023/aws-deploy-lambda-function-api-gateway-invoke-call-another-lambda-function-save-to-s3-public-access-etc/organization-root-users.png"]
+featuredimage: S3-permission-access-public.png
 tags: [""]
 toc:
   enable: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 lightgallery: true
 ---
 ## Flow Outline
