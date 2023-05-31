@@ -319,7 +319,7 @@ Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-eas
     ]
 }
 ```
-***Be careful, the objects in the bucket will all be <mark>publicly available</mark> by default. So don't leak your Object URL (bucket name and file name) out.***
+*Be careful, the objects in this bucket will all be <mark>publicly available</mark> by default.* ***So don't leak your Object URL (bucket name and file name) out.***
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
