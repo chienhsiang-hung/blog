@@ -302,7 +302,7 @@ Advanced settings
 
   `Disable`
 ##### Object URL
-
+For it to work publicly, you need to add a **Bucket policy** to make the Bucket `Publicly accessible`.
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
