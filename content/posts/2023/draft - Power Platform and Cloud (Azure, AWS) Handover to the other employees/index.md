@@ -1,8 +1,8 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
-date: 2023-05-17T15:51:00+08:00
-lastmod: 2023-05-17T15:51:00+08:00
-draft: true
+date: 2023-05-31T08:11:00+08:00
+lastmod: 2023-05-31T08:11:00+08:00
+draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
@@ -10,6 +10,10 @@ featuredimage: organization-root-users.png
 tags: [""]
 toc:
   enable: true
+lightgallery: true
+zhtw: true
+hiddenFromHomePage: true
+hiddenFromSearch: true
 ---
 ## Handover Documentation: Ensuring a Smooth Transition
 **Power Platform and Cloud Handover Documentation: Ensuring a Smooth Transition**
@@ -32,9 +36,9 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [ ] forms copy
 - [ ] PowerAutomate copy
 - [ ] PowerApps copy
-- [ ] AWS root user and billing acct
-  - [ ] C&P lambda and s3
-  - [ ] build a proper structure
+- [x] AWS root user and billing acct
+  - [x] C&P lambda and s3
+  - [x] build a proper structure
 - [x] Azure root user and billing acct
 
 ## Power Platform
@@ -54,7 +58,7 @@ I imagine the not-shared would also be deleted, but how about those that were sh
 
 [^whathappenedtomyPowerAppsandautomates]: [Solved: Re: what happened to my PowerApps and automates if... - Power Platform Community (microsoft.com)](https://powerusers.microsoft.com/t5/Building-Power-Apps/what-happened-to-my-PowerApps-and-automates-if-my-account-gets/m-p/2157698#M540222)
 
-![](https://powerusers.microsoft.com/t5/image/serverpage/image-id/653434i2B1044FD6528BDD3/is-moderation-mode/true/image-dimensions/2500?v=v2&px=-1)
+![https://powerusers.microsoft.com/t5/image/serverpage/image-id/653434i2B1044FD6528BDD3/is-moderation-mode/true/image-dimensions/2500?v=v2&px=-1](https://powerusers.microsoft.com/t5/image/serverpage/image-id/653434i2B1044FD6528BDD3/is-moderation-mode/true/image-dimensions/2500?v=v2&px=-1 "two types of owners for flows")
 
 ## Azure
 ### Assign a user (add a role)
