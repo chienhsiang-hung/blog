@@ -271,12 +271,18 @@ lambda-s3-role
 ##### Create bucket
 Configuration
 - General configuration
+  - Bucket name
+
+    `wampdfs`
   - AWS Region
     
-    Singapore
+    `Singapore`
 - Object Ownership
   - ACLs enabled
   - Bucket owner preferred
+- Block Public Access settings for this bucket
+  - untick `Block all public access`
+  - I acknowledge that the current settings might result in this bucket and the objects within becoming public.
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
