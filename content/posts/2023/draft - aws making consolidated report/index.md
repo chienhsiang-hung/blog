@@ -274,10 +274,10 @@ lambda-s3-role
 General configuration
 - Bucket name *(Bucket with the same name already exists: Bucket name must be globally unique and must not contain spaces or uppercase letters. [See rules for bucket naming](https://docs.aws.amazon.com/console/s3/bucket-naming))*
 
-  ~~wampdfs~~`wam-consolidated-pdfs`
+  <span hidden>~~wampdfs~~`wam-consolidated-pdfs`</span>
 - AWS Region
   
-  `Singapore`
+  <span hidden>`Singapore`</span>
 
 Object Ownership
 - ACLs enabled
@@ -303,25 +303,23 @@ Advanced settings
   `Disable`
 ##### Object URL
 For it to work publicly, you need to add a **Bucket policy** to make the Bucket `Publicly accessible`.
-
-response-content-disposition=inline
-X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGIaDmFwLW5vcnRoZWFzdC0yIkcwRQIhANjsqONUauNi%2BdTBZxiua2PMoyDXA%2FRmVwYZKfc741I5AiApM8kD7V8zrlmgvlBw%2FGqFOnkj70GqIfS%2BJpJr3mJG0irtAgic%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDIzMjMyNjY0MTYxNiIMgSE8GVzGtQfVv8seKsECSItYtoUXt5mYGQFqtJ0gIDntlh5klEalV%2Bf98Zkdii3MSQks3%2F%2ByNc9zeC78CQDRJNkHiAnDQlWTbNcxqO5wLhIpk3sIZ77KoYLlZ3Qn8U6yCKHFI4bM67EMBteJVOwt%2F0h3vqVAtgxfa%2BKzTlXuAYm%2F49%2FFilKpXdsuvqxFT8sBQoCyyBujQ2kPlKqtIeEB0cLyhBQK83r5lRNNtuX8mqOokxqQLRnmK6qhRWYowpxzkmUyhpn3TNq2TXlk9MeALd4wOwNBzVZm2AA0txNh26ZD9NvD8ykg8029r7u045BNZ3jnopGR%2B9EBlyhX0O2hn2vEvEWMZkN6pbihITIhaXPYP2OSecMCcBAB0Kmugg5cJ6HGFTAKkwSRY4j3c3EZW7bHTpFwvrMLlztbVxOruOW8rTOc00pEh869yadlUp16MIDg2qMGOrMCV5KbcW%2FKH809ViWGmkCl3yF7CN9wgvZeE33iAcknqUHN%2Fy5huBOcCcHerppXmGI9fzZkXYfHSpueXQyUJun5CUTHusKQbLZe2Nr%2FKAPpOBU0ePVu1IzOr48cxVw93biVDr8D7vzCtMwZzyZXAvVaHOqpJUKD4XJ%2By%2FxBeDNw%2BQbkUi4jVZNHOmWVIh7sYuO3fFB8CZ4Uo5O4OWrjZqKkJw5Y8syTMGXtoida95k4sLMegMNyPEDeJCnw%2FCRCP8ciMhaVIYfna9%2BYOnXYdX%2BafFBNqWzL9cTwLybRpOeGJ6ZAcG2yZqFqB%2BEXsvaHOevfGm7QjuliSsES3mH5ix0sNVvT6PmMLfM3o93%2F6tfmoM6%2FhDEFADNeECygBI%2B5JwDZbV86MCxkBe5%2F1NXM3HLsEt4Qvw%3D%3D
-X-Amz-Algorithm=AWS4-HMAC-SHA256
-X-Amz-Date=20230531T030452Z
-X-Amz-SignedHeaders=host
-X-Amz-Expires=300
-X-Amz-Credential=ASIATMF57G7IAYSV4IVT%2F20230531%2Fap-southeast-1%2Fs3%2Faws4_request
-X-Amz-Signature=b66fa3d42631e9baddb20f78f09ba62b80bb72971cb126026c63ae29d9d7bd6a
-
-https://wam-consolidated-pdfs.s3.ap-southeast-1.amazonaws.com/WAM_monthly_statement_temp.pdf?
-response-content-disposition=attachment
-X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGIaDmFwLW5vcnRoZWFzdC0yIkcwRQIhANjsqONUauNi%2BdTBZxiua2PMoyDXA%2FRmVwYZKfc741I5AiApM8kD7V8zrlmgvlBw%2FGqFOnkj70GqIfS%2BJpJr3mJG0irtAgic%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDIzMjMyNjY0MTYxNiIMgSE8GVzGtQfVv8seKsECSItYtoUXt5mYGQFqtJ0gIDntlh5klEalV%2Bf98Zkdii3MSQks3%2F%2ByNc9zeC78CQDRJNkHiAnDQlWTbNcxqO5wLhIpk3sIZ77KoYLlZ3Qn8U6yCKHFI4bM67EMBteJVOwt%2F0h3vqVAtgxfa%2BKzTlXuAYm%2F49%2FFilKpXdsuvqxFT8sBQoCyyBujQ2kPlKqtIeEB0cLyhBQK83r5lRNNtuX8mqOokxqQLRnmK6qhRWYowpxzkmUyhpn3TNq2TXlk9MeALd4wOwNBzVZm2AA0txNh26ZD9NvD8ykg8029r7u045BNZ3jnopGR%2B9EBlyhX0O2hn2vEvEWMZkN6pbihITIhaXPYP2OSecMCcBAB0Kmugg5cJ6HGFTAKkwSRY4j3c3EZW7bHTpFwvrMLlztbVxOruOW8rTOc00pEh869yadlUp16MIDg2qMGOrMCV5KbcW%2FKH809ViWGmkCl3yF7CN9wgvZeE33iAcknqUHN%2Fy5huBOcCcHerppXmGI9fzZkXYfHSpueXQyUJun5CUTHusKQbLZe2Nr%2FKAPpOBU0ePVu1IzOr48cxVw93biVDr8D7vzCtMwZzyZXAvVaHOqpJUKD4XJ%2By%2FxBeDNw%2BQbkUi4jVZNHOmWVIh7sYuO3fFB8CZ4Uo5O4OWrjZqKkJw5Y8syTMGXtoida95k4sLMegMNyPEDeJCnw%2FCRCP8ciMhaVIYfna9%2BYOnXYdX%2BafFBNqWzL9cTwLybRpOeGJ6ZAcG2yZqFqB%2BEXsvaHOevfGm7QjuliSsES3mH5ix0sNVvT6PmMLfM3o93%2F6tfmoM6%2FhDEFADNeECygBI%2B5JwDZbV86MCxkBe5%2F1NXM3HLsEt4Qvw%3D%3D
-X-Amz-Algorithm=AWS4-HMAC-SHA256
-X-Amz-Date=20230531T031128Z
-X-Amz-SignedHeaders=host
-X-Amz-Expires=300
-X-Amz-Credential=ASIATMF57G7IAYSV4IVT%2F20230531%2Fap-southeast-1%2Fs3%2Faws4_request
-X-Amz-Signature=c0b87dbf82a63925bfbe18e6034610fec6ea71ff499370b5d3ce71c296fc4790
+![Object-overview.png](Object-overview.png "Object-overview.png")
+Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-east-1) > [Buckets](https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1) > YOURBUCKET > Permissions > Bucket policy
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::wampdfs/*"
+        }
+    ]
+}
+```
+***Be careful, the objects in the bucket will all be <mark>publicly available</mark> by default. So don't leak your Object URL (bucket name and file name) out.***
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
