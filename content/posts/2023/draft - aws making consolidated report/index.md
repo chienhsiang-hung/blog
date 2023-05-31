@@ -319,7 +319,13 @@ Go to [Amazon S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-eas
     ]
 }
 ```
+*Replace the `Resource` with your Bucket.*
+
 *Be careful, the objects in this bucket will all be <mark>publicly available</mark> by default.* ***So don't leak your Object URL (bucket name and file name) out.***
+
+Once you've applied the *policy* successfully, you will see the changes made in the Permission overview sector.
+![S3-permission-access-public.png](S3-permission-access-public.png "S3-permission-access-public.png")
+Now you can access the object through the **Object URL**.
 ### Deploy
 2 ways to manually CI/CD
 #### Download and Upload
