@@ -1,21 +1,21 @@
 ---
 title: "情侶台北租屋找尋框架範本"
-date: 2023-05-22T06:25:00+08:00
-lastmod: 2023-05-22T06:25:00+08:00
+date: 2023-05-31T07:37:00+08:00
+lastmod: 2023-05-31T07:37:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: [""]
-featuredimage: 
-tags: [""]
+images: ["posts/2023/情侶台北租屋找尋框架範本/featured-image.jpg"]
+featuredimage: featured-image.jpg
+lightgallery: true
+tags: ["台北租屋", "繳稅", "情侶", "停車場", "安全"]
 toc:
   enable: true
 zhtw: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
+![featured-image.jpg](featured-image.jpg "Photo by Leon Seibert on Unsplash")
 ## 背景
-- **求租人背景**
+- **求租人背景(範例)**
 
   情侶，找一房兩廳一衛一陽台，好停車最好是電梯大樓，離工作不太遠(一小時內，少走路)，坪數要夠大，放東西跟跳繩，要有地方放書桌
 
@@ -29,17 +29,17 @@ hiddenFromSearch: true
 ## check list
 *(實際去看房時務必再檢查一遍)*
 
-Fundamental
+### Fundamental
 1. 離公司近 (搭車一小時內，少走路) (用距離換空間與生活品質)
     - 捷運時間20分鐘 (捷運接受轉乘一次)
     - 公車40分鐘內 (不接受轉乘)
     - 騎車開車15分鐘內
 
     以上皆為尖峰時間車程 (不包含走路時間)
-2. 非凶宅
+2. *非凶宅*
 3. 非頂加
 
-Primary
+### Primary
 1. 坪數要夠大 (放雙人書桌、空間夠跳繩，要記得考慮玄關鞋櫃問題)
 2. 洗手間與房間要在同一層 (no 樓中樓)
 3. 安全問題
@@ -50,11 +50,14 @@ Primary
 6. 集中垃圾(代收)
 7. 門口或大樓停車場
 8. 採光
-9. 可租補
+9. (可租補)
 10. 台水台電
 ---
-Secondary
+### Secondary
 1. 大雙門冰箱
 2. (電磁/陶)爐、抽油煙
 3. 鄰居、前住戶狀況 (空屋多久?)
 4. 洗衣機、陽台曬衣
+
+## Notes
+熱水器、瓦斯、飲水機、發票抵稅(合租問題), etc.
