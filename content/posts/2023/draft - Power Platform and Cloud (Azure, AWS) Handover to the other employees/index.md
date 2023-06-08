@@ -40,6 +40,8 @@ By following the guidelines outlined in this article, organizations can ensure a
   - [x] C&P lambda and s3
   - [x] build a proper structure
 - [x] Azure root user and billing acct
+  - [ ] Repository back-up
+  - [ ] CI/CD
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
