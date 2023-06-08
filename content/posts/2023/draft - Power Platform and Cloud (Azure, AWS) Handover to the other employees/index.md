@@ -50,6 +50,7 @@ By following the guidelines outlined in this article, organizations can ensure a
       - [x] get_CurrentPrice
       - [x] get_MarketData
       - [x] list_to_json
+    - ~~[ ] MonthlyReportHTML~~
   - [ ] CI/CD
 
 ## Power Platform
