@@ -42,6 +42,8 @@ By following the guidelines outlined in this article, organizations can ensure a
   - [x] build a proper structure
 - [x] Azure root user and billing acct
   - [ ] Repository back-up
+    - [x] CheckHoliday
+      - [x] HolidayChecker
   - [ ] CI/CD
 
 ## Power Platform
