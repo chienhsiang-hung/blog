@@ -44,6 +44,8 @@ By following the guidelines outlined in this article, organizations can ensure a
   - [ ] Repository back-up
     - [x] CheckHoliday
       - [x] HolidayChecker
+    - [x] IB-quotation
+      - [x] extract_html
   - [ ] CI/CD
 
 ## Power Platform
