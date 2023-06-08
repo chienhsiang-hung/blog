@@ -55,7 +55,6 @@ By following the guidelines outlined in this article, organizations can ensure a
     - [x] *PreferentialRateExtractor*
       - [x] *HttpTrigger*
     - [x] ~~*SharedInvestmentMailBodyExtractor*~~
-      - [x]  ~~*HttpTrigger*~~
   - [ ] CI/CD
 
 ## Power Platform
