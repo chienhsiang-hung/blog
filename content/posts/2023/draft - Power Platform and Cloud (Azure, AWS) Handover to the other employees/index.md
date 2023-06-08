@@ -55,7 +55,7 @@ By following the guidelines outlined in this article, organizations can ensure a
     - [x] *PreferentialRateExtractor*
       - [x] *HttpTrigger*
     - [x] ~~*SharedInvestmentMailBodyExtractor*~~
-  - [ ] CI/CD
+  - [ ] [CI/CD](#cicd)
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
