@@ -96,7 +96,7 @@ Head over to Azure Portal and search for `Subscriptions` and follow the steps: [
 ![](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/media/billing-subscription-transfer/navigate-subscriptions.png#lightbox)
 
 ### Maintain and Deploy
-tbe...
+#### CI/CD
 
 ## AWS
 ### Add another root user
