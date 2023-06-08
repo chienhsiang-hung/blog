@@ -38,6 +38,7 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [ ] PowerApps copy
 - [x] AWS root user and billing acct
   - [x] C&P lambda and s3
+    - [x] reconnect the APIs
   - [x] build a proper structure
 - [x] Azure root user and billing acct
   - [ ] Repository back-up
