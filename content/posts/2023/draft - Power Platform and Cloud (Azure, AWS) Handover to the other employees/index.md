@@ -106,7 +106,7 @@ Head over to Azure Portal and search for `Subscriptions` and follow the steps: [
 
 ### Maintain and Deploy
 #### CI/CD
-
+![open-a-repository.png](open-a-repository.png "open-a-repository")
 ## AWS
 ### Add another root user
 ![organization-root-users.png](organization-root-users.png "organization-root-users")
