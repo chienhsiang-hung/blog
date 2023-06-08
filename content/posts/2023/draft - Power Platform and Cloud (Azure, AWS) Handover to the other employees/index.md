@@ -46,6 +46,10 @@ By following the guidelines outlined in this article, organizations can ensure a
       - [x] HolidayChecker
     - [x] IB-quotation
       - [x] extract_html
+    - [x] KO-Notification
+      - [x] get_CurrentPrice
+      - [x] get_MarketData
+      - [x] list_to_json
   - [ ] CI/CD
 
 ## Power Platform
