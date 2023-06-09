@@ -1,19 +1,16 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
-date: 2023-05-31T08:11:00+08:00
-lastmod: 2023-05-31T08:11:00+08:00
+date: 2023-06-09T07:15:00+08:00
+lastmod: 2023-06-09T07:15:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
 featuredimage: organization-root-users.png
-tags: [""]
+tags: ["Powerplatform", "Azure"]
 toc:
   enable: true
 lightgallery: true
-zhtw: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
 ## Handover Documentation: Ensuring a Smooth Transition
 **Power Platform and Cloud Handover Documentation: Ensuring a Smooth Transition**
