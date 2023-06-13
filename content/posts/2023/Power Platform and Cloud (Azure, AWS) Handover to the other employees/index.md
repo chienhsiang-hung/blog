@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-09T08:17:00+08:00
+lastmod: 2023-06-13T07:30:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -52,7 +52,7 @@ By following the guidelines outlined in this article, organizations can ensure a
     - [x] *PreferentialRateExtractor*
       - [x] *HttpTrigger*
     - [x] ~~*SharedInvestmentMailBodyExtractor*~~
-  - [ ] [CI/CD](#cicd)
+  - [x] [CI/CD](#cicd)
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
