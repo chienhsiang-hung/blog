@@ -28,7 +28,7 @@ Lastly, the documentation stresses the significance of continuous improvement an
 By following the guidelines outlined in this article, organizations can ensure a smooth and efficient transition of Power Platform and Cloud responsibilities, minimizing disruptions and maximizing the new employee's potential to contribute effectively from the start.
 ## Check List
 - [x] Positions documentation
-- [ ] all repositories back up both places
+- [x] all repositories back up both places
 - [ ] all files back up both places
 - [ ] forms copy
 - [ ] PowerAutomate copy ALL from the `Owner`
@@ -38,7 +38,7 @@ By following the guidelines outlined in this article, organizations can ensure a
     - [x] reconnect the APIs
   - [x] build a proper structure
 - [x] Azure root user and billing acct
-  - [ ] Repository back-up
+  - [x] Repository back-up
     - [x] CheckHoliday
       - [x] HolidayChecker
     - [x] IB-quotation
