@@ -100,7 +100,10 @@ In summary, "Add Role Assignment" allows you to assign specific roles with defin
 ### Transfer billing ownership
 Head over to Azure Portal and search for `Subscriptions` and follow the steps: [Transfer billing ownership of an MOSP Azure subscription - Microsoft Cost Management | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer).
 ![](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/media/billing-subscription-transfer/navigate-subscriptions.png#lightbox)
-
+### Create Function App in Azure
+#### VSCode Extensions
+**Install** > **Sign-in** > **Create Function App in Azure**
+![Create-Function-App-in-Azure.png](Create-Function-App-in-Azure.png "Create-Function-App-in-Azure")
 ### Maintain and Deploy
 #### CI/CD
 ![open-a-repository.png](open-a-repository.png "open-a-repository")
