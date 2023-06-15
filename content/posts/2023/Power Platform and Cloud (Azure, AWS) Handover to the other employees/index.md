@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-13T07:30:00+08:00
+lastmod: 2023-06-15T09:00:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -37,6 +37,7 @@ By following the guidelines outlined in this article, organizations can ensure a
   - [x] C&P lambda and s3
     - [x] reconnect the APIs
   - [x] build a proper structure
+- [ ] AWS CI/CD demo
 - [x] Azure root user and billing acct
   - [x] Repository back-up
     - [x] CheckHoliday
