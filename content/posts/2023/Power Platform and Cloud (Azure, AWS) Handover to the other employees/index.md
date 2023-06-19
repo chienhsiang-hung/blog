@@ -113,6 +113,10 @@ Head over to Azure Portal and search for `Subscriptions` and follow the steps: [
 Create and Deploy:
 ![VS-code-Azure-extension.png](VS-code-Azure-extension.png "VS-code-Azure-extension")
 #### Local Test
+Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on `F5` at `__init__.py` to run the local test.
+
+![VS-code-Azure-ExecuteFunctionNow.png](VS-code-Azure-ExecuteFunctionNow.png "VS-code-Azure-ExecuteFunctionNow")
+##### 
 ## AWS
 ### Add another root user
 ![organization-root-users.png](organization-root-users.png "organization-root-users")
