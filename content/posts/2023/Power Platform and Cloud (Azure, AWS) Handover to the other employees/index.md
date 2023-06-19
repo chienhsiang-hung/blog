@@ -54,7 +54,8 @@ By following the guidelines outlined in this article, organizations can ensure a
       - [x] *HttpTrigger*
     - [x] ~~*SharedInvestmentMailBodyExtractor*~~
   - [x] [CI/CD](#cicd)
-  - [ ] [Local Test](#local-test)
+  - [x] [Local Test](#local-test)
+    - [x] [REST Client](#rest-client)
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
@@ -116,7 +117,7 @@ Create and Deploy:
 ![VS-code-Azure-ExecuteFunctionNow.png](VS-code-Azure-ExecuteFunctionNow.png "VS-code-Azure-ExecuteFunctionNow")
 
 Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on `F5` at `__init__.py` to run the local test.
-##### 
+##### REST Client
 ![Azure-Functions-Core-Tools-Function-Runtime.png](Azure-Functions-Core-Tools-Function-Runtime.png "Azure-Functions-Core-Tools-Function-Runtime")
 ## AWS
 ### Add another root user
