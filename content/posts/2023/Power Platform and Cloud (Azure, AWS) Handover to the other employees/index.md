@@ -137,7 +137,7 @@ Content-Type: application/json
 ```
 (Similar to postman)
 
-Then press on `F1` or `Ctrl`+`Alr`+`R` to **Send the Request**.
+Then press on `F1` or `Ctrl`+`Alr`+`R` to **Send the Request** to your local server.
 ## AWS
 ### Add another root user
 ![organization-root-users.png](organization-root-users.png "organization-root-users")
