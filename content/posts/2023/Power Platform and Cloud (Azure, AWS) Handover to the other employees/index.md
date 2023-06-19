@@ -54,6 +54,7 @@ By following the guidelines outlined in this article, organizations can ensure a
       - [x] *HttpTrigger*
     - [x] ~~*SharedInvestmentMailBodyExtractor*~~
   - [x] [CI/CD](#cicd)
+  - [ ] [Local Test](#local-test)
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
@@ -111,6 +112,7 @@ Head over to Azure Portal and search for `Subscriptions` and follow the steps: [
 
 Create and Deploy:
 ![VS-code-Azure-extension.png](VS-code-Azure-extension.png "VS-code-Azure-extension")
+#### Local Test
 ## AWS
 ### Add another root user
 ![organization-root-users.png](organization-root-users.png "organization-root-users")
