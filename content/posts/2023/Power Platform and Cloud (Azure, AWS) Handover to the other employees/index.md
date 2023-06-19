@@ -118,6 +118,9 @@ Create and Deploy:
 
 Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on `F5` at `__init__.py` to run the local test.
 ##### REST Client
+Install **REST Client** extension on your VSCode
+![REST-Client.png](REST-Client.png "REST-Client")
+
 ![Azure-Functions-Core-Tools-Function-Runtime.png](Azure-Functions-Core-Tools-Function-Runtime.png "Azure-Functions-Core-Tools-Function-Runtime")
 ## AWS
 ### Add another root user
