@@ -122,12 +122,12 @@ Edit in VSCode, you can open the Azure extension and click on `Execute Function 
 >
 > ![REST-Client.png](REST-Client.png "REST-Client")
 
-Remember the api url at the last step: `http://localhost:<port>/api/<your api name>`
+Remember the api url at the [last step](#local-test): `http://localhost:<port>/api/<your api name>`
 ![Azure-Functions-Core-Tools-Function-Runtime.png](Azure-Functions-Core-Tools-Function-Runtime.png "Azure-Functions-Core-Tools-Function-Runtime")
 
 Make a file with the file name ends with `<your file name>.http` and the content EXAMPLE:
 ```http
-POST http://localhost:1010/api/YOURAPINAME HTTP/1.1
+POST http://localhost:7071/api/YOURAPINAME HTTP/1.1
 Content-Type: application/json
 
 {
