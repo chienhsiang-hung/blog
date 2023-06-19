@@ -118,10 +118,26 @@ Create and Deploy:
 
 Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on `F5` at `__init__.py` to run the local test.
 ##### REST Client
-Install **REST Client** extension on your VSCode
-![REST-Client.png](REST-Client.png "REST-Client")
+> Install **REST Client** extension on your VSCode if you don't already have it.
+>
+> ![REST-Client.png](REST-Client.png "REST-Client")
 
+Remember the api url at the last step: `http://localhost:<port>/api/<your api name>`
 ![Azure-Functions-Core-Tools-Function-Runtime.png](Azure-Functions-Core-Tools-Function-Runtime.png "Azure-Functions-Core-Tools-Function-Runtime")
+
+Make a file with the file name ends with `<your file name>.http` and the content EXAMPLE:
+```http
+POST http://localhost:1010/api/YOURAPINAME HTTP/1.1
+Content-Type: application/json
+
+{
+  "email_body": "none",
+  "bank": "abc"
+}
+```
+(Similar to postman)
+
+Then press on `F1` or `Ctrl`+`Alr`+`R` to **Send the Request**.
 ## AWS
 ### Add another root user
 ![organization-root-users.png](organization-root-users.png "organization-root-users")
