@@ -5,7 +5,7 @@ lastmod: 2023-06-21T09:02:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
+images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/organization-root-users.png"]
 featuredimage: organization-root-users.png
 tags: ["Powerplatform", "Azure"]
 toc:
