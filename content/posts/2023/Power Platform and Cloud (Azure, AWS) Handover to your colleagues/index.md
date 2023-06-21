@@ -1,7 +1,7 @@
 ---
-title: "Power Platform and Cloud (Azure, AWS) Handover to the other employees"
+title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-19T07:58:00+08:00
+lastmod: 2023-06-21T03:21:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -13,6 +13,8 @@ toc:
 lightgallery: true
 ---
 ## Handover Documentation: Ensuring a Smooth Transition
+Power Platform and Cloud (Azure, AWS) Handover to the other employees
+
 **Power Platform and Cloud Handover Documentation: Ensuring a Smooth Transition**
 
 This article serves as a guide for smoothly transitioning Power Platform and Cloud (Azure, AWS) responsibilities to a new employee when an individual resigns. As organizations increasingly rely on these technologies, it becomes crucial to ensure a seamless handover process to maintain business continuity. The documentation outlines key aspects that need to be addressed during the handover, including an overview of the Power Platform and Cloud environment, relevant processes and workflows, and essential considerations for the new employee.
