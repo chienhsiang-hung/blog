@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-21T03:21:00+08:00
+lastmod: 2023-06-21T09:02:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -118,7 +118,16 @@ Create and Deploy:
 #### Local Test
 ![VS-code-Azure-ExecuteFunctionNow.png](VS-code-Azure-ExecuteFunctionNow.png "VS-code-Azure-ExecuteFunctionNow")
 
-Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on `F5` at `__init__.py` to run the local test.
+Edit in VSCode, you can open the Azure extension and click on `Execute Function Now` or just press on *F5* at `__init__.py` to run the local test.
+
+or
+
+_F5_ is equivalent to `func start` in the terminal.
+
+> **Prerequisites[^'func'isnotrecognized]:**
+> - [Downloading and Installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+> - [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases)
+[^'func'isnotrecognized]: [python - 'func' is not recognized as an internal or external command, operable program or batch file - Stack Overflow](https://stackoverflow.com/questions/56526088/func-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
 ##### REST Client
 > Install **REST Client** extension on your VSCode if you don't already have it.
 >
