@@ -127,6 +127,11 @@ _F5_ is equivalent to `func start` in the terminal.
 > **Prerequisites[^'func'isnotrecognized]:**
 > - [Downloading and Installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 > - [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases)
+>
+> Then install [Azure/azure-functions-core-tools: Command line tools for Azure Functions (github.com)](https://github.com/Azure/azure-functions-core-tools#installing) using command or URL.
+>
+> And make sure it's in your Environment Variable Path.
+> ![Environment-variable-path.png](Environment-variable-path.png "Environment-variable-path")
 [^'func'isnotrecognized]: [python - 'func' is not recognized as an internal or external command, operable program or batch file - Stack Overflow](https://stackoverflow.com/questions/56526088/func-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
 ##### REST Client
 > Install **REST Client** extension on your VSCode if you don't already have it.
