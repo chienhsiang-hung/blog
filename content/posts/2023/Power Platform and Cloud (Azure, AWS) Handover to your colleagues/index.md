@@ -172,3 +172,9 @@ While you can only have one root user for each AWS account, your organization do
 1 main/master acct for all (billing and control) - root (operation).
 
 Deploy to operation - [AWS Deploy Lambda Function, API Gateway, Invoke/Call another Lambda Function, Save to S3, Public Access etc.](https://chienhsiang-hung.github.io/blog/posts/2023/aws-deploy-lambda-function-api-gateway-invoke-call-another-lambda-function-save-to-s3-public-access-etc/).
+
+### Access Management
+If the above won't work, try a simpler way *Access Management*- Add **User Groups** and **Users**.
+![Access-Management-User-Groups-and-Users.png](Access-Management-User-Groups-and-Users.png "Access-Management-User-Groups-and-Users")
+First Add Group then Add User and make sure you assign the psw w/ **Manage Console Access**.
+![Add-User-with-Manage-Console-Access.png](Add-User-with-Manage-Console-Access.png "Add-User-with-Manage-Console-Access")
