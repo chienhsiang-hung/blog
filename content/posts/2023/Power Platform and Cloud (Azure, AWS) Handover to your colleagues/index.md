@@ -180,3 +180,4 @@ First Add Group then Add User and make sure you assign the psw w/ **Manage Conso
 ![Add-User-with-Manage-Console-Access.png](Add-User-with-Manage-Console-Access.png "Add-User-with-Manage-Console-Access")
 Or you can Provide User Access at Create Stage.
 ![Provide-User-Access-at-Create-Stage.png](Provide-User-Access-at-Create-Stage.png "Provide-User-Access-at-Create-Stage")
+*Note: The last is to check and make sure the IAM users are in the same Region (at the top right corner to toggle) when they try to maintain the function.*
