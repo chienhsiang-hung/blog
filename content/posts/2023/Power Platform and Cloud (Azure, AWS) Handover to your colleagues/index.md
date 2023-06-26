@@ -40,6 +40,9 @@ By following the guidelines outlined in this article, organizations can ensure a
     - [x] reconnect the APIs
   - [x] build a proper structure
 - [ ] AWS CI/CD demo
+  - [ ] IAM
+  - [ ] How to maintain
+  - [ ] Upgrade the security
 - [x] Azure root user and billing acct
   - [x] Repository back-up
     - [x] CheckHoliday
