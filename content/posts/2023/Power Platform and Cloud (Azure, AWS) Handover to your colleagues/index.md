@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-27T03:11:00+08:00
+lastmod: 2023-06-27T03:13:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -244,6 +244,8 @@ to: *(adding `iam:CreateRole`)*
 }
 ```
 You can use **add permissions** and **create an inline policy** for the specific use case.
+
+**CreateRole**:
 ```json
 {
     "Version": "2012-10-17",
