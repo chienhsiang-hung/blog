@@ -184,3 +184,61 @@ First Add Group then Add User and make sure you assign the psw w/ **Manage Conso
 Or you can Provide User Access at Create Stage.
 ![Provide-User-Access-at-Create-Stage.png](Provide-User-Access-at-Create-Stage.png "Provide-User-Access-at-Create-Stage")
 *Note: The last is to check and make sure the IAM users are in the same Region (at the top right corner to toggle) when they try to maintain the function.*
+#### Permissions
+Custom permissions for user-groups/users. For example the following issue can be solved by changing the **PowerUserAccess** policy from:
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "NotAction": [
+                "iam:*",
+                "organizations:*",
+                "account:*"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iam:CreateServiceLinkedRole",
+                "iam:DeleteServiceLinkedRole",
+                "iam:ListRoles",
+                "organizations:DescribeOrganization",
+                "account:ListRegions"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+```
+to:
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "NotAction": [
+                "iam:*",
+                "organizations:*",
+                "account:*"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iam:CreateServiceLinkedRole",
+                "iam:DeleteServiceLinkedRole",
+                "iam:ListRoles",
+                "iam:CreateRole",
+                "organizations:DescribeOrganization",
+                "account:ListRegions"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+```
