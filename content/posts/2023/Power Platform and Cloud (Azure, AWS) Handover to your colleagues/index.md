@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-27T03:01:00+08:00
+lastmod: 2023-06-27T03:03:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -186,7 +186,7 @@ Or you can Provide User Access at Create Stage.
 *Note: The last is to check and make sure the IAM users are in the same Region (at the top right corner to toggle) when they try to maintain the function.*
 #### Permissions
 ![CreateFunctionAddRolePermission.png](CreateFunctionAddRolePermission.png "CreateFunctionAddRolePermission")
-Custom permissions for user groups/users. For example, the above issue can be solved by changing the **PowerUserAccess** policy from:
+Custom permissions for user groups/users. For example, the above issue can be solved by changing the **PowerUserAccess** policy (for `contributor` user groups in this particular scenario) from:
 ```json
 {
     "Version": "2012-10-17",
