@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-27T03:13:00+08:00
+lastmod: 2023-06-27T03:52:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -33,16 +33,16 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [x] all repositories back up both places
 - [ ] all files back up both places
 - [ ] forms copy
-- [ ] PowerAutomate copy ALL from the `Owner`
-- [ ] PowerApps copy
+- [x] PowerAutomate copy ALL from the `Owner`
+- [x] PowerApps copy
 - [x] AWS root user and billing acct
   - [x] C&P lambda and s3
     - [x] reconnect the APIs
   - [x] build a proper structure
-- [ ] AWS CI/CD demo
-  - [ ] IAM
-  - [ ] How to maintain
-  - [ ] Upgrade the security
+- [x] AWS CI/CD demo
+  - [x] IAM
+  - [x] How to maintain
+  - [x] Upgrade the security
 - [x] Azure root user and billing acct
   - [x] Repository back-up
     - [x] CheckHoliday
