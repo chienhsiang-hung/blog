@@ -1,7 +1,7 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-27T04:01:00+08:00
+lastmod: 2023-06-28T09:46:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -32,7 +32,7 @@ By following the guidelines outlined in this article, organizations can ensure a
 - [x] Positions documentation
 - [x] all repositories back up both places
 - [ ] all files back up both places
-- [ ] forms copy
+- [x] forms copy
 - [x] PowerAutomate copy ALL from the `Owner`
   - [ ] OpenAI *Operation* connector
 - [x] PowerApps copy
