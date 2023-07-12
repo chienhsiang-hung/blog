@@ -36,6 +36,28 @@ hiddenFromSearch: true
 
 需求仍在 謹慎估價
 
+## AI在各行各業
+Sure! Here are some examples of how AI is used in different industries:
+
+- **Finance**: AI is used to detect fraud, automate customer service, and provide personalized financial advice¹.
+- **Manufacturing**: AI is used to optimize production processes, predict equipment failures, and improve quality control².
+- **Healthcare**: AI is used to diagnose diseases, personalize treatment plans, and improve patient outcomes¹.
+- **Logistics**: AI is used to optimize shipping routes, reduce delivery times, and improve inventory management¹.
+- **Retail**: AI is used to personalize shopping experiences, optimize pricing strategies, and improve supply chain management¹.
+- **Search engines**: AI is used to provide better search results and improve the accuracy of search queries¹.
+- **Social media**: AI is used to target ads and content, detect fraud, and improve user engagement¹.
+
+These are just a few examples of how AI is being used in different industries. If you're interested in learning more about this topic, I recommend checking out this article from Built In².
+
+I hope this helps!.
+
+Source: Conversation with Bing, 7/12/2023
+(1) Where is Artificial Intelligence Used Today? Powerful Examples Of AI. https://www.bloggersideas.com/where-is-artificial-intelligence-used-today/.
+(2) 36 Artificial Intelligence Examples to Know for 2023 | Built In. https://builtin.com/artificial-intelligence/examples-ai-in-industry.
+(3) Applications of artificial intelligence - Wikipedia. https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence.
+(4) Applications of Artificial Intelligence Across Various Industries - Forbes. https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/.
+(5) AI Applications Across 12 Different Industries - HubSpot Blog. https://blog.hubspot.com/marketing/ai-applications.
+
 ## RFSs
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 
