@@ -15,13 +15,24 @@ lightgallery: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
-## AI會不會是下一個泡沫
-![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.png.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
-
-Other firms, such as Gartner, Deloitte, Accenture and BCG, have also produced studies with figures showing that the metaverse has enormous potential. These are merely projections and models struggle to anticipate shifts over an eight-year period such as this.
-
+## AI會不會像Metaverse 成為下一個泡沫
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
-從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升，然而把現有資訊科技服務直接更名為元宇宙就好像營收能夠瞬間跟著翻倍而不是透過實際應用顯然是有問題的。在市場，對元宇宙潛在商機McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本的GDP數字，僅次於美國與中國。
+
+從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升，然而把現有資訊科技服務直接更名為元宇宙，就好像營收能夠瞬間跟著翻倍，而不是透過實際應用，顯然是有問題的。
+
+在市場，對元宇宙潛在商機，McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本全國的GDP數字，僅次於美國與中國。其他研究機構諸如Gartner, Deloitte, Accenture 和 BCG 也都產出相似報告，顯示對Metaverse巨大潛力、前景樂觀的看法。
+
+![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.png.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
+就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。
+
+## AI早已存在你我生活中的一部分 這部分會愈佔愈大
+普及率=使用率*人數 ChatGPT大勝
+應用場景 不只遊戲
+實際使用 舉例
+
+的確就像現場狀況一樣，並且ChatGPT，還只不過是眾多AI應用的其中。因此，AI有沒有可能泡沫，有可能，但比起像是Metaverse這樣的題材，AI，不管是生成式、非生成式，都是有被實際投入，而這些投入也都是因應實際需求的領域與趨勢。
+
+The metaverse should be considered from the viewpoint of tech companies wanting to sell their products, and from that of end-user companies (including major brands and the luxury sector) which could have other growth drivers or wish to avoid “missing the boat” if their competitors get in first. For companies, coming in too late could mean losing market share. This is why ongoing experiments are often in proof-of-concept form or based on trial and error without necessarily building a sustainable, solid and profitable business model.
 
 需求仍在 謹慎估價
 
