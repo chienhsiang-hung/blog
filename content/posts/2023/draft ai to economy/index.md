@@ -56,6 +56,9 @@ Source: Conversation with Bing, 7/12/2023
 (4) Applications of Artificial Intelligence Across Various Industries - Forbes. https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/.
 (5) AI Applications Across 12 Different Industries - HubSpot Blog. https://blog.hubspot.com/marketing/ai-applications.
 
+## Value Chain
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
+
 ## RFSs
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 
