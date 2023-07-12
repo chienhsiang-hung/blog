@@ -25,6 +25,8 @@ hiddenFromSearch: true
 ![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.png.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
 就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。
 
+以終為始，沒有實際需求，以上layers全部都空談。
+
 ## AI早已存在你我生活中的一部分 這部分會愈佔愈大
 普及率=使用率*人數 (ChatGPT大勝)
 應用場景 (不只遊戲)
