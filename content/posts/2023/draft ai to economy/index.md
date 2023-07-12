@@ -59,6 +59,8 @@ Source: Conversation with Bing, 7/12/2023
 ## Value Chain
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
 
+https://www.gartner.com/en/topics/generative-ai
+
 ## RFSs
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 
