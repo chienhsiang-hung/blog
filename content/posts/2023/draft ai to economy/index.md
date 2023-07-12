@@ -61,6 +61,8 @@ https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opport
 
 https://www.gartner.com/en/topics/generative-ai
 
+(針對美國市場)
+
 ## RFSs
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 
