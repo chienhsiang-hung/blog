@@ -10,7 +10,12 @@ featuredimage: organization-root-users.png
 tags: []
 toc:
   enable: true
+zhtw: true
 lightgallery: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
+## AI會不會是下一個泡沫
+
+
+需求仍在 謹慎估價
