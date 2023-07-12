@@ -37,8 +37,6 @@ hiddenFromSearch: true
 需求仍在 謹慎估價
 
 ## AI在各行各業
-Sure! Here are some examples of how AI is used in different industries:
-
 - **Finance**: AI is used to detect fraud, automate customer service, and provide personalized financial advice¹.
 - **Manufacturing**: AI is used to optimize production processes, predict equipment failures, and improve quality control².
 - **Healthcare**: AI is used to diagnose diseases, personalize treatment plans, and improve patient outcomes¹.
