@@ -1,5 +1,5 @@
 ---
-title: "ai to economy"
+title: "AI在各個產業的應用 商機與投資價值"
 date: 2023-07-12T01:17:00+08:00
 lastmod: 2023-07-12T01:17:00+08:00
 draft: false
