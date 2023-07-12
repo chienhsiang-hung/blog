@@ -26,13 +26,11 @@ hiddenFromSearch: true
 就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。
 
 ## AI早已存在你我生活中的一部分 這部分會愈佔愈大
-普及率=使用率*人數 ChatGPT大勝
-應用場景 不只遊戲
-實際使用 舉例
+普及率=使用率*人數 (ChatGPT大勝)
+應用場景 (不只遊戲)
+實際使用 (舉例)
 
 的確就像現場狀況一樣，並且ChatGPT，還只不過是眾多AI應用的其中。因此，AI有沒有可能泡沫，有可能，但比起像是Metaverse這樣的題材，AI，不管是生成式、非生成式，都是有被實際投入，而這些投入也都是因應實際需求的領域與趨勢。
-
-The metaverse should be considered from the viewpoint of tech companies wanting to sell their products, and from that of end-user companies (including major brands and the luxury sector) which could have other growth drivers or wish to avoid “missing the boat” if their competitors get in first. For companies, coming in too late could mean losing market share. This is why ongoing experiments are often in proof-of-concept form or based on trial and error without necessarily building a sustainable, solid and profitable business model.
 
 需求仍在 謹慎估價
 
