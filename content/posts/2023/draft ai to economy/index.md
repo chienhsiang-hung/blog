@@ -36,3 +36,15 @@ hiddenFromSearch: true
 
 ## RFSs
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
+
+## AI需求強勁
+(https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market
+全球AI產業區域劃分按收益排名，美國位居第一，全球總收益中有36.8%來自北美。這要歸功於美國政府對AI應用的重視，其政府鼓勵所有產業採用AI在各企業中…)
+
+
+從前面的介紹我們看到美國AI發展對經濟以及市場帶來的影響，但具體來講有哪些產業或領域是我們應該關注的？這裡分為幾個區塊討論。
+
+（具體的發展）
+
+
+
