@@ -16,10 +16,10 @@ hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
 ## AI會不會是下一個泡沫
-Since then, there seems to be confusion, with existing digital services rebranded and taken into account in the metaverse as if revenue figures were added together several times over without deduplication. Otherwise, how could a firm such as McKinsey, which attracted criticism for its healthcare recommendations, predict that the metaverse has the potential to generate five trillion dollars in value by 2030, a figure roughly equivalent to the GDP of Japan, the world’s third largest economy behind the United States and China? Other firms, such as Gartner, Deloitte, Accenture and BCG, have also produced studies with figures showing that the metaverse has enormous potential. These are merely projections and models struggle to anticipate shifts over an eight-year period such as this.
+Otherwise, how could a firm such as McKinsey, which attracted criticism for its healthcare recommendations, predict that the metaverse has the potential to generate five trillion dollars in value by 2030, a figure roughly equivalent to the GDP of Japan, the world’s third largest economy behind the United States and China? Other firms, such as Gartner, Deloitte, Accenture and BCG, have also produced studies with figures showing that the metaverse has enormous potential. These are merely projections and models struggle to anticipate shifts over an eight-year period such as this.
 
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
-從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升。然而
+從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升，然而把現有資訊科技服務直接更名為元宇宙就好像營收能夠瞬間跟著翻倍而不是透過實際應用顯然是有問題的。
 
 ![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.png.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
 
