@@ -34,7 +34,12 @@ hiddenFromSearch: true
 
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 ![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
+
+https://appinventiv.com/blog/metaverse-use-cases-and-benefits/
+![Investment-In-Metaverse.jpg](Investment-In-Metaverse.jpg "Investment-In-Metaverse.jpg")
 元宇宙相關領域題材曾獲多家機構 (包含McKinsey、Gartner, Deloitte, Accenture 和 BCG等) 表態預估2030年前能為世界帶來5兆美金產值增長。
+
+然而實際場有投入的遠比說會投入的少。
 
 (就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。)
 
