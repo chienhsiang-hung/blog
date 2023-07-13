@@ -5,8 +5,8 @@ lastmod: 2023-07-12T01:17:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/organization-root-users.png"]
-featuredimage: organization-root-users.png
+images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg"]
+featuredimage: report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg
 tags: []
 toc:
   enable: true
@@ -50,7 +50,8 @@ https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opport
 
 在市場，對元宇宙潛在商機，McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本全國的GDP數字，僅次於美國與中國。其他研究機構諸如Gartner, Deloitte, Accenture 和 BCG 也都產出相似報告，顯示對Metaverse巨大潛力、前景樂觀的看法。
 
-![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.pddng.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
+https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
+![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
 元宇宙相關領域題材曾獲多家機構 (包含McKinsey、Gartner, Deloitte, Accenture 和 BCG等) 表態預估2030年前能為世界帶來5兆美金產值增長。
 
 (就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。)
