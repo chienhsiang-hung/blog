@@ -32,8 +32,10 @@ hiddenFromSearch: true
 
 在當時，McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本全國的GDP數字，僅次於美國與中國。*(其他研究機構諸如Gartner, Deloitte, Accenture 和 BCG 也都產出相似報告，顯示對Metaverse巨大潛力、前景樂觀的看法。)*
 
+{{< admonition type=note title="Appendix" open=false >}}
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 ![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
+{{< /admonition >}}
 
 https://appinventiv.com/blog/metaverse-use-cases-and-benefits/
 ![Investment-In-Metaverse.jpg](Investment-In-Metaverse.jpg "Investment-In-Metaverse.jpg")
@@ -57,11 +59,12 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 ## AI應用百花齊放
 （有哪些應用？需求分哪些類？）
 
-![McKinsey checks in on for whom the bell tolls | Financial Times](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4004015c-26a4-4a16-bd32-95487fd4cbec.png?fit=scale-down&source=next&width=580 "資料來源：Mckinsey")
+![McKinsey checks in on for whom the bell tolls | Financial Times](generative%20ai%20use%20cases%20will%20have%20different%20impacts%20on%20business%20functions%20across%20industries.png "資料來源：Mckinsey")
 (講應用 需求者 下游)
 
-## AI產業價值鏈 應運"需求"而生
+## 需求呈指數增長 產業價值鏈應運而生
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
+![](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/exploring%20opportunities%20in%20the%20generative%20ai%20value%20chain/svgz-exploring-opportunities-gen-ai-ex1-v5.svgz)
 （講中上游）
 
 ## AI會不會像Metaverse 成為下一個泡沫
