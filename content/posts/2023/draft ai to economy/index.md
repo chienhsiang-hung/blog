@@ -36,7 +36,7 @@ hiddenFromSearch: true
 
 的確就像現場狀況一樣，並且ChatGPT，還只不過是眾多AI應用的其中。因此，AI有沒有可能泡沫，有可能，但比起像是Metaverse這樣的題材，AI，不管是生成式、非生成式，都是有被實際投入，而這些投入也都是因應實際需求的領域與趨勢。
 
-根據BusinessDIT報告指出，已有37%企業已輕度至重度採用AI至企業流程商品或服務中。光是2015年至2019年間，有直接或間接使用AI技術的公司就成長了270%。
+根據Gatner報告指出，已有37%企業已輕度至重度採用AI至企業流程商品或服務中。光是2015年至2019年間，有直接或間接使用AI技術的公司就成長了270%。
 According to a report by BusinessDIT, 37% of businesses and organizations employ AI. Between 2015 and 2019, the number of businesses utilizing AI increased by 270%¹. The global AI market is expected to reach a size of half a trillion US dollars in 2023¹. 
 
 I hope this helps! Let me know if you have any other questions.
