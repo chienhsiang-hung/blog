@@ -59,12 +59,14 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 ## AI應用百花齊放
 （有哪些應用？需求分哪些類？）
 
+**未來城市**
+
 ![McKinsey checks in on for whom the bell tolls | Financial Times](generative%20ai%20use%20cases%20will%20have%20different%20impacts%20on%20business%20functions%20across%20industries.png "資料來源：Mckinsey")
 (講應用 需求者 下游)
 
 ## 需求呈指數增長 產業價值鏈應運而生
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
-![](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/exploring%20opportunities%20in%20the%20generative%20ai%20value%20chain/svgz-exploring-opportunities-gen-ai-ex1-v5.svgz)
+![The value chain: Six links](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/exploring%20opportunities%20in%20the%20generative%20ai%20value%20chain/svgz-exploring-opportunities-gen-ai-ex1-v5.svgz "The value chain: Six links")
 （講中上游）
 
 ## AI會不會像Metaverse 成為下一個泡沫
