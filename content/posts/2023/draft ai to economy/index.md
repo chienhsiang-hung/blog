@@ -55,7 +55,7 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 ![McKinsey checks in on for whom the bell tolls | Financial Times](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4004015c-26a4-4a16-bd32-95487fd4cbec.png?fit=scale-down&source=next&width=580 "資料來源：Mckinsey")
 (講應用 需求者 下游)
 
-## AI產業價值鏈應運"需求"而生
+## AI產業價值鏈 應運"需求"而生
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
 （講中上游）
 
