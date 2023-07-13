@@ -56,10 +56,23 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 - 無法被實際應用或沒有需求（最差）: 這就真的比較慘了
 
 從報告中可以看到實際應用與需求都是持續成長，那只要我們不跟風，找到基本價值，這些在手上的標的變壁紙的的一天的機會都可以被最小化。
+
+https://www.pewresearch.org/wp-content/uploads/2023/02/ft_2023.02.22_ai-applications_01.png?w=640
+
+https://www.pewresearch.org/short-reads/2023/02/22/how-americans-view-emerging-uses-of-artificial-intelligence-including-programs-to-generate-text-or-art/
 ## AI應用百花齊放
 （有哪些應用？需求分哪些類？）
+https://race.reva.edu.in/race-lab/solving-life-with-ai/
+
+https://race.reva.edu.in/wp-content/uploads/2021/02/infographics.png
 
 **未來城市**
+
+https://futurecity.cw.com.tw/article/2228#AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%87%89%E7%94%A8%E6%A1%88%E4%BE%8B
+- AI與醫療
+- AI與交通
+- AI與金融
+- AI與其他智慧產業應用
 
 ![McKinsey checks in on for whom the bell tolls | Financial Times](generative%20ai%20use%20cases%20will%20have%20different%20impacts%20on%20business%20functions%20across%20industries.png "資料來源：Mckinsey")
 (講應用 需求者 下游)
