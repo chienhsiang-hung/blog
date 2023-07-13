@@ -15,6 +15,15 @@ lightgallery: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
+## 架構
+1. 證明不是泡沫
+
+    （AI會不會像Metaverse 成為下一個泡沫）
+
+    給數字，看已有應用（現有改變改善）
+2. 需求有什麼
+3. 相對應的供給（商業）價值
+
 ## AI會不會像Metaverse 成為下一個泡沫
 ### AI的應用 實際、具體且已被執行
 
