@@ -45,7 +45,9 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 在市場，對元宇宙潛在商機，McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本全國的GDP數字，僅次於美國與中國。其他研究機構諸如Gartner, Deloitte, Accenture 和 BCG 也都產出相似報告，顯示對Metaverse巨大潛力、前景樂觀的看法。
 
 ![Source: report Value Creation in the Metaverse, McKinsey, June 2022.](https://publika.skema.edu/wp-content/uploads/2022/10/Couches-metavers.pddng.webp "Source: report Value Creation in the Metaverse, McKinsey, June 2022.")
-就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。
+元宇宙相關領域題材曾獲多家機構 (包含McKinsey、Gartner, Deloitte, Accenture 和 BCG等) 表態預估2030年前能為世界帶來5兆美金產值增長。
+
+(就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。)
 
 以終為始，沒有實際需求，以上layers全部都空談。
 
