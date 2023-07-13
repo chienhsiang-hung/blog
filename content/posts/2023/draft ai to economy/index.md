@@ -16,6 +16,8 @@ hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
 ## AI會不會像Metaverse 成為下一個泡沫
+### AI的應用 實際具體且已被執行
+
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
 
 從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升，然而把現有資訊科技服務直接更名為元宇宙，就好像營收能夠瞬間跟著翻倍，而不是透過實際應用，顯然是有問題的。
@@ -33,6 +35,18 @@ hiddenFromSearch: true
 - 實際使用 (舉例)
 
 的確就像現場狀況一樣，並且ChatGPT，還只不過是眾多AI應用的其中。因此，AI有沒有可能泡沫，有可能，但比起像是Metaverse這樣的題材，AI，不管是生成式、非生成式，都是有被實際投入，而這些投入也都是因應實際需求的領域與趨勢。
+
+根據BusinessDIT報告指出，已有37%企業已輕度至重度採用AI至企業流程商品或服務中。光是2015年至2019年間，有直接或間接使用AI技術的公司就成長了270%。
+According to a report by BusinessDIT, 37% of businesses and organizations employ AI. Between 2015 and 2019, the number of businesses utilizing AI increased by 270%¹. The global AI market is expected to reach a size of half a trillion US dollars in 2023¹. 
+
+I hope this helps! Let me know if you have any other questions.
+
+Source: Conversation with Bing, 7/13/2023
+(1) How Many Companies Use AI 2023: AI Usage Statistics & More - BusinessDIT. https://www.businessdit.com/ai-in-business-statistics/.
+(2) AI in Business: 70+ Statistics You Should Know - Flyaps Product Development Blog. https://flyaps.com/blog/70-ai-statistics-business-should-know-in-2020/.
+(3) 65 Artificial Intelligence Statistics for 2021 and Beyond - Semrush. https://www.semrush.com/blog/artificial-intelligence-stats/.
+(4) The state of AI in 2021 - McKinsey & Company. https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/Global%20survey%20The%20state%20of%20AI%20in%202021/Global-survey-The-state-of-AI-in-2021.pdf.
+(5) The state of AI in 2022—and a half decade in review | McKinsey. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review.
 
 需求仍在 謹慎估價
 
