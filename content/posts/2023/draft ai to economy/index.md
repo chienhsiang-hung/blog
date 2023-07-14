@@ -97,8 +97,14 @@ https://futurecity.cw.com.tw/article/2228#AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7
 ## 需求報量增長 產業價值鏈應運而生
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
 ![The value chain: Six links](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/exploring%20opportunities%20in%20the%20generative%20ai%20value%20chain/svgz-exploring-opportunities-gen-ai-ex1-v5.svgz "The value chain: Six links")
+
 （講中上游）
 
+value chain impact on us
+
+https://www.google.com/search?hl=en-US&sxsrf=AB5stBhrpEG3eeLwZfKL9QZif923CDv2ug:1689299684879&q=ai+value+chain&tbm=isch&sa=X&ved=2ahUKEwi_p4vdi42AAxXVP3AKHcqFAigQ0pQJegQIChAB&biw=1180&bih=709&dpr=2#imgrc=Uqx2A_aD3H0PUM
+
+https://beyondexclamation.com/going-make-money-ai/ai-value-chain/
 ## AI會不會像Metaverse 成為下一個泡沫
 ### AI的應用 實際、具體且已被執行
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
