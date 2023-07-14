@@ -66,6 +66,16 @@ https://race.reva.edu.in/race-lab/solving-life-with-ai/
 
 https://race.reva.edu.in/wp-content/uploads/2021/02/infographics.png
 
+食衣住行育樂
+- 食
+  AI食譜
+- 衣
+  [AI網購試衣](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
+- 住
+- 行
+- 育
+- 樂
+
 **未來城市**
 
 https://futurecity.cw.com.tw/article/2228#AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%87%89%E7%94%A8%E6%A1%88%E4%BE%8B
