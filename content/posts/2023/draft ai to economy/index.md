@@ -102,7 +102,7 @@ https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opport
 
 value chain impact on us
 
-因為這些下游需求，也帶動中上游技術、技能提供者成長。我們可以注意到從上中下游、軟硬體看，美國都包辦了五成以上的，這都將為美國經濟帶來活水。而我們看這幾年也的確有這樣的趨勢...funding is pouring into generative AI, rising from $613 million in 2022 to $2.3 billion in 2023 — money that will only fuel the hype cycle.
+因為這些下游需求，也帶動中上游技術、技能提供者成長。我們可以注意到從上中下游、軟硬體看，美國都包辦了五成以上的品牌，像是Nvidia當然不用說，軟體商巨頭也都嘗試開發自己的晶片像是Amazon跟Google等。在運算平台上基本上除了阿里巴巴外也全都是美國公司，且在資安疑慮存在的一天...在模型與應用上我們也可以看到許多熟悉的美國公司，這都將為美國經濟帶來活水。而我們看這幾年也的確有這樣的趨勢，在2022時有613個， funding is pouring into generative AI, rising from $613 million in 2022 to $2.3 billion in 2023 — money that will only fuel the hype cycle.
 
 https://www.google.com/search?hl=en-US&sxsrf=AB5stBhrpEG3eeLwZfKL9QZif923CDv2ug:1689299684879&q=ai+value+chain&tbm=isch&sa=X&ved=2ahUKEwi_p4vdi42AAxXVP3AKHcqFAigQ0pQJegQIChAB&biw=1180&bih=709&dpr=2#imgrc=Uqx2A_aD3H0PUM
 
