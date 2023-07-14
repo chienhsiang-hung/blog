@@ -72,9 +72,16 @@ https://race.reva.edu.in/wp-content/uploads/2021/02/infographics.png
 - 衣
   [AI網購試衣](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
 - 住
+  Alexa, 智能家居
 - 行
+  智慧交通
+  自動駕駛、輔助駕駛
 - 育
+  寶寶偵測
 - 樂
+  遊戲，影、音
+
+商業領域，工業流程優化
 
 **未來城市**
 
