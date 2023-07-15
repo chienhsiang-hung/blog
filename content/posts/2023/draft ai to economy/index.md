@@ -41,7 +41,7 @@ https://appinventiv.com/blog/metaverse-use-cases-and-benefits/
 ![Investment-In-Metaverse.jpg](Investment-In-Metaverse.jpg "Investment-In-Metaverse.jpg")
 元宇宙相關領域題材曾獲多家機構 (包含McKinsey、Gartner, Deloitte, Accenture 和 BCG等) 表態預估2030年前能為世界帶來5兆美金產值增長。
 
-然而實際場有投入的遠比說會投入的少。
+然而實際場有投入的遠比說會投入的少。(為什麼會這樣我們可以從需求看到...)
 
 (就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。)
 
