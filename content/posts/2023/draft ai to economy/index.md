@@ -65,6 +65,9 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 
 ![pewresearch](https://www.pewresearch.org/wp-content/uploads/2023/02/ft_2023.02.22_ai-applications_01.png?w=640 "pewresearch")
 
+<span hidden>用過metaverse相關應用的請舉手，屈指可數</span>
+更何況chatgpt只不過是ai應用中generative ai的其中一種應用的其中一個品牌
+
 https://www.pewresearch.org/short-reads/2023/02/22/how-americans-view-emerging-uses-of-artificial-intelligence-including-programs-to-generate-text-or-art/
 ## AI應用百花齊放
 （有哪些應用？需求分哪些類？）
