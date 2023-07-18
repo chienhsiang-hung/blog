@@ -23,6 +23,8 @@ hiddenFromSearch: true
     給數字，看已有應用（現有改變改善）
 2. 需求有什麼
 3. 相對應的供給（商業）價值
+## AI 產業應用，商機與投資價值
+接下來分享我們對於這股 AI 熱潮的商機還有投資價值的看法
 ## AI會不會像Metaverse 成為下一個泡沫
 前面提到市場預估AI將對經濟帶來的影響，但這些預估準嗎? 
 
@@ -31,6 +33,8 @@ hiddenFromSearch: true
 從2021年10月Facebook更名為Meta，市場對Metaverse的期待便開始快速竄升，然而把現有資訊科技服務直接更名為元宇宙，就好像營收能夠瞬間跟著翻倍，而不是透過實際應用，顯然是有問題的。
 
 在當時，McKinsey甚至預估2030前光是元宇宙題材就能帶來5T USD的量能，這數字剛好也就是世界第三大經濟體日本全國的GDP數字，僅次於美國與中國。*(其他研究機構諸如Gartner, Deloitte, Accenture 和 BCG 也都產出相似報告，顯示對Metaverse巨大潛力、前景樂觀的看法。)*
+
+Reality lab: https://thetechportal.com/2023/04/19/meta-facebook-reality-labs-layoffs-new/
 
 {{< admonition type=note title="Appendix" open=false >}}
 https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
@@ -43,7 +47,9 @@ https://appinventiv.com/blog/metaverse-use-cases-and-benefits/
 
 然而實際場有投入的遠比說會投入的少。(為什麼會這樣我們可以從需求看到...)
 
+<p hidden>
 (就這張圖，我想現場市調，有使用過上面任何元宇宙應用的請舉手，沒有用過ChatGPT的請舉手。)
+</p>
 
 以終為始，沒有實際需求，以上layers全部都空談。
 ## AI熱潮與Metaverse等其他科技泡沫的不同
