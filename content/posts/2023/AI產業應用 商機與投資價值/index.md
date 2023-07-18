@@ -12,8 +12,6 @@ toc:
   enable: true
 zhtw: true
 lightgallery: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
 ## 架構
 1. 證明不是泡沫
@@ -210,6 +208,3 @@ https://publika.skema.edu/metaverse-bubble-3-0-or-future-internet/
 從前面的介紹我們看到美國AI發展對經濟以及市場帶來的影響，但具體來講有哪些產業或領域是我們應該關注的？這裡分為幾個區塊討論。
 
 （具體的發展）
-
-
-
