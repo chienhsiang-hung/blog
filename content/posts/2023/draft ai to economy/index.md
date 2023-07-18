@@ -71,26 +71,33 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 https://www.pewresearch.org/short-reads/2023/02/22/how-americans-view-emerging-uses-of-artificial-intelligence-including-programs-to-generate-text-or-art/
 ## AI應用百花齊放
 （有哪些應用？需求分哪些類？）
+
+(ChatGPT 5天達到1M 用戶 Netflix 用了3.5年 facebook 用了10個月，在美國有七成的speaker被Echo佔據，而echo當然使用Alexa為voice assistant)
+
 https://race.reva.edu.in/race-lab/solving-life-with-ai/
 
 https://race.reva.edu.in/wp-content/uploads/2021/02/infographics.png
 
 食衣住行育樂
 - 食
-  AI食譜
+  AI食譜, nutritionist.ai, nuro ai, Uber eats
+
+  https://indatalabs.com/blog/top-ai-companies-in-the-usa#:~:text=Big%20fortune%20companies%20such%20as,in%20AI%20and%20machine%20learning.
 - 衣
   [AI網購試衣](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
 - 住
-  Alexa, 智能家居
+  Alexa, 智能家居, Chatgpt
 - 行
   智慧交通
   自動駕駛、輔助駕駛
 - 育
-  寶寶偵測
+  寶寶偵測、監視器
 - 樂
-  遊戲，影、音
+  遊戲，影、音、Gaming
 
 商業領域，工業流程優化
+
+也因為這些需求與應用的蓬勃發展帶動供給成長
 
 **未來城市**
 
