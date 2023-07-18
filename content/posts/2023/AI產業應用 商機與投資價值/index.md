@@ -1,7 +1,7 @@
 ---
 title: "AI產業應用 商機與投資價值"
 date: 2023-07-12T01:17:00+08:00
-lastmod: 2023-07-12T01:17:00+08:00
+lastmod: 2023-07-18T01:17:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -110,7 +110,7 @@ https://futurecity.cw.com.tw/article/2228#AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7
 ![McKinsey checks in on for whom the bell tolls | Financial Times](generative%20ai%20use%20cases%20will%20have%20different%20impacts%20on%20business%20functions%20across%20industries.png "資料來源：Mckinsey")
 (講應用 需求者 下游)
 
-## 需求報量增長 產業價值鏈應運而生
+## 需求爆量增長，美國在 AI 市場的領先地位
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
 ![The value chain: Six links](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/exploring%20opportunities%20in%20the%20generative%20ai%20value%20chain/svgz-exploring-opportunities-gen-ai-ex1-v5.svgz "The value chain: Six links")
 
@@ -123,6 +123,18 @@ value chain impact on us
 https://www.google.com/search?hl=en-US&sxsrf=AB5stBhrpEG3eeLwZfKL9QZif923CDv2ug:1689299684879&q=ai+value+chain&tbm=isch&sa=X&ved=2ahUKEwi_p4vdi42AAxXVP3AKHcqFAigQ0pQJegQIChAB&biw=1180&bih=709&dpr=2#imgrc=Uqx2A_aD3H0PUM
 
 https://beyondexclamation.com/going-make-money-ai/ai-value-chain/
+
+這裡將AI應用分成幾個layers
+
+我們可以看到應用AI公司與AI方案提供者裡面美國佔了很大一部分，那我們愈往上看，到model, platform, chips就集中成美國公司，以platform跟chips來講，美國公司佔了八成
+
+Amazon, Microsoft, google, ibm 
+
+Mckensy又預估AI市場價值從2022 70B (30B) to 2030 將成長到1800B
+
+這將使，這波AI熱潮，將對美國經濟帶來正面影響，成為最大的受惠國
+
+這張圖依照以上幾個國家列出各自在 AI 領域具有代表性的公司或品牌。從公 司、產業方案、企業方案、模型、計算再到硬體，可以看到 7 成以上被美國包 辦，在某幾個 layer 甚至幾乎是美國獨霸。再回到我們前面討論到，AI 科技熱 潮與其他科技泡沫不同，具有龐大實際應用需求，美國 AI 產業相關商業價值與 機會可以說是前所未見，也將繼續蓬勃發展。
 ## AI會不會像Metaverse 成為下一個泡沫
 ### AI的應用 實際、具體且已被執行
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
