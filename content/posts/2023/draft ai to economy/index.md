@@ -55,7 +55,7 @@ https://appinventiv.com/blog/metaverse-use-cases-and-benefits/
 ## AI熱潮與Metaverse等其他科技泡沫的不同
 Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流程商品或服務中，甚至在大型企業中，比例高達90%。光是2015年至2019年間，有直接或間接使用AI技術的公司就成長了270%。
 
-(畫圖)
+從下面的圖我們可以看到在美國這幾個 AI 應用有 聽過或是做過研究的人大概佔 30-40%，其中認為這些 AI 應用的超過 50%甚至到 80%都對這類領域能夠得到 AI 應用的幫助感到信心。而我們可以思考科技泡沫 的形成大概有兩種，分成輕微的價值暫時被高估以及，較嚴重的，除了被高估 外，無法被實際應用或者沒有需求的泡沫，Metaverse 屬於後者，AI 則有可能 會是前者，因此找出有實際需求並不跟風追高很重要。不過可以確定的是需求 的推動，AI 熱潮有可能出現的泡沫，後者這種原因可能比較不必被擔心。
 
 相比，其他科技泡沫大概分兩種:
 - 價值被高估（差）: 再好的公司或前景，價格都有可能被短暫高估，但有價值的公司不怕變壁紙
@@ -63,7 +63,7 @@ Gatner研究報告指出，已有37%企業已輕度至重度採用AI至企業流
 
 從報告中可以看到實際應用與需求都是持續成長，那只要我們不跟風，找到基本價值，這些在手上的標的變壁紙的的一天的機會都可以被最小化。
 
-https://www.pewresearch.org/wp-content/uploads/2023/02/ft_2023.02.22_ai-applications_01.png?w=640
+![pewresearch](https://www.pewresearch.org/wp-content/uploads/2023/02/ft_2023.02.22_ai-applications_01.png?w=640 "pewresearch")
 
 https://www.pewresearch.org/short-reads/2023/02/22/how-americans-view-emerging-uses-of-artificial-intelligence-including-programs-to-generate-text-or-art/
 ## AI應用百花齊放
