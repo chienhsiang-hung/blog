@@ -1,7 +1,7 @@
 ---
 title: "2022/2023 軟體工程師 面試分享整理"
 date: 2023-03-09T11:15:00+08:00
-lastmod: 2023-03-28T05:25:00+08:00
+lastmod: 2023-07-22T08:24:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -90,7 +90,7 @@ zhtw: true
 [Back End Developer | HuntByte | LinkedIn](https://www.linkedin.com/jobs/view/3466167677)
 - [x] *2023-02-14* **開發兼人資電訪**
 
-  完全新創，第一版產品三月會上線，目前公司兩個後端一個前端，全公司八名成員，資金預計還能撐一年。
+  完全新創，第一版產品三月會上線，目前公司兩個後端一個前端，全公司八名成員<span hidden>，資金預計還能撐一年</span>。
 
   聊聊為什麼想換工作，完全開發網頁目前認為有什麼部分(技能)是欠缺的嗎? <span hidden>開一百對方給80加獎金90</span>
 - [x] *2023-02-17* **辦公室面試，與兩位founder和一位cto**

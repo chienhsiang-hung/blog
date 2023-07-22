@@ -114,6 +114,7 @@ https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opport
 
 （講中上游）
 
+<<<<<<< Updated upstream:content/posts/2023/AI產業應用 商機與投資價值/index.md
 value chain impact on us
 
 因為這些下游需求，也帶動中上游技術、技能提供者成長。我們可以注意到從上中下游、軟硬體看，美國都包辦了五成以上的品牌，像是Nvidia當然不用說，軟體商巨頭也都嘗試開發自己的晶片像是Amazon跟Google等。在運算平台上基本上除了阿里巴巴外也全都是美國公司，且在資安疑慮存在的一天...在模型與應用上我們也可以看到許多熟悉的美國公司，這都將為美國經濟帶來活水。而我們看這幾年也的確有這樣的趨勢，在2022時有613個， funding is pouring into generative AI, rising from $613 million in 2022 to $2.3 billion in 2023 — money that will only fuel the hype cycle.
@@ -133,6 +134,10 @@ Mckensy又預估AI市場價值從2022 70B (30B) to 2030 將成長到1800B
 這將使，這波AI熱潮，將對美國經濟帶來正面影響，成為最大的受惠國
 
 這張圖依照以上幾個國家列出各自在 AI 領域具有代表性的公司或品牌。從公 司、產業方案、企業方案、模型、計算再到硬體，可以看到 7 成以上被美國包 辦，在某幾個 layer 甚至幾乎是美國獨霸。再回到我們前面討論到，AI 科技熱 潮與其他科技泡沫不同，具有龐大實際應用需求，美國 AI 產業相關商業價值與 機會可以說是前所未見，也將繼續蓬勃發展。
+=======
+https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114
+
+>>>>>>> Stashed changes:content/posts/2023/draft ai to economy/index.md
 ## AI會不會像Metaverse 成為下一個泡沫
 ### AI的應用 實際、具體且已被執行
 就像Metaverse一樣，熱潮當頭時，每個產業都在講，大家都在談。但吸引眼球或媒體關注外，更重要的是企業是否真的了解AI能帶來什麼價值。
