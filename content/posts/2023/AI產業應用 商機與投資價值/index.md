@@ -1,13 +1,13 @@
 ---
 title: "AI產業應用 商機與投資價值"
 date: 2023-07-12T01:17:00+08:00
-lastmod: 2023-07-18T01:17:00+08:00
+lastmod: 2023-07-23T14:18:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg"]
+images: ["posts/2023/ai%E7%94%A2%E6%A5%AD%E6%87%89%E7%94%A8-%E5%95%86%E6%A9%9F%E8%88%87%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC/report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg"]
 featuredimage: report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg
-tags: []
+tags: ["AI", "美國經濟", "產業觀察", "產業ai論壇"]
 toc:
   enable: true
 zhtw: true
