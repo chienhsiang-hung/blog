@@ -1,13 +1,13 @@
 ---
 title: "Power Platform and Cloud (Azure, AWS) Handover to your colleagues"
 date: 2023-06-09T08:17:00+08:00
-lastmod: 2023-06-29T03:56:00+08:00
+lastmod: 2023-07-23T14:06:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/organization-root-users.png"]
 featuredimage: organization-root-users.png
-tags: ["Powerplatform", "Azure"]
+tags: ["Powerplatform", "Azure", "AWS", "Aws Iam", "Azure Bill"]
 toc:
   enable: true
 lightgallery: true
@@ -29,9 +29,10 @@ Lastly, the documentation stresses the significance of continuous improvement an
 
 By following the guidelines outlined in this article, organizations can ensure a smooth and efficient transition of Power Platform and Cloud responsibilities, minimizing disruptions and maximizing the new employee's potential to contribute effectively from the start.
 ## Check List
+{{< admonition type=note title="Check List" open=false >}}
 - [x] Positions documentation
 - [x] all repositories back up both places
-- [ ] all files back up both places
+- [x] all files back up both places
 - [x] forms copy
 - [x] PowerAutomate copy ALL from the `Owner`
   - [x] OpenAI *Operation* connector
@@ -62,6 +63,7 @@ By following the guidelines outlined in this article, organizations can ensure a
   - [x] [CI/CD](#cicd)
   - [x] [Local Test](#local-test)
     - [x] [REST Client](#rest-client)
+{{< /admonition >}}
 
 ## Power Platform
 what happened to my PowerApps and automates if my account gets deleted after I resign?
