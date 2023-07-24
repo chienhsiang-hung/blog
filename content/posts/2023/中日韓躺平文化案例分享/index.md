@@ -56,3 +56,4 @@ OECD的數據顯示，南韓民眾2021年平均工時是1915小時，遠高於OE
 - https://www.bbc.com/zhongwen/trad/chinese-news-60400246
 - https://www.cw.com.tw/article/5125839
 - https://crossing.cw.com.tw/article/17676
+- https://www.gvm.com.tw/article/82981
