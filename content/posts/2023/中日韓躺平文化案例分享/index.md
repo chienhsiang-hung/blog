@@ -31,7 +31,10 @@ lightgallery: true
 
 ![中國青年失業率](https://image1.thenewslens.com/2022/9/7lfmpgdzqieup32anwh380oxufarqd.jpg?auto=compress&q=80&w=1080 "中國青年失業率")
 
+(這些人為什麼沒工作 沒工作去哪了)
 ### 為什麼沒工作
+(covid > 打壓 > 需求小於供給)
+
 中國疫後長達3年的covid清零政策導致經濟困境，儘管曾看到一些報復性消費，也在今年四月開始失去動力。此外中國政府對**科技**、**教育**與**房地產業**的打壓，也讓大量年青人失業，尤其科技業近來人才供給大幅增加，卻遇上layoff trend。
 
 ### 走上學術之路
