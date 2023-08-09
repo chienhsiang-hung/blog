@@ -26,3 +26,11 @@ hiddenFromSearch: true
 [^6BestFreeAppsforIELTS]: [6 Best Free Apps for IELTS | Links to Download Included - YouTube](https://www.youtube.com/watch?v=Kl1HEsfQ9jE)
 
 {{< youtube WIj6dBB51sY >}}
+
+## IELTS Test Format
+- Reading: 40 questions in 60 minutes.
+  
+  3 Setions. From Easy to Hard.
+  
+  Types of question
+  - Multiple choice
