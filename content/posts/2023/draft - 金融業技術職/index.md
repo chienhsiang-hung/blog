@@ -15,3 +15,5 @@ lightgallery: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
+## 台灣金融業IT狀況
+近期隨著台灣金融業上雲發展，企業開始出現雲端人才需求，同時另一方面，台灣金融業IT技術人員的職涯發展出現結構問題，應該如何改善?
