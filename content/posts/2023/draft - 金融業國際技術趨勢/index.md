@@ -1,7 +1,7 @@
 ---
 title: "金融業國際技術趨勢"
-date: 2023-08-17T03:06:00+08:00
-lastmod: 2023-08-17T03:06:00+08:00
+date: 2023-08-17T07:04:00+08:00
+lastmod: 2023-08-17T07:04:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -12,8 +12,6 @@ toc:
   enable: true
 zhtw: true
 lightgallery: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
 ## 金融產業科技進程
 ### 國泰
