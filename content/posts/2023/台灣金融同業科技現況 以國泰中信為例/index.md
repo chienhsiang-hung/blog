@@ -5,7 +5,7 @@ lastmod: 2023-08-17T07:04:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/台灣金融同業科技現況以國泰中信為例/因應單一雲架構的IT維運管理挑戰.png"]
+images: ["posts/2023/台灣金融同業科技現況-以國泰中信為例/因應單一雲架構的IT維運管理挑戰.png"]
 featuredimage: 因應單一雲架構的IT維運管理挑戰.png
 tags: []
 toc:
