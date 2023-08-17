@@ -1,12 +1,12 @@
 ---
 title: "台灣金融同業科技現況 以國泰中信為例"
 date: 2023-08-17T07:04:00+08:00
-lastmod: 2023-08-17T07:39:00+08:00
+lastmod: 2023-08-17T08:03:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/台灣金融同業科技現況-以國泰中信為例/因應單一雲架構的IT維運管理挑戰.png"]
-featuredimage: 因應單一雲架構的IT維運管理挑戰.png
+images: ["posts/2023/台灣金融同業科技現況-以國泰中信為例/金融資訊科技趨勢.png"]
+featuredimage: 金融資訊科技趨勢.png
 tags: []
 toc:
   enable: true
@@ -153,6 +153,7 @@ DevOps
 </object>
 
 ## 金融資訊科技趨勢
+![金融資訊科技趨勢.png](金融資訊科技趨勢.png "金融資訊科技趨勢.png")
 金融百貨不易查找 -> 服務API化
 
 重複人工費時費力 -> 通用AI生成AI
