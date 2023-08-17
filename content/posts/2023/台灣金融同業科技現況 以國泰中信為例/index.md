@@ -1,7 +1,7 @@
 ---
 title: "台灣金融同業科技現況 以國泰中信為例"
 date: 2023-08-17T07:04:00+08:00
-lastmod: 2023-08-17T07:32:00+08:00
+lastmod: 2023-08-17T07:39:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -152,7 +152,7 @@ DevOps
   <p>Unable to display PDF file. <a href="https://s.itho.me/ccms_slides/2021/12/30/f8496acd-7912-4154-828c-4ec8e559de3e.pdf">Download</a> instead.</p>
 </object>
 
-## 趨勢
+## 金融資訊科技趨勢
 金融百貨不易查找 -> 服務API化
 
 重複人工費時費力 -> 通用AI生成AI
