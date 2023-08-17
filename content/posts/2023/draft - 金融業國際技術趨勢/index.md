@@ -5,8 +5,8 @@ lastmod: 2023-08-17T03:06:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-your-colleagues/report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg"]
-featuredimage: report%20Value%20Creation%20in%20the%20Metaverse,%20McKinsey,%20June%202022.jpg
+images: ["posts/2023/draft-金融業國際技術趨勢/因應單一雲架構的IT維運管理挑戰.png"]
+featuredimage: 因應單一雲架構的IT維運管理挑戰.png
 tags: []
 toc:
   enable: true
@@ -100,6 +100,7 @@ DevOps
     除了將導入基礎架構管理工具Terraform，來完成多雲環境自動化建置，他們之後還要打造屬於國泰集團自己的雲端管理平臺（CMP），該平臺不只做為小樹生活 圈服務的多雲管理平臺，未來更要發展成為集團下一世代金融服務多雲管理解決方案。
 
     不只跨2朵雲，國泰金控年底前還要採用GCP公有雲，作為小樹生活圈服務使用的第3朵雲，用於大數據分析與相關應用，意謂著，國泰金控IT正式邁入多雲管理的架構，對於DevOps團隊的維運管理考驗更大。
+![因應單一雲架構的IT維運管理挑戰.png](因應單一雲架構的IT維運管理挑戰.png "因應單一雲架構的IT維運管理挑戰.png")
 ### 中信
 內部設立數位創新實驗室
 - 區塊鏈實驗室
