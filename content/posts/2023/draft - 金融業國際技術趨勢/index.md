@@ -15,3 +15,11 @@ lightgallery: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
+## 金融產業科技進程
+### 國泰
+- 洽商平台
+
+  讓合作流程透明化，團隊主動聯繫: 場景金融、多元合作企業服務、自助服務各類產業合作申請窗口
+- APIM
+
+  金控級API管理平台，將各面向金融服務API化，
