@@ -149,8 +149,6 @@ DevOps
 - 對任一公有雲有3年以上使用經驗 (如AWS/Azure/GCP)。
 - Kubernetes
 
-<object data="宋政隆(clsung@) 中國信託商業銀⾏" type="application/pdf" width="100%" height="600px">
-    <embed src="宋政隆(clsung@) 中國信託商業銀⾏">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://s.itho.me/ccms_slides/2021/12/30/f8496acd-7912-4154-828c-4ec8e559de3e.pdf">Download PDF</a>.</p>
-    </embed>
+<object data="https://s.itho.me/ccms_slides/2021/12/30/f8496acd-7912-4154-828c-4ec8e559de3e.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF file. <a href="https://s.itho.me/ccms_slides/2021/12/30/f8496acd-7912-4154-828c-4ec8e559de3e.pdf">Download</a> instead.</p>
 </object>
