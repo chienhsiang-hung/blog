@@ -80,8 +80,8 @@ Cloud
 
   該方法論提到第四種上雲方式是Rewrite，相較於前三種上雲方式，不光是改寫應用程式，連系統架構也進行大幅更改，轉為Cloud Native架構，如將前端網頁從MVC架構改為前後端分離的SPA單頁式應用架構。他指出，這種上雲作法，雖然更能支援雲端原生環境，但系統開發成本相對較高。如果採用Replace方式上雲的話，對轉換雲原生架構更徹底，等於是全面改以SaaS服務型態進行上雲。最後Retain作法則因考慮到合規性、系統合併等不確定因素，系統仍維持於地端。
 
-  在6R方法論中，採用不同遷移方式，對應到的上雲模式有所不同，比如Rehost分類對應到的上雲模式是IaaS，Re-platform和Refactor上雲模式則是IaaS[Iaas^]或PaaS[Iaas^]，而Rewrite對應到的是PaaS或SaaS，至於Replace則屬於SaaS模式。
-  [Iaas^]: [PaaS、IaaS 與 SaaS 有何差異？ | Google Cloud](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=zh-tw)
+  在6R方法論中，採用不同遷移方式，對應到的上雲模式有所不同，比如Rehost分類對應到的上雲模式是IaaS，Re-platform和Refactor上雲模式則是IaaS[^Iaas]或PaaS[^Iaas]，而Rewrite對應到的是PaaS或SaaS，至於Replace則屬於SaaS模式。
+  [^Iaas]: [PaaS、IaaS 與 SaaS 有何差異？ | Google Cloud](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=zh-tw)
 
   但對國泰系統上雲來說，他強調，最終希望是採用PaaS或SaaS方式上雲，大量使用虛擬機的IaaS模式雖是最快又簡單的上雲方法，但獲得的雲端效益也最低。顏勝豪更用一句話直白說明 Cathay 6R 策略：「**就是消滅虛擬機**」。
 
