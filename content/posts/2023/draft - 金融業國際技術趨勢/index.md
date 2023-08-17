@@ -82,6 +82,10 @@ Cloud
 
   在6R方法論中，採用不同遷移方式，對應到的上雲模式有所不同，比如Rehost分類對應到的上雲模式是IaaS，Re-platform和Refactor上雲模式則是IaaS[Iaas^]或PaaS[Iaas^]，而Rewrite對應到的是PaaS或SaaS，至於Replace則屬於SaaS模式。
   [Iaas^]: [PaaS、IaaS 與 SaaS 有何差異？ | Google Cloud](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=zh-tw)
+
+  但對國泰系統上雲來說，他強調，最終希望是採用PaaS或SaaS方式上雲，大量使用虛擬機的IaaS模式雖是最快又簡單的上雲方法，但獲得的雲端效益也最低。顏勝豪更用一句話直白說明 Cathay 6R 策略：「**就是消滅虛擬機**」。
+
+  為了縮短系統上雲評估作業，國泰後來自行開發一個**CCMA（國泰系統上雲評估分析平臺）系統**，將6R分類方法轉為系統化方式，來協助各子公司評估，除了協助其快速了解應用系統的資料性質、開發者、資安需求等等，也提供子公司**作為整體應用遷移策略的選擇參考**。
 ### 中信
 內部設立數位創新實驗室
 - 區塊鏈實驗室
