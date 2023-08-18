@@ -71,7 +71,7 @@ enableEmoji = true
   # website title for Open Graph and Twitter Cards
   title = "Hung, Chien-Hsiang 洪健翔 | Blog"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Hung, Chien-Hsiang (洪健翔) A Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM - one of the biggest family offices offering tailor-made financial services to High-net-worth individual."
+  description = "Hung, Chien-Hsiang (洪健翔) A Full Stack Developer/ Kaggle All-round Expert/ IT Management Associate at Fubon Financial Holding Co., Ltd. 富邦金控"
   # website images for Open Graph and Twitter Cards
   images = ["/android-chrome-512x512.png"]
 
@@ -102,7 +102,7 @@ enableEmoji = true
   [params.home]
     [params.home.profile]
       avatarURL = "/images/avatar-icon.png"
-      subtitle = "Full Stack Developer/ Kaggle All-round Expert/ IT Manager, DDI at WAM"
+      subtitle = "Full Stack Developer/ Kaggle All-round Expert/ IT Management Associate at Fubon Financial Holding Co., Ltd. 富邦金控"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
