@@ -27,7 +27,7 @@ hiddenFromSearch: true
 
 ## 產業現況 (就IT從業人員而言)
 1. 金融限制多、文化相對保守、學不到新技術(甚至許多有老舊狀況)、成長緩慢、養老、薪資不是特別優渥(因為過去IT只是成本單位，金融業不靠軟體實力賺錢)，想衝的會往科技業，想安穩的又可能會在意金融業的管理嚴緊相較不自由，文書作業流程複雜且多。
-2. 能力和經驗的重要程度<輩分(年資)。
+2. 能力的重要程度體現在薪級上<輩分(年資)。
 
     **需要別於一般側重經驗(年資)因素做為升遷依據的成長路線**
 
@@ -43,8 +43,11 @@ hiddenFromSearch: true
 
 針對個人貢獻者，目前職級比照金控一般內勤同仁辦理。
 ### 國外軟體公司如何規劃
+[Amazon vs Microsoft vs Google vs Standard vs Facebook - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Amazon,Microsoft,Google,Standard,Facebook&track=Software%20Engineer#)
 ![Levels.fyi-faang-ic.png](Levels.fyi-faang-ic.png "Levels.fyi-faang-ic.png")
 ![Levels.fyi-faang-mgmt.png](Levels.fyi-faang-mgmt.png "Levels.fyi-faang-mgmt.png")
+
+台灣金融業狀況: IT若不升管理職，沒有個人貢獻的路線可以前進，將遇到瓶頸，參照以上公司狀況，可另設IC職涯路徑。
 
 ### 職類規劃
 國內金控目前還沒有...
