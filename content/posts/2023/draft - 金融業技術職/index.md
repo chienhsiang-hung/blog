@@ -47,9 +47,9 @@ hiddenFromSearch: true
 ![Levels.fyi-faang-ic.png](Levels.fyi-faang-ic.png "Levels.fyi-faang-ic.png")
 ![Levels.fyi-faang-mgmt.png](Levels.fyi-faang-mgmt.png "Levels.fyi-faang-mgmt.png")
 
-台灣金融業狀況: IT若不升管理職，沒有個人貢獻的路線可以前進，將遇到瓶頸，參照以上公司狀況，可另設IC職涯路徑。
+### 設計參照
+台灣金融業狀況: IT若不升管理職，沒有個人貢獻的路線可以前進，將遇到瓶頸，參照以上公司狀況，可另設IC[^individualcontributor]職涯路徑。
 
-### 職類規劃
-國內金控目前還沒有...
+[^individualcontributor]: [What Is An Individual Contributor? Definition & Career Path (honehq.com)](https://honehq.com/glossary/individual-contributor/#:~:text=The%20definition%20of%20an%20individual,are%20accountable%20for%20their%20work.)
 
 ## 雲端能力中心的腳色與職能需求
