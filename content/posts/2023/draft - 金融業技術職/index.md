@@ -37,4 +37,11 @@ hiddenFromSearch: true
 - SD 全端 Java C# JS IOS Andriod -> 個人貢獻、管理 
 - OP 維運 資安 DBA 網管 等 -> 個人貢獻、管理
 
+針對個人貢獻者，目前職級比照金控一般內勤同仁辦理。
+### 國外軟體公司如何規劃
+![Levels.fyi-faang.png](Levels.fyi-faang.png "Levels.fyi-faang.png")
+
 ### 職類規劃
+國內金控目前還沒有...
+
+## 雲端能力中心的腳色與職能需求
