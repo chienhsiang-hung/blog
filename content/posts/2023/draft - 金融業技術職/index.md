@@ -48,7 +48,7 @@ hiddenFromSearch: true
 ![Levels.fyi-faang-ic.png](Levels.fyi-faang-ic.png "Levels.fyi-faang-ic.png")
 ![Levels.fyi-faang-mgmt.png](Levels.fyi-faang-mgmt.png "Levels.fyi-faang-mgmt.png")
 
-### 設計參照
+### 個人貢獻者職涯設計參照
 台灣金融業狀況: IT若不升管理職，沒有個人貢獻的路線可以前進，將遇到瓶頸，參照以上公司狀況，可另設IC[^individualcontributor]職涯路徑。
 
 ![How do Amazon's engineering levels map to Google's?](https://qph.cf2.quoracdn.net/main-qimg-67bd5e851081a5a521ef59e06414cd3a "How do Amazon's engineering levels map to Google's? https://www.quora.com/How-do-Amazons-engineering-levels-map-to-Googles")
