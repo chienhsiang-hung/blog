@@ -39,7 +39,8 @@ hiddenFromSearch: true
 
 針對個人貢獻者，目前職級比照金控一般內勤同仁辦理。
 ### 國外軟體公司如何規劃
-![Levels.fyi-faang.png](Levels.fyi-faang.png "Levels.fyi-faang.png")
+![Levels.fyi-faang-ic.png](Levels.fyi-faang-ic.png "Levels.fyi-faang-ic.png")
+![Levels.fyi-faang-mgmt.png](Levels.fyi-faang-mgmt.png "Levels.fyi-faang-mgmt.png")
 
 ### 職類規劃
 國內金控目前還沒有...
