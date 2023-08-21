@@ -42,6 +42,7 @@ hiddenFromSearch: true
 - OP 維運 資安 DBA 網管 等 -> 個人貢獻、管理
 
 針對個人貢獻者，目前職級比照金控一般內勤同仁辦理。
+![個人貢獻者若不帶團隊職涯升等存在瓶頸.png](個人貢獻者若不帶團隊職涯升等存在瓶頸.png "個人貢獻者若不帶團隊職涯升等存在瓶頸.png")
 ### 國外軟體公司如何規劃
 [Amazon vs Microsoft vs Google vs Standard vs Facebook - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Amazon,Microsoft,Google,Standard,Facebook&track=Software%20Engineer#)
 ![Levels.fyi-faang-ic.png](Levels.fyi-faang-ic.png "Levels.fyi-faang-ic.png")
