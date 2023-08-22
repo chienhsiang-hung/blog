@@ -55,4 +55,6 @@ hiddenFromSearch: true
 
 [^individualcontributor]: [What Is An Individual Contributor? Definition & Career Path (honehq.com)](https://honehq.com/glossary/individual-contributor/#:~:text=The%20definition%20of%20an%20individual,are%20accountable%20for%20their%20work.)
 
-## 雲端能力中心的腳色與職能需求
+## 雲
+隨金管會鬆綁上雲，台灣金融業也開始可以借助雲端服務提升流程效率。考量台灣金融IT現況...
+
