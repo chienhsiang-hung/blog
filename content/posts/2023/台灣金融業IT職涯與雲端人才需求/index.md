@@ -1,7 +1,7 @@
 ---
 title: "台灣金融業IT職涯與雲端人才需求"
 date: 2023-08-23T03:14:00+08:00
-lastmod: 2023-08-23T03:14:00+08:00
+lastmod: 2023-08-23T03:24:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -58,7 +58,9 @@ lightgallery: true
 
 隨金管會鬆綁上雲，台灣金融業也開始可以借助雲端服務提升流程效率。考量台灣金融IT現況...
 
-目前只有國泰有直接相關職缺釋出
+目前只有國泰有直接相關職缺釋出[^國泰資訊開發中心進駐高雄]
+
+[^國泰資訊開發中心進駐高雄]: [國泰資訊開發中心進駐高雄 主攻雲端發展 將招募百位人才加入 | 金融脈動 | 金融 | 經濟日報 (udn.com)](https://money.udn.com/money/story/5613/7096161?from=edn_hotestlist_storybottom)
 
 {{< admonition type=note title="國泰相關職缺" open=false >}}
 
