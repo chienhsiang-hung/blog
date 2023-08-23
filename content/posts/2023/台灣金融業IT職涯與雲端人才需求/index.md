@@ -1,7 +1,7 @@
 ---
 title: "台灣金融業IT職涯與雲端人才需求"
 date: 2023-08-23T03:14:00+08:00
-lastmod: 2023-08-23T03:24:00+08:00
+lastmod: 2023-08-23T07:24:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -35,9 +35,11 @@ lightgallery: true
 
 ## 職類
 台灣金融IT分類
-- SA 找廠商 開會 -> 管理
-- SD 全端 Java C# JS IOS Andriod -> 個人貢獻、管理 
+- SA[^SA/SD/RD/PG/PM/DBA/MIS] 找廠商 開會 -> 管理
+- SD[^SA/SD/RD/PG/PM/DBA/MIS] 全端 Java C# JS IOS Andriod -> 個人貢獻、管理 
 - OP 維運 資安 DBA 網管 等 -> 個人貢獻、管理
+
+[^SA/SD/RD/PG/PM/DBA/MIS]: [SA / SD / RD / PG / PM / DBA / MIS :: CooTAG庫特客](https://cootag.com/Topic/51719-sa-sd-rd-pg-pm-dba-mis.html)
 
 針對個人貢獻者，目前職級比照金控一般內勤同仁辦理。
 ![個人貢獻者若不帶團隊職涯升等存在瓶頸.png](個人貢獻者若不帶團隊職涯升等存在瓶頸.png "個人貢獻者若不帶團隊職涯升等存在瓶頸.png")
