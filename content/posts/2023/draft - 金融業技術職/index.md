@@ -62,6 +62,8 @@ hiddenFromSearch: true
 
 目前只有國泰有直接相關職缺釋出
 
+{{< admonition type=note title="國泰相關職缺" open=false >}}
+
 <table border="0" cellpadding="0" cellspacing="0" width="3452" style="border-collapse:
  collapse;table-layout:fixed;width:2592pt">
  <colgroup><col class="xl65" width="38" style="mso-width-source:userset;mso-width-alt:1389;
@@ -244,4 +246,6 @@ hiddenFromSearch: true
  <!--[endif]-->
 </tbody></table>
 
-### 關鍵任務與技能
+{{< /admonition >}}
+
+### 關鍵任務與職能
