@@ -1,17 +1,17 @@
 ## Codespaces Usage
-1. install `hugo-installer`
+1. install **hugo-installer**
 
-  `npm install hugo-installer --save-dev`
+    `npm install hugo-installer --save-dev`
   
-2. Configure hugo version (required)
+2. Configure hugo version (required) in **package.json**
 
-```
-{
-  "scripts": {
-    "postinstall": "hugo-installer --version 0.121.1 --extended"
-  }
-}
-```
+    ```json
+    {
+      "scripts": {
+        "postinstall": "hugo-installer --version 0.121.1 --extended"
+      }
+    }
+    ```
 
-3. `npm run postinstall`
-4. `bin/hugo/hugo server`
+3. `npm run postinstall` to install Hugo
+4. `bin/hugo/hugo server` to run hugo server
