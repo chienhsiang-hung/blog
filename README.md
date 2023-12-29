@@ -14,4 +14,4 @@
     ```
 
 3. `npm run postinstall` to install Hugo
-4. `bin/hugo/hugo server` to run hugo server
+4. `bin/hugo/hugo server` to run **hugo server**

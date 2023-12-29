@@ -1,7 +1,7 @@
 ---
 title: "2023金控MA 資訊科技|金融科技|數位創新|數據分析|數位平台 雜亂無章的儲備幹部面試筆記"
-date: 2023-01-11T00:53:00+08:00
-lastmod: 2023-01-11T00:53:00+08:00
+date: 2023-12-29T05:44:00+08:00
+lastmod: 2023-12-29T05:44:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -11,13 +11,14 @@ tags: []
 toc:
   enable: true
 zhtw: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
 ## 結果
-> 在職申請，幾乎所有金控都申請遍了
+
+<p hidden>幾乎所有金控都申請遍了</p>
+
+> 在職申請
 >
-> 都是資訊相關組別，經過大量面試彼此互相了解
+> 都是資訊相關組別，經過大量面試，過程就是雙方互相了解
 >
 > **最後有去，一路參加到最後一關，並且拿到錄取通知的有，富邦金控資訊科技MA、永豐銀資訊科技MA，以及英國保誠Prudential Technology MA**
 ## 背景
