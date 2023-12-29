@@ -2118,6 +2118,9 @@ I didn't prepare and haven't been speaking in English for quite a while. It was 
  高度抗壓與適應力
 
 104、官網
+
+<div hidden>
+
 ##### 自傳
 目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation System、Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
@@ -2143,6 +2146,9 @@ Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金
 - GitHub: https://github.com/chienhsiang-hung/
 ##### 應徵動機
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+
+</div>
+
 #### 初試面談
 1.面談時間：**2023年5月5日星期五**  下午13:30-14:00
 
@@ -2186,24 +2192,28 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 #### 履歷
 ##### 成長背景
 *成長背景(包含個人特質介紹)*
-
+<div hidden>
 父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
 
 相信If you want something you’ve never had. You must be willing to do something you’ve never done.。熱愛嘗試、學習，擁抱新鮮事物，視失敗與挫折為通往成功道路上的沿途景致。相信進步來自於迎接新事物帶來的挑戰，期許且實踐，每天都要比昨天的自己更進步。
+</div>
 
 [個人網站與作品]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
 ##### 棘手問題經驗
 *請描述或舉例過去你曾經遇到最棘手的問題及你用過哪些方式解決它，結果如何？*
-
+<div hidden>
 在一次參加物件偵測模型比賽時，比賽過程測試之公開成績非常漂亮，卻因疏忽忘記在上傳最終結果時附上隊伍資料⽽喪失決賽資格。經過反省後，整理出幾點下次可以改進的地⽅： 
 1. 明確指定負責專案管理的組員，確保計畫按時程進⾏，避免事情擠在最後⼀團亂，尤其是行政、文書這類特別容易疏忽卻異常重要的工作
 2. 增加團隊開會的次數以追蹤組員進度 
 3. 更加清楚分⼯，且應知⼰知彼，根據組員能⼒條配，減少有⼈事情太多，有⼈事情太少，浪費時間、效率低下的事情發⽣
+</div>
 
 ##### 動機及規劃
 *請說明為什麼您選擇參加本儲備主管計畫的原因及規劃如何快速且超乎期待的勝任該角色。*
+<div hidden>
+
 ###### 個金
 *遠銀個人金融除了傳統個金業務，還運用大數據及機器/深度學習，建置客戶行為預測模型精準行銷、經營自媒體Line、YouTube、FB發展影音行銷培養新生代網紅、設計導客計畫發展創新行銷模式、建構智能理財與e化系統，量身打造以客戶為中心之金融服務，創建金融生態圈。在台灣金融業當中少見直接在’個金’儲備幹部中進行類似工作。*
 
@@ -2212,6 +2222,8 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入遠銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+</div>
+
 #### 視訊面試
 *(另有15分鐘線上適性測驗-華德士測驗)*
 ##### 數位金融
@@ -2225,6 +2237,7 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 
 [多家金融機構-儲備幹部MA-面試經驗分享面試經驗暨工作甘苦談-1111人力銀行](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=fans&id=233389&page=4)
 
+<div hidden>
 - 自我介紹
 
   畢業於中山財管，目前在香港最大的資產管理公司eam family office擔任it manager
@@ -2238,6 +2251,7 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 - 為什麼想加入遠銀
 
   ...
+</div>
 
 用蠻放鬆的心情當作練習參加，用手機錄製
 
@@ -2265,12 +2279,14 @@ This is to gauge your ability to communicate in English in the business environm
 1. Smooth.
 2. Understandable
 3. Understand.
-
+<div>
 Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
 
 The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
 
 And after around 2 years in this company, I'm getting into the zone where my growth pace starts getting slower. So I figured to seek a new environment to further challenge myself and so to grow. And that's why I'm here today. I believe my ...
+</div>
+
 ##### Interview
 *(It was just around 10 mins.)*
 
@@ -2377,12 +2393,14 @@ Template:
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入統一證相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 ##### 最大的挫折
 *請分享您目前為止遇過最大的挫折？如何克服？您堅持的信念為何？*
-
+<div hidden>
 幾個月前因為朋友要準備FAANG-SWE，邀請自己一起練Algorithm、Data Structure，刷LeetCode，當時離報名MA也還有段時間因此想藉此機會測試自己實力。
 
 策略是用熟悉語言(Python)先快速理解各主題基本原理、實作，完成一輪學習後開始刷題並參加競賽，目標為開始比賽1個月內能進入全球排名前10%。
 
 開始比賽幾週後卻卡在前30%，挑戰失敗，但也理解是因為自己用興趣學習的方式進行，雖然花很多時間很努力，但沒有採用最有效率的方式刷提(根據弱點補強並跳過艱深低頻類型題目)、解題過程也未優化(除了優化算法，也要優化解法)，雖然失望，但若改變刷題策略執行，有信心可以達成。
+</div>
+
 #### MA適性測驗
 共計48分鐘(同意將測評結果授權給本公司及104求才企業參閱)
 
@@ -2447,8 +2465,10 @@ Template:
 2.  實戰性：元大金控的MA program注重實戰能力的培養，強調理論與實踐相結合，可以提供豐富的實踐經驗和機會。
 3.  發展性：元大金控是台灣金融業的龍頭企業之一，有良好的發展前景和職涯發展機會，參加MA program可以為我的未來職涯發展打下基礎。
 4.  文化氛圍：元大金控的企業文化以專業、創新、卓越為核心價值觀，這種文化氛圍對我個人成長和發展也具有好的影響。
+<div hidden>
 ##### 填答
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
+</div>
 
 #### 生涯發展規劃
 *請說明您對於未來的生涯發展的規劃*
@@ -2460,8 +2480,11 @@ Template:
 接著，我希望能夠在數位金融儲備幹部計劃結束後進入元大金控的相關部門工作，例如數位金融產品開發、數據分析、網路行銷等領域。通過實踐和實踐經驗，我希望能夠不斷提升自己的專業素養和技能，進一步發展自己的職業生涯。
 
 最後，我希望能夠成為元大金控的優秀人才，並為公司的數位轉型和發展做出貢獻。通過積極參與公司的項目和活動，我希望能夠不斷成長和進步，實現自己的職業目標和夢想，同時為公司的成功貢獻自己的力量。
+<div hidden>
 ##### 填答
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在數位金融儲備幹部計劃結束後進入元大金控的相關部門工作，例如數位金融產品開發、數據分析、網路行銷等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+</div>
+
 #### 初試面談
 *(有線上適性測驗20分鐘)*
 - 10min HR介紹
