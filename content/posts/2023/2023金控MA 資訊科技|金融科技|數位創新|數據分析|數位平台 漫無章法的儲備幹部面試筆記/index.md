@@ -1,7 +1,7 @@
 ---
 title: "2023金控MA 資訊科技|金融科技|數位創新|數據分析|數位平台 漫無章法的儲備幹部面試筆記"
 date: 2023-01-11 00:53:00 +0800
-lastmod: 2023-12-29T07:54:00+08:00
+lastmod: 2023-12-29T08:09:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -1510,6 +1510,11 @@ What hinder can you think of for the project How would you deal with it
 -   ~~benefit conflict~~ Conflict of interest
 
 **結果: Technology MA offer get**
+
+<mark>在這裡要鄭重感謝資訊長，在最終面結束後，又特地約了一天上午間開導解惑，分享自身經驗</mark>
+
+<mark>非常熱心，經驗豐富，又願意提攜後輩，真的想跟著他一起學習</mark>
+
 ### 永豐銀
 - 財富金融 - 財富管理企劃:
   
