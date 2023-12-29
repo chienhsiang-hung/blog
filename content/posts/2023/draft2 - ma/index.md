@@ -2607,6 +2607,8 @@ Template:
 面試官很在意動機，以及面試者對元大的研究的投入(四大BU)，還會詢問志願，再次探詢動機跟邏輯。
 
 看重提案能力以及是否認真針對元大現有產品深路了解提出看法。
+
+希望應徵者更aggresive and hostile。
 ### 國泰
 > 國泰金學歷資訊統計[^面試趣]
 > 
@@ -2668,10 +2670,12 @@ you need pen and calculator
 自傳、挫折、新觀點、動機規劃
 #### 動機以及職涯規劃
 *請說明您應徵南山儲備菁英計畫的動機以及您對未來的職涯規劃。*
-
+<div hidden>
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備菁英計劃結束後進入南山相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
+</div>
+
 #### 競爭力暨健診報告
 *求職策NSEP競爭力暨健診報告*
 
@@ -2687,7 +2691,7 @@ you need pen and calculator
 - 適性測驗(10-15分鐘)
 ##### 準備
 - 自我介紹
-
+<div hidden>
   中山財管、香港最大資產管理公司 EAM Family office擔任it manager
 
   我負責全端開發，以及各BU的智能RPA開發部屬，流程數位轉型
@@ -2705,6 +2709,7 @@ you need pen and calculator
   此外還有像是清冠地圖、Kaggle profile api等等，喜歡不管是工作時候是工作外，不斷學習與挑戰自己
 
   這也是我今天來這裡的原因，希望能在南山人壽這樣base更大，客戶更廣，應用更多元的公司持續進步
+</div>
 
 - BAM
 
@@ -2740,6 +2745,7 @@ you need pen and calculator
 #### 時事
 [Why are diapers so expensive? What should government do?](https://chienhsiang-hung.github.io/blog/posts/2023/why-are-diapers-so-expensive-what-should-government-do/)
 #### 自傳
+<div hidden>
 父母親經營家族企業-行李箱批發維修公司，從小便浸淫在變化快速的商業環境中，為後續求學、求職進入商管領域埋下種子。家裡還有優秀的弟弟跟妹妹，弟弟進入WeMo，妹妹目前在國泰核心資訊，留職停薪回政大繼續攻讀統計所。身為大哥，做為弟弟妹妹的榜樣，我必須持續在前披荊斬棘，而這也是另一個促使我不斷前進的動力。
 
 在2017-2020兩年半的時間內取得中山MBA財管碩士，參加各大商業競賽並取得獎項，像是國泰商業大數據競賽優選，DBS Hackthon冠軍等。累積金融業實習經驗像是富邦、期交所等，了解金融場景，也參加政府新南向至菲律賓實習，同時累積國際經驗，包含俄羅斯暑期學程與瑞典交換。並在過程中持續增加現金流量，透過實習薪資、比賽獎金、各類獎學金之取得，幸運地使現金流入總和大於期間各校學費、生活費、住宿費等等。降低額外打工需求，提升學習品質，休閒時間除了社團活動也熱愛旅遊、戶外運動等，還考取了像是PADI  AOW進階開放水域潛水員的證照。
@@ -2771,11 +2777,11 @@ I believe that if you want something you've never had, you must be willing to do
 In the modern financial industry, non-traditional financial technology startups are emerging like mushrooms after rain, and the mastery of data and technology innovation is crucial for traditional financial companies. The plan for digital finance aligns well with my past academic knowledge, work experience, and interests, and presents a great opportunity for me to deepen my learning and development. I believe that I can apply the knowledge and experience I gained during my MBA at Sun Yat-Sen University and my previous role as IT Manager at a leading asset management company in Hong Kong to have a doubled impact and create greater value for the company.
 
 I hope to leverage my understanding and experience in financial products, markets, and technology, and quickly learn in the ever-changing environment, so that every project or product I handle can be more valuable than the previous one and I can constantly grow. In addition to hard skills such as industry knowledge, product development, and technical expertise, I also aim to possess excellent soft skills that enable me to lead a team to progress together. In particular, I have a keen interest in FinTech and hope to work in departments related to the development of digital financial products, data analysis, digital platforms, and artificial intelligence after completing the program. I am confident that I can lead projects and produce products that can be commercialized or bring significant benefits to the company, thereby contributing to its digital transformation and development. Additionally, I aspire to become a role model in this field and to bring positive influence to others.
-
+</div>
 [Personal Website and Works]
 
-Personal Website: https://hsiang.eu.org/
-GitHub: https://github.com/chienhsiang-hung/
+-Personal Website: https://hsiang.eu.org/
+-GitHub: https://github.com/chienhsiang-hung/
 #### 雲端智慧面試
 *收到此請後的5個工作天內完成面試流程*
 
@@ -2803,7 +2809,7 @@ GitHub: https://github.com/chienhsiang-hung/
 
 或初期general的interview I guess...
 
-其實有紀錄提醒了，卻忘記查看...
+其實有紀錄提醒了，卻忘記查看XD
 ![開發金雲端智慧面試筆記.png](開發金雲端智慧面試筆記.png "開發金雲端智慧面試筆記")
 > 印象中有問選CDF的動機、CDF優劣勢、擅長的領域為何，如何應用在工作中、分享一個金融事件
 > 
@@ -2816,6 +2822,7 @@ GitHub: https://github.com/chienhsiang-hung/
 培育**金融創新的策略幕僚人才**
 
 我們歡迎對證券業有濃厚興趣，具備「**數位金融創新**、**營運策略思維**、**風險管理意識**」想法的您加入。
+<div hidden>
 #### 履歷
 ##### Step1
 填妥「永豐金證券儲備幹部(MA)履歷表」email 至 hrm.hr@sinopac.com ，為確保申請資料妥善儲存，請務必將 email 主旨命名「2023MA_姓名」(範例：2023MA_林小豐)
@@ -2890,6 +2897,8 @@ GitHub: https://github.com/chienhsiang-hung/
   (6) ChatGPT是什麼？GPT-4厲害在哪？跟過去幾代有差嗎？一篇看懂最強AI紅什麼｜數位時代 BusinessNext. https://www.bnext.com.tw/article/73183/chatgpt-202212 Accessed 29/04/2023.
 ##### Step2
 前往104人力銀行投遞履歷，報名期間至 2023年4月30日 截止
+</div>
+
 #### 計畫線上說明會
 志願序表
 
@@ -2965,11 +2974,15 @@ GitHub: https://github.com/chienhsiang-hung/
 - 為什麼選證券業MA
 
   (投資顧問部主管及HR主管)
-
+<div hidden>
   對我來講我想藉由工作更了解量化程式交易產品經驗，而我也相信我目前具備的財管知識與infra and data技能與快速學習的能力以及PM的經驗能勝任這個職位。
+</div>
+
 - 問問題
   
   想了解這個組別具體的工作內容?有沒有前幾屆的狀況能分享?
+
+<div hidden>
 ### 台新
 *官網投遞要小心不要一下就按應徵，按了就寄出了無法收回或修改，**一定要先進編輯履歷頁面填寫完再去點應徵***
 
@@ -3020,7 +3033,6 @@ GitHub: https://github.com/chienhsiang-hung/
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在科技儲備幹部計劃結束後進入玉山相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 
 (提交履歷的時候沒檢查，結果台新複製過去的資料沒改到，上面還寫著*希望能夠在數位金融儲備菁英計劃結束後進入**台新**相關部門工作*:sweat_smile:)
-<div hidden>
 ### 一銀
 #### 自傳
 在中山大學攻讀財管碩士時，參加各大商業競賽並取得獎項，累積金融業實習經驗，也參加政府新南向至菲律賓實習，累積國際經驗，包含俄羅斯暑期學程與瑞典交換。
@@ -3037,8 +3049,6 @@ GitHub: https://github.com/chienhsiang-hung/
 [個人網站與作品]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
-</div>
-
 ## 問題
 ### 自我描述與經驗
 #### 自傳與家庭成長背景
@@ -3244,7 +3254,7 @@ GitHub: https://github.com/chienhsiang-hung/
 #### 處理困難問題
 #### 違反做事原則
 #### 跟較弱的同事相處
-
+</div>
 
 [^面試趣]: [找工作前的第一站 | 面試趣 (interview.tw)](https://interview.tw/)
 [^2021年MA面試錄取分享]: [2021年MA面試錄取經驗分享｜富邦金控、中信金控｜Lina | Lina’s Diary (medium.com)](https://medium.com/linas-diary/2021mainterview-ac01dd9e0699)
