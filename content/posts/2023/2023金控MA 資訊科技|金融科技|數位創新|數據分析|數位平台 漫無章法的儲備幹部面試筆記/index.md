@@ -1,11 +1,11 @@
 ---
 title: "2023金控MA 資訊科技|金融科技|數位創新|數據分析|數位平台 漫無章法的儲備幹部面試筆記"
 date: 2023-01-11 00:53:00 +0800
-lastmod: 2023-12-29T05:44:00+08:00
+lastmod: 2023-12-29T07:54:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-description: ""
+images: ["posts/2023/2023金控ma-資訊科技金融科技數位創新數據分析數位平台-漫無章法的儲備幹部面試筆記/Career-Vectors.png"]
 featuredimage: Career-Vectors.png
 tags: []
 toc:
