@@ -6,12 +6,13 @@ draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 description: ""
-featuredimage: featured-image.png
+featuredimage: Career-Vectors.png
 tags: []
 toc:
   enable: true
 zhtw: true
 ---
+![Career Vectors](Career-Vectors.png)
 ## 結果
 <p hidden>幾乎所有金控都申請遍了</p>
 在職申請，都是資訊相關組別
@@ -203,6 +204,8 @@ _**以成為數據科學人才為目標，*期建立*<mark>數據智能分析</m
 **中文投影片(含英文摘要：1頁)，限頁數15頁以內**、檔案大小10MB以內。
 
 口頭報告時間約10分鐘，中英文皆可(報告語言現場由主管指定)。
+</div>
+<div hidden>
 ###### 製作
 **Tips: 附上英文的摘要，提出金融市場現況和競業分析、目標客群分析、公司產品優勢，計畫實施方式（含線上/線下）並製圖、成效與結論。[^2021年MA面試錄取分享]**
 </div>
@@ -519,6 +522,7 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
 > **以客戶為中心為理念，數據與平台為工具，提升客戶滿意忠誠，以增加公司持續且永續收益**
 
 - 自我介紹(履歷上沒有的)
+<div hidden>
   1. 學歷工作 （ＣＲＭ系統，數位化等等） 180 rpa chatgpt
   2. maps, kaggle
   3. kaggle expert
@@ -530,7 +534,7 @@ _**『以客戶為中心』導入<mark>分眾經營</mark>模式透過<mark>大�
   工作以外清冠地圖、kaggle api and kaggle mldl achievements
 
   希望能繼續**快速**成長，產出更大的impact
-<div hidden>
+
   <mark>(加入證券客群經營組，直面客戶需求，不管是財管高資產客戶還是一般客戶)</mark>
 
   *(實習過，喜歡正向組織文化)*
@@ -1521,7 +1525,6 @@ What hinder can you think of for the project How would you deal with it
   因應通路數位轉型，規劃全行各項業務作業，導入新興科技技術，推動業務作業流程自動化、透過数據模型分析與應用，驅動整體通路創新與最佳體驗。
 
 <div hidden>
-
 #### 收獲成就對勝任MA的幫助
 *請您分享曾經參與的活動或工作中最大的收獲成就，對您勝任MA的幫助？*
 
@@ -1530,6 +1533,8 @@ What hinder can you think of for the project How would you deal with it
 目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation Feature、Monthly Statement Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
 除了E2E的應用開發外，包含資料抓取、建置、前後端開發，我也為公司其他部門進行了數位化、RPA優化，節省人力、提高工作效率外，各部門也更能將時間投入在增進其核心功能上。這些經驗讓我能夠快速累積技術實力、理解實務金融狀況，同時培養溝通協調能力。學習到如何在沒有比別人高的權力下，展現研究、努力與同理精神，把各部門拉到同一陣線，運用各單位的資源，為公司做出正確的改變。
+</div>
+<div hidden>
 #### SWOT
 *請說明您有何種特質或專業強項適合擔任永豐MA其中的機會與挑戰為何*
 
@@ -1549,13 +1554,14 @@ What hinder can you think of for the project How would you deal with it
 [個人網站與作品]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+</div>
+<div hidden>
 #### 五年規劃
 *未來五年的職涯規劃*
 
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位相關儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在儲備幹部計劃結束後進入永豐銀相關部門工作，例如數位金融產品開發、數據分析、數位平台、人工智能等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
-
 </div>
 
 #### 筆試與團面
@@ -2120,7 +2126,6 @@ I didn't prepare and haven't been speaking in English for quite a while. It was 
 104、官網
 
 <div hidden>
-
 ##### 自傳
 目前在香港最大的EAM/Family Office擔任IT manager，建置資料庫、開發前後端、管理內外部Apps，以及為BU提供RPA方案並交付。在加入1年內開發出新交易及管理程式，取代舊有外包的white label app，替公司節省1年180萬新台幣支出，更將其加入多項產業領先應用，包含Structured Porduct Quotation System、Consolidated Report Generator，獲得中國一線券商洽詢對接。
 
@@ -2144,9 +2149,10 @@ Kaggle All-round Expert: 在開始加入Kaggle競賽的第3個月取得筆記金
 [個人網站與作品]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+</div>
+<div hidden>
 ##### 應徵動機
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
-
 </div>
 
 #### 初試面談
@@ -2213,11 +2219,12 @@ Responsible for offering the best CX (customer experience) by planning of APP, o
 ##### 動機及規劃
 *請說明為什麼您選擇參加本儲備主管計畫的原因及規劃如何快速且超乎期待的勝任該角色。*
 <div hidden>
-
 ###### 個金
 *遠銀個人金融除了傳統個金業務，還運用大數據及機器/深度學習，建置客戶行為預測模型精準行銷、經營自媒體Line、YouTube、FB發展影音行銷培養新生代網紅、設計導客計畫發展創新行銷模式、建構智能理財與e化系統，量身打造以客戶為中心之金融服務，創建金融生態圈。在台灣金融業當中少見直接在’個金’儲備幹部中進行類似工作。*
 
 *將在報到前與公司前幾屆MA、領域同仁取得聯繫，在上崗前裝備應有之武器，能在進入公司當下馬上進入狀況，全效率工作，不浪費任何時間。*
+</div>
+<div hidden>
 ###### 數金
 在現代金融產業，非傳統金融科技新創如雨後春荀般興起，傳統金融公司對於資料數據和科技創新的的掌握至關緊要。而數位金融儲備幹部的計劃目標與自身過去在學知識、工作經驗，以及興趣相符，對我而言是一個很好深入學習與發展的機會。能將在中山財管MBA時期知識以及香港資產管理公司龍頭擔任IT Manager之經驗，應用在公司發揮加倍的影響力，創造更大的價值。
 
@@ -2279,7 +2286,7 @@ This is to gauge your ability to communicate in English in the business environm
 1. Smooth.
 2. Understandable
 3. Understand.
-<div>
+<div hidden>
 Hi, I'm Hsiang. I'm an IT manager in one of the biggest external asset management companies in Hong Kong. My job is to design and develop front-end and back-end interfaces and databases for the relationship manager to manage the account and the high-level team manager to monitor the risks. 
 
 The first year I joined this company, I rolled out a structured product quotation system that saved our company 1.8 M NTD expenses every year. Also, I help other internal departments to digitalize their work, and free them from daily redundant robotic work, aka. RPA.
@@ -2780,8 +2787,8 @@ I hope to leverage my understanding and experience in financial products, market
 </div>
 [Personal Website and Works]
 
--Personal Website: https://hsiang.eu.org/
--GitHub: https://github.com/chienhsiang-hung/
+- Personal Website: https://hsiang.eu.org/
+- GitHub: https://github.com/chienhsiang-hung/
 #### 雲端智慧面試
 *收到此請後的5個工作天內完成面試流程*
 
@@ -2895,6 +2902,8 @@ I hope to leverage my understanding and experience in financial products, market
   (4) ChatGPT 中文版/網頁版 - 最新官方下載點2023. https://www.kelifei.com/chatgpt.html Accessed 29/04/2023.
   (5) 你ChatGPT了嗎？一文看懂應用領域、操作方式是什麼，掌握未來職場新能力－商周頭條｜商周. https://www.businessweekly.com.tw/international/blog/3011255 Accessed 29/04/2023.
   (6) ChatGPT是什麼？GPT-4厲害在哪？跟過去幾代有差嗎？一篇看懂最強AI紅什麼｜數位時代 BusinessNext. https://www.bnext.com.tw/article/73183/chatgpt-202212 Accessed 29/04/2023.
+</div>
+<div hidden>
 ##### Step2
 前往104人力銀行投遞履歷，報名期間至 2023年4月30日 截止
 </div>
@@ -3024,6 +3033,8 @@ I hope to leverage my understanding and experience in financial products, market
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在數位金融儲備菁英計劃結束後進入台新相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 
 > [台新自我介紹](台新自我介紹.txt)不允許以下字元 ( ) ; ' \<>
+</div>
+<div hidden>
 ### 玉山
 - 科技儲備幹部TMA - Fintech
 - 科技儲備幹部TMA - Ai-Big Data
@@ -3033,6 +3044,8 @@ I hope to leverage my understanding and experience in financial products, market
 期許自己能夠善用自己對於金融產品、市場，以及科技的理解及經驗，並在持續變動的環境中快速學習，讓每一次經手的專案或產品價值都能夠大於前次，不斷成長。另外，除了產業、產品，及技術等硬實力外，也要具備優秀且能獨當一面領導團隊共同進步的軟實力。其中我對FinTech特別有興趣，我希望能夠在科技儲備幹部計劃結束後進入玉山相關部門工作，例如數位金融產品開發、數據分析、平台創新等領域。相信自己能帶領專案，產出能商轉或是為公司帶來巨大利益的產品，為公司的數位轉型和發展做出貢獻。此外也希望自己能成為在這個領域的指標人物，樹立榜樣，為大家帶來正面影響。
 
 (提交履歷的時候沒檢查，結果台新複製過去的資料沒改到，上面還寫著*希望能夠在數位金融儲備菁英計劃結束後進入**台新**相關部門工作*:sweat_smile:)
+</div>
+<div hidden>
 ### 一銀
 #### 自傳
 在中山大學攻讀財管碩士時，參加各大商業競賽並取得獎項，累積金融業實習經驗，也參加政府新南向至菲律賓實習，累積國際經驗，包含俄羅斯暑期學程與瑞典交換。
@@ -3049,6 +3062,8 @@ I hope to leverage my understanding and experience in financial products, market
 [個人網站與作品]
 - Personal Website: https://hsiang.eu.org/
 - GitHub: https://github.com/chienhsiang-hung/
+</div>
+<div hidden>
 ## 問題
 ### 自我描述與經驗
 #### 自傳與家庭成長背景
