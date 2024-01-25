@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/set-up-a-universal-cloud-virtual-machine-to-build-your-hugo-site/allow-cors.png"]
 featuredimage: allow-cors.png
-tags: []
+tags: ["Hugo", "Stackblitz", "Virtual Machine", "Cloud Ide", "Github Codespaces"]
 toc:
   enable: true
 lightgallery: true
