@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/台灣金融同業科技現況-以國泰中信為例/金融資訊科技趨勢.png"]
 featuredimage: 金融資訊科技趨勢.png
-tags: []
+tags: ["金融", "金融科技", "國泰", "中信"]
 toc:
   enable: true
 zhtw: true
