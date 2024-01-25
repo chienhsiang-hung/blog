@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/台灣金融業IT職涯與雲端人才需求/個人貢獻者若不帶團隊職涯升等存在瓶頸.png"]
 featuredimage: 個人貢獻者若不帶團隊職涯升等存在瓶頸.png
-tags: []
+tags: ["金融業", "金融", "台灣", "金融科技", "金融業上雲"]
 toc:
   enable: true
 zhtw: true
