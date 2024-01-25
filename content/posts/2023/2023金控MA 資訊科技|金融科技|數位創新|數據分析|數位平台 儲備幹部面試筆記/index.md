@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2023/2023金控ma-資訊科技金融科技數位創新數據分析數位平台-儲備幹部面試筆記/Career-Vectors.png"]
 featuredimage: Career-Vectors.png
-tags: []
+tags: ["富邦ma", "永豐ma", "金融科技ma", "金融業ma", "金融業儲備幹部ma"]
 toc:
   enable: true
 zhtw: true
