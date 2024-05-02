@@ -15,3 +15,14 @@
 
 3. `npm run postinstall` to install Hugo
 4. `bin/hugo/hugo server` to run **hugo server**
+### Error Handle
+`failed to extract shortcode: template for shortcode "admonition" not found`
+
+[Failed to Extract Shortcode:template for Shortcode Admonition Not Found](https://cloud.tencent.com/developer/article/2171926)
+```cmd
+1、下载安装hugo_extended版本
+
+2、初始化submodule
+
+git submodule update --init --recursive
+```
