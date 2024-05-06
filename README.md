@@ -1,3 +1,6 @@
+## Theme
+[LoveIt Theme | Hugo](https://github.com/dillonzq/LoveIt)
+
 ## Codespaces Usage
 1. install **hugo-installer**
 
