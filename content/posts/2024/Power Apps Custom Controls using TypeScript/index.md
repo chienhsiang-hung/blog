@@ -1,7 +1,7 @@
 ---
 title: "Power Apps Custom Controls using TypeScript"
 date: 2024-05-13T16:07:00+08:00
-lastmod: 2024-05-13T16:11:00+08:00
+lastmod: 2024-05-13T16:22:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -73,7 +73,24 @@ To add code components to an app, you need to enable the Power Apps component fr
     mkdir Solutions
     cd Solutions
     ```
-2. In GitHub Codespace you need to change `pac solution add-reference --path ..\..\` to `pac solution add-reference --path ../../` for GitHub Codespace `bash`.
+2. `pac solution init --publisher-name Samples --publisher-prefix samples`
+
+    The  [publisher-name](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/solution#--publisher-name--pn)  and  [publisher-prefix](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/solution#--publisher-prefix--pp)  values must be the same as either an existing solution publisher, or a new one that you want to create in your target environment.
+
+    You can retrieve a list of current values using this query on your target environment:
+
+    `[Environment URI]/api/data/v9.2/publishers?`
+
+    `$select=uniquename,customizationprefix`
+
+    - For `Environment URI`, you can find it here:
+
+      [Environments | Power Platform admin center (microsoft.com)](https://admin.powerplatform.microsoft.com/environments/)
+
+      Click on the Env you would like to choose an check the top left corner of the Details.
+
+      ![Environment URI](EnvironmentURI.png "Environment URI")
+3. In GitHub Codespace you need to change `pac solution add-reference --path ..\..\` to `pac solution add-reference --path ../../` for GitHub Codespace `bash`.
 
 ## Open Issue
 - [LinearInputControl rendered differently on watch and canvas app · Issue #585 · microsoft/PowerApps-Samples (github.com)](https://github.com/microsoft/PowerApps-Samples/issues/585)
