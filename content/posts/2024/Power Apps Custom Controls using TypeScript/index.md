@@ -1,13 +1,13 @@
 ---
 title: "Power Apps Custom Controls using TypeScript"
-date: 2024-05-02T09:09:00+08:00
-lastmod: 2024-05-02T09:09:00+08:00
+date: 2024-05-13T16:07:00+08:00
+lastmod: 2024-05-13T16:07:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
-images: ["posts/2024/how-to-manually-make-log.txt-in-power-automate-to-trace-log-in-a-flow/test-logging.png"]
-featuredimage: test-logging.png
-tags: ["Power Automate"]
+images: ["posts/2024/power-apps-custom-controls-using-typescript/Extentions.png"]
+featuredimage: Extentions.png
+tags: ["Power Automate", "Powerplatform", "Powerapps"]
 toc:
   enable: true
 lightgallery: true
@@ -50,5 +50,29 @@ To add code components to an app, you need to enable the Power Apps component fr
 - XML Tools
   -   **`xmlTools.splitAttributesOnFormat`:**  Put each attribute on a new line when formatting XML. Overrides  `xmlTools.splitXmlnsOnFormat`  if set to  `true`. (V2 Formatter Only)
 
+## Build your code components
+`npm run build` shown `error  'EventListenerOrEventListenerObject' is not defined  no-undef`
+### Two Solutions
+1. [PowerAppsCodeComponents/LinearInput at main · chienhsiang-hung/PowerAppsCodeComponents (github.com)](https://github.com/chienhsiang-hung/PowerAppsCodeComponents/tree/main/LinearInput)
+2. [Create your first component using Power Apps Component Framework in Microsoft Dataverse - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript?tabs=after#build-your-code-components)
+    
+    open `.eslintrc.json` and edit the rules to add a `["warn"]` value for the rule `no-undef`:
+    ```json
+    "rules": {
+      "no-unused-vars": "off",
+      "no-undef": ["warn"]
+    }
+    ```
 
-  ![alt text](image.png)
+## Packaging your code components
+### Notes
+1. Create a new folder named Solutions **inside the LinearInputControl** folder and navigate into the folder.
+
+    ```bash
+    mkdir Solutions
+    cd Solutions
+    ```
+2. In GitHub Codespace you need to change `pac solution add-reference --path ..\..\` to `pac solution add-reference --path ../../` for GitHub Codespace `bash`.
+
+## Open Issue
+- [LinearInputControl rendered differently on watch and canvas app · Issue #585 · microsoft/PowerApps-Samples (github.com)](https://github.com/microsoft/PowerApps-Samples/issues/585)
