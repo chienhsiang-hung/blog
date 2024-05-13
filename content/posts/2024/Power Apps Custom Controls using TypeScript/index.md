@@ -1,7 +1,7 @@
 ---
 title: "Power Apps Custom Controls using TypeScript"
 date: 2024-05-13T16:07:00+08:00
-lastmod: 2024-05-13T16:07:00+08:00
+lastmod: 2024-05-13T16:11:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -53,8 +53,8 @@ To add code components to an app, you need to enable the Power Apps component fr
 ## Build your code components
 `npm run build` shown `error  'EventListenerOrEventListenerObject' is not defined  no-undef`
 ### Two Solutions
-1. [PowerAppsCodeComponents/LinearInput at main · chienhsiang-hung/PowerAppsCodeComponents (github.com)](https://github.com/chienhsiang-hung/PowerAppsCodeComponents/tree/main/LinearInput)
-2. [Create your first component using Power Apps Component Framework in Microsoft Dataverse - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript?tabs=after#build-your-code-components)
+1. [PowerAppsCodeComponents/LinearInput at main · chienhsiang-hung/PowerAppsCodeComponents (github.com)](https://github.com/chienhsiang-hung/PowerAppsCodeComponents/tree/main/LinearInput) *(this would result in error loading in debug mode)*
+2. [Create your first component using Power Apps Component Framework in Microsoft Dataverse - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript?tabs=after#build-your-code-components) **(Better!)**
     
     open `.eslintrc.json` and edit the rules to add a `["warn"]` value for the rule `no-undef`:
     ```json
@@ -63,6 +63,7 @@ To add code components to an app, you need to enable the Power Apps component fr
       "no-undef": ["warn"]
     }
     ```
+    ![Adjust .eslintrc.json](adjust-eslintrc.png "Adjust .eslintrc.json")
 
 ## Packaging your code components
 ### Notes
