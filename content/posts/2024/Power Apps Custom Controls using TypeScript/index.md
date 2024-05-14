@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2024/power-apps-custom-controls-using-typescript/Extentions.png"]
 featuredimage: Extentions.png
-tags: ["Power Automate", "Powerplatform", "Powerapps"]
+tags: ["Power Automate", "Powerplatform", "Powerapps", "Power Apps Developer", "Typescript"]
 toc:
   enable: true
 lightgallery: true
