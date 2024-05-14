@@ -1,7 +1,7 @@
 ---
 title: "Power Apps Custom Controls using TypeScript"
 date: 2024-05-13T16:07:00+08:00
-lastmod: 2024-05-13T16:22:00+08:00
+lastmod: 2024-05-14T04:32:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -94,3 +94,11 @@ To add code components to an app, you need to enable the Power Apps component fr
 
 ## Open Issue
 - [LinearInputControl rendered differently on watch and canvas app · Issue #585 · microsoft/PowerApps-Samples (github.com)](https://github.com/microsoft/PowerApps-Samples/issues/585)
+
+When I run `npm start watch` it rendered successfully as shown.
+![image](https://github.com/microsoft/PowerApps-Samples/assets/77676044/d383ed94-6df1-40f5-bd8d-40e5986eea0b "npm start watch")
+
+But when I imported it into my canvas app it seemed to miss the dragable bar and some properties.
+![image](https://github.com/microsoft/PowerApps-Samples/assets/77676044/ed47c63f-3740-46ed-92ba-0dc3bd079408 "seemed to miss the dragable bar")
+
+seems the watch env is different with the dev env @@
