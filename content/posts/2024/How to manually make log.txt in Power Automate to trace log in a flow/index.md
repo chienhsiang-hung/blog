@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
 images: ["posts/2024/how-to-manually-make-log.txt-in-power-automate-to-trace-log-in-a-flow/test-logging.png"]
 featuredimage: test-logging.png
-tags: ["Power Automate"]
+tags: ["Power Automate", "Logging", "Debugging", "Flow"]
 toc:
   enable: true
 lightgallery: true
