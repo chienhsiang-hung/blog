@@ -1,7 +1,7 @@
 ---
 title: "2024 IELTS Preparation"
-date: 2024-05-06T06:53:00+08:00
-lastmod: 2024-05-06T06:53:00+08:00
+date: 2024-05-27T09:25:00+08:00
+lastmod: 2024-05-27T09:25:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://chienhsiang-hung.github.io/"
@@ -52,3 +52,17 @@ The general format for writing academic writing task 1 is as follows:
 1. The diagram shows employment rates among adults in four European countries from 1925 to 1985.
 2. The given pie chart represent the proportion of male and female employees in 6 broad categories, dividing into manual and non manual occupations in Australia, between 2010 and 2015.
 3. The chart gives information about consumer expenditures on six products in four countries namely Germany, Italy, Britain, and France.
+
+## Linking Words
+Transition Words & Phrases
+![Transition Words & Phrases.](https://library.stlawu.edu/sites/default/files/2021-07/linking-words_Page_1.png "Transition Words & Phrases.")
+![Transition Words & Phrases.](https://library.stlawu.edu/sites/default/files/2021-07/linking-words_Page_2.png "Transition Words & Phrases.")
+|| Words | Examples |
+|-|-|-|
+|Adding Information|**not to mention**|She has extensive experience in marketing, **not to mention** her proven track record in sales.|
+|Adding Information|**in addition**|She can play the guiter, **in addition** to the piano and drums.|
+|Adding Information|**furthermore**|The report is due next week, **furthermore**, we need to ensure all data is accurate.|
+|Adding Information|**besides**|I don't want to go out tonight; **besides**, I have to wake up early tomorrow.|
+|Contrasting Information|**other than that**|The trip was fantastic; **other than that**, the hotel was not very comfortable.|
+|Contrasting Information|**on the other hand**|I wanted to go to the beach, **on the other hand**, the weather was not favorable.|
+|Cause and Effect|**as a result**|The company failed to innovate, **as a result**, it lost its competitive edge.|
