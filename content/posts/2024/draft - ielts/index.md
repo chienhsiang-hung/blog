@@ -104,8 +104,6 @@ In general people tend to hate or being not satisfied with what they have posses
 As a person who grew up in a big city but periodically lived in the countryside during holidays, I would say that having a hybrid environment to grow up in is better. The reason behind this idea is that what is good for one is decided by one who has experienced the choices one has.
 
 In general, people tend to be dissatisfied with what they have. Growing up in the same environment would leave one with not enough angles to see things differently. For example, many of my college mates grew up in a big city and couldn’t get the chance to know how it feels like to be able to get off from school early and play in the field with friends for the rest of the day. Conversely, children who grow up in the countryside might lose the chance to receive better education or state-of-the-art teaching materials, thus causing them to have insufficient skills or knowledge to compete with children from a city. Although it’s worth noting that everyone has different purposes to pursue in their life. Thus, it brings back to what I claimed for this topic. The hybrid growing up environment could give children the ability to choose what they want.
-## Essay compare
-[Environments | Power Platform admin center (microsoft.com)](https://admin.powerplatform.microsoft.com/environments/)
 ## Copilot’s answer
 Some people believe that it is better for children to grow up in the countryside than in a big city. While both environments have their advantages and disadvantages, I believe that a combination of both could provide the most well-rounded upbringing for children.
 
