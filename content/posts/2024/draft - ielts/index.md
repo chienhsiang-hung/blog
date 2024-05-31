@@ -69,7 +69,7 @@ Transition Words & Phrases
 
 ## Writing Samples
 ### Task 1
-{{< admonition type=note title="20240529" open=true >}}
+{{< admonition type=quote title="20240529" open=true >}}
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri",sans-serif;'>Part 1</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri",sans-serif;'>you could write a letter to a friend who has agreed to look after your house and pet while you are on holiday. In your letter, you should</p>
 <ol style="list-style-type: decimal;">
