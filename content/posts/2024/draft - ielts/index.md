@@ -34,7 +34,19 @@ hiddenFromSearch: true
   
   Types of question
   - Multiple choice
-- Listening: 4 sections making a total of 40 questions in 30 minutes.
+
+- Listening[^IELTS-Listening-Format]:
+  - The IELTS Listening test lasts for apporximately 30 minutes.
+  - it consists of four sections and each of these section contains 10 questions, making a total of 40 questions.
+  - Each section has a different type of audio recording that includes various conversations, monologues, and discussions in various English accents. You'll hear each recording only once.
+  - The recording are organized in ascending order of difficulty.
+  - You will have time to read questions before the recordings begin and to check your answers afterward.
+  - The format and scoring of [IELTS Academic](https://ieltsmaterial.com/ielts-academic/) Listening and [IELTS General](https://ieltsmaterial.com/ielts-general-training/) Listening are the same.
+
+  ![Breakdown of the Sections of the IELTS Listening Exam](https://ieltsmaterial.com/wp-content/uploads/2024/05/Breakdown-of-the-Sections-of-IELTS-Listening.jpg "Breakdown of the Sections of the IELTS Listening Exam")
+
+[^IELTS-Listening-Format]: [IELTS Listening Exam - Format, Question Types & Tips (ieltsmaterial.com)](https://ieltsmaterial.com/listening/)
+
 
 ...
 
