@@ -34,6 +34,7 @@ hiddenFromSearch: true
   
   Types of question
   - Multiple choice
+- Listening: 4 sections making a total of 40 questions in 30 minutes.
 
 ...
 
