@@ -1,19 +1,18 @@
 ---
 title: "IELTS Preparation Notes"
-date: 2024-05-27T09:25:00+08:00
-lastmod: 2024-05-27T09:25:00+08:00
+date: 2024-06-07T02:44:00+08:00
+lastmod: 2024-06-07T02:44:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
-images: ["posts/2023/power-platform-and-cloud-azure-aws-handover-to-another-employee/organization-root-users.png"]
-featuredimage: organization-root-users.png
-tags: []
+images: ["posts/2024/ielts-preparation-notes/image.png"]
+featuredimage: image.png
+tags: ["Ielts", "Ielts Preparation", "Ielts Essay"]
 toc:
   enable: true
 lightgallery: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
 ---
+![alt text](image.png)
 ## Preparation Sections
 *6 Best Free Apps for IELTS[^6BestFreeAppsforIELTS]*
 - Vocabulary: Vocabulary Flashcards - IELTS
