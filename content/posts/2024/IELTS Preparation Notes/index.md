@@ -1,5 +1,5 @@
 ---
-title: "2024 IELTS Preparation"
+title: "IELTS Preparation Notes"
 date: 2024-05-27T09:25:00+08:00
 lastmod: 2024-05-27T09:25:00+08:00
 draft: false
