@@ -1,7 +1,7 @@
 ---
 title: "Force OneDrive to sync"
-date: 2024-08-29T0809:00+08:00
-lastmod: 2024-08-29T0809:00+08:00
+date: 2024-08-29T08:10:00+08:00
+lastmod: 2024-08-29T08:10:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
