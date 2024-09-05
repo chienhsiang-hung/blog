@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/git-clone-fatal-authentication-failed/新增一般認證.png"]
 featuredimage: 新增一般認證.png
-tags: []
+tags: ["Git", "Tls Certificate", "Authentication", "Credentials", "Credential Manager"]
 toc:
   enable: true
 lightgallery: true
