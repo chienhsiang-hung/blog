@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/force-onedrive-to-sync/pause-start.png"]
 featuredimage: pause-start.png
-tags: []
+tags: ["Onedrive", "Sync", "Microsoft", "Cloud", "Cloud Storage"]
 toc:
   enable: true
 lightgallery: true
