@@ -1,7 +1,7 @@
 ---
 title: "ERROR: Could not find a version that satisfies the requirement from pip install"
 date: 2024-10-23T01:42:00+08:00
-lastmod: 2024-10-23T01:42:00+08:00
+lastmod: 2024-10-23T01:55:00+08:00
 draft: false
 author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
@@ -18,7 +18,7 @@ zhtw: true
 這個錯誤訊息`ERROR: Could not find a version that satisfies the requirement from pip install`可能有多種原因。以下是一些常見的原因和解決方法：
 1. 安裝需求檔案時未添加 -r 選項：當你從 requirements.txt 檔案安裝套件時，需要指定 -r 或 --requirement 選項，否則 Python 會認為你在嘗試安裝名為 requirements.txt 的套件。
 2. 拼寫錯誤：你可能拼錯了套件名稱，導致找不到相應的版本。請確保你輸入的套件名稱與 PyPI 上的名稱完全一致。
-3. 不支援的作業系統：某些套件可能不支援你的作業系統。例如，TensorFlow 不支援 Apple Silicon 芯片1。
+3. 不支援的作業系統：某些套件可能不支援你的作業系統。例如，TensorFlow 不支援 Apple Silicon 芯片。
 4. 過時的 pip 版本：你的 pip 版本可能過舊，無法找到相應的套件版本。請嘗試升級 pip2/pip3。
 5. 不支援的 Python 版本：某些套件可能不支援你使用的 Python 版本。請確認你的 Python 版本是否在套件的支援範圍內。
 
