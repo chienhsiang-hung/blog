@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/24-25雪季自駕滑雪行程-含五天滑雪-富士山-outlet-兩天迪士尼-second-street/Susann-Schuster-on-Unsplash.jpeg"]
 featuredimage: Susann-Schuster-on-Unsplash.jpeg
-tags: []
+tags: ["日本自駕", "滑雪", "富士山", "東京迪士尼"]
 toc:
   enable: true
 lightgallery: true

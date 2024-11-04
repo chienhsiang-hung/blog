@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/error-could-not-find-a-version-that-satisfies-the-requirement-from-pip-install/SSLError.png"]
 featuredimage: SSLError.png
-tags: []
+tags: ["Pip Install", "Ssl Error", "Pypi", "Python", "Pip"]
 toc:
   enable: true
 lightgallery: true
