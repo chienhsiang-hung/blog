@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/securityerror-failed-to-construct-websocket/javascript-SecurityError-Failedtoconstruct-WebSocket-when-deploying-a-react-app.png"]
 featuredimage: javascript-SecurityError-Failedtoconstruct-WebSocket-when-deploying-a-react-app.png
-tags: []
+tags: ["Websocket", "Reactjs", "Npm Run Build", "Https", "Wss"]
 toc:
   enable: true
 lightgallery: true
