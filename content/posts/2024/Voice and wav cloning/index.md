@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/voice-and-wav-cloning/ai-portrait-by-Мелия.png"]
 featuredimage: ai-portrait-by-Мелия.png
-tags: []
+tags: ["Text To Speech", "Image Animation", "Lip Sync", "Text to Video", "Text To Video Ai"]
 toc:
   enable: true
 lightgallery: true
