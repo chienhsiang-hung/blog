@@ -12,8 +12,8 @@ toc:
   enable: true
 lightgallery: true
 ---
-## JD
-### Power Platform Consultant
+## Power Platform Consultant
+### JD
 #### Required Experience
 - 5+ years of leading digital transformation initiatives using low-code/no-code solutions.
 - 5+ years of experience working in operational organization or supporting various operational functions, ensuring efficiency and alignment with business goals.
@@ -26,6 +26,12 @@ lightgallery: true
 - Familiarity with Microsoft Entra, Purview, and security products to ensure Power Platform solutions are compliant, secure, and scalable within enterprise environments.
 - Experience integrating Power Platform solutions with Azure services (e.g., Azure Logic Apps, Azure API Management, Azure Functions) to build enterprise-grade solutions.
 - Knowledge of security best practices within the Power Platform ecosystem
+
+### Desired Traits
+- proactive
+- willing to challenge myself and learn
+- good communicator
+- multiple tools understanding and fast learner
 
 ## Preparation
 ### Self-intro
