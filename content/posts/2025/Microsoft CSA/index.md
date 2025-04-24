@@ -76,3 +76,28 @@ lightgallery: true
 
     <b>structured product quotation system (quote for the prce)</b>
 8. What are some security best practices you follow within the Power Platform ecosystem?
+
+    <b>Implementing role-based access control; using data encryption - TDE (Transparent Data Encryption)...</b>
+
+#### Technicals
+1. How do you integrate Power Apps with Dataverse to manage data effectively?
+
+    <b>leveragin dataverse role-based access control, data validation rules and utilize dataverse data delegation</b>
+2. Can you describe a scenario where you used Power Automate to automate a business process?
+
+    <b>stock trading rules</b>
+3. How do you ensure data security when using Azure SQL and Blobs for storage?
+4. How have you utilized Azure Functions to enhance the capabilities of Power Platform solutions?
+5. Can you explain how AI Foundry and Copilot Studio can be used to build intelligent applications?
+6. How do you troubleshoot and optimize Power Automate flows?
+
+    <b>built-in flow checker, monitor flow performance, error handling and retry polices (use flow to monitor flow)</b>
+7. How do you create custom controls in Power Apps to enhance user experience?
+
+    <b>
+    creating custom controls using PCF (PowerApps Component Framework) to visualize complex data using chart and graphs.
+
+    the custom controls were built using `typescript`.
+    </b>
+8. Can you explain the concept of delegation in Power Apps and how it impacts performance?
+##### Guessing
