@@ -1,0 +1,78 @@
+---
+title: "Microsoft CSA"
+date: 2025-04-24T04:00:00+08:00
+lastmod: 2025-04-24T04:00:00+08:00
+draft: false
+author: "Hsiang"
+authorLink: "https://hsiang.eu.org/"
+images: ["posts/2024/typescript-and-vue/type-warning.png"]
+featuredimage: type-warning.png
+tags: []
+toc:
+  enable: true
+lightgallery: true
+---
+## JD
+### Power Platform Consultant
+#### Required Experience
+- 5+ years of leading digital transformation initiatives using low-code/no-code solutions.
+- 5+ years of experience working in operational organization or supporting various operational functions, ensuring efficiency and alignment with business goals.
+#### Required Qualifications:
+- Experience with low-code/no-code platforms (e.g., Microsoft Power Platform)
+- Familiarity with integration between low-code platforms and other enterprise systems (e.g., CRM, ERP) is a plus.
+- Strong understanding of business process automation and workflow optimization.
+- Effective communication and stakeholder management skills.
+- Technical knowledge of Power Platform extensibility into pro-code solutions such as PowerApps Framework Controls and Application Lifecycle Management.
+- Familiarity with Microsoft Entra, Purview, and security products to ensure Power Platform solutions are compliant, secure, and scalable within enterprise environments.
+- Experience integrating Power Platform solutions with Azure services (e.g., Azure Logic Apps, Azure API Management, Azure Functions) to build enterprise-grade solutions.
+- Knowledge of security best practices within the Power Platform ecosystem
+
+## Preparation
+### Self-intro
+### Questions
+1. Can you describe a digital transformation initiative you led using low-code/no-code solutions?
+
+    <b>
+    In my previous company...
+    
+    I am currently leading the lectures design and teaching at Aiworks for Power Automate.
+
+    In my current company, I lead a digital transformation initiative. Because the progress of the larger company to adopt...
+    </b>
+2. How have you ensured efficiency and alignment with business goals in your previous roles?
+
+    <b>always rmb to check the cost (for dev and maintenance) and the benefit</b>
+3. What experience do you have with integrating low-code platforms with CRM or ERP systems?
+    
+    <b>
+    copilot studio -> power automate -> (ground truth searching) KM api (top 5)
+
+    approval system... (writing logs back to old system, 2 ways work)
+    </b>
+4. How do you approach business process automation and workflow optimization?
+
+    <b>
+    identify bottlenecks and inefficiencies
+
+    (meeting room booking system? re-build all? integrating w/ the new resources)
+
+    (get outlook information and wrapped as api by power automate)
+
+    (cancel meeting and cancel meeting room)
+    </b>
+5. Can you discuss your technical knowledge of PowerApps Framework Controls and Application Lifecycle Management?
+
+    <b>
+    (PCF) power apps component framework: I've reated custom controls to visualize complex data using charts and graphs
+    
+    the custom controls were built using `typescript`
+
+    (ALM) haven't got into that...
+    </b>
+6. How have you ensured compliance, security, and scalability within enterprise environments using Microsoft Entra, Purview, and other security products?
+
+    <b>Purbiews ediscovery / retention policy / auditlog to track the usage</b>
+7. What experience do you have with integrating Power Platform solutions with Azure services like Azure Logic Apps, Azure API Management, and Azure Functions?
+
+    <b>structured product quotation system (quote for the prce)</b>
+8. What are some security best practices you follow within the Power Platform ecosystem?
