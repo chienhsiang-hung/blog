@@ -100,4 +100,19 @@ lightgallery: true
     the custom controls were built using `typescript`.
     </b>
 8. Can you explain the concept of delegation in Power Apps and how it impacts performance?
+
+    <b>
+    means offloading data processing to the data source rather than handling it within the app (device's RAM). it's crucial for performance when dealing with large datasets.
+
+    delegation tables check:
+    - https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/connection-common-data-service#power-apps-delegable-functions-and-operations-for-dataverse
+    - https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/connection-sharepoint-online#power-apps-delegable-functions-and-operations-for-sharepoint
+    - https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/sql-connection-overview#power-apps-functions-and-operations-delegable-to-sql-server
+    </b>
+9. How do you handle non-delegable queries in Power Apps?
+
+    <b>views in dataverse / or duplicated sharepoint in combined w/ playing with collections</b>
+10. Can you describe a scenario where you used Power Apps custom controls and delegation together?
+
+    <b>there is this app I implemented custom control that will display groups photos and groups meta data interactively. I use dataverse to handle delegation group data. this provided a rich user experience, handling large dataset smoothly, shift the workload from front end back to server side</b>
 ##### Guessing
