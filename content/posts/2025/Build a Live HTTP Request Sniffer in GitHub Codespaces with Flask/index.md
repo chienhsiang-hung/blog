@@ -7,7 +7,7 @@ author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2025/build-a-live-http-request-sniffer-in-github-codespaces-with-flask/image.png"]
 featuredimage: image.png
-tags: []
+tags: ["Flask", "GitHub Codespaces", "API Testing", "Web Development", "Developer Tools"]
 toc:
   enable: true
 lightgallery: true
