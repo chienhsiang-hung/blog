@@ -1,8 +1,8 @@
 ---
-title: "TypeScript and Vue"
-date: 2024-12-26T00:00:00+08:00
-lastmod: 2024-12-26T00:00:00+08:00
-draft: false
+title: "向量資料庫的原理 - 從基礎向量與三角函數認識向量資料庫存在的意義"
+date: 2025-03-17T00:00:00+08:00
+lastmod: 2025-03-17T00:00:00+08:00
+draft: true
 author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/typescript-and-vue/type-warning.png"]

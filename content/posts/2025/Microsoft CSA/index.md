@@ -2,7 +2,7 @@
 title: "Microsoft CSA"
 date: 2025-04-24T04:00:00+08:00
 lastmod: 2025-04-24T04:00:00+08:00
-draft: false
+draft: true
 author: "Hsiang"
 authorLink: "https://hsiang.eu.org/"
 images: ["posts/2024/typescript-and-vue/type-warning.png"]
